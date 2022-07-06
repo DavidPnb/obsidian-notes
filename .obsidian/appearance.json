@@ -1,0 +1,8 @@
+{
+  "baseFontSize": 18,
+  "cssTheme": "Obsidianite",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "supercharged-links-gen"
+  ]
+}

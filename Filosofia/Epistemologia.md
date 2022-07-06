@@ -1,0 +1,25 @@
+---
+alias: [Teoria del Conocimiento]
+status:
+references:
+created: 2022-04-23 14:14
+---
+tags:: #on/philosophy 
+up:: [[Filosofia MOC]]
+# Epistemologia
+La epistemologia es la rama de la [[Filosofia MOC]] que estudia el conocimiento. Se ocupa de la definicion del saber y de los conceptos relacionados, de las fuentes, los criterios, los tipos de conocimiento posible y el grado con el que cada uno resulta cierto; asi como la relacion exacta entre el que conoce y el objeto conocido.
+
+## Principios
+### El Conocimiento
+[[Conocimiento]]
+
+## Partes de la Epistemologia
+- [[Filosofia del Lenguaje]]
+
+## Interrogantes
+- La posibilidad del conocimiento humano
+- El origen del conocimiento
+- La esencia del conocimiento humano
+- Las formas de conocimiento humano
+- [[Verdad|El criterio de verdad]]
+___

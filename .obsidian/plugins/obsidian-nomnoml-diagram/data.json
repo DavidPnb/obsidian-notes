@@ -1,0 +1,20 @@
+{
+  "#arrowSize": "",
+  "#bendSize": "",
+  "#direction": "down",
+  "#gutter": "",
+  "#edgeMargin": "",
+  "#gravity": "0",
+  "#edges": "rounded",
+  "#background": "#ffffff",
+  "#fill": "",
+  "#fillArrows": true,
+  "#font": "",
+  "#fontSize": "",
+  "#leading": "",
+  "#lineWidth": "",
+  "#padding": "",
+  "#spacing": "",
+  "#stroke": "",
+  "#ranker": "network-simplex"
+}

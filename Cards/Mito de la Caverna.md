@@ -1,0 +1,8 @@
+tags:: #note/develop🍃  #on/philosophy 
+up:: [[Filosofia MOC]]
+# Mito de la Caverna
+> La alegoría de la caverna, también conocida como el **mito de la caverna** —aunque en realidad solamente es una alegoría de intenciones pedagógico-filosóficas, no un mito pues no aparece reflejado como tal en los escritos de Platón ni en ninguna otra obra antigua (ni siquiera entre los mitógrafos)—, se considera la alegoría más célebre de la historia de la filosofía junto con la del carro alado. Su importancia se debe tanto a la utilidad de la narración para explicar los aspectos más importantes del pensamiento platónico como a la riqueza de sus sugerencias filosóficas.
+>
+> Se trata de una explicación metafórica, realizada por el filósofo griego Platón al principio del VII libro de la República, sobre la situación en que se encuentra el ser humano respecto del conocimiento. En ella, Platón explica su teoría de cómo se puede captar la existencia de los dos mundos: el mundo sensible (conocido a través de los sentidos) y el mundo inteligible (que es materia de puro conocimiento, sin intervención de los sentidos).
+
+Con esta alegoria Platon usa a los prisioneros como una analogia a la propia humanidad, afirmando que somos incapaces de percibir la realidad verdadera y que el mundo fisico es solo una proyeccion o sombra del mundo de las ideas. Tambien hace alusion al filosofo como el prisionero que escapa de la caverna para encontrarse con una realidad superior.

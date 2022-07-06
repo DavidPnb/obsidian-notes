@@ -1,0 +1,17 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./attachments",
+  "foldIndent": true,
+  "foldHeading": true,
+  "showUnsupportedFiles": true,
+  "legacyEditor": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "strictLineBreaks": true,
+  "promptDelete": true,
+  "newFileLocation": "current"
+}

@@ -1,0 +1,108 @@
+---
+alias: ["Matematicas"]
+status:
+references:
+created: 2022-02-08 20:41
+---
+tags:: #atlas/MOC🗺 
+up:: [[+ Index for Atlases (Kit)]]
+Links: 
+# Matematicas MOC
+## Principios
+1. [[Logica Matematica]]
+2. [[Teoria de Conjuntos]]
+
+## Matematica Pura
+1. [[Algebra]]
+2. [[Calculo]]
+3. [[Teoria de los Numeros]]
+4. [[Combinatoria]]
+5. [[Teoria de Grupos]]
+6. [[Teoria de Orden]]
+7. [[Geometria]]
+8. [[Trigonometria]]
+9. [[Topologia]]
+
+## Aplicaciones
+1. [[Quimica]]
+2. [[Fisica]]
+3. [[IT MOC|Informatica]]
+4. [[Estadistica]]
+5. [[Probabilidad]]
+6. [[Finanzas]]
+7. [[Optimizacion]]
+8. [[Ciencias de la Computacion MOC|Computacion]]
+
+## Recursos
+### Libros
+- Matematica Discreta
+	- Discrete Mathematics with Applications by Susanna Epp
+	- Discrete Mathematical Structures by Kolman, Busby, and Ross
+- Pruebas Matematicas
+	- Mathematical Proofs: A Transition to Advanced Mathematics by Chartrand, Polimeni, and Zhang
+	- An Introduction to Abstract Mathematics by Bond and Keane
+- Algebra y PreCalculo
+	- AGS Pre-Algebra
+	- Fearon's Pre-Algebra
+	- College Algebra by Kaufmann
+	- College Algebra by Blitzer
+	- A Graphical Approach to Algebra and Trigonometry by Hornsby, Lial, and Rockswold
+	- Algebra by Artin
+	- Algebra de Baldor
+- Calculo
+	- Calculus by James Stewart
+	- Calculus by Michael Spivak
+	- Calculus Made Easy by Thompson
+- Ecuaciones Diferenciales
+	- A First Course in Differential Equations by Zill
+	- Ordinary Differential Equations with Applications by Andrews
+- Algebra Lineal
+	- Elementary Linear Algebra by Howard Anton
+	- Linear Algebra by Friedgber, Insel, and Spence
+	- Linear Algebra by Lang
+	- Linear Algebra by Hoffman and Kunze
+	- Schaum's Linear Algebra
+	- Linear Algebra by Strang
+- Estadistica y Probabilidad
+	- Mathematical Statistics by Wackerly, Mendenhall, and Scheaffer
+	- A First Course in Probability by Ross
+- Analisis Complejo
+	- Fundamentals of Complex Analysis by Saff and Snider
+	- Complex Variables and Applications by Brown and Churchill
+- Analisis Real
+	- Analysis 1 and Analysis 2 by Terrance Tao
+	- Advanced Calculus by Fitzpatrick
+	- Principles of Mathematical Analysis by Rudin
+	- Elements of Analysis by Ross
+	- Real Analysis by Royden
+	- Real and Complex Analysis by Rudin
+- Algebra Abstracta
+	- Abstract Algebra by Saracino
+	- Contemporary Abstract Algebra by Gallian
+- Topologia
+	- Introduction to Topology by Gamelin and Greene
+- Combinatoria
+	- Applied Combinatorics by Tucker
+- Teoria de Conjuntos
+	- Naive Set Theory by Halmos
+- Analisis Funcional
+	- Functional Analysis by Kreyszig
+- Teoria de Grafos
+	- Graph Theory by Gould
+- Geometria
+	- Geometry by Jurgensen
+- Fisica
+	- Six Easy Pieces by Richard P. Feynman
+	- Six Not-So-Easy Pieces by Richard P. Feynman
+	- Physics of the Impossible by Michio Kachu
+	- Quantum by Manjit Kumar
+	- In Search of Schrodinger's Cat by John Gribben
+	- The Elegant Universe by Brian Greene
+	- Fundamentals of Physics by Halliday, Resnick and Walker
+	- Concepts in Thermal Physics by Blundell and Blundell
+- Calculo Vectorial
+	- Grad, Div, Curl and All That by H. M. Schay 
+- Alex's Adventures in Numberland by Alex Bellos
+- The Math Book by Cliff Pickover
+- Mathematical Methods for Physics and Engineering by Riley, Hobson and Bence
+___

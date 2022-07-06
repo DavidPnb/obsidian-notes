@@ -1,0 +1,9 @@
+{
+  "fleeting_notes_folder": "/+ Encounters",
+  "note_template": "---\n# Metadata used for sync\nid: \"${id}\"\ntitle: \"${title}\"\ncreated: \"${datetime}\"\nsource: \"${source}\"\n---\n${content}",
+  "sync_on_startup": false,
+  "last_sync_time": "2022-07-04T16:51:10.498Z",
+  "sync_type": "one-way",
+  "username": "carlosdavidpinto30122004@gmail.com",
+  "password": "carlos30255"
+}
