@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4ce3de1c20fea4ec",
+        "id": "072ce16144dcbd3a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matematicas/Teoria de Conjuntos.md",
+            "file": "30-39 Lenguajes/31 Español/Uso de Mayusculas.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Matematicas/Teoria de Conjuntos.md",
+                "file": "30-39 Lenguajes/31 Español/Uso de Mayusculas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -63,8 +63,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.13051064060238676,
-                  "close": false
+                  "scale": 0.1305106406023868,
+                  "close": true
                 }
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematicas/Teoria de Conjuntos.md",
+                "file": "30-39 Lenguajes/31 Español/Uso de Mayusculas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematicas/Teoria de Conjuntos.md"
+                "file": "30-39 Lenguajes/31 Español/Uso de Mayusculas.md"
               }
             }
           }
@@ -215,17 +215,17 @@
     "direction": "horizontal",
     "width": 313.6158752441406
   },
-  "active": "4ce3de1c20fea4ec",
+  "active": "072ce16144dcbd3a",
   "lastOpenFiles": [
-    "Matematicas/Teoria de Conjuntos.md",
-    "Matematicas/Angulos.md",
-    "Matematicas/Geometria Euclideana.md",
-    "Cards/Postulados Iniciales en Geometria.md",
-    "Matematicas/Algebra Elemental.md",
-    "Matematicas/Numeros Reales.md",
-    "Cards/Orden Numerico.md",
-    "Matematicas/Sistema Matematico.md",
-    "CS/IT/IT MOC.md",
-    "Matematicas/Finanzas y el Numero de Euler.md"
+    "30-39 Lenguajes/31 Español/Uso de Mayusculas.md",
+    "30-39 Lenguajes/31 Español/Uso de Grafias.md",
+    "30-39 Lenguajes/31 Español/Silabas.md",
+    "30-39 Lenguajes/30 Linguistica/Sintaxis.md",
+    "30-39 Lenguajes/31 Español/Tilde.md",
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
+    "20-29 Filosofia y Religion/20 Filosofia/Racionalismo Cartesiano.md",
+    "00-09 PKM/02 Cards/Cogito Ergo Sum.md",
+    "00-09 PKM/02 Cards/Escolasticismo.md",
+    "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md"
   ]
 }
