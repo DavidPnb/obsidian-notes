@@ -2,7 +2,7 @@ tags:: #concept  #on/language
 up:: [[30.00 Linguistica MOC]]
 Links: 
 # Comunicacion
-La comunicacion es un fenomeno social en el cual transmitimos informacion a traves de signos convencionales.
+La comunicacion es un fenomeno social en el cual transmitimos informacion a traves de signos convencionales. La diferencia entre comunicación y una simple transmision de información yace en la intencionalidad de las señales que enviamos.
 
 ## Elementos
 - **Emisor:** Es el sujeto que selecciona la informacion y la transmite a un destinatario usando un canal y un sistema de signos. Este es el que codifica la informacion usando un proceso llamada codificacion
@@ -23,11 +23,11 @@ El Ruido es todo factor que interfiere en la comunicacion.
 
 ## Tipos de Comunicacion Humana
 ### Segun el Codigo
-#### Verbal (Linguistica)
-- **Oral (auditiva):** Interviene un hablante y un oyente
-- **Escrita (visuografica):** Participa el escritor y el lector
-#### No Verbal (No Linguistica)
-Se usan como codigo otros signos.
+- **Verbal (Linguistica)**
+	- **Oral (auditiva):** Interviene un hablante y un oyente
+	- **Escrita (visuografica):** Participa el escritor y el lector
+- **No Verbal (No Linguistica)**
+	- Se usan como codigo otros signos.
 
 ### Segun la Relacion Emisor-Receptor
 - **Intrapersonal:** El emisor y el receptor son la misma persona
