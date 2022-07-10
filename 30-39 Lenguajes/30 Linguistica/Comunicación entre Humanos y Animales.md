@@ -7,7 +7,7 @@ tags:: #on/language
 up:: [[Comunicacion]]
 Links: 
 # Comunicación entre Humanos y Animales
-A pesar de que se sabe que los animales no pueden entender ni producir el lenguaje humano, los humanos de alguna manera podemos comunicarnos con ellos. Los animales parecen poder entender las ordenes que les damos, los estudios indican que en realidad los perros asocian la [[Fonetica]] de las ordenes con una acción en lugar de comprender su [[Semantica]]. Los experimentos mas interesantes en esta area han sido los realizados con chimpances.
+A pesar de que se sabe que los animales no pueden entender ni producir el [[Lenguaje]] humano, los humanos de alguna manera podemos comunicarnos con ellos. Los animales parecen poder entender las ordenes que les damos, los estudios indican que en realidad los perros asocian la [[Fonetica]] de las ordenes con una acción en lugar de comprender su [[Semantica]]. Los experimentos mas interesantes en esta area han sido los realizados con chimpances.
 
 ## Los Chimpances y el Lenguaje
 Uno de los primeros intentos de que un chimpance hablara en lenguaje humano fue en los años 30. Se crio al especimen como si fuera un bebe y se reporto que este podia "entender" cerca de cien palabras, y se logro que pronunciara palabras simples como "mama" o "papa", esto ultimo es destacable porque las cuerdas vocales de un chimpance no estan adaptadas al habla humana.
@@ -23,4 +23,6 @@ En tiempos mas recientes, un estudio relacionado a esta controversia llego casi 
 Luego de estos experimentos se llega a la conclusión de que pese a identificar [[Propiedades del Lenguaje]], no somos capaces de dar una definición de lenguaje que no este exenta de controversia.
 
 Dos interpretaciones diferentes de lenguaje pueden existir al mismo tiempo. Una amplia, como un sistema de [[Comunicacion]] presente en una variedad de situaciones; y una mas estricta, que hace referencia a esa capacidad de desarrollar un sistema complejo de sonidos y estructuras y la capacidad para extender este de forma infinita. En este sentido más abstracto, solo los humanos somos capaces de usar un lenguaje.
+
+
 ___

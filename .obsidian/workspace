@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30-39 Lenguajes/30 Linguistica/Comunicación entre Humanos y Animales.md",
+            "file": "00-09 PKM/03 Extras/Anki/Anki Animales y Lenguaje Humano.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Comunicación entre Humanos y Animales.md",
+                "file": "00-09 PKM/03 Extras/Anki/Anki Animales y Lenguaje Humano.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -63,7 +63,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1305106406023868,
+                  "scale": 0.13051064060238682,
                   "close": true
                 }
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Comunicación entre Humanos y Animales.md",
+                "file": "00-09 PKM/03 Extras/Anki/Anki Animales y Lenguaje Humano.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Comunicación entre Humanos y Animales.md"
+                "file": "00-09 PKM/03 Extras/Anki/Anki Animales y Lenguaje Humano.md"
               }
             }
           }
@@ -217,15 +217,15 @@
   },
   "active": "072ce16144dcbd3a",
   "lastOpenFiles": [
-    "30-39 Lenguajes/30 Linguistica/Comunicación entre Humanos y Animales.md",
+    "00-09 PKM/03 Extras/Anki/Anki Animales y Lenguaje Humano.md",
+    "30-39 Lenguajes/30 Linguistica/Lenguaje.md",
     "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-    "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md",
-    "30-39 Lenguajes/30 Linguistica/Morfologia.md",
-    "30-39 Lenguajes/30 Linguistica/Semantica.md",
+    "30-39 Lenguajes/30 Linguistica/Propiedades Adicionales del Lenguaje.md",
+    "20-29 Filosofia y Religion/20 Filosofia/Filosofia del Lenguaje.md",
+    "30-39 Lenguajes/30 Linguistica/Comunicación entre Humanos y Animales.md",
+    "30-39 Lenguajes/30 Linguistica/Reportes de Linguistica en Chimpances.md",
+    "30-39 Lenguajes/30 Linguistica/Teorias sobre el Origen del Lenguaje.md",
     "30-39 Lenguajes/30 Linguistica/Comunicacion.md",
-    "30-39 Lenguajes/30 Linguistica/Sociolinguistica.md",
-    "30-39 Lenguajes/31 Español/Uso de Mayusculas.md",
-    "30-39 Lenguajes/31 Español/Uso de Grafias.md",
-    "30-39 Lenguajes/31 Español/Silabas.md"
+    "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md"
   ]
 }
