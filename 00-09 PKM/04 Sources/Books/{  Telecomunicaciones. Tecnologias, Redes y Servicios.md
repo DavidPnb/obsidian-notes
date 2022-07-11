@@ -6,7 +6,7 @@ Links: [[Ingenieria de Telecomunicaciones]]
 ___
 # {Telecomunicaciones. Tecnologias, Redes y Servicios Aplicaciones
 ## 🌍 De que Trata
-[[{ Telecomunicaciones. Tecnologias, Redes y Servicios]] es una introduccion basica al [[IT MOC]] que no requiere conocimientos tecnicos previos, pero que aun teniendolos se le pueda sacar provecho al libro, introduciendo conceptos desde una nueva perspectiva  
+[[{ Telecomunicaciones. Tecnologias, Redes y Servicios]] es una introduccion basica al [[CyberSec-IT MOC]] que no requiere conocimientos tecnicos previos, pero que aun teniendolos se le pueda sacar provecho al libro, introduciendo conceptos desde una nueva perspectiva  
 
 ## 🔍 Como lo Descubri
 

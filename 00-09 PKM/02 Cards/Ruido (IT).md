@@ -2,7 +2,7 @@
 alias: ["Ruido"]
 ---
 tags:: #concept  #note/develop🍃  #on/IT
-up:: [[IT MOC]]
+up:: [[CyberSec-IT MOC]]
 Links: 
 # Ruido (IT)
 La energia de la señal decae con la distancia, por lo que hay que asegurarse que llegue con la suficiente energia como para se captada por el receptor y, ademas, el ruido debe ser sensiblemente menor que la señal original.

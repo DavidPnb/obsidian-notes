@@ -9,7 +9,7 @@ tags:
 references:
 created: 2022-04-26 13:52
 ---
-up:: [[IT MOC]]
+up:: [[CyberSec-IT MOC]]
 ___
 # {Telecomunicaciones. Tecnologias, Redes y Servicios
 ## Mensajes y Señales

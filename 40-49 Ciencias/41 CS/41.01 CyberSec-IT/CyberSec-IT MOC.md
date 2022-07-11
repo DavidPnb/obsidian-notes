@@ -1,5 +1,5 @@
 ---
-alias: ["Informatica"]
+alias: ["Informatica", "Ciberseguridad"]
 status:
 references:
 created: 2022-05-24 11:22
@@ -30,6 +30,7 @@ Links:
 - Red Team Field Manual
 - Blue Team Handbook
 - Gray Hat Python
+- Black Hat Python
 - Malware Analysts Cookbook
 - Inside Cyber Warfare
 -  [The Threat Intelligence Handbook](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbm5vTFhERnpnTzJMOXIyNW1oRVVIdFBGQ0VUUXxBQ3Jtc0tteTlabTEtRms1czhVeEJGZHFEc2pIWElHSkFSTEh6dFlqeU1HT005UHZPNjFNWXhBNXVkbDZZdENta0l6NEpkdUQ0c213ZDdDWGRzcnhscEgyTnFrLXFLWmQ3VTBjNjktdi1SdExFOE1IZmYwU1ZiZw&q=https%3A%2F%2Fwww.recordedfuture.com%2Fthreat-intelligence-handbook-second-edition%2F&v=Oh2OmtN8jj0)
