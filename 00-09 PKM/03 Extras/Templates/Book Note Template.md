@@ -41,8 +41,6 @@ finished::
 
 ## Ideas Importantes
 
-## 🥰 A Quien le Gustaria ?
-
 ## 📚Libros Relacionados
 
 ## Planes a Futuro
