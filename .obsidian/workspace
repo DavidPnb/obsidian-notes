@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10-19 Desarrollo Personal y Aprendizaje/Las Metaforas y Analogias Mejoran el Aprendizaje.md",
+            "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10-19 Desarrollo Personal y Aprendizaje/Las Metaforas y Analogias Mejoran el Aprendizaje.md",
+                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Desarrollo Personal y Aprendizaje/Las Metaforas y Analogias Mejoran el Aprendizaje.md",
+                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Desarrollo Personal y Aprendizaje/Las Metaforas y Analogias Mejoran el Aprendizaje.md"
+                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md"
               }
             }
           }
@@ -217,15 +217,15 @@
   },
   "active": "072ce16144dcbd3a",
   "lastOpenFiles": [
-    "10-19 Desarrollo Personal y Aprendizaje/Las Metaforas y Analogias Mejoran el Aprendizaje.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Importancia de la Practica en STEM.md",
+    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
+    "40-49 Ciencias/40 Matematicas/Factorizacion.md",
+    "40-49 Ciencias/40 Matematicas/40.02 Algebra.md",
+    "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
+    "40-49 Ciencias/40 Matematicas/40.03 Calculo.md",
+    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
+    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
     "10-19 Desarrollo Personal y Aprendizaje/Memoria.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Planificación Estudiantil.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Como Aprende el Cerebro.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Spaced Repetition.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Consejos de Estudio.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Procrastinacion.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Tecnica Pomodoro.md",
-    "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md"
+    "40-49 Ciencias/40 Matematicas/Productos Notables.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Las Metaforas y Analogias Mejoran el Aprendizaje.md"
   ]
 }

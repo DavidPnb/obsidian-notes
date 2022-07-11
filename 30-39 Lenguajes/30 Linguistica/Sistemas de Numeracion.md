@@ -5,7 +5,7 @@ created: 2022-06-27 10:01
 ---
 tags:: #Mathematics #on/language 
 up:: [[30.00 Linguistica MOC]]
-Links: [[Matematicas MOC]]
+Links: [[40.00 Matematicas MOC]]
 # Sistemas de Numeracion
 Es un conjunto de simbolos que se relacionan para expresar cantidades. Se clasifican en posicional y no posicionales.
 - **Posicionales** - Los simbolos en este sistema se llaman digitos. El numero de digitos corresponde a una base y es fundamental la existencia del cero. Estos sistemas se basan en la posición que ocupa cada digito en el numero, llamada valor relativo. Para identificar el sistema se coloca la base $B$ como subindice $N_{(B)}$

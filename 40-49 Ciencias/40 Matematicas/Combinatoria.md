@@ -3,7 +3,7 @@ Tags:
 Links: [[]]
 ___
 # Combinatoria
-Es la rama de las [[Matematicas MOC]] que esta involucrada en contar, asi como en ciertas propiedades de estructuras finitas
+Es la rama de las [[40.00 Matematicas MOC]] que esta involucrada en contar, asi como en ciertas propiedades de estructuras finitas
 
 ## Principios
 1. [[Teoria de Grafos]]

@@ -5,7 +5,7 @@ Referencias:
 Creado el: 2022-03-25 21:16
 ___
 # Geometria Analitica
-En las [[Matematicas MOC]] clásicas, la geometría analítica, también conocida como geometría de coordenadas o geometría cartesiana, es el estudio de la [[40.05 Geometria]] utilizando un sistema de coordenadas.
+En las [[40.00 Matematicas MOC]] clásicas, la geometría analítica, también conocida como geometría de coordenadas o geometría cartesiana, es el estudio de la [[40.05 Geometria]] utilizando un sistema de coordenadas.
 
 ## Coordenadas
 En geometría analítica, al plano se le da un sistema de coordenadas, por el cual cada punto tiene un par de coordenadas de números reales. De manera similar, el espacio euclidiano recibe coordenadas donde cada punto tiene tres coordenadas. El valor de las coordenadas depende de la elección del punto de origen inicial. Hay una variedad de sistemas de coordenadas utilizados, pero los más comunes son los siguientes:

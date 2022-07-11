@@ -7,7 +7,7 @@ tags:: #Mathematics
 up::[[40.04 Teoria de los Numeros]]
 Links: [[]]
 # Aritmetica
-Es una rama de las [[Matematicas MOC]] que consiste en el estudio de los [[Numeros]], especialmente respecto a las operaciones tradicionales. Es una parte importante de la [[40.04 Teoria de los Numeros]] que a su vez es una de las ramas principales de las matematicas modernos junto al [[40.02 Algebra]], [[40.05 Geometria]] y [[Analisis Matematico]].
+Es una rama de las [[40.00 Matematicas MOC]] que consiste en el estudio de los [[Numeros]], especialmente respecto a las operaciones tradicionales. Es una parte importante de la [[40.04 Teoria de los Numeros]] que a su vez es una de las ramas principales de las matematicas modernos junto al [[40.02 Algebra]], [[40.05 Geometria]] y [[Analisis Matematico]].
 
 ## Principios
 

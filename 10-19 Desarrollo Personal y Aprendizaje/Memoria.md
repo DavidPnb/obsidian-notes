@@ -13,4 +13,6 @@ La memoria a corto plazo se ubica en la corteza prefrontal y almacena lo que est
 
 La memoria a largo plazo en cambio, tiene una capacidad de almacenamiento inmenso y es la que asociamos con el proceso de aprendizaje. Esta memoria se encuentra esparcida por muchas partes del cerebro.
 
+Esto es similar a como funciona la memoria de una computadora; [[Arquitectura de Computadoras]].
+
 En este sentido se entiende que una buena parte del aprendizaje consiste en tomar elementos de la memoria a corto plazo y moverlos a la memoria a largo plazo. Para hacer esto tenemos la tecnica de [[Spaced Repetition]]. 

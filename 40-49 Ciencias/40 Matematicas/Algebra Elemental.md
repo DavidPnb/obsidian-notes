@@ -7,7 +7,7 @@ tags:: #Mathematics
 up:: [[40.02 Algebra]]
 Links:  
 # Algebra Elemental
-Es la forma mas basica de [[40.02 Algebra]], una de las ramas mas grandes de las [[Matematicas MOC|Matematicas]].
+Es la forma mas basica de [[40.02 Algebra]], una de las ramas mas grandes de las [[40.00 Matematicas MOC|Matematicas]].
 
 ## Operaciones Fundamentales con Numeros
 Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principales. Estas son adición, sustraccion, multiplicacion y division; [[Operaciones con Enteros]].
@@ -28,6 +28,18 @@ Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principal
 
 ## Productos Especiales
 [[Productos Notables]]
+
+## Factorización
+[[Factorizacion]]
+
+## Expresiones Fraccionarias
+Son cocientes de dos [[Expresiones Algebraicas]]. Una **expresión racional** es el cociente de dos polinomios. Para simplificar una expresión racional se factorizan numerador y denominador y se cancelan factores comunes.
+
+Para sumar expresiones racionales se toma el minimo comun multiplo de los denominadores, y se convierte cada fracción a una fracción equivalente con el MCM como denominador.
+
+Una **fracción compleja** es un cociente donde el numerador y/o denominador son expresiones fraccionarias.
+
+Los cocientes con raices en el denominador o numerador se pueden simplificar al multiplicar por el conjugado. [[Raices#Racionalizacion]].
 
 ### Ecuaciones
 Una ecuación establece que dos expresiones son iguales usando el símbolo de igualdad, $=$ .
