@@ -32,14 +32,8 @@ Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principal
 ## Factorización
 [[Factorizacion]]
 
-## Expresiones Fraccionarias
-Son cocientes de dos [[Expresiones Algebraicas]]. Una **expresión racional** es el cociente de dos polinomios. Para simplificar una expresión racional se factorizan numerador y denominador y se cancelan factores comunes.
-
-Para sumar expresiones racionales se toma el minimo comun multiplo de los denominadores, y se convierte cada fracción a una fracción equivalente con el MCM como denominador.
-
-Una **fracción compleja** es un cociente donde el numerador y/o denominador son expresiones fraccionarias.
-
-Los cocientes con raices en el denominador o numerador se pueden simplificar al multiplicar por el conjugado. [[Raices#Racionalizacion]].
+## Fracciones
+[[Fracciones Algebraicas]]
 
 ### Ecuaciones
 Una ecuación establece que dos expresiones son iguales usando el símbolo de igualdad, $=$ .
