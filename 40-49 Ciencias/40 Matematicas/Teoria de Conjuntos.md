@@ -7,7 +7,7 @@ tags:: #Mathematics
 up:: [[40.01 Logica Matematica]]
 Links: 
 # Teoria de Conjuntos
-Es una rama de la [[40.01 Logica Matematica]] que estudia las propiedades y relaciones de los Conjuntos.
+Es una rama de la [[40.01 Logica Matematica]] que estudia las propiedades y [[Relaciones|Relaciones]] de los Conjuntos.
 
 ## Conjuntos
 Un conjunto es el modelo matemático para una colección de diferentes cosas; un conjunto contiene elementos o miembros, que pueden ser objetos matemáticos de cualquier tipo. Generalmente son denotados por una letra mayuscula. Los elementos de un conjunto son unicos y no estan ordenados.

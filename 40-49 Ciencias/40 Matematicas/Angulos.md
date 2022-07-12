@@ -43,6 +43,8 @@ $\angle ABC$ contiene los puntos no colineares $A$, $B$ y $C$. Estos tres puntos
 > [!definicion]
 > Dos angulos son **congruentes** ($\buildrel\sim\over=$) si tienen la misma medida
 
+La congruencia de angulos es una **relacion de equivalencia**; [[Relaciones]].
+
 
 > [!definicion]
 > La **bisectriz** de un angulo es la semirrecta que separa el angulo dado en dos angulos congruentes
@@ -57,5 +59,7 @@ $\angle ABC$ contiene los puntos no colineares $A$, $B$ y $C$. Estos tres puntos
 > [!teorema]-
 > Existe una y solo una bisectriz para un angulo dado
 
+> [!teorema]-
+>Si dos rectas se intersectan, los angulos verticales que se forman son congruentes
 
 ___

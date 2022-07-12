@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
-            "mode": "source"
+            "file": "40-49 Ciencias/40 Matematicas/Rectas Perpendiculares.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,9 +40,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
+                "file": "40-49 Ciencias/40 Matematicas/Rectas Perpendiculares.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -63,7 +63,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.07431470243658027,
+                  "scale": 0.13051064060238687,
                   "close": false
                 }
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
+                "file": "40-49 Ciencias/40 Matematicas/Rectas Perpendiculares.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Historia del Calculo.md"
+                "file": "40-49 Ciencias/40 Matematicas/Rectas Perpendiculares.md"
               }
             }
           }
@@ -213,19 +213,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.6158752441406
+    "width": 375.6158447265625
   },
   "active": "072ce16144dcbd3a",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
-    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
-    "40-49 Ciencias/40 Matematicas/Fracciones Algebraicas.md",
-    "40-49 Ciencias/40 Matematicas/Operaciones con Fracciones.md",
-    "40-49 Ciencias/40 Matematicas/Factorizacion.md",
-    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
-    "40-49 Ciencias/41 CS/41.01 CyberSec-IT/CyberSec-IT MOC.md",
-    "40-49 Ciencias/40 Matematicas/40.02 Algebra.md",
-    "40-49 Ciencias/40 Matematicas/40.03 Calculo.md",
-    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md"
+    "40-49 Ciencias/40 Matematicas/Rectas Perpendiculares.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
+    "40-49 Ciencias/40 Matematicas/Angulos.md",
+    "40-49 Ciencias/40 Matematicas/Rectas.md",
+    "40-49 Ciencias/40 Matematicas/Relaciones.md",
+    "00-09 PKM/02 Cards/Orden Numerico.md",
+    "40-49 Ciencias/40 Matematicas/Teoria de Conjuntos.md",
+    "30-39 Lenguajes/30 Linguistica/Sociolinguistica.md",
+    "20-29 Filosofia y Religion/20 Filosofia/Filosofia de las Matematicas.md",
+    "20-29 Filosofia y Religion/20 Filosofia/20.05 Epistemologia.md"
   ]
 }

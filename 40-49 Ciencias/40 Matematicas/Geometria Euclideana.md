@@ -23,5 +23,13 @@ Como el [[40.02 Algebra]], el area de las [[40.00 Matematicas MOC|Matematicas]] 
 ## Angulos 
 [[Angulos]]
 
+## Relaciones: Rectas Perpendiculares
+[[Rectas Perpendiculares]]
+
+[[Relaciones]]
+
+ 
+
+
 
 ___

@@ -1,5 +1,5 @@
 # Funciones
-[[Relacion]] entre dos [[Conjuntos]] $A$ y $B$ que asigna a cada valor del conjunto $A$ (variable independiente) un *unico* valor del conjunto $B$
+[[Relaciones]] entre dos [[Conjuntos]] $A$ y $B$ que asigna a cada valor del conjunto $A$ (variable independiente) un *unico* valor del conjunto $B$
 
 ## Tipos de Funciones
 1. [[Funciones Constantes]]
