@@ -1,4 +1,4 @@
-tags:: #concept #on/philosophy 
+tags:: #on/philosophy 
 up:: [[20.01 Logica]]
 # Razonamiento Deductivo
 **Elementos del Razonamiento Deductivo**

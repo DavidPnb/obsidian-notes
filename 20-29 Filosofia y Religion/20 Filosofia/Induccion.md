@@ -1,4 +1,4 @@
-tags:: #concept  #on/philosophy 
+tags:: #on/philosophy 
 up:: [[20.01 Logica]]
 # Induccion
 Consiste en usar las experiencias pasadas para hacer predicciones futuras, la usamos de forma cotidiana e incluso subconcientemente y es la manera principal en la que la damos sentido a nuestro presente y futuro.

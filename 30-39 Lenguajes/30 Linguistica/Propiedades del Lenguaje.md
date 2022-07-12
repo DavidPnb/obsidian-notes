@@ -7,7 +7,7 @@ tags:: #on/language
 up:: [[30.00 Linguistica MOC]]
 Links: 
 # Propiedades del Lenguaje
-Generalmente consideramos a la [[Comunicacion]] como el elemento mas representativo de nuestro lenguaje. Sin embargo, los animales tambien demuestran capacidades comunicativas, y a estas no las consideramos un lenguaje. La principal diferencia es la **reflexividad**, que al igual que en [[Teoria de Conjuntos]], indica una relación binaria de un conjunto con sigo mismo; en este caso, esto implica que podemos usar el lenguaje para hablar acerca del lenguaje. Esta caracteristica es la base para las demas propiedades a continuación.
+Generalmente consideramos a la [[Comunicacion]] como el elemento mas representativo de nuestro lenguaje. Sin embargo, los animales tambien demuestran capacidades comunicativas, y a estas no las consideramos un lenguaje. La principal diferencia es la **reflexividad**, que indica una relación del elemento con sigo mismo; [[Relaciones]]; en este caso, esto implica que podemos usar el lenguaje para hablar acerca del lenguaje. Esta caracteristica es la base para las demas propiedades a continuación.
 
 ## Desplazamiento
 El lenguaje humano puede referirse a un tiempo y espacio en el que no estamos presentes. La comunicación animal no parece tener esta propiedad, excepto las abejas en forma muy limitada

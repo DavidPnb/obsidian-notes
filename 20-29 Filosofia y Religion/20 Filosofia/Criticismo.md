@@ -7,13 +7,13 @@ tags:: #on/philosophy
 up:: [[20.05 Epistemologia]]
 Links: 
 # Criticismo
-Existe una tercera postura que resolveria la antitesis [[Dogmatismo]] - [[Empirismo]] en una sintesis. Esta postura intermedia recibe el nombre de criticismo. al igual que el [[Dogmatismo]], el criticismo admite una confianza fundamental en la razon humana. El criticismo esta convencido de que es posible el [[Conocimiento]]. Pero mientras que tal confianza conduce al [[Dogmatismo]], el criticismo pone, junto a la confianza general en el conocimiento humano, una desconfianza hacia cada conocimiento particular, acercandose por esto al [[Escepticismo]]. 
+Existe una tercera postura que resolveria la antitesis [[Dogmatismo]] - [[Escepticismo]] en una sintesis. Esta postura intermedia recibe el nombre de criticismo. al igual que el [[Dogmatismo]], el criticismo admite una confianza fundamental en la razon humana. El criticismo esta convencido de que es posible el [[Conocimiento]]. Pero mientras que tal confianza conduce al [[Dogmatismo]], el criticismo pone, junto a la confianza general en el conocimiento humano, una desconfianza hacia cada conocimiento particular, acercandose por esto al [[Escepticismo]]. 
 
 La filosofia kantiana entra dentro del proyecto ilustrado de una critica a la razon misma. Kant pretendia entender cuales son los limites y posibilidades del conocimiento, unico medio por el que el hombre puede alcanzar su madurez, librandose de tutelas, oscuranticismos y supersticiones.
 
 Esta autocritica a la razon intenta resolver los antagonismos a los que habian llegado las anteriores concepciones antropologicas y epistemologicas que, segun el filosofo, pueden unificarse en dos posturas diferentes:
 - El dogmatismo racionalista, inaugurado por Descartes y cuyo maximo exponente en aquel momento era Wolf y su escuela, pretendian obtener la certeza a traves de principios e ideas innatos de la razon, deducidos acriticamente, rechazando el valor del conocimiento que aporta la experiencia
-- El [[Escepticismo]] o el empirismo radical de Hume que, reduciendo todo el ambito del conocimiento a la experiencia, habia imposibilitado la obtencion de certezas universales y necesarias en las ciencias no formales, quedando sumergido todo ello en la mera probabilidad y contingencia
+- El [[Escepticismo]] o [[Empirismo]] radical de Hume que, reduciendo todo el ambito del conocimiento a la experiencia, habia imposibilitado la obtencion de certezas universales y necesarias en las ciencias no formales, quedando sumergido todo ello en la mera probabilidad y contingencia
 
 El criticismo surge como un intento de conciliacion y superacion de ambas posturas: aunque todo conocimiento ha de provenir de la experiencia, no todo conocimiento se agota en ella, ya que sino no se obtendran nunca certezas de caracter universal y necesario.
 
