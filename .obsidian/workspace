@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "072ce16144dcbd3a",
+        "id": "7a043dfa44bd1c20",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md",
+            "file": "20-29 Filosofia y Religion/20 Filosofia/Problema de la Maldad.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md",
+                "file": "20-29 Filosofia y Religion/20 Filosofia/Problema de la Maldad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 1,
                   "linkDistance": 261,
-                  "scale": 0.07431470243658031,
+                  "scale": 0.13051064060238698,
                   "close": false
                 }
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md",
+                "file": "20-29 Filosofia y Religion/20 Filosofia/Problema de la Maldad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md"
+                "file": "20-29 Filosofia y Religion/20 Filosofia/Problema de la Maldad.md"
               }
             }
           }
@@ -214,19 +214,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.6158447265625
+    "width": 415.1182861328125
   },
-  "active": "072ce16144dcbd3a",
+  "active": "7a043dfa44bd1c20",
   "lastOpenFiles": [
+    "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md",
+    "20-29 Filosofia y Religion/20 Filosofia/Problema de la Maldad.md",
+    "20-29 Filosofia y Religion/20 Filosofia/20.00 Filosofia MOC.md",
     "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md",
     "20-29 Filosofia y Religion/20 Filosofia/Empirismo.md",
     "20-29 Filosofia y Religion/20 Filosofia/Razonamiento Deductivo.md",
     "20-29 Filosofia y Religion/20 Filosofia/Induccion.md",
     "00-09 PKM/02 Cards/Escolasticismo.md",
     "20-29 Filosofia y Religion/20 Filosofia/Criticismo.md",
-    "20-29 Filosofia y Religion/20 Filosofia/Racionalismo.md",
-    "40-49 Ciencias/40 Matematicas/Rectas Perpendiculares.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
-    "40-49 Ciencias/40 Matematicas/Angulos.md"
+    "20-29 Filosofia y Religion/20 Filosofia/Racionalismo.md"
   ]
 }

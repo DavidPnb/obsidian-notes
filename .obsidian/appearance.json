@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 18,
-  "cssTheme": "Obsidianite",
+  "baseFontSize": 17,
+  "cssTheme": "Dracula + LYT",
   "translucency": false,
   "enabledCssSnippets": [
     "supercharged-links-gen",

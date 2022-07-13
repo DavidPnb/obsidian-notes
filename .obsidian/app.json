@@ -14,5 +14,5 @@
   "strictLineBreaks": true,
   "promptDelete": true,
   "newFileLocation": "current",
-  "livePreview": false
+  "livePreview": true
 }
