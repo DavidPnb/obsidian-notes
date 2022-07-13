@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md",
-            "mode": "source"
+            "file": "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -40,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md",
+                "file": "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md",
+                "file": "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md"
+                "file": "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md"
               }
             }
           }

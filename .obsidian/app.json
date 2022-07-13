@@ -4,7 +4,7 @@
   "foldIndent": true,
   "foldHeading": true,
   "showUnsupportedFiles": true,
-  "legacyEditor": true,
+  "legacyEditor": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
@@ -13,5 +13,6 @@
   },
   "strictLineBreaks": true,
   "promptDelete": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "livePreview": false
 }
