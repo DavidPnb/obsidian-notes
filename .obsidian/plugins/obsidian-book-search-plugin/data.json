@@ -1,0 +1,8 @@
+{
+  "folder": "/",
+  "fileNameFormat": "",
+  "frontmatter": "",
+  "content": "{{coverUrl}}",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Snake Case"
+}

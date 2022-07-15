@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20-29 Filosofia y Religion/20 Filosofia/Problema de la Maldad.md",
+            "file": "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia y Religion/20 Filosofia/Problema de la Maldad.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia y Religion/20 Filosofia/Problema de la Maldad.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia y Religion/20 Filosofia/Problema de la Maldad.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md"
               }
             }
           }
@@ -218,15 +218,15 @@
   },
   "active": "7a043dfa44bd1c20",
   "lastOpenFiles": [
-    "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md",
+    "20-29 Filosofia y Religion/20 Filosofia/El Valor de La Razon.md",
+    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
+    "00-09 PKM/02 Cards/People/Marco Aurelio.md",
+    "00-09 PKM/02 Cards/+ About Cards.md",
+    "00-09 PKM/02 Cards/Information that crosses our attentional filter becomes knowledge.md",
+    "00-09 PKM/03 Extras/Templates/Book Note Template.md",
+    "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
     "20-29 Filosofia y Religion/20 Filosofia/Problema de la Maldad.md",
-    "20-29 Filosofia y Religion/20 Filosofia/20.00 Filosofia MOC.md",
-    "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md",
-    "20-29 Filosofia y Religion/20 Filosofia/Empirismo.md",
-    "20-29 Filosofia y Religion/20 Filosofia/Razonamiento Deductivo.md",
-    "20-29 Filosofia y Religion/20 Filosofia/Induccion.md",
-    "00-09 PKM/02 Cards/Escolasticismo.md",
-    "20-29 Filosofia y Religion/20 Filosofia/Criticismo.md",
-    "20-29 Filosofia y Religion/20 Filosofia/Racionalismo.md"
+    "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md",
+    "20-29 Filosofia y Religion/20 Filosofia/20.00 Filosofia MOC.md"
   ]
 }
