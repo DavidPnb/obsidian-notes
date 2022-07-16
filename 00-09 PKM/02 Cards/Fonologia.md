@@ -2,7 +2,7 @@ tags:: #on/language
 up:: [[30.00 Linguistica MOC]]
 Links: [[Comunicacion]]
 # Fonologia
-El lenguaje presenta dos planos, lengua y habla, y cada uno de estos posee unidades que se activan, especialmente en la pronunciacion de ideas. En la lengua, hay sonidos mentales llamados **fonemas** y sonidos reales llamados **fonos**; [[Fonetica]].
+El lenguaje presenta dos planos, lengua y habla, y cada uno de estos posee unidades que se activan, especialmente en la pronunciacion de ideas. En la lengua, hay sonidos mentales llamados **fonemas** y sonidos reales llamados **fonos**; [[30.01 Fonetica]].
 
 La fonologia es la disciplina linguistica que determina cuales son los fonemas de una lengua y los organiza en un sistema a traves de sus diferencias fundamentales.
 

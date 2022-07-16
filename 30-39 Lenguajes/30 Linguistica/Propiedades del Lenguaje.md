@@ -22,6 +22,6 @@ Es la capacidad de crear nuevos recursos lingüisticos siempre que sea necesario
 Nuestra adquisición de un lenguaje no esta determinada por herencia genetica, sino por la cultura. Los animales producen sonidos de forma instintiva mientras que los humanos, pese a nacer con una predisposición para el lenguaje, no producimos sonidos especificos de un lenguaje instintivamente.
 
 ## Dualidad
-El lenguaje esta organizado en dos niveles simultaneamente. Por un lado esta la [[Fonetica]], que representa los sonidos del lenguaje, y la [[Morfologia]], que implica alterar el orden de estos sonidos para producir diferentes significados.
+El lenguaje esta organizado en dos niveles simultaneamente. Por un lado esta la [[30.01 Fonetica]], que representa los sonidos del lenguaje, y la [[Morfologia]], que implica alterar el orden de estos sonidos para producir diferentes significados.
 La comunicación animal no parece tener la capacidad para ser separada en morfemas.
 ___

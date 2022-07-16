@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30-39 Lenguajes/31 Español/Signos de Puntuacion.md",
+            "file": "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30-39 Lenguajes/31 Español/Signos de Puntuacion.md",
+                "file": "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-39 Lenguajes/31 Español/Signos de Puntuacion.md",
+                "file": "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-39 Lenguajes/31 Español/Signos de Puntuacion.md"
+                "file": "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md"
               }
             }
           }
@@ -216,17 +216,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "e65dfbe364e03466",
+  "active": "7a043dfa44bd1c20",
   "lastOpenFiles": [
+    "30-39 Lenguajes/31 Español/Signos de Puntuacion.md",
+    "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
+    "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md",
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
     "30-39 Lenguajes/31 Español/Uso de Grafias.md",
     "30-39 Lenguajes/31 Español/Uso de Mayusculas.md",
     "30-39 Lenguajes/31 Español/Tilde.md",
     "30-39 Lenguajes/31 Español/Silabas.md",
     "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
-    "00-09 PKM/04 Sources/Books/Protocolos SLIP y PPP.md",
-    "40-49 Ciencias/41 CS/41.01 CyberSec-IT/Modelo TCP.md",
-    "00-09 PKM/04 Sources/Books/{  Telecomunicaciones. Tecnologias, Redes y Servicios.md",
-    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
-    "20-29 Filosofia y Religion/20 Filosofia/El Valor de La Razon.md"
+    "00-09 PKM/04 Sources/Books/Protocolos SLIP y PPP.md"
   ]
 }
