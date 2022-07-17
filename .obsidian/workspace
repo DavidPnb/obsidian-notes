@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
+            "file": "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
+                "file": "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
+                "file": "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md"
+                "file": "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md"
               }
             }
           }
@@ -218,15 +218,15 @@
   },
   "active": "7a043dfa44bd1c20",
   "lastOpenFiles": [
-    "30-39 Lenguajes/31 Español/Signos de Puntuacion.md",
+    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
+    "30-39 Lenguajes/31 Español/Signos de Puntuacion.md",
     "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md",
     "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
     "30-39 Lenguajes/31 Español/Uso de Grafias.md",
     "30-39 Lenguajes/31 Español/Uso de Mayusculas.md",
     "30-39 Lenguajes/31 Español/Tilde.md",
     "30-39 Lenguajes/31 Español/Silabas.md",
-    "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
-    "00-09 PKM/04 Sources/Books/Protocolos SLIP y PPP.md"
+    "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md"
   ]
 }
