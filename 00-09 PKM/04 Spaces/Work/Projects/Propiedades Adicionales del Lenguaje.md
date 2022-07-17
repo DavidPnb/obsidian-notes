@@ -7,8 +7,6 @@ tags:: #project
 up:: [[Propiedades del Lenguaje]]
 Links: 
 # Propiedades Adicionales del Lenguaje
-
-
 - **Uso de los organos vocales**
 - **Especialización**
 - **Indireccionalidad**

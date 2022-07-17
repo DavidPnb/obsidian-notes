@@ -1,4 +1,4 @@
-Ptags:: #flashcard 
+tags:: #flashcard 
 up:: [[Lenguaje]]
 # Anki Animales y Lenguaje Humano
 TARGET DECK: Linguistica

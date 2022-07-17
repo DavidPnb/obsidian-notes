@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7a043dfa44bd1c20",
+        "id": "ebe434cdbe96f51b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
+            "file": "00-09 PKM/03 Extras/Anki/Anki Fonetica.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
+                "file": "00-09 PKM/03 Extras/Anki/Anki Fonetica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
+                "file": "00-09 PKM/03 Extras/Anki/Anki Fonetica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md"
+                "file": "00-09 PKM/03 Extras/Anki/Anki Fonetica.md"
               }
             }
           }
@@ -216,17 +216,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "7a043dfa44bd1c20",
+  "active": "ebe434cdbe96f51b",
   "lastOpenFiles": [
-    "30-39 Lenguajes/31 Español/Signos de Puntuacion.md",
+    "00-09 PKM/04 Spaces/Work/Projects/Señales Visuales para Reconocer Sonidos de Vocales.md",
     "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
-    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
-    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
-    "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md",
+    "30-39 Lenguajes/30 Linguistica/Descripcion Fonetica de Patrones Regulares de Sonido en Expresiones en Ingles.md",
     "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-    "30-39 Lenguajes/31 Español/Uso de Grafias.md",
-    "30-39 Lenguajes/31 Español/Uso de Mayusculas.md",
-    "30-39 Lenguajes/31 Español/Tilde.md",
-    "30-39 Lenguajes/31 Español/Silabas.md"
+    "00-09 PKM/04 Spaces/Work/Projects/Propiedades Adicionales del Lenguaje.md",
+    "30-39 Lenguajes/30 Linguistica/Reportes de Linguistica en Chimpances.md",
+    "00-09 PKM/04 Spaces/Work/Projects/Relación entre el Lenguaje y la Inteligencia.md",
+    "00-09 PKM/04 Spaces/Work/Projects/Desarrollo Evolutico y el Lenguaje.md",
+    "30-39 Lenguajes/30 Linguistica/Comunicación entre Humanos y Animales.md",
+    "30-39 Lenguajes/30 Linguistica/Comunicacion.md"
   ]
 }

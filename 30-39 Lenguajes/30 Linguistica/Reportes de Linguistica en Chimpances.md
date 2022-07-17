@@ -1,3 +1,8 @@
+---
+status:
+references:
+created: 2022-07-17 13:17
+---
 tags:: #project 
 up:: [[Comunicación entre Humanos y Animales]]
 Links: 
