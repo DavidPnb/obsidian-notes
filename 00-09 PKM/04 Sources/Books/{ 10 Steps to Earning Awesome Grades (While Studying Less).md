@@ -1,14 +1,15 @@
 ---
-status: reading
+alias: ["10 Steps to Earning Awesome Grades"]
 references:
 created: 2022-06-11 17:26
 ---
-tags:: #source/book📚 
-dates:: 2015 CE
-up:: [[Desarrollo Personal y Aprendizaje MOC]]
-people:: [[Thomas Frank]]
-Links: 
 # 10 Steps to Earning Awesome Grades (While Studying Less)
+## Información
+tags:: #source/book📚 
+writer:: [[Thomas Frank]]
+subject:: [[Desarrollo Personal y Aprendizaje MOC]]
+started:: 2022-06-11 17:26
+finished:: 
 
 ## 🌍 De que Trata
 - Productividad
@@ -67,15 +68,12 @@ Eso nos deja con dos variables: Para disminuir la cantidad de tiempo que se debe
 
 ## 📚Libros Relacionados
 
-## Planes a Futuro
-
 ## Notas
 
 ### Prestar más Atención en Clase
 [[Como Prestar mas Atención en Clase]]
 ### Tomar Notas más Efectivas
 Las buenas notas deben enfocarse en el **aprendizaje**, en lugar de simplemente registrar.
-
 - [[Cinco Metodos para Tomar Notas]]
 
 ### Sacarle más a los Libros
@@ -83,6 +81,11 @@ Las buenas notas deben enfocarse en el **aprendizaje**, en lugar de simplemente 
 
 ### Planear como un General
 [[Planificación Estudiantil]]
+
+### Crear un Ambiente de Estudio Optimo
+El lugar donde estudiamos es un factor importante en el proceso de aprendizaje, por eso lo mejor es diseñarlo deliberadamente
+
+[[Mejorar el Lugar de Estudio]]
 ___
 
 
