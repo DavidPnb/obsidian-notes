@@ -7,8 +7,12 @@
         "id": "c09de4954ac1fa56",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "00-09 PKM/07 Inbox/+ Cooling Pad/Ideas para Obsidian.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -37,6 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00-09 PKM/07 Inbox/+ Cooling Pad/Ideas para Obsidian.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-09 PKM/07 Inbox/+ Cooling Pad/Ideas para Obsidian.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00-09 PKM/07 Inbox/+ Cooling Pad/Ideas para Obsidian.md"
+              }
             }
           }
         ]
@@ -210,6 +218,7 @@
   },
   "active": "c09de4954ac1fa56",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
     "00-09 PKM/05 Spaces/05.01 Estudio Autodidacta/Untitled Kanban.md",
     "00-09 PKM/05 Spaces/05.01 Estudio Autodidacta/Señales Visuales para Reconocer Sonidos de Vocales.md",
     "00-09 PKM/05 Spaces/05.01 Estudio Autodidacta/Relación entre el Lenguaje y la Inteligencia.md",
@@ -218,7 +227,6 @@
     "00-09 PKM/07 Inbox/+ Cooling Pad/Sujeto Sujetado y Sujeto Otro.md",
     "00-09 PKM/07 Inbox/+ Cooling Pad/Ideas para Obsidian.md",
     "00-09 PKM/00 Atlas/00.01 Scopes/Proyectos de Linguistica.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Notebox (Kit).md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md"
+    "00-09 PKM/00 Atlas/00.01 Scopes/Notebox (Kit).md"
   ]
 }
