@@ -35,6 +35,9 @@ Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principal
 ## Fracciones
 [[Fracciones Algebraicas]]
 
+## Exponentes
+[[Exponenciacion]]
+
 ### Ecuaciones
 Una ecuación establece que dos expresiones son iguales usando el símbolo de igualdad, $=$ .
 

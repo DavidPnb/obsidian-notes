@@ -7,12 +7,19 @@ tags:: #Mathematics
 up:: [[Aritmetica]]
 Links: 
 # Exponenciacion
-Es una operacion matematica representada como $a^b$. Donde *a* es el numero a multiplicar conocido como **base** y *b* es el numero de veces que el numero **base** se multiplica por si mismo conocido como **exponente**.
+## Exponente Entero Positivo
+Si $n$ es un entero positivo, $a^n$ es el producto de $n$ factores, cada uno con valor $a$.
+
+## Exponente Entero Negativo
+Si $n$ es un entero positivo, $a^{-n}$ se define como $$a^{-n}=\frac{1}{a^n} ; a \neq 0$$
+## Raices
+Si $n$ es un entero positivo, y $a$ y $b$ son numeros tal que $a{^n}=b$, entonces se dice que $a$ es raiz enesima de $b$
+
+## Exponente Racional
+
 
 ### Propiedades
 $$b^0=1$$
-
-$$b^{-n}=\frac{1}{b^n}$$
 
 $$b^{m+n}=b^m*b^n$$
 
