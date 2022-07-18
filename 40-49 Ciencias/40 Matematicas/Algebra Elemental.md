@@ -40,10 +40,13 @@ Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principal
 
 ### Ecuaciones
 Una ecuación establece que dos expresiones son iguales usando el símbolo de igualdad, $=$ .
+Algunas ecuaciones son verdaderas para todos los valores de las variables involucradas ; tales ecuaciones se llaman identidades. Las ecuaciones condicionales son verdaderas solo para algunos valores de las variables involucradas. Los valores de las variables que hacen que la ecuación sea verdadera son las soluciones de la ecuación y se pueden encontrar resolviendo las ecuaciones.
 
-Una ecuación es la afirmación de que dos expresiones tienen el mismo valor y son iguales. Algunas ecuaciones son verdaderas para todos los valores de las variables involucradas ; tales ecuaciones se llaman identidades. Las ecuaciones condicionales son verdaderas solo para algunos valores de las variables involucradas. Los valores de las variables que hacen que la ecuación sea verdadera son las soluciones de la ecuación y se pueden encontrar resolviendo las ecuaciones.
+Otro tipo de ecuaciones son las **inecuaciones**.
 
-Otro tipo de ecuación es la desigualdad. Las desigualdades se usan para mostrar que un lado de la ecuación es mayor o menor que el otro. Los símbolos utilizados para esto son: $a > b$ donde $>$ representa 'mayor que', y $a < b$ donde $<$ representa ' menor que'. Al igual que las ecuaciones de igualdad estándar, los números se pueden sumar, restar, multiplicar o dividir. La única excepción es que al multiplicar o dividir por un número negativo, se debe voltear el símbolo de desigualdad.
+[[Orden Numerico]]
+
+Una **ecuación algebraica** en $x$ contiene solo [[Expresiones Algebraicas]].
 
 #### Propiedades de las Ecuaciones
 Por definición, la igualdad es una relación de equivalencia, lo que significa que tiene las propiedades (a) reflexiva (es decir, $b = b$), (b) simétrica (es decir, si $a=b$ entonces $b=a$) (c) transitiva (es decir, si $a=b$ y $b=c$ entonces $a=c$ . También satisface la importante propiedad de que si se usan dos símbolos para cosas iguales, entonces un símbolo puede sustituirse por el otro en cualquier enunciado verdadero sobre el primero y el enunciado seguirá siendo verdadero. Esto implica las siguientes propiedades:
@@ -59,11 +62,13 @@ Las relaciones menor que $<$ y mayor que $>$ tienen la propiedad de transitivida
 - Si $a<b$ y $c < 0$ entonces $bc < ac$
 
 #### Ecuaciones Lineares
-Las ecuaciones lineales se llaman así porque cuando se grafican, describen una línea recta. Las ecuaciones más sencillas de resolver son las ecuaciones lineales que tienen una sola variable. Contienen solo números constantes y una sola variable sin exponente.
+Son las ecuaciones más basicas en algebra
 
-Para resolver este tipo de ecuaciones, la técnica es sumar, restar, multiplicar o dividir ambos lados de la ecuación por el mismo número para aislar la variable en un lado de la ecuación. Una vez aislada la variable, el otro lado de la ecuación es el valor de la variable.
+La forma general de una ecuación lineal con una variable se puede escribir como: $ax+b = 0$ , donde $a \neq 0$ . En una ecuación lineal con una variable, $x = - \frac{b}{a}$ .
 
-La forma general de una ecuación lineal con una variable se puede escribir como: $ax+b=c$
+En general se pueden resolver estas ecuaciones creando una lista de ecuaciones equivalentes, cada una más sencilla que la anterior.
+
+En el proceso de resolver una ecuacion se puede obtener un resultado que no es solución de la ecuación. A este se le denomina **solución extraña**.
 
 Una ecuación lineal con dos variables tiene muchas (es decir, un número infinito de) soluciones.
 
