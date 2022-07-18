@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Templates -path:Cards -path:Sources -path:Calendar -path:Spaces",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,31 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#MOC",
+      "query": "tag:#on/philosophy",
       "color": {
         "a": 1,
         "rgb": 1606647
       }
     },
     {
-      "query": "path:UC",
+      "query": "tag:#Mathematics",
       "color": {
         "a": 1,
         "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Libros",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:Aprendizaje",
-      "color": {
-        "a": 1,
-        "rgb": 1769280
       }
     }
   ],
@@ -46,6 +32,6 @@
   "repelStrength": 15.2461538461538,
   "linkStrength": 0.404221212930804,
   "linkDistance": 169,
-  "scale": 0.1305106406023868,
-  "close": true
+  "scale": 0.07431470243658025,
+  "close": false
 }

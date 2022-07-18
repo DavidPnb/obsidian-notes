@@ -25,5 +25,8 @@
   "obsidian-tasks-plugin",
   "fleeting-notes-obsidian",
   "obsidian-book-search-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-charts",
+  "heatmap-calendar",
+  "obsidian-kanban"
 ]
