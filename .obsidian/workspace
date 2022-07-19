@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "600a4919934b7c1d",
+        "id": "dd9fd1104ac8dda7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40-49 Ciencias/40 Matematicas/Raices.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -37,6 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40-49 Ciencias/40 Matematicas/Raices.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40-49 Ciencias/40 Matematicas/Raices.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40-49 Ciencias/40 Matematicas/Raices.md"
+              }
             }
           }
         ]
@@ -208,17 +216,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "600a4919934b7c1d",
+  "active": "dd9fd1104ac8dda7",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Factorizacion.md",
+    "40-49 Ciencias/40 Matematicas/Raices.md",
+    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
     "00-09 PKM/01 Calendar/Untitled.md",
     "00-09 PKM/01 Calendar/+ About Calendar.md",
     "00-09 PKM/01 Calendar/+ Index for Calendar (Kit).md",
     "00-09 PKM/01 Calendar/2022-05-02.md",
     "00-09 PKM/07 Inbox/+ Cooling Pad/Ideas para Obsidian.md",
-    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
     "00-09 PKM/05 Spaces/05.01 Estudio Autodidacta/Untitled Kanban.md",
-    "00-09 PKM/05 Spaces/05.01 Estudio Autodidacta/Señales Visuales para Reconocer Sonidos de Vocales.md",
-    "00-09 PKM/05 Spaces/05.01 Estudio Autodidacta/Relación entre el Lenguaje y la Inteligencia.md",
-    "00-09 PKM/05 Spaces/05.01 Estudio Autodidacta/Propiedades Adicionales del Lenguaje.md"
+    "00-09 PKM/05 Spaces/05.01 Estudio Autodidacta/Señales Visuales para Reconocer Sonidos de Vocales.md"
   ]
 }

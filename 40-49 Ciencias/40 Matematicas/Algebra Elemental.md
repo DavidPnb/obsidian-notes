@@ -38,6 +38,9 @@ Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principal
 ## Exponentes
 [[Exponenciacion]]
 
+## Raices
+[[Raices]]
+
 ### Ecuaciones
 Una ecuación establece que dos expresiones son iguales usando el símbolo de igualdad, $=$ .
 Algunas ecuaciones son verdaderas para todos los valores de las variables involucradas ; tales ecuaciones se llaman identidades. Las ecuaciones condicionales son verdaderas solo para algunos valores de las variables involucradas. Los valores de las variables que hacen que la ecuación sea verdadera son las soluciones de la ecuación y se pueden encontrar resolviendo las ecuaciones.
