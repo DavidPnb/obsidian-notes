@@ -11,8 +11,6 @@ Un sistema matematico es una abstracción matematica definida por un conjunto de
 
 El estudio formal de un sistema matematico comienza con terminos indefinidos. A partir de esta base se pueden definir terminos adicionales. Una vez que la terminologia esta suficientemente desarrollada, ciertas propiedades del sistema se vuelven aparentes. A estas propiedades se les llaman **axiomas** o **postulados**. Una vez que se desarrolla un vocabulario y postulados aceptados, una serie de principios surgen logicamente a traves del [[Razonamiento Deductivo]]. A estos se les llama **teoremas** y pueden ser probados.
 
-![[Sistema Matematico 2022-06-29 09.09.56.excalidraw.png]]
-
 ## Caracteristicas de una Buena Definicion
 Los términos indefinidos no encajan en conjuntos o categorias previamente determinadas. Los términos definidos, sin embargo, deben ser descritos de forma precisa. Una buena definición debe cumplir con cuatro caracteristicas:
 1. Nombra al termino siendo definido

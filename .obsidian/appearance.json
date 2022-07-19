@@ -4,6 +4,7 @@
   "translucency": false,
   "enabledCssSnippets": [
     "supercharged-links-gen",
-    "shorter-links"
+    "shorter-links",
+    "mathjax-fontsize"
   ]
 }

@@ -15,7 +15,7 @@ Esta es la geometria clasica formalizada por Euclides. Euclides adoptó un enfoq
 [[Geometria Informal]]
 
 ## Definiciones y Postulados
-Como el [[40.02 Algebra]], el area de las [[40.00 Matematicas MOC|Matematicas]] conocida como geometría es un [[Sistema Matematico]]
+Como el [[40.02 Algebra|Algebra]], el area de las [[40.00 Matematicas MOC|Matematicas]] conocida como geometría es un [[Sistema Matematico]]
 
 ### Postulados Iniciales
 [[Postulados Iniciales en Geometria]]
@@ -28,8 +28,9 @@ Como el [[40.02 Algebra]], el area de las [[40.00 Matematicas MOC|Matematicas]] 
 
 [[Relaciones]]
 
- 
+## La Prueba Formal de un Teorema
+[[Partes Escritas de una Demostracion Formal]]
 
-
+Converso de una declaración
 
 ___

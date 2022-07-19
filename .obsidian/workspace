@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40-49 Ciencias/40 Matematicas/Raices.md",
+            "file": "40-49 Ciencias/40 Matematicas/Angulos.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Raices.md",
+                "file": "40-49 Ciencias/40 Matematicas/Angulos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#project",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Raices.md",
+                "file": "40-49 Ciencias/40 Matematicas/Angulos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,17 @@
             }
           },
           {
-            "id": "f618b3c967b5b54a",
+            "id": "f346fdd0e208ee80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "40-49 Ciencias/40 Matematicas/Angulos.md"
+              }
+            }
+          },
+          {
+            "id": "288f0e736fa35465",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -162,32 +172,15 @@
             }
           },
           {
-            "id": "ccafde94a330d9d0",
-            "type": "leaf",
-            "state": {
-              "type": "BC-stats",
-              "state": {}
-            }
-          },
-          {
-            "id": "1807e24986e0c2d9",
+            "id": "259c520641331072",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
               "state": {}
             }
-          },
-          {
-            "id": "f346fdd0e208ee80",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Raices.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c5227808322a596e",
@@ -218,15 +211,15 @@
   },
   "active": "dd9fd1104ac8dda7",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/Factorizacion.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
+    "40-49 Ciencias/40 Matematicas/Rectas Perpendiculares.md",
+    "40-49 Ciencias/40 Matematicas/Partes Escritas de una Demostracion Formal.md",
+    "40-49 Ciencias/40 Matematicas/Sistema Matematico.md",
+    "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
     "40-49 Ciencias/40 Matematicas/Raices.md",
-    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
-    "00-09 PKM/01 Calendar/Untitled.md",
-    "00-09 PKM/01 Calendar/+ About Calendar.md",
-    "00-09 PKM/01 Calendar/+ Index for Calendar (Kit).md",
-    "00-09 PKM/01 Calendar/2022-05-02.md",
     "00-09 PKM/07 Inbox/+ Cooling Pad/Ideas para Obsidian.md",
-    "00-09 PKM/05 Spaces/05.01 Estudio Autodidacta/Untitled Kanban.md",
-    "00-09 PKM/05 Spaces/05.01 Estudio Autodidacta/Señales Visuales para Reconocer Sonidos de Vocales.md"
+    "40-49 Ciencias/40 Matematicas/Factorizacion.md",
+    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
+    "00-09 PKM/01 Calendar/Untitled.md"
   ]
 }
