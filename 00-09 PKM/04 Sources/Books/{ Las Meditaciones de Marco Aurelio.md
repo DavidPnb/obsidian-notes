@@ -33,7 +33,7 @@ Susan Rigetti [Philosophy](https://www.susanrigetti.com/philosophy)
 
 >Cada momento, enfoca tu atención y realiza las tares con simplicidad, eficiencia y dignidad. Llena tu mente con pensamientos de amor, libertad y justicia, sin dejar espacios para pensamientos negativos o destructivos
 
->
+>La vida es un viaje. Se embarca; se navega; y, cuando se llega al lejano muelle, se abandona el bote
 
 ## 🎨 Impresiones
 
@@ -67,6 +67,17 @@ Este habla sobre uno de los conceptos fundamentales del [[Estoicismo]]. En mucha
 	- Uno de los propositos de la **razon** es mantener controlados nuestros deseos y emocionas. No actuar por medio de la razon es ir en contra de la naturaleza; [[El Valor de La Razon]]
 - En lugar de preocuparnos por las vidas de los demas, debemos enfocarnos en nuestros objetivos
 - La [[20.00 Filosofia MOC|Filosofia]] puede guiarnos a vivir acordes con nuestra naturaleza
+
+### Libro 3
+- ¿Que es lo que hace a una persona buena?
+	- Aceptar lo que el destino le ofrece
+	- No dejarse llevar por entretenimientos ni distracciones
+	- Seguir el camino de la razon
+	- Ser ejemplo de valores de justicia y honestidad
+	- Vivir con simpleza y serenidad
+- Usar la razon en este momento antes de perderla
+- Apreciar la belleza en la naturaleza
+- Recordar siempre que somos hermanos y hermanas, y tratarnos de forma acorde
 ___
 
 

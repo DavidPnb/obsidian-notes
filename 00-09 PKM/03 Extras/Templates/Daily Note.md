@@ -37,6 +37,8 @@ style: number
 - Workout::
 
 - Motivación::
+
+- Arte::
 ---
 
 ## 📅 Notas de Hoy

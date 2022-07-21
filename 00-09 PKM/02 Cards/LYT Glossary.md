@@ -33,4 +33,4 @@ tags:: #on/PKM
 	- PWM
 - **Zettel** - The German word for "Zettel" roughly translates to "Note" in English. It's helpful to think of a zettel as a unit of thought.
 - **Zettelkasten** - See [[What is a Zettelkasten - Various Answers]]
-	- See also: [[Zettelkasten and LYT Frameworks]]
+	- See also: [[Zettelkasten]]
