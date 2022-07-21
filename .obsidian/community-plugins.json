@@ -25,5 +25,6 @@
   "obsidian-git",
   "obsidian-charts",
   "heatmap-calendar",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-dynamic-toc"
 ]

@@ -1,55 +1,44 @@
 ---
-empezado el: 2022-04-22 21:48
-terminado el:
-rating:
-status: reading
-autor: Franklin Leon Rugeles 
-tags: 
-references:
-created: 2022-04-22 21:48
+alias: {title}
+created: 2022-07-20 17:39
 ---
-tags:: #source/book📚  #on/philosophy 
-up:: [[20.05 Epistemologia]]
-Links: [[20.00 Filosofia MOC]]
-___
-# {Teoria del Conocimiento
-## Fenomenologia del Conocimiento
-### La Sabiduria como Meta de la Filosofia
-[[La Sabiduria como Meta de la Filosofia]]
+# { Teoria del Conocimiento
+## Información
+tags:: #source/book📚 
+writer:: [[Franklin Leon Rugeles]]
+subject:: [[20.05 Epistemologia]]
+started:: 2022-04-22 21:48
+finished::
 
-### La Epistemiologia y el Conocimiento
-[[20.05 Epistemologia]]
+## Notas
+### Fenomenologia del Conocimiento
+- [[La Sabiduria como Meta de la Filosofia]]
 
-### Teorias de la Verdad
-[[Verdad]]
+- [[20.05 Epistemologia]]
 
-### Tipos de Mentalidad
-[[Tipos de Mentalidad]]
+- [[Verdad]]
 
-## Metodo Cientifico
-### Mentalidad Cientifica - Metodo Experimental
-[[Metodo Cientifico]]
+- [[Tipos de Mentalidad]]
 
-### Diferencia entre Filosofia y Ciencia
-[[Diferencias entre Filosofia y Ciencia]]
+### Metodo Cientifico
+- [[Metodo Cientifico]]
 
-### El Conocimiento Verdadero como Problema
-[[El Conocimiento Verdadero como Problema]]
+- [[Diferencias entre Filosofia y Ciencia]]
 
-## Posturas Frente al Conocimiento
-### La Posibilidad del Conocimiento
-- [[Dogmatismo]]
-- [[Escepticismo]]
+- [[El Conocimiento Verdadero como Problema]]
 
-### El Relativismo de la Verdad
-- [[Relativismo]]
-- [[Criticismo]]
-- [[Positivismo]]
-
-### El Origen del Conocimiento
-- [[Racionalismo]]
-- [[Escepticismo]]
-- [[Idealismo]]
+### Posturas Frente al Conocimiento
+- **La Posibilidad del Conocimiento**
+	- [[Dogmatismo]]
+	- [[Escepticismo]]
+- **El Relativismo de la Verdad**
+	- [[Relativismo]]
+	- [[Criticismo]]
+	- [[Positivismo]]
+- **El Origen del Conocimiento**
+	- [[Racionalismo]]
+	- [[Escepticismo]]
+	- [[Idealismo]]
 
 ### El Metodo del Conocimiento
 ## Corrientes Actuales del Conocimiento
