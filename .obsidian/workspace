@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-20.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-20.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-20.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-20.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md"
               }
             }
           },
@@ -209,17 +209,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "859d13792563dfdf",
+  "active": "7397358f9e37e7dc",
   "lastOpenFiles": [
+    "00-09 PKM/03 Extras/Templates/Daily Note.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-20.md",
     "20-29 Filosofia y Religion/20 Filosofia/20.05 Epistemologia.md",
     "00-09 PKM/02 Cards/Zettelkasten.md",
     "20-29 Filosofia y Religion/20 Filosofia/Responsabilidad Epistemica.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-20.md",
-    "00-09 PKM/03 Extras/Templates/Daily Note.md",
     "20-29 Filosofia y Religion/20 Filosofia/20.04 Etica.md",
     "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
     "20-29 Filosofia y Religion/20 Filosofia/Idealismo.md",
-    "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md",
-    "20-29 Filosofia y Religion/20 Filosofia/La Sabiduria como Meta de la Filosofia.md"
+    "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md"
   ]
 }
