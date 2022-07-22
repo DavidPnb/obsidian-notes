@@ -22,6 +22,7 @@ style: number
 	- Discord
 	- Youtube
 	- Anki
+	- Marcadores
 ## 📚 Leyendo
 - 
 ## 💬 Sentimientos, Observaciones, Pensamientos 
