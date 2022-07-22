@@ -42,4 +42,7 @@ Las operaciones fundamentales de un lenguaje de programación son:
 [[Aritmetica]]
 
 Estas siguen el orden de las operaciones, y se pueden usar parentesis para especificar un orden de evaluación especifico
+
+## Variables
+Las variables son una forma de asignar una referencia en la memoria con un valor y relacionarla con un nombre para ser usada mas tarde ; [[Arquitectura de Computadoras]] . Esta es la principal manera de mantener **abstracción** en un lenguaje de programación, lo que facilita mucho la forma en que creamos y mantenemos nuestros programas.
 ___

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7397358f9e37e7dc",
+        "id": "e9c835007fe9e190",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -209,17 +209,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "7397358f9e37e7dc",
+  "active": "e9c835007fe9e190",
   "lastOpenFiles": [
-    "00-09 PKM/03 Extras/Templates/Daily Note.md",
+    "40-49 Ciencias/41 CS/Lenguajes de Programacion.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md",
+    "40-49 Ciencias/41 CS/Ciencias de la Computacion MOC.md",
+    "40-49 Ciencias/41 CS/Computadoras.md",
+    "40-49 Ciencias/41 CS/41.01 CyberSec-IT/Codificacion Binaria.md",
+    "30-39 Lenguajes/30 Linguistica/Sistemas de Numeracion.md",
+    "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
+    "40-49 Ciencias/40 Matematicas/Sistema Binario.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-20.md",
-    "20-29 Filosofia y Religion/20 Filosofia/20.05 Epistemologia.md",
-    "00-09 PKM/02 Cards/Zettelkasten.md",
-    "20-29 Filosofia y Religion/20 Filosofia/Responsabilidad Epistemica.md",
-    "20-29 Filosofia y Religion/20 Filosofia/20.04 Etica.md",
-    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
-    "20-29 Filosofia y Religion/20 Filosofia/Idealismo.md",
-    "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md"
+    "00-09 PKM/03 Extras/Templates/Daily Note.md"
   ]
 }

@@ -1,7 +1,7 @@
 ---
 created: ["{{date}} {{time}}"]
 tags:
-- PeriodicNotes/DaiLy
+- PeriodicNotes/Daily
 ---
 
 # 📅 Nota Diaria {{date: DD-MM-YYYY}}
@@ -49,5 +49,5 @@ style: number
 ```dataview
 LIST 
 FROM !"00-09 PKM" 
-WHERE file.mtime >= date(today) - dur(1 day)
+WHERE contains(created, "{{date}}")
 ```

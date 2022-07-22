@@ -5,7 +5,7 @@ references:
 created: 2022-06-09 12:00
 ---
 tags:: #atlas/MOC🗺 
-up:: [[+ Index for Atlases (Kit)]]
+up:: 
 Links: 
 # Ciencias de la Computacion MOC
 ## Principios

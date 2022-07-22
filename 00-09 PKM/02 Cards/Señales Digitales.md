@@ -42,5 +42,5 @@ Luego de que se toman las muestras, se ve cuanto vale cada una para poder enviar
 A esto se le llama matematica binaria, porque usa dos cifras para todas las operaciones, lo que hacen los dispositivos digitales es manejar los numeros con esta codificacion. A estas señales se les llama digitales porque utilizan numeros o digitos.
 
 ## Bits
-[[Bits]]
+[[Codificacion Binaria]]
 ___
