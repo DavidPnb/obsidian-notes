@@ -3,8 +3,8 @@ status:
 references:
 created: 2022-07-02 20:30
 ---
-tags:: #metalearning 
-up:: [[{ 10 Steps to Earning Awesome Grades (While Studying Less)]]
+tags:: #productivity 
+up:: [[Desarrollo Personal y Aprendizaje MOC]]
 Links: 
 # Sacarle más Provecho a los Libros
 ### No Hacer Todas las Lecturas Asignadas

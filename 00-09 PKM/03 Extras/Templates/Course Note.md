@@ -2,7 +2,7 @@
 
 created: ["{{date}} {{time}}"]
 
-aliases: ["{{title}}"]
+aliases: [""]
 
 ---
 

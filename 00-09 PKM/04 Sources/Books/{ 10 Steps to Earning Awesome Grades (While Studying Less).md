@@ -33,13 +33,14 @@ finished::
 ## ✍️ 3 Mejores Citas
 >Enfocarse en la meta final, no como la recompensa tangible, sino como el estado que se quiere adquirir
 
->La parte mas importante del juego son tus piezas
+>La mente es para tener ideas, no mantenerlas
 
 >Que tanto se lee es inmaterial, como se lee es crucial
 
 ## 🎨 Impresiones
 
 ## ☘️ Como me Cambio el Libro
+- Ayudarme a Organizar Notas Semanales
 
 ## 📒 Proposito del Autor
 - Ayudar a obtener mejores calificaciones y reducir el tiempo de estudio necesario para el desempeño optimo en estudios universitarios
@@ -86,6 +87,12 @@ Las buenas notas deben enfocarse en el **aprendizaje**, en lugar de simplemente 
 El lugar donde estudiamos es un factor importante en el proceso de aprendizaje, por eso lo mejor es diseñarlo deliberadamente
 
 [[Mejorar el Lugar de Estudio]]
+
+### Pelear Contra la Entropía y Mantenerse Organizado
+Tener un sistema organizado no garantiza que cumpliremos con nuestras tareas, pero mejora las posibilidades de que lo hagamos
+
+[[Mantenerse Organizado]]
+
 ___
 
 
