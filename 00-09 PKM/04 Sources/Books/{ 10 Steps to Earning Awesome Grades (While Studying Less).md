@@ -7,7 +7,7 @@ created: 2022-06-11 17:26
 ## Información
 tags:: #source/book📚 
 writer:: [[Thomas Frank]]
-subject:: [[Desarrollo Personal y Aprendizaje MOC]]
+subject:: [[10 Metaaprendizaje MOC]]
 started:: 2022-06-11 17:26
 finished:: 
 

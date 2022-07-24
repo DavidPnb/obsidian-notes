@@ -1,0 +1,31 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "folder": "00-09 PKM/01 Calendar/01.01 Daily",
+    "template": "00-09 PKM/03 Extras/Templates/Daily Note",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "00-09 PKM/03 Extras/Templates/Weekly Note.md",
+    "folder": "00-09 PKM/01 Calendar/01.02 Weekly",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

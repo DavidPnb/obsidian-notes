@@ -4,7 +4,7 @@ references:
 created: 2022-07-17 15:36
 ---
 tags:: #productivity
-up:: [[Desarrollo Personal y Aprendizaje MOC]]
+up:: [[10 Metaaprendizaje MOC]]
 Links: 
 # Mejorar el Lugar de Estudio
 ## Localización

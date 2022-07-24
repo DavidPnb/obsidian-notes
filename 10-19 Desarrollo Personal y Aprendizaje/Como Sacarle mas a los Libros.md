@@ -4,7 +4,7 @@ references:
 created: 2022-07-02 20:30
 ---
 tags:: #productivity 
-up:: [[Desarrollo Personal y Aprendizaje MOC]]
+up:: [[10 Metaaprendizaje MOC]]
 Links: 
 # Sacarle más Provecho a los Libros
 ### No Hacer Todas las Lecturas Asignadas

@@ -4,7 +4,7 @@ references:
 created: 2022-07-02 21:51
 ---
 tags:: #metalearning 
-up:: [[Desarrollo Personal y Aprendizaje MOC]]
+up:: [[10 Metaaprendizaje MOC]]
 Links: 
 # Consejos de Estudio
 1. Estudiar de forma autodidacta y hacer una investigación antes de ver el contenido. Cada persona aprende de formas diferentes

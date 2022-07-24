@@ -4,7 +4,7 @@ references:
 created: 2022-07-24 10:46
 ---
 tags:: #productivity 
-up:: [[Desarrollo Personal y Aprendizaje MOC]]
+up:: [[10 Metaaprendizaje MOC]]
 Links: 
 # Mantenerse Organizado
 ## Organizar los Archivos de la Forma Correcta
