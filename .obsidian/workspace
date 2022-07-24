@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-23.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-23.md"
               }
             }
           },
@@ -211,8 +211,8 @@
   },
   "active": "e9c835007fe9e190",
   "lastOpenFiles": [
-    "40-49 Ciencias/41 CS/Lenguajes de Programacion.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md",
+    "40-49 Ciencias/41 CS/Lenguajes de Programacion.md",
     "40-49 Ciencias/41 CS/Ciencias de la Computacion MOC.md",
     "40-49 Ciencias/41 CS/Computadoras.md",
     "40-49 Ciencias/41 CS/41.01 CyberSec-IT/Codificacion Binaria.md",
