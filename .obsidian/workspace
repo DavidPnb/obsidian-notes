@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
+            "file": "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
+                "file": "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
+                "file": "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md"
+                "file": "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md"
               }
             }
           },
@@ -210,10 +210,10 @@
   },
   "active": "9dae129f01f3a496",
   "lastOpenFiles": [
-    "00-09 PKM/03 Extras/Templates/Weekly Note.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-23.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
+    "00-09 PKM/03 Extras/Templates/Weekly Note.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-23.md",
     "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
     "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
     "00-09 PKM/03 Extras/Templates/Course Note.md",
