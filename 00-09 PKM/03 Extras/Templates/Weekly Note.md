@@ -1,5 +1,5 @@
 ---
-created: ["{{date}} {{time}}"]
+created: ["{{date}}"]
 tags: 
 - PeriodicNotes/Weekly
 ---
@@ -14,17 +14,17 @@ TABLE WITHOUT ID
 	Arte AS "✨",
 	Estudio AS "✏️",
 	Workout AS "💪",
-	Motivacion AS "💹"
-WHERE file.folder = "00-09 PKM/01 Calendar/01.01 Daily" AND
- contains(tag, "#PeriodicNotes/Daily") 
+	Motivación AS "💹"
+WHERE file.folder = "00-09 PKM/01 Calendar/01.01 Daily" AND 
+contains("created", "{{date}}")
 SORT file.name ASC
 ```
 
 ### 📑 Reviews
-- [ ]  📅 {{date}} 🔼 Organizar Sistema de Archivos
-- [ ]  📅 {{date}} 🔼 Organizar Inbox
-- [ ]  📅 {{date}} 🔼 Finalizar, Borrar, o Reprogramar Tareas
-- [ ]  📅 {{date}} 🔼 Mover Recordatorios e Información de las Notas Diarias
+- [ ]  📅  🔼 Organizar Sistema de Archivos
+- [ ]  📅  🔼 Organizar Inbox
+- [ ]  📅  🔼 Finalizar, Borrar, o Reprogramar Tareas
+- [ ]  📅  🔼 Mover Recordatorios e Información de las Notas Diarias
 
 ### 🔃 Reflexión
 - 

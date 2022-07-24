@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
+            "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md"
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md"
               }
             }
           },
@@ -208,17 +208,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "a8116fcfea678d42",
+  "active": "9dae129f01f3a496",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
     "00-09 PKM/03 Extras/Templates/Weekly Note.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-23.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md",
+    "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
+    "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
     "00-09 PKM/03 Extras/Templates/Course Note.md",
     "10-19 Desarrollo Personal y Aprendizaje/Mantenerse Organizado.md",
     "Desarrollo Personal y Aprendizaje MOC.md",
-    "00-09 PKM/04 Sources/Courses/% Learning How to Learn.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Como Sacarle mas a los Libros.md",
-    "00-09 PKM/03 Extras/Templates/Course Template.md"
+    "00-09 PKM/04 Sources/Courses/% Learning How to Learn.md"
   ]
 }
