@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-25.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-25.md"
               }
             }
           },
@@ -210,9 +210,9 @@
   },
   "active": "5c982ed49e5d6191",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-25.md",
     "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
-    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
     "40-49 Ciencias/40 Matematicas/Numeros.md",
     "40-49 Ciencias/40 Matematicas/Numeros Complejos.md",
     "40-49 Ciencias/40 Matematicas/Teoria de Conjuntos.md",
