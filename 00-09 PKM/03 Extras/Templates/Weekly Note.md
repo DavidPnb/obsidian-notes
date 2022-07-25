@@ -16,7 +16,7 @@ TABLE WITHOUT ID
 	Workout AS "💪",
 	Motivación AS "💹"
 WHERE file.folder = "00-09 PKM/01 Calendar/01.01 Daily" AND 
-contains("created", "{{date}}")
+contains(tag, "{{date}}")
 SORT file.name ASC
 ```
 

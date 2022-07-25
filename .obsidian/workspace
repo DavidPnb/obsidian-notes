@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9dae129f01f3a496",
+        "id": "5c982ed49e5d6191",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md",
+            "file": "00-09 PKM/07 Inbox/+ Unsorted/Elogio de la Pereza.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md",
+                "file": "00-09 PKM/07 Inbox/+ Unsorted/Elogio de la Pereza.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PeriodicNotes/Daily",
+                "query": "tag:#PeriodicNotes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md",
+                "file": "00-09 PKM/07 Inbox/+ Unsorted/Elogio de la Pereza.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md"
+                "file": "00-09 PKM/07 Inbox/+ Unsorted/Elogio de la Pereza.md"
               }
             }
           },
@@ -208,17 +208,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "9dae129f01f3a496",
+  "active": "5c982ed49e5d6191",
   "lastOpenFiles": [
-    "30-39 Lenguajes/30 Linguistica/Teorias sobre el Origen del Lenguaje.md",
-    "30-39 Lenguajes/30 Linguistica/Comunicación entre Humanos y Animales.md",
-    "00-09 PKM/05 Spaces/05.01 Estudio Autodidacta/Descripcion Fonetica de Patrones Regulares de Sonido en Expresiones en Ingles.md",
-    "00-09 PKM/05 Spaces/05.01 Estudio Autodidacta/Reportes de Linguistica en Chimpances.md",
-    "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md",
-    "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md",
-    "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
-    "00-09 PKM/03 Extras/Templates/Weekly Note.md"
+    "00-09 PKM/07 Inbox/+ Unsorted/Elogio de la Pereza.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-20.md",
+    "00-09 PKM/07 Inbox/+ Unsorted/Sujeto Sujetado y Sujeto Otro.md",
+    "00-09 PKM/07 Inbox/+ Cooling Pad/Ley de la Atraccion.md",
+    "00-09 PKM/07 Inbox/+ Cooling Pad/Ideas para Obsidian.md",
+    "00-09 PKM/07 Inbox/+ Cooling Pad/Solipsismo.md",
+    "00-09 PKM/07 Inbox/+ Cooling Pad/Unicode.md",
+    "00-09 PKM/07 Inbox/+ About Encounters.md",
+    "40-49 Ciencias/41 CS/41.01 CyberSec-IT/Codificacion Binaria.md"
   ]
 }
