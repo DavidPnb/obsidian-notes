@@ -42,7 +42,7 @@ Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principal
 [[Raices]]
 
 ## Operaciones Simples con Numeros Complejos
-
+[[Numeros Complejos]]
 
 ### Ecuaciones
 Una ecuación establece que dos expresiones son iguales usando el símbolo de igualdad, $=$ .

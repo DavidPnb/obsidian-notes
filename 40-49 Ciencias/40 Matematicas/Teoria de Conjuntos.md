@@ -26,7 +26,7 @@ Es el conjunto sin elementos, denotado por $\emptyset$ o $\{ \}$
 Es el conjunto que contiene todos los elementos de interes, denotado por $U$
 
 ### Conjuntos Numericos
-- $\mathbb{C}$ - Numeros Complejos
+- $\mathbb{C}$ - [[Numeros Complejos]]
 - $\mathbb{R}$ - [[Numeros Reales]]
 - $\mathbb{Q}$ - Numeros Racionales
 - $\mathbb{Z}$ - Numeros Enteros
