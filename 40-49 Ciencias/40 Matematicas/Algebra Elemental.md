@@ -88,9 +88,16 @@ Una ecuación cuadrática es aquella que incluye un término con un exponente de
 Resolver esta ecuacion completando el cuadrado, conlleva a la formula cuadratica
 $x=\frac{-b \pm \sqrt {b^2-4ac}}{2a}$
 
+El numero dentro de la raiz se llama **discriminante** y se puede usar para determinar la naturaleza de las raíces de la ecuación. Si el discriminante es positivo, hay dos raíces diferentes; si el discriminante es cero, hay dos raíces iguales; si el discriminante es negativo, no tiene raíces reales.
+
 Las ecuaciones cuadraticas tambien se pueden resolver por factorizacion
 
-Todas las ecuaciones cuadráticas tienen exactamente dos soluciones en números complejos (pero pueden ser iguales entre sí), una categoría que incluye números reales, números imaginarios y sumas de números reales e imaginarios.
+Todas las ecuaciones cuadráticas tienen exactamente dos soluciones en [[Numeros Complejos]] (pero pueden ser iguales entre sí.
+
+##### Completar el Cuadrado
+Para completar el cuadrado para $x^2+kx$ o $x^2-kx$ se suma $(\frac{k}{2})^2$
+1. $x^2+kx+(\frac{k}{2})^2=(x+\frac{k}{2})^2$
+2. $x^2-kx+(\frac{k}{2})^2=(x-\frac{k}{2})^2$
 
 ![[Pasted image 20220324193058.png]]
 

@@ -29,4 +29,11 @@ El Nacimiento del Calculo se debe tanto al conjunto de ideas separadas de antece
 Si se divide el fluxión de $y$ entre el fluxión de $x$, obtenemos la razon de cambio de $y$ con respecto a $x$ . La interpretación geometrica de esto es la pendiente de la recta tangente a la curva en el punto $P(x,y)$. Newton ademas reconocio que el problema de la tangente y el problema del area son problemas inversos, lo que se conoce como el teorema fundamental del Calculo.
 
 La invención del calculo fue el evento más importante de la historia de las matematicas desde los Elementos de Euclides, y afecto a casi todas las areas de las ciencias, tanto puras como aplicadas. Aun asi, Newton decidio mantener privados sus descubrimientos, compartiendolos solo con un grupo selecto de colegas y estudiantes, dando origen a una polemica que sacudiria a la comunidad científica por más de 200 años.
+
+## La Gran Controversia
+A diferencia de Newton, que le dio un enfoque físico a su metodo de fluxiones, Leibniz, de gran interes filósofico, definio su calculo de manera más abstracta usando diferenciales, y aunque los metodos eran iguales en sustancia, la notación de Leibniz era muy superior a la de Newton. 
+
+Además, Leibniz llego a una serie reglas generales conocidas como leyes de derivación, y al igual que Newton, se topo con las Integrales, ideando también el teorema fundamental del calculo y sus propias leyes de integración; sin embargo, no existe la ley del producto en las Integrales, y por eso se les considera mucho más dificiles que las derivadas.
+
+La polemica surge con un pequeño vistazo de Leibniz al metodo de Newton. Esto empezo con una disputa en la que la *Royal Society*, presidida por el mismo Newton, acusa a Leibniz de plagio. Debido a esto, Leibniz murio estando en el olvido, mientras que Newton fue considerado un heroe nacional y recibio un funeral estatal. Esta polemica termino por frenar el desarrollo matematico ingles hasta el siglo XIX.
 ___
