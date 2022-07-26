@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-25.md",
+            "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-25.md",
+                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-25.md",
+                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-25.md"
+                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md"
               }
             }
           },
@@ -210,15 +210,15 @@
   },
   "active": "5c982ed49e5d6191",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Numeros Reales.md",
     "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
+    "40-49 Ciencias/40 Matematicas/Ecuaciones.md",
+    "40-49 Ciencias/40 Matematicas/Expresiones Algebraicas.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-26.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-25.md",
     "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
     "40-49 Ciencias/40 Matematicas/Numeros.md",
-    "40-49 Ciencias/40 Matematicas/Numeros Complejos.md",
-    "40-49 Ciencias/40 Matematicas/Teoria de Conjuntos.md",
-    "00-09 PKM/07 Inbox/+ Unsorted/Elogio de la Pereza.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-20.md",
-    "00-09 PKM/07 Inbox/+ Unsorted/Sujeto Sujetado y Sujeto Otro.md"
+    "40-49 Ciencias/40 Matematicas/Numeros Complejos.md"
   ]
 }

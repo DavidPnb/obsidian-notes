@@ -7,7 +7,11 @@ tags:: #Mathematics
 up:: [[40.02 Algebra]]
 Links:  
 # Algebra Elemental
-Es la forma mas basica de [[40.02 Algebra]], una de las ramas mas grandes de las [[40.00 Matematicas MOC|Matematicas]].
+Es la forma mas basica de [[40.02 Algebra|Algebra]], una de las ramas mas grandes de las [[40.00 Matematicas MOC|Matematicas]].
+
+```toc
+style: number
+```
 
 ## Operaciones Fundamentales con Numeros
 Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principales. Estas son adición, sustraccion, multiplicacion y division; [[Operaciones con Enteros]].
@@ -44,21 +48,8 @@ Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principal
 ## Operaciones Simples con Numeros Complejos
 [[Numeros Complejos]]
 
-### Ecuaciones
-Una ecuación establece que dos expresiones son iguales usando el símbolo de igualdad, $=$ .
-Algunas ecuaciones son verdaderas para todos los valores de las variables involucradas ; tales ecuaciones se llaman identidades. Las ecuaciones condicionales son verdaderas solo para algunos valores de las variables involucradas. Los valores de las variables que hacen que la ecuación sea verdadera son las soluciones de la ecuación y se pueden encontrar resolviendo las ecuaciones.
-
-Otro tipo de ecuaciones son las **inecuaciones**.
-
-[[Orden Numerico]]
-
-Una **ecuación algebraica** en $x$ contiene solo [[Expresiones Algebraicas]].
-
-#### Propiedades de las Ecuaciones
-Por definición, la igualdad es una relación de equivalencia, lo que significa que tiene las propiedades (a) reflexiva (es decir, $b = b$), (b) simétrica (es decir, si $a=b$ entonces $b=a$) (c) transitiva (es decir, si $a=b$ y $b=c$ entonces $a=c$ . También satisface la importante propiedad de que si se usan dos símbolos para cosas iguales, entonces un símbolo puede sustituirse por el otro en cualquier enunciado verdadero sobre el primero y el enunciado seguirá siendo verdadero. Esto implica las siguientes propiedades:
-- si $a=b$ y $c = d$ entonces $a + c = b + d$ y $ac = bd$
-- si $a=b$ entonces $a + c = b + c$ y $ac=bc$
-- más generalmente, para cualquier función f, si $a=b$ entonces $f(a)=f(b)$
+## Ecuaciones en General
+[[Ecuaciones]]
 
 #### Propiedades de las Inecuaciones
 Las relaciones menor que $<$ y mayor que $>$ tienen la propiedad de transitividad:
