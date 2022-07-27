@@ -30,4 +30,14 @@ En la [[Geometria Euclideana]], interpretamos los [[Planos]] como superficies pl
 > [!teorema]-
 > Si dos rectas paralelas son cortadas por una [[Rectas Transversales|Transversal]], entonces los pares de angulos interiores alternos son congruentes
 
+> [!teorema]-
+> Si dos rectas paralelas son cortadas por una [[Rectas Transversales|Transversal]], entonces los pares de angulos exteriores alternos son congruentes
+
+## Rectas Paralelas y Angulos Suplementarios
+> [!teorema]-
+> Si dos rectas paralelas son cortadas por una [[Rectas Transversales|Transversal]], entonces los pares de angulos interiores en el mismo lado de la transversal son suplementarios 
+
+> [!teorema]-
+>Si dos rectas paralelas son cortadas por una [[Rectas Transversales|Transversal]], entonces los pares de angulos exteriores en el mismo lado de la transversal son suplementarios
+
 ___

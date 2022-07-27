@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,15 +200,15 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "935d609eb82f250d",
+  "active": "5c982ed49e5d6191",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/Teoremas Geometricos Utiles para Demostraciones.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
     "40-49 Ciencias/40 Matematicas/Rectas Paralelas.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md",
+    "40-49 Ciencias/40 Matematicas/Teoremas Geometricos Utiles para Demostraciones.md",
     "40-49 Ciencias/40 Matematicas/Angulos.md",
     "40-49 Ciencias/40 Matematicas/Rectas Transversales.md",
     "40-49 Ciencias/40 Matematicas/Angulos Transversales.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md",
     "40-49 Ciencias/40 Matematicas/Geometria Informal.md",
     "40-49 Ciencias/40 Matematicas/Rectas Perpendiculares.md",
     "00-09 PKM/02 Cards/Postulados Iniciales en Geometria.md"
