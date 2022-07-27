@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40-49 Ciencias/40 Matematicas/Rectas Transversales.md",
+            "file": "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Rectas Transversales.md",
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PeriodicNotes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,14 +122,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Rectas Transversales.md",
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Rectas Transversales.md"
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md"
               }
             }
           },
@@ -200,17 +199,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "5c982ed49e5d6191",
+  "active": "935d609eb82f250d",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
     "40-49 Ciencias/40 Matematicas/Teoremas Geometricos Utiles para Demostraciones.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Informal.md",
-    "40-49 Ciencias/40 Matematicas/Angulos.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
     "40-49 Ciencias/40 Matematicas/Rectas Paralelas.md",
+    "40-49 Ciencias/40 Matematicas/Angulos.md",
+    "40-49 Ciencias/40 Matematicas/Rectas Transversales.md",
+    "40-49 Ciencias/40 Matematicas/Angulos Transversales.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Informal.md",
     "40-49 Ciencias/40 Matematicas/Rectas Perpendiculares.md",
-    "00-09 PKM/02 Cards/Postulados Iniciales en Geometria.md",
-    "40-49 Ciencias/40 Matematicas/Postulado de Paralelismo.md",
-    "40-49 Ciencias/40 Matematicas/40.01 Logica Matematica.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-26.md"
+    "00-09 PKM/02 Cards/Postulados Iniciales en Geometria.md"
   ]
 }

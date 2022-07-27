@@ -62,4 +62,6 @@ La congruencia de angulos es una **relacion de equivalencia**; [[Relaciones]].
 > [!teorema]-
 >Si dos rectas se intersectan, los angulos verticales que se forman son congruentes
 
+## Angulos Especiales
+[[Angulos Transversales]]
 ___
