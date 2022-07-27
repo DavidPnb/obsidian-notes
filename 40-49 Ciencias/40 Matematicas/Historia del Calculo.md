@@ -36,4 +36,15 @@ A diferencia de Newton, que le dio un enfoque físico a su metodo de fluxiones, 
 Además, Leibniz llego a una serie reglas generales conocidas como leyes de derivación, y al igual que Newton, se topo con las Integrales, ideando también el teorema fundamental del calculo y sus propias leyes de integración; sin embargo, no existe la ley del producto en las Integrales, y por eso se les considera mucho más dificiles que las derivadas.
 
 La polemica surge con un pequeño vistazo de Leibniz al metodo de Newton. Esto empezo con una disputa en la que la *Royal Society*, presidida por el mismo Newton, acusa a Leibniz de plagio. Debido a esto, Leibniz murio estando en el olvido, mientras que Newton fue considerado un heroe nacional y recibio un funeral estatal. Esta polemica termino por frenar el desarrollo matematico ingles hasta el siglo XIX.
+
+### Evolución de la Notación
+Cuando Newton invento su **metodo de fluxiones**, este puso un punto por encima de la letra cuyo fluxión se iba a encontrar, esta notación de punto era tediosa. Para encontrar la derivada se debia encontrar la relación entre dos fluxiones, $y$ y $x$ , a través del tiempo.
+
+La notación de punto sobrevivio en Inglaterra por más de un siglo, aunque Europa Continental adopto la notación de Leibniz, $dy/dx$ . Leibniz penso en $dy$ y $dx$ como pequeños incrementos en las variables $x$ y $x$ , y a $dy/dx$ como la tasa de cambio de $y$ con respecto a $x$ . Hoy en día se usa $\Delta x / \Delta y$  para denotar a los diferenciales de Leibniz, y se interpreta a $dy/dx$ como el limite cuando $\Delta x$ y $\Delta y$ tienden a $0$ .
+
+La notación $dy/dx$ es bastante sugerente y en varios sentidos puede tratarse como una fracción comun. 
+
+Otra notación para la derivada tiene como ventaja su brevedad, si $y = f(x)$, su derivada es $f´(x)$ . Si la función es de dos variables independientes se debe especificar que variable se va a diferenciar, para esto se usa $\partial$ en lugar de la $d$ romana. En esta notación todas las variables excepto las indicadas se mantienen constantes.
+
+Una notación aun más breve es el uso del operador $D$ para indicar la derivada. Este uso operacional fue usado por el ingeniero electrico ingles Olivier Heaviside para resolver numerosos problemas de aplicación, tratandolo como una cantidad algebraica, pese al disgusto de matematicos profesionales. Eventualmente, las ideas de Heaviside encontraron justificación formal con el más avanzado metodo de la transformada de Laplace.
 ___
