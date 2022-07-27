@@ -193,14 +193,6 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "b838bcaf5684e576",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -208,17 +200,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "5c982ed49e5d6191",
+  "active": "859d13792563dfdf",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md",
+    "40-49 Ciencias/40 Matematicas/Funciones Exponenciales.md",
+    "40-49 Ciencias/40 Matematicas/40.04 Teoria de los Numeros.md",
+    "00-09 PKM/07 Inbox/+ Cooling Pad/Unicode.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-26.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
     "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
     "40-49 Ciencias/40 Matematicas/Numeros Reales.md",
     "40-49 Ciencias/40 Matematicas/Ecuaciones.md",
-    "40-49 Ciencias/40 Matematicas/Expresiones Algebraicas.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-25.md",
-    "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
-    "40-49 Ciencias/40 Matematicas/Numeros.md",
-    "40-49 Ciencias/40 Matematicas/Numeros Complejos.md"
+    "40-49 Ciencias/40 Matematicas/Expresiones Algebraicas.md"
   ]
 }
