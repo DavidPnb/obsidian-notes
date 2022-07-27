@@ -55,7 +55,7 @@ Es la familia de planos que pasan por la interseccion de $\pi_1$ y $\pi_2$
 ### Posiciones Relativas entre Planos
 1. Si $\pi_1$ y $\pi_2$ no se intersectan, entonces son paralelos. Esto significa que un plano tambien es perpendicular a la normal del otro plano y por lo tanto $\overrightarrow{N_1}= \lambda \overrightarrow{N_2}$.
 
-2. Si $\pi_1$ y $\pi_2$ no son paralelos, estos se intersectan formando una recta. El angulo entre $\pi_1$ y $\pi_2$ es el mismo angulo entre $\overrightarrow{N_1}$ y $\overrightarrow{N_2}$ ya que los angulos de lados perpendiculares son iguales.
+2. Si $\pi_1$ y $\pi_2$ no son paralelos, estos se intersectan formando una recta. El angulo entre $\pi_1$ y $\pi_2$ es el mismo angulo entre $\overrightarrow{N_1}$ y $\overrightarrow{N_2}$ ya que los [[angulos]] de lados perpendiculares son iguales.
 
 	Si $\overrightarrow{N_1} * \overrightarrow{N_2}>0$, el angulo es menor que $90°$.
 

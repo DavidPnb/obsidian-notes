@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-26.md",
+            "file": "40-49 Ciencias/40 Matematicas/Rectas Transversales.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-26.md",
+                "file": "40-49 Ciencias/40 Matematicas/Rectas Transversales.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 1,
                   "linkDistance": 261,
-                  "scale": 0.07431471009954946,
+                  "scale": 0.07431471009954947,
                   "close": false
                 }
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-26.md",
+                "file": "40-49 Ciencias/40 Matematicas/Rectas Transversales.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-26.md"
+                "file": "40-49 Ciencias/40 Matematicas/Rectas Transversales.md"
               }
             }
           },
@@ -202,15 +202,15 @@
   },
   "active": "5c982ed49e5d6191",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-26.md",
-    "40-49 Ciencias/40 Matematicas/Funciones Exponenciales.md",
-    "40-49 Ciencias/40 Matematicas/40.04 Teoria de los Numeros.md",
-    "00-09 PKM/07 Inbox/+ Cooling Pad/Unicode.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W29.md",
-    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
-    "40-49 Ciencias/40 Matematicas/Numeros Reales.md",
-    "40-49 Ciencias/40 Matematicas/Ecuaciones.md",
-    "40-49 Ciencias/40 Matematicas/Expresiones Algebraicas.md"
+    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
+    "40-49 Ciencias/40 Matematicas/Teoremas Geometricos Utiles para Demostraciones.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Informal.md",
+    "40-49 Ciencias/40 Matematicas/Angulos.md",
+    "40-49 Ciencias/40 Matematicas/Rectas Paralelas.md",
+    "40-49 Ciencias/40 Matematicas/Rectas Perpendiculares.md",
+    "00-09 PKM/02 Cards/Postulados Iniciales en Geometria.md",
+    "40-49 Ciencias/40 Matematicas/Postulado de Paralelismo.md",
+    "40-49 Ciencias/40 Matematicas/40.01 Logica Matematica.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-26.md"
   ]
 }

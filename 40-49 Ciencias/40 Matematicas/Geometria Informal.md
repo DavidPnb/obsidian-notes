@@ -35,7 +35,7 @@ Si dos segmentos tienen la misma medida, se dice que son **congruentes**. En gen
 - En general, la palabra **bisecar** significa separar un segmento o angulo en dos partes de igual medida
 - De igual forma, la palabra **trisecar** significa separar un segmento o angulo en tres partes de igual medida
 - Cuando dos rectas tienen un punto en comun, se dice que se **intersectan**
-- Cuando dos rectas se intersectan y forman angulos adyacentes congruentes, se dice que son **perpendiculares**
+- Cuando dos rectas se intersectan y forman [[angulos]] adyacentes congruentes, se dice que son **perpendiculares**
 
 [[Angulos]]
 
