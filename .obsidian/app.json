@@ -14,5 +14,8 @@
   "strictLineBreaks": true,
   "promptDelete": true,
   "newFileLocation": "current",
-  "livePreview": true
+  "livePreview": true,
+  "userIgnoreFilters": [
+    "00-09 PKM/01 Calendar/"
+  ]
 }

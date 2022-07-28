@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5c982ed49e5d6191",
+        "id": "c6fff10b7f8d2e76",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -41,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,14 +124,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md"
               }
             }
           },
@@ -200,17 +201,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "5c982ed49e5d6191",
+  "active": "c6fff10b7f8d2e76",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/Rectas Paralelas.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
+    "20-29 Filosofia y Religion/20 Filosofia/Apuesta de Pascal.md",
+    "20-29 Filosofia y Religion/20 Filosofia/Responsabilidad Epistemica.md",
+    "20-29 Filosofia y Religion/20 Filosofia/Teologia Natural.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md",
-    "40-49 Ciencias/40 Matematicas/Teoremas Geometricos Utiles para Demostraciones.md",
-    "40-49 Ciencias/40 Matematicas/Angulos.md",
-    "40-49 Ciencias/40 Matematicas/Rectas Transversales.md",
-    "40-49 Ciencias/40 Matematicas/Angulos Transversales.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Informal.md",
-    "40-49 Ciencias/40 Matematicas/Rectas Perpendiculares.md",
-    "00-09 PKM/02 Cards/Postulados Iniciales en Geometria.md"
+    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
+    "20-29 Filosofia y Religion/20 Filosofia/20.02 Estetica.md",
+    "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md",
+    "20-29 Filosofia y Religion/20 Filosofia/Materialismo.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-26.md",
+    "40-49 Ciencias/40 Matematicas/Rectas Paralelas.md"
   ]
 }

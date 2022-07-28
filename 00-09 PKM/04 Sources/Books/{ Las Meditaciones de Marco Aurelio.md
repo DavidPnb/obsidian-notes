@@ -33,7 +33,7 @@ Susan Rigetti [Philosophy](https://www.susanrigetti.com/philosophy)
 
 >Cada momento, enfoca tu atención y realiza las tares con simplicidad, eficiencia y dignidad. Llena tu mente con pensamientos de amor, libertad y justicia, sin dejar espacios para pensamientos negativos o destructivos
 
->La vida es un viaje. Se embarca; se navega; y, cuando se llega al lejano muelle, se abandona el bote
+>Para cambiar tu experiencia, cambia tu opinion
 
 ## 🎨 Impresiones
 
@@ -78,6 +78,16 @@ Este habla sobre uno de los conceptos fundamentales del [[Estoicismo]]. En mucha
 - Usar la razon en este momento antes de perderla
 - Apreciar la belleza en la naturaleza
 - Recordar siempre que somos hermanos y hermanas, y tratarnos de forma acorde
+
+### Libro 4
+- Esta en nuestro poder encontrar refugio en cualquier momento dentro de nuestra propia mente
+- Para cambiar tu experiencia, cambia tu opinion
+- Siempre sigue estas dos reglas
+	- Piensa de acuerdo con la razon
+	- Actua de acuerdo con la razon
+- La belleza no depende de la opinion subjetiva; [[20.02 Estetica|Estetica]] 
+- No juzgar a las personas por circunstancias exteriores y apariencias
+
 ___
 
 

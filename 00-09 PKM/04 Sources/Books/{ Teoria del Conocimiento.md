@@ -14,7 +14,7 @@ finished::
 ### Fenomenologia del Conocimiento
 - [[La Sabiduria como Meta de la Filosofia]]
 
-- [[20.05 Epistemologia]]
+- [[20.05 Epistemologia|Teoria del Conocimiento]]
 
 - [[Verdad]]
 
@@ -41,6 +41,7 @@ finished::
 	- [[Idealismo]]
 
 ### El Metodo del Conocimiento
+[[Materialismo]]
 ## Corrientes Actuales del Conocimiento
 ### Teoria del Conocimiento de la Ciencia en la Postmodernidad
 ### El Aporte de la Psicologia
