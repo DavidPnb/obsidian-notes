@@ -46,6 +46,8 @@ Estas siguen el orden de las operaciones, y se pueden usar parentesis para espec
 ## Variables
 Las variables son una forma de asignar una referencia en la memoria con un valor y relacionarla con un nombre para ser usada mas tarde ; [[Arquitectura de Computadoras]] . Esta es la principal manera de mantener **abstracción** en un lenguaje de programación, lo que facilita mucho la forma en que creamos y mantenemos nuestros programas.
 
+Esto no hace más que asociar la variable con un valor, por lo que se puede sobreescribir el valor de la variable siempre que se quiera.
+
 ## Control de Flujo
 Es lo que separa a un lenguaje de programación de una calculadora permitiendo al programa realizar dependiendo de si se cumplen o no una serie de condiciones logicas y/o matematicas. El tipo más simple son los **condicionales**, que ejecutan codigo solo si se cumple una condición.
 
