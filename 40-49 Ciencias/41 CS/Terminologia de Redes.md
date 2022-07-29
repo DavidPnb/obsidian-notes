@@ -15,12 +15,7 @@ Toda la información que fluye en una red es divida en **paquetes** para ser env
 - **Full-Duplex** - Comunicación Bidireccional Asíncrona
 
 ## Modos de Transmisión
-- **Unicast** - Trasmisión uno a uno usada para la mayoría del trafico en internet
-- **Anycast** - Transmite al nodo mas cercano con una direccion de Unicast destino
-- **Multicast** - Transmite a todos los nodos que se han suscrito a un grupo destino
-	- Exclusiva del protocolo UDP
-- **Broadcast** - Transmite a todos los nodos de una subred
-	- Limitada al protocolo UDP por IPv4
+[[Modos de Transmision de Red]]
 
 ## Flujo de Transmisión de Datos
 Cuando se envia información, esta es divida en paquetes identificados individualmente. Estos no llegan al destino en un orden fijo, en su lugar son compilados en el orden correcto para producir el mensaje original.
@@ -68,10 +63,5 @@ El *Automatic Private IP Adressing* es una caracteristica de sistemas operativos
 La *Network Adress Translation* es un proceso que asigna multiples direcciones IP privadas a una sola dirección IP publica antes de transferir la información. Es usada por routers para mejorar la seguridad de la red, actuando de intermediario entre los dispositivos y el internet.
 
 ## Dirección MAC
-La dirección de *Media Access Control* es la dirección fisica de cada dispositivo de una red. Generalmente, consiste de 6 campos de 2 digitos hexadecimales separados por dos puntos *:*. Los primeros 3 campos son el ID de la organizacion y los ultimos 3 son el ID de la interfaz.
-
-- **UAA** - *Universally Administered Adress*
-	- Asignado de forma unica por el fabricante
-- **LAA** - *Locally Administered Adress*
-	- Asignado por software o un Administrador de Red
+[[Direccion MAC]]
 ___
