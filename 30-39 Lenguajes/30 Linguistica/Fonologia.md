@@ -1,38 +1,54 @@
+---
+status:
+references:
+created: 2022-07-30 12:32
+---
 tags:: #on/language 
 up:: [[30.00 Linguistica MOC]]
-Links: [[Comunicacion]]
+Links:
 # Fonologia
-El lenguaje presenta dos planos, lengua y habla, y cada uno de estos posee unidades que se activan, especialmente en la pronunciacion de ideas. En la lengua, hay sonidos mentales llamados **fonemas** y sonidos reales llamados **fonos**; [[30.01 Fonetica]].
+El lenguaje presenta dos planos, lengua y habla, y cada uno de estos posee unidades que se activan, especialmente en la pronunciacion de ideas. En la lengua, hay sonidos mentales llamados **fonemas** y sonidos reales llamados **fonos**; [[30.01 Fonetica|Fonetica]].
 
-La fonologia es la disciplina linguistica que determina cuales son los fonemas de una lengua y los organiza en un sistema a traves de sus diferencias fundamentales.
+La fonologia es la disciplina linguistica que determina cuales son los fonemas de una lengua y los organiza en un sistema a traves de sus diferencias fundamentales. Esto implica clasificar los patrones y sistemas que tiene cada lenguaje al momento de articular palabras, y por esto esta basada en una parte más abstracta e inconciente del lenguaje, en lugar de en la articulación misma.
+
+Todas las personas tienen cuerdas vocales diferentes, y tambien pronunciamos palabras de forma diferente en diferentes situaciones. Aún así, nosotros no consideramos estas diferencias al momento de determinar el significado de una palabras. De esta forma, podemos ver que la fonologia esta involucrada en los sonidos abstractos de un lenguaje que permiten diferenciar el significado de los sonidos físicos que escuchamos.
 
 ## Fonema
-Es la minima unidad distintiva abstracta de una lengua; en la comunicacion oral se concreta mediante el fono, y en la comunicacion escrita mediante un grafema. Se representa usando un par de barras inclinadas (/ /).
+Es la minima unidad distintiva abstracta de una lengua; es decir, es la unidad de sonido mental más pequeña con la que podemos diferenciar significados en un lenguaje. En la comunicacion oral se concreta mediante el **fono**, y en la comunicacion escrita mediante un **grafema**. Se representa usando un par de barras inclinadas (*/ /*).
 
-La funcion principal de un fonema es la de diferenciar significados al reemplazar un fonema por otro o mediante conmutacion sucesiva.
+La funcion principal de un fonema es la de diferenciar significados al reemplazar un fonema por otro, siendo representados mediante contraste. Si al cambiar una letra de una palabra por otra la palabra cambia de significado ([[Semantica]]), entonces cada letra representa un fonema diferente.
 
-### Fonemas Segmentales
-Son aquellos fonemas divisibles para su analisis.
+Los terminos tecnicos que se usan para diferenciar los fonemas se pueden entender como caracteristicas. Si el fonema no tiene la caracteristica, se marca con un signo menos ( *-* ); si la tiene, se marca con un signo más ( *+* ).
 
-En el castellano existen 19 fonemas consonanticos y 5 fonemas vocalicos
+- [ ] Crear tablas de fonemas del español y del inglés ⏫ 📅 2022-07-30
 
-### Fonemas Suprasegmentales
-Son aquellos fonemas indivisibles para su analisis por segmentos, pero que cumplen la funcion distintiva.
+### Fonemas en los Lenguajes
+- [[Fonemas del Español]]
 
-1. **Acento** es un rasgo prosodico que resalta un sonido o grupo de sonidos en una palabra, la posicion del acento en cada silaba de la palabra le otorga un significado distinto
-2. **Entonacion** consiste en la variacion de la inflexion de voz en la palabra, frase u oracion.
-	La inflexion tonal puede ser ascendente o descendente:
-	- **Ascendente** Refleja un ascenso en el tono al finalizar el acto del habla. Es propia de preguntas directas que se responden de manera afirmativa o negativa
-	- **Descendente** Refleja un descenso en el tono al terminar de hablar. Es propia de los mensajes enunciativos, exclamaciones o preguntas indirectas
+## Fonos y Alófonos
+Los **fonos** son las diferencias variaciones de sonido de un fonema cuando este se pronuncia en voz alta. Estos son unidades fonéticas y aparecen entre corchetes. Los **alófonos** de un fonema son todos los fonos que al momento de pronunciarse se asocian a ese fonema.
 
-## Relacion Fonema-Letra
-Actualmente se considera que el castellano posee 27 letras, por lo tanto, no existe una total correspondencia entre los fonemas y las letras, es decir, no existe una relacion biunivoca de uno a otro. Al no haber correspondencia total esta diferencia se manifiesta en los errores ortograficos
+La distinción principal entre alófonos y fonemas es que cambiar un fonema por otro cambia el significado de una palabra, mientras que cambiar un alófono por otro solo cambia la pronunciación.
 
-De esta relacion se deducen los siguientes casos
+En la palabra *pan*, la [a] presenta **nasalización** por la consonante nasal [n], lo que se representa como [ã]. Tanto [a] como [ã] son alófonos del fonema /a/. En el caso de idiomas como el francés, la nasalización de una vocal puede diferenciar dos palabras, por lo que estas vocales nasalizadas representarian su propio fonema.
 
-1. Un unico fonema representado por varios grafemas
-2. Un unico grafema referido por varios fonemas
-3. El grafema *x* y la sucesion *cc* emplean la secuencia */ks/*
-4. No todos los grafemas representan un fonema (caso de la *h*)
+## Pares y Conjuntos Minimos
+Cuando dos palabras solo se distinguen por la diferencia de dos fonemas colocados en el mismo lugar, se dice que estas son un **par minimo**. Cuando un grupo de palabras se diferencian por dos fonemas colocados en el mismo lugar, se dice que estas forman un **conjunto minimo**.
 
+## Fonótactica
+Son las restricciones en la secuencia y el posicionamiento de fonemas en un lenguaje, y determinan cuales formas son aceptables y cuales no. La palabra *latinx* ([latinks]) no obedece la fonótactica del idioma español y por lo tanto no es valida.
+
+## Silabas
+[[Silabas]] 
+
+## Efectos de Coarticulación
+En el habla casual la pronunciación de una palabra en una silaba no es la misma que la pronunciación de la palabra. Las conversaciones cotidianas requieren una [[Comunicacion]] rapida,  y si una persona pronunciara de la misma forma, esta sonaría robotica y artificial.
+
+Al efecto de pronunciar un sonido casi al mismo tiempo que el siguiente, se le llama **coarticulación**. Dos efectos de coarticulación muy conocidos son la **asimilación** y la **elisión**.
+
+### Asimilación
+Esta ocurre cuando la forma en que se pronuncia un sonido afecta al sonido anterior o al sonido siguiente. Esto ocurre de forma frecuente en las vocales que preceden a una [n], y en el inglés cuando una vocal se sustituye por el *schwa* [ə].
+
+### Elisión
+Ocurre cuando se elimina la pronunciación de un sonido, se da mucho en el habla cotidiana en inglés cuando se quieren pronunciar **grupos consonanticos**; [[Silabas]]. Esto no debe confundirse con mala pronunciación, sino que es un proceso que ayuda a mejorar la eficiencia de la persona  para transmitir la información.
 ___

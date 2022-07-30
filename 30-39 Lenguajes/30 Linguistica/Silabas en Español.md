@@ -1,32 +1,14 @@
-tags:: #on/language 
-up:: [[Fonologia]]
+---
+status:
+references:
+created: 2022-07-30 14:05
+---
+tags:: #on/language #Español 
+up:: [[Silabas]]
 Links: 
-# Silabas
-Es aquel sonido que se produce en un solo impulso de voz.
-
-- **Cabeza** - Es la consonante que de inicio a la silaba
-- **Cima** - Contiene a las vocales de la silaba
-- **Coda** - Es la consonante ubicada despues de la cima
-
-## Clases de Silabas
-- **Por el numero de letras**
-	- Monolitera
-	- Bilitera
-	- Trilitera
-	- Tetralitera
-	- Pentalitera
-	- Hexalitera
-- **Por su letra final**
-	- Directa - Termina en vocal
-	- Indirecta - Termina en consonante
-- **Por su acento**
-	- Tonica - Tiene mayor intensidad
-	- Atona - Tiene menor intensidad
-
-
+# Silabas en el Español
 ## Grupo Vocalico
 Es la secuencia de dos o mas vocales en una palabra.
-
 ### Diptongo
 Pronunciacion de dos vocales en una silaba.
 - **Vocal abierta y Vocal Cerrada** - La abierta lleva la mayor fuerza de voz
@@ -66,6 +48,4 @@ En el castellano es usual que en la separacion de silabas se forman fronteras en
 - vocal y vocal (hiato) - pe-ón
 - consonante y consonante - car-tas
 - vocal y consonante - ro-sas
-
-
 ___
