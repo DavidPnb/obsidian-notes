@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40-49 Ciencias/41 CS/Topologia de Redes.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-29.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Topologia de Redes.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Topologia de Redes.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Topologia de Redes.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-29.md"
               }
             }
           },
@@ -203,15 +203,15 @@
   },
   "active": "4a0c0428596d570c",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
+    "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-29.md",
     "40-49 Ciencias/41 CS/Networking.md",
     "40-49 Ciencias/41 CS/Tipos de Redes de Telecomunicaciones.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-29.md",
     "40-49 Ciencias/41 CS/Dispositivos de Red.md",
     "40-49 Ciencias/41 CS/Modos de Transmision de Red.md",
     "40-49 Ciencias/41 CS/Direccion MAC.md",
     "40-49 Ciencias/41 CS/Terminologia de Redes.md",
-    "40-49 Ciencias/41 CS/Puertos Usados en Redes.md",
-    "40-49 Ciencias/41 CS/Estandares y Organizaciones de Comunicaciones.md",
-    "40-49 Ciencias/41 CS/Modelos y Protocolos de Red.md"
+    "40-49 Ciencias/41 CS/Puertos Usados en Redes.md"
   ]
 }
