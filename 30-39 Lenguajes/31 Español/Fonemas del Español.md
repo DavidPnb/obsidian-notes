@@ -4,7 +4,7 @@ references:
 created: 2022-07-30 12:58
 ---
 tags:: #on/language  #Español
-up:: [[Fonologia]]
+up:: [[30.02 Fonologia]]
 Links: 
 # Fonemas del Español
 ### Fonemas Segmentales

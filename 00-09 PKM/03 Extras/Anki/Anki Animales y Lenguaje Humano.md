@@ -31,14 +31,6 @@ END
 START
 Basic
 Anverso: 
-¿Como los Gardners intentaron mostrar que Washoe no estaba simplemente repitiendo señas hechas por humanos?
-Reverso: Intentaron mostrar que en aislamiento, el especimen podia usar las señas correctas para identificar objetos
-<!--ID: 1657417676933-->
-END
-
-START
-Basic
-Anverso: 
 Si Sarah podia usar una forma de plastico gris para evocar el significado de la palabra *rojo*, ¿Que propiedad parace tener su lenguaje?
 Reverso: **Arbitrariedad**
 <!--ID: 1657417472626-->

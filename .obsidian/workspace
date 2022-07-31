@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4e2ae280a23cd1da",
+        "id": "c2d0b9ff5db3d9ba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30-39 Lenguajes/30 Linguistica/Fonologia.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-30.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Fonologia.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Fonologia.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Fonologia.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-30.md"
               }
             }
           },
@@ -201,17 +201,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "4e2ae280a23cd1da",
+  "active": "c2d0b9ff5db3d9ba",
   "lastOpenFiles": [
-    "30-39 Lenguajes/30 Linguistica/Silabas.md",
-    "30-39 Lenguajes/30 Linguistica/Fonologia.md",
-    "30-39 Lenguajes/31 Español/Uso de Grafias.md",
-    "30-39 Lenguajes/30 Linguistica/Silabas en Español.md",
-    "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-29.md",
+    "30-39 Lenguajes/30 Linguistica/30.02 Fonologia.md",
     "30-39 Lenguajes/31 Español/Fonemas del Español.md",
-    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-    "00-09 PKM/02 Cards/Commentary on the silliness of trying to maintain an A-Z list of MOCs.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-30.md"
+    "30-39 Lenguajes/30 Linguistica/Silabas.md",
+    "30-39 Lenguajes/30 Linguistica/Silabas en Español.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-30.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-29.md",
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Procesos Fonologicos Especiales en la Pronunciacion de Negativos.md",
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Patrones Fonologicos del Plural en Ingles.md",
+    "00-09 PKM/03 Extras/Templates/Project Template.md",
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Señales Visuales para Reconocer Sonidos de Vocales.md"
   ]
 }

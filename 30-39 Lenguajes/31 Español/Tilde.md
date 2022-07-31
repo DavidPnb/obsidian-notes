@@ -1,5 +1,5 @@
 tags:: #on/language 
-up:: [[Fonologia]]
+up:: [[30.02 Fonologia]]
 Links: 
 # Tilde
 Antes de determinar las reglas ortograficas del uso de la tilde es necesario aclarar los siguientes conceptos:

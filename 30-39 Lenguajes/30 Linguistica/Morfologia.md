@@ -7,7 +7,7 @@ Es el estudio de las estructura interna de una palabra. Analiza los elementos qu
 ## Morfema
 A la combinacion impredecible mas pequeña de forma y significado es llamado morfema, y es la unidad morfologica más pequeña.
 
-Un morfema se manifiesta a través de los **morfos**, que son la representación de un morfema formado por uno o más fonemas; [[Fonologia]]. Otra forma de describir esto es decir que un morfema es la representación [[Semantica]] de un morfo.
+Un morfema se manifiesta a través de los **morfos**, que son la representación de un morfema formado por uno o más fonemas; [[30.02 Fonologia|Fonologia]]. Otra forma de describir esto es decir que un morfema es la representación [[Semantica]] de un morfo.
 
 ### Clases
 - **Criterio Tradicional**
