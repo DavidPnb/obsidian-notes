@@ -32,19 +32,6 @@
       "size": 1
     },
     {
-      "filter": "tag:#on",
-      "color": "#0089BA",
-      "shape": "ellipse",
-      "icon": {
-        "name": "No icon",
-        "path": "",
-        "color": "white"
-      },
-      "showInPane": true,
-      "show": true,
-      "size": 1
-    },
-    {
       "filter": "tag:#on-IT",
       "color": "#D65DB1",
       "shape": "ellipse",
@@ -71,19 +58,6 @@
       "size": 1
     },
     {
-      "filter": "tag:#atlas",
-      "color": "#FFC75F",
-      "shape": "ellipse",
-      "icon": {
-        "name": "No icon",
-        "path": "",
-        "color": "white"
-      },
-      "showInPane": true,
-      "show": true,
-      "size": 1
-    },
-    {
       "filter": "tag:#atlas-MOC🗺",
       "color": "#FF6F91",
       "shape": "ellipse",
@@ -99,84 +73,6 @@
     {
       "filter": "tag:#Mathematics",
       "color": "#F9F871",
-      "shape": "ellipse",
-      "icon": {
-        "name": "No icon",
-        "path": "",
-        "color": "white"
-      },
-      "showInPane": true,
-      "show": true,
-      "size": 1
-    },
-    {
-      "filter": "tag:#note",
-      "color": "#2C73D2",
-      "shape": "ellipse",
-      "icon": {
-        "name": "No icon",
-        "path": "",
-        "color": "white"
-      },
-      "showInPane": true,
-      "show": true,
-      "size": 1
-    },
-    {
-      "filter": "tag:#note-develop🍃",
-      "color": "#0082C1",
-      "shape": "ellipse",
-      "icon": {
-        "name": "No icon",
-        "path": "",
-        "color": "white"
-      },
-      "showInPane": true,
-      "show": true,
-      "size": 1
-    },
-    {
-      "filter": "tag:#note-boat🚤",
-      "color": "#A36AAA",
-      "shape": "ellipse",
-      "icon": {
-        "name": "No icon",
-        "path": "",
-        "color": "white"
-      },
-      "showInPane": true,
-      "show": true,
-      "size": 1
-    },
-    {
-      "filter": "tag:#x",
-      "color": "#4C9A52",
-      "shape": "ellipse",
-      "icon": {
-        "name": "No icon",
-        "path": "",
-        "color": "white"
-      },
-      "showInPane": true,
-      "show": true,
-      "size": 1
-    },
-    {
-      "filter": "tag:#x-readme",
-      "color": "#6F7F22",
-      "shape": "ellipse",
-      "icon": {
-        "name": "No icon",
-        "path": "",
-        "color": "white"
-      },
-      "showInPane": true,
-      "show": true,
-      "size": 1
-    },
-    {
-      "filter": "tag:#on-philosophy",
-      "color": "#2FAB63",
       "shape": "ellipse",
       "icon": {
         "name": "No icon",
@@ -1451,7 +1347,7 @@
     "layout": "force-directed",
     "limit": 10000,
     "mergeEdges": true,
-    "metaKeyHover": false,
+    "metaKeyHover": true,
     "mode": "workspace",
     "navigator": true,
     "openWithShift": false,
@@ -1459,7 +1355,7 @@
     "styleGroups": [],
     "toolbar": true,
     "width": "100%",
-    "zoomSpeed": 1
+    "zoomSpeed": 0.28
   },
   "embedSettings": {
     "animateLayout": true,
@@ -1475,7 +1371,7 @@
     "layout": "force-directed",
     "limit": 1000,
     "mergeEdges": true,
-    "metaKeyHover": false,
+    "metaKeyHover": true,
     "mode": "local",
     "navigator": false,
     "openWithShift": false,
@@ -1483,7 +1379,7 @@
     "styleGroups": [],
     "toolbar": false,
     "width": "100%",
-    "zoomSpeed": 1
+    "zoomSpeed": 0.28
   },
   "globalGraphSettings": {
     "animateLayout": true,
@@ -1500,13 +1396,13 @@
     "hoverEdges": false,
     "layout": "force-directed",
     "mergeEdges": true,
-    "metaKeyHover": false,
+    "metaKeyHover": true,
     "mode": "workspace",
     "navigator": true,
     "openWithShift": false,
     "readContent": false,
     "styleGroups": [],
     "toolbar": true,
-    "zoomSpeed": 1
+    "zoomSpeed": 0.28
   }
 }
