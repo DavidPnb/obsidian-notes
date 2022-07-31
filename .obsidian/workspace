@@ -179,6 +179,22 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "4b06e7a05bf9cf48",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "88a33236c356ad92",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ]
       },
@@ -204,6 +220,7 @@
   "active": "d9c7be37824e3ce7",
   "lastOpenFiles": [
     "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
+    "00-09 PKM/02 Cards/Chunking.md",
     "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md",
     "10-19 Desarrollo Personal y Aprendizaje/Modos de Pensamiento.md",
@@ -211,7 +228,6 @@
     "10-19 Desarrollo Personal y Aprendizaje/Las Metaforas y Analogias Mejoran el Aprendizaje.md",
     "10-19 Desarrollo Personal y Aprendizaje/El Metodo de Dali y Edison para la Creatividad.md",
     "10-19 Desarrollo Personal y Aprendizaje/Consejos de Estudio.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Tecnica Pomodoro.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Spaced Repetition.md"
+    "10-19 Desarrollo Personal y Aprendizaje/Tecnica Pomodoro.md"
   ]
 }
