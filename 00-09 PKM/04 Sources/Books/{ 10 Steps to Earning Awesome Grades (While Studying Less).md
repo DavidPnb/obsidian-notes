@@ -40,26 +40,26 @@ finished::
 ## 🎨 Impresiones
 
 ## ☘️ Como me Cambio el Libro
-- Ayudarme a Organizar Notas Semanales
+- Ayudarme a Organizar Notas Periodicas
 
 ## 📒 Proposito del Autor
 - Ayudar a obtener mejores calificaciones y reducir el tiempo de estudio necesario para el desempeño optimo en estudios universitarios
 
 ## Ideas Importantes
 ### Ecuacion Tiempo-Estudio
-Enfocarse en la meta final, no como la recompensa tangible, sino como el estado que se quiere alcanzar - **Preparacion Deseada**.
+Enfocarse en la meta final, no como la recompensa tangible, sino como el estado que se quiere alcanzar, esto es la **Preparacion Deseada**.
 
 Hay cuatro factores que influyen en alcanzarla:
-- Tiempo de Clase
-- Calidad de Aprendizaje
-- Tiempo de Estudio
-- Eficiencia de Estudio
+- **Tiempo de Clase**
+- **Calidad de Aprendizaje**
+- **Tiempo de Estudio**
+- **Eficiencia de Estudio**
 
-<mark style="background: #840707;">(TC $*$ CA) + (TE $*$ EE) = PD</mark> 
+(TC $*$ CA) + (TE $*$ EE) = PD
 
 Esto significa que:
 
-<mark style="background: #840707;">TE = $\frac{PD - [TC * CA]}{EE}$</mark>
+TE = $\frac{PD - [TC * CA]}{EE}$
 
 *Para disminuir el Tiempo de Estudio se Debe Incrementar la Eficiencia de Estudio*
 
@@ -93,6 +93,8 @@ Tener un sistema organizado no garantiza que cumpliremos con nuestras tareas, pe
 
 [[Mantenerse Organizado]]
 
+## Derrotar a la Procrastinación
+[[Como Combatir la Procrastinacion]]
 ___
 
 

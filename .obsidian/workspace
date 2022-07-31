@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c2d0b9ff5db3d9ba",
+        "id": "d9c7be37824e3ce7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md",
+            "file": "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md",
+                "file": "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md",
+                "file": "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md"
+                "file": "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md"
               }
             }
           },
@@ -201,17 +201,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "c2d0b9ff5db3d9ba",
+  "active": "d9c7be37824e3ce7",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W30.md",
+    "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
+    "10-19 Desarrollo Personal y Aprendizaje/Como Combatir la Procrastinacion.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-30.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Procrastinacion.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W30.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-29.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-07-28.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-26.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-25.md",
-    "30-39 Lenguajes/30 Linguistica/30.02 Fonologia.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md"
   ]
 }

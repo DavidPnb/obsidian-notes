@@ -1,4 +1,4 @@
-mjx-container { % works for live preview and reading mode
-	line-height: 0px; 
-	font-size: calc(1.25 * var(--editor-font-size));
+.math-block > mjx-container[jax="CHTML"]  {
+  font-size: 130%;
+  text-align: left !important;
 }
