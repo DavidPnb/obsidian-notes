@@ -15,5 +15,6 @@ Este es el modo con el que estamos mas familiarizados. Consiste en concentarnos 
 ## Modo Difuso
 Es cuando el cerebro esta mas relajado al momento de pensar en algo, y nos permite tener un punto de vista y una comprensión más amplios en lugar de más profundos. Se hace más util al tratar de lidiar con conceptos o situaciones nuevas que no pueden conectarse con ideas ya existentes. Es popular sugerir que se debe tomar un descanso luego de pasar mucho tiempo enfocado en una idea. Tomar un descanso no solo nos ayuda a relajarnos, sino que puede ayudar a nuestro cerebro a hacer nuevas conexiones y tomar un enfoque diferente.
 
-
-___
+## Modos de Pensamiento y Creatividad
+[[El Metodo de Dali y Edison para la Creatividad]]
+_

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
+            "file": "00-09 PKM/02 Cards/Chunking.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
+                "file": "00-09 PKM/02 Cards/Chunking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
+                "file": "00-09 PKM/02 Cards/Chunking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md"
+                "file": "00-09 PKM/02 Cards/Chunking.md"
               }
             }
           },
@@ -203,15 +203,15 @@
   },
   "active": "d9c7be37824e3ce7",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md",
+    "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
     "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
-    "10-19 Desarrollo Personal y Aprendizaje/Como Combatir la Procrastinacion.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-30.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Procrastinacion.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W30.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-29.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-28.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-27.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Modos de Pensamiento.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Como Aprende el Cerebro.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Las Metaforas y Analogias Mejoran el Aprendizaje.md",
+    "10-19 Desarrollo Personal y Aprendizaje/El Metodo de Dali y Edison para la Creatividad.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Consejos de Estudio.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Tecnica Pomodoro.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Spaced Repetition.md"
   ]
 }

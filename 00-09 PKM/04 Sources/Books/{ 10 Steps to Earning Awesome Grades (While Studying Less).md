@@ -84,16 +84,16 @@ Las buenas notas deben enfocarse en el **aprendizaje**, en lugar de simplemente 
 [[Planificación Estudiantil]]
 
 ### Crear un Ambiente de Estudio Optimo
-El lugar donde estudiamos es un factor importante en el proceso de aprendizaje, por eso lo mejor es diseñarlo deliberadamente
+El lugar donde estudiamos es un factor importante en el proceso de aprendizaje, por eso lo mejor es diseñarlo deliberadamente.
 
 [[Mejorar el Lugar de Estudio]]
 
 ### Pelear Contra la Entropía y Mantenerse Organizado
-Tener un sistema organizado no garantiza que cumpliremos con nuestras tareas, pero mejora las posibilidades de que lo hagamos
+Tener un sistema organizado no garantiza que cumpliremos con nuestras tareas, pero mejora las posibilidades de que lo hagamos.
 
 [[Mantenerse Organizado]]
 
-## Derrotar a la Procrastinación
+### Derrotar a la Procrastinación
 [[Como Combatir la Procrastinacion]]
 ___
 
