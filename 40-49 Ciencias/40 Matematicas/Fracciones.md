@@ -8,10 +8,7 @@ up:: [[40.04 Teoria de los Numeros]]
 Links: 
 # Fracciones
 
-Se usan para representar un numero de partes de un determinado tamaño. Se representan como:
-
->$\frac{a}{b}$
-
+Se usan para representar un numero de partes de un determinado tamaño. Se representan como: $$\frac{a}{b}$$
 Donde $a$  es el numerador  y $b$ es el denominador
 
 El denominador es el numero de partes en las que se divide una unidad y le numerador es el numero de partes que se seleccionan.
@@ -37,18 +34,6 @@ Estan formadas por una serie de operaciones subsecuentes con fracciones
 [[Operaciones con Fracciones]]
 
 ## Razones
-Es el cociente de dos cantidades, donde al numerador se le llama antecedente y al denominador se le llama consecuente
-
-### Proporciones
-Es la igualdad de dos razones.
-
-A una proporcion de la forma:
-$$\frac{a}{b}=\frac{b}{c}, b \neq 0, c \neq 0$$
-
-Se le llama proporcion geometrica y se dice que $b$ es la media geometrica entre $a$ y $c$. La media geometrica es igual a la raiz cuadrada del producto entre los extremos.
-
-Se le llama tercera proporcional a cualquiera de los extremos de una media geometrica.
-
-Se le llama cuarta proporcional a cualquiera de los cuatro terminos de una proporcion.
+[[Razones Matematicas]]
 
 ---

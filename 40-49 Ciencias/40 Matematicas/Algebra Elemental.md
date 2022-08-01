@@ -51,6 +51,9 @@ Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principal
 ## Ecuaciones en General
 [[Ecuaciones]]
 
+## Razones, Proporciones y Variaciones
+[[Razones Matematicas]]
+
 #### Propiedades de las Inecuaciones
 Las relaciones menor que $<$ y mayor que $>$ tienen la propiedad de transitividad:
 - Si $a<b$ y $b < c$ entonces $a < c$
