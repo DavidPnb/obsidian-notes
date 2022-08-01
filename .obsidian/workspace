@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md",
+            "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W30.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md"
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W30.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "819da81ceab47d76",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-31.md",
     "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
     "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
     "10-19 Desarrollo Personal y Aprendizaje/Como Aprende el Cerebro.md",
@@ -227,7 +228,6 @@
     "10-19 Desarrollo Personal y Aprendizaje/Como Combatir la Procrastinacion.md",
     "10-19 Desarrollo Personal y Aprendizaje/Importancia de la Practica en STEM.md",
     "10-19 Desarrollo Personal y Aprendizaje/Mejorar el Lugar de Estudio.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Planificación Estudiantil.md",
-    "00-09 PKM/02 Cards/Chunking.md"
+    "10-19 Desarrollo Personal y Aprendizaje/Planificación Estudiantil.md"
   ]
 }
