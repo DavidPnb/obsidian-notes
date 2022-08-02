@@ -1,5 +1,11 @@
+---
+alias: ["Escepticismo Cartesiano"]
+status:
+references:
+created: 2022-08-01 21:09
+---
 tags:: #on/philosophy 
-up::[[Racionalismo Cartesiano]]
+up:: [[Racionalismo Cartesiano]]
 # Cogito Ergo Sum
 En algun momento de su vida, Rene Descartes empezo a reflexionar acerca de la realidad y el hecho de que si sabemos que a largo de nuestra vida creimos cosas falsas pensando que eran verdaderas, ¿Como sabemos que nuestras creencias actuales son verdaderas?
 
