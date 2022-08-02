@@ -7,7 +7,7 @@ tags:: #Mathematics
 up:: [[40.02 Algebra]]
 Links:  
 # Algebra Elemental
-Es la forma mas basica de [[40.02 Algebra|Algebra]], una de las ramas mas grandes de las [[40.00 Matematicas MOC|Matematicas]].
+Es la forma mas basica de [[40.02 Algebra|Algebra]], una de las ramas más grandes de las [[40.00 Matematicas MOC|Matematicas]].
 
 ```toc
 style: number
@@ -53,6 +53,16 @@ Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principal
 
 ## Razones, Proporciones y Variaciones
 [[Razones Matematicas]]
+
+## Funciones y Graficas
+### Variables
+Una **variable** es un simbolo que puede asumir cualquier valor del conjunto de valores en discusión. Una **constante** es un simbolo que representa un valor fijo.
+
+### Relaciones
+[[Relaciones]]
+
+### Funciones
+[[Funciones]]
 
 #### Propiedades de las Inecuaciones
 Las relaciones menor que $<$ y mayor que $>$ tienen la propiedad de transitividad:

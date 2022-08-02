@@ -7,8 +7,8 @@ created: 2022-07-12 11:58
 tags:: #Mathematics 
 up:: [[Teoria de Conjuntos]]
 Links: 
-# Relación
-En general, una relación conecta dos elementos de un conjunto de elementos asociados.
+# Relaciones
+En general, una relación conecta dos elementos de un conjunto de elementos asociados. Estas se representan como un conjunto de pares ordenados; [[Teoria de Conjuntos]]. El primer conjunto del par ordenado es el **dominio**, y el segundo es el rango.
 
 ## Propiedades
 Hay tres propiedades especiales que se pueden cumplir para una relación $R$:

@@ -1,35 +1,30 @@
+---
+status:
+references:
+created: 2022-08-02 11:49
+---
+tags:: #Mathematics 
+up:: [[Relaciones]]
+Links: 
 # Funciones
-[[Relaciones]] entre dos [[Conjuntos]] $A$ y $B$ que asigna a cada valor del conjunto $A$ (variable independiente) un *unico* valor del conjunto $B$
+Una función es una relación tal que a cada elemento del **dominio** se le asigna exactamente un elemento del **rango**. A menudo las funciones y [[Relaciones]] se declaran a través de [[Ecuaciones]]. 
 
-## Tipos de Funciones
-1. [[Funciones Constantes]]
-2. [[Funciones Lineales]]
-3. [[Funciones Cuadraticas]]
-4. [[Funciones Cubicas]]
-5. [[Funciones Hiperbolas]]
-6. [[Funciones Exponenciales]]
-7. [[Funciones Logaritmicas]]
+Cuando el dominio no se especifica, se implica que el dominio es el subconjunto más grande de los [[Numeros Reales]] en el que esta definida la ecuación. El rango se obtiene al evaluar en la ecuación cada variable del dominio.
 
-## Inyectivas
-Cada elemento del conjunto de llegada corresponde como maximo a un elemento del conjunto de partida.
+La variable que representa al dominio se llamada **variable independiente** y a menudo se expresa con $x$ , a la variable que representa al rango se le llama **variable dependiente** y a menudo se expresa con $y$.
 
-## Sobreyectivas
-Cada elemento del conjunto de llegada le corresponde por lo menos un elemento del conjunto de partida.
+## Notación
+La notación $y=f(x)$ indica que $y$ es una función de $x$ . En esta notación, $f(a)$ representa el valor de $y$ cuando $x=a$ . Con esta notación cualquier letra puede ser usada para representar una función.
 
-## Biyectivas
-Cumple las condiciones de inyectivas y sobreyectivas al mismo tiempo.
+## Sistema de Coordenadas Rectangular
+[[Sistema de Coordenadas Cartesianas]]
 
-## Indice de Funciones
-- [[Dominio y Rango de una Funcion]]
-- [[Funciones Inversas]]
+## Simetría
+Cuando una parte de la grafica es un reflejo de otra parte, se dice que la función es simétrica con respecto al **eje de reflexión**.
 
-## Enlaces
-**Status:**
+## Traslaciones
+El grafico de una función se mueve hacia arriba sumando una constante positiva a cada valor de $y$ . El grafico de una función se mueve hacia abajo restando una constante positiva a cada valor de $y$ . El grafico de una función se mueve hacia la derecha restando una constante positiva a cada valor de $x$ . El grafico de una función se mueve hacia la izquierda sumando una constante positiva a cada valor de $x$.
 
-**Etiquetas:**
-
-**Relacionados:**
-
-
-**Referencias:**
-[[]]
+## Escalas
+Multiplicar $y$ por una constante estira la grafica verticalmente si esta es mayor que $1$ , y la encoje si es menor . Multiplicar $x$ por una constante encoje la grafica horizontalmente si esta es mayor que $1$ , y la estira si es menor.
+___
