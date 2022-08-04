@@ -41,7 +41,8 @@ finished::
 	- [[Idealismo]]
 
 ### El Metodo del Conocimiento
-[[Materialismo]]
+- [[Materialismo]]
+- [[Fenomenologia]]
 ## Corrientes Actuales del Conocimiento
 ### Teoria del Conocimiento de la Ciencia en la Postmodernidad
 ### El Aporte de la Psicologia

@@ -26,10 +26,10 @@ Susan Rigetti [Philosophy](https://www.susanrigetti.com/philosophy)
 ## ✍️ El Libro en Tres Frases
 1. Se agradecido, la vida es un proceso de la naturaleza del que tu formas parte
 2. Valora la justicia, la razon, la etica y los buenos valores 
-3. 
+3. Tu felicidad no depende de las situaciones que enfrentes en tu vida, esta solo depende de tu opinion
 
 ## ✍️ 3 Mejores Citas
->Si vives cada momento como si fuera el ultimo, encontraras la salvación
+>Produce buenas acciones como un viñedo produce uvas: naturalmente, sin pensarlo
 
 >Cada momento, enfoca tu atención y realiza las tares con simplicidad, eficiencia y dignidad. Llena tu mente con pensamientos de amor, libertad y justicia, sin dejar espacios para pensamientos negativos o destructivos
 
@@ -87,6 +87,13 @@ Este habla sobre uno de los conceptos fundamentales del [[Estoicismo]]. En mucha
 	- Actua de acuerdo con la razon
 - La belleza no depende de la opinion subjetiva; [[20.02 Estetica|Estetica]] 
 - No juzgar a las personas por circunstancias exteriores y apariencias
+
+### Libro 5
+- El descanso, alimentación y bebida en exceso acaba con su proposito, debilitando el cuerpo y el espiritu
+- Produce buenas acciones como un viñedo produce uvas: naturalmente, sin pensarlo
+- No ancles tu felicidad a acciones que no formen parte de tu naturaleza humana
+- El caracter es la suma de tus pensamientos a través del tiempo
+	- Los pensamientos tiñen el alma; por esto, llena tu mente con pensamientos positivos
 
 ___
 
