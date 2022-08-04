@@ -28,7 +28,7 @@ Los tipos en un lenguaje de programación le dicen a este la forma en que debe i
 	- **float** - representa [[Numeros Reales]]
 	- **bool** - representa valores booleanos
 	- **None** - es un tipo especial de dato que indica que la expresión no devuelve ningun valor
-	- **No Escalares** - Al igual que con los [[Vectores]], son multidimensionales y estan asociados a mas de un valor
+- **No Escalares** - Al igual que con los [[Vectores]], son multidimensionales y estan asociados a mas de un valor
 
 ## Operaciones
 Las operaciones fundamentales de un lenguaje de programación son:
@@ -52,4 +52,9 @@ Esto no hace más que asociar la variable con un valor, por lo que se puede sobr
 Es lo que separa a un lenguaje de programación de una calculadora permitiendo al programa realizar dependiendo de si se cumplen o no una serie de condiciones logicas y/o matematicas. El tipo más simple son los **condicionales**, que ejecutan codigo solo si se cumple una condición.
 
 El otro tipo de estructura de control es el **bucle**, que ejecuta el codigo una cierta cantidad de veces dependiendo de la condición.
+
+## Strings
+Los **strings** son cadenas de caracteres codificados, esto incluye letras, numeros y simbolos; [[Codificacion Binaria]]. Pueden ser representados tanto con comillas simples ( *' '* )  como con comillas dobles ( *" "* ), lo que es util para representar apóstrofes. 
+
+Estos strings pueden **concatenarse**, juntando los caracteres de dos strings en uno solo de forma analoga a la operación de suma. Los strings son objetos no escalares, y pueden usarse como si fueran listas donde cada caracter es un valor diferente. 
 ___

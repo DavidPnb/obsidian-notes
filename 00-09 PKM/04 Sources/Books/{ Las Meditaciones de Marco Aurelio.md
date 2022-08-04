@@ -92,7 +92,7 @@ Este habla sobre uno de los conceptos fundamentales del [[Estoicismo]]. En mucha
 - El descanso, alimentación y bebida en exceso acaba con su proposito, debilitando el cuerpo y el espiritu
 - Produce buenas acciones como un viñedo produce uvas: naturalmente, sin pensarlo
 - No ancles tu felicidad a acciones que no formen parte de tu naturaleza humana
-- El caracter es la suma de tus pensamientos a través del tiempo
+- El carácter es la suma de tus pensamientos a través del tiempo
 	- Los pensamientos tiñen el alma; por esto, llena tu mente con pensamientos positivos
 
 ___
