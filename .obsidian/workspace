@@ -65,7 +65,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 1,
                   "linkDistance": 261,
-                  "scale": 0.07431471009954957,
+                  "scale": 0.07431471009954958,
                   "close": false
                 }
               }
@@ -219,15 +219,15 @@
   },
   "active": "222bf6280c33a44f",
   "lastOpenFiles": [
-    "20-29 Filosofia y Religion/20 Filosofia/El Conocimiento Verdadero como Problema.md",
-    "00-09 PKM/07 Inbox/Motivacion.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Como Prestar mas Atención en Clase.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Como Combatir la Procrastinacion.md",
-    "00-09 PKM/07 Inbox/Acetilcolina.md",
-    "00-09 PKM/07 Inbox/Dopamina.md",
-    "00-09 PKM/07 Inbox/Serotonina.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Active Recall.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Chunking.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Ilusion de Competencia.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Como Estudiar de Forma mas Eficiente.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Active Reading.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Como Aprende el Cerebro.md",
-    "00-09 PKM/07 Inbox/Memoria.md"
+    "00-09 PKM/03 Extras/Templates/Flashcard Template.md",
+    "00-09 PKM/03 Extras/Templates/Daily Note.md",
+    "00-09 PKM/03 Extras/Templates/Note Template.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-02.md"
   ]
 }

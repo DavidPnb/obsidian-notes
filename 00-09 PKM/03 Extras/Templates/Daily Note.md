@@ -2,6 +2,7 @@
 created: ["{{date}} {{time}}"]
 tags:
 - PeriodicNotes/Daily
+- {{date: gggg-[W]ww}}
 ---
 
 # 📅 Nota Diaria {{date: DD-MM-YYYY}}
@@ -23,6 +24,8 @@ style: number
 	- Youtube
 	- Anki
 	- Marcadores
+- Repasar Notas
+- Crear Flashcards
 ## 📚 Leyendo
 - 
 ## 💬 Sentimientos, Observaciones, Pensamientos 
