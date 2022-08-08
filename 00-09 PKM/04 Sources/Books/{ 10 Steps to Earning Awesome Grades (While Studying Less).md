@@ -73,12 +73,13 @@ Eso nos deja con dos variables: Para disminuir la cantidad de tiempo que se debe
 
 ### Prestar más Atención en Clase
 [[Como Prestar mas Atención en Clase]]
+
 ### Tomar Notas más Efectivas
 Las buenas notas deben enfocarse en el **aprendizaje**, en lugar de simplemente registrar.
 - [[Cinco Metodos para Tomar Notas]]
 
 ### Sacarle más a los Libros
-[[Como Sacarle mas a los Libros]]
+[[Como Sacarle mas a los Libros de Estudio]]
 
 ### Planear como un General
 [[Planificación Estudiantil]]
@@ -95,6 +96,9 @@ Tener un sistema organizado no garantiza que cumpliremos con nuestras tareas, pe
 
 ### Derrotar a la Procrastinación
 [[Como Combatir la Procrastinacion]]
+
+### Estudiar de Forma Inteligente
+[[Como Estudiar de Forma mas Eficiente]]
 ___
 
 

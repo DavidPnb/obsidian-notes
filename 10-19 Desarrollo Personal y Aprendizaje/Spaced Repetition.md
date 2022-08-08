@@ -8,4 +8,8 @@ up:: [[Tecnicas de Estudio]]
 Links: 
 # Spaced Repetition
 Consiste en separar los periodos de tiempo que dedicamos a aprender algo, ya sea en dias o semanas, para ayudar al cerebro a construir una mejor base y dar tiempo a que forme conexiones necesarias para el aprendizaje.
+
+Este tiempo de espaciado puede variar dependiendo de la dificultad que tenemos para recordar de forma individual cada termino o concepto, permitiendo que repasemos los temas que ya dominamos mucho menos que los temas más dificiles.
+
+La otra fortaleza de esta tecnica de estudio es que es más probable que repasemos los temas que nuestro cerebro esta más cerca de olvidar, lo que es particularmente util al momento de memorizar hechos o piezas individuales de información. 
 ___

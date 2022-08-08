@@ -8,7 +8,7 @@ up:: [[Como Aprende el Cerebro]]
 Links: 
 # Como Aprender Conceptos Dificiles
 ## Aprender en Capas
-Esto significa que podemos saltarnos puntos clave si son muy complicados, ya que los conceptos siguientes pueden ayudarnos a entender
+Esto significa que podemos saltarnos puntos clave si son muy complicados, ya que los conceptos siguientes pueden ayudarnos a entender.
 
 ## Encontrar lo que nos Motiva
 Buscar aplicaciones o conexiones de una nueva información nos puede hacer ganar más interés. [[Chunking]]
