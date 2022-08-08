@@ -3,7 +3,7 @@ status:
 references:
 created: 2022-07-03 13:47
 ---
-tags:: #metalearning  #note/boat🚤 
+tags:: #metalearning
 up:: [[10 Metaaprendizaje MOC]]
 Links: 
 # Como Aprende el Cerebro

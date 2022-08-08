@@ -3,8 +3,8 @@ status:
 references:
 created: 2022-07-10 21:10
 ---
-tags:: #metalearning 
-up:: [[10 Metaaprendizaje MOC]]
+tags:: #neuroscience 
+up:: [[Neurociencia MOC]]
 Links: 
 # Memoria
 Se considera que la memoria esta dividida en memoria de largo y corto plazo. Estas dos clases de memoria estan asociadas y pueden intercambiar información:

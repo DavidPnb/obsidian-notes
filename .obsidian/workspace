@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "24179bf605f49df8",
+    "type": "split",
+    "children": [
+      {
+        "id": "222bf6280c33a44f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea68c6950afaf8ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "991c49be9bb34c5d",
+        "type": "tabs",
+        "dimension": 33.45111896348646,
+        "children": [
+          {
+            "id": "a861731d36be91ac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e65dfbe364e03466",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.4375,
+                  "repelStrength": 13.7837078651685,
+                  "linkStrength": 1,
+                  "linkDistance": 261,
+                  "scale": 0.07431471009954957,
+                  "close": false
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "dee71d77b205e31d",
+        "type": "tabs",
+        "dimension": 66.54888103651355,
+        "children": [
+          {
+            "id": "935d609eb82f250d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#neuroscience",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "531551c40669c77c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 422.01219177246094
+  },
+  "right": {
+    "id": "6a3a32269de26270",
+    "type": "split",
+    "children": [
+      {
+        "id": "552706a7b18555fd",
+        "type": "tabs",
+        "dimension": 49.15693904020752,
+        "children": [
+          {
+            "id": "a8116fcfea678d42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b9a8c2ccfcc4c97a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "795cd65b4d968601",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f346fdd0e208ee80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md"
+              }
+            }
+          },
+          {
+            "id": "288f0e736fa35465",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "259c520641331072",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b06e7a05bf9cf48",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "88a33236c356ad92",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c5227808322a596e",
+        "type": "tabs",
+        "dimension": 50.843060959792474,
+        "children": [
+          {
+            "id": "859d13792563dfdf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.1182861328125
+  },
+  "active": "222bf6280c33a44f",
+  "lastOpenFiles": [
+    "20-29 Filosofia y Religion/20 Filosofia/El Conocimiento Verdadero como Problema.md",
+    "00-09 PKM/07 Inbox/Motivacion.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Como Prestar mas Atención en Clase.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Como Combatir la Procrastinacion.md",
+    "00-09 PKM/07 Inbox/Acetilcolina.md",
+    "00-09 PKM/07 Inbox/Dopamina.md",
+    "00-09 PKM/07 Inbox/Serotonina.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Como Aprende el Cerebro.md",
+    "00-09 PKM/07 Inbox/Memoria.md"
+  ]
+}

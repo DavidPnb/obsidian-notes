@@ -15,7 +15,7 @@ Un punto importante de esto, es que debemos construir una tolerancia a esa sensa
 ## Entender la Ecuación de Procrastinación
 De acuerdo con la **Teoria de Motivación Temporal**, esta es una manera de cuantificar nuestros niveles de motivación:
 $$Motivacion = \frac{Espectacion * Valor}{Inpulsividad * Retraso}$$
-- **Motivación** - Es el valor final y el recurso que usamos para completar cualquier tarea de la que esperamos algun valor
+- [[Motivacion]] - Es el valor final y el recurso que usamos para completar cualquier tarea de la que esperamos algun valor
 - **Espectación** - Es la estimación de nuestra capacidad para completar la tarea
 - **Valor** - Es la recompensa que esperamos de la tarea
 - **Impulsividad** - Que tan probable es que dejemos de enfocarnos en la tarea

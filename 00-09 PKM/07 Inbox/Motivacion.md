@@ -7,7 +7,7 @@ tags:: #neuroscience
 up:: [[Neurociencia MOC]]
 Links: 
 # Motivación
-Uno de los más grandes descubrimientos en nuestra era con respecto a la neurociencia es que la motivación proviene de la [[Dopamina]].
+Uno de los más grandes descubrimientos en nuestra era con respecto a la neurociencia es que la motivación proviene de la producción de químicos como la [[Dopamina]], [[Serotonina]], y [[Acetilcolina]]. 
 
 ## La Motivación y el Aprendizaje
 Antes se creia que nuestra capacidad de razonar y nuestras emociones estaban separadas, pero ahora sabemos lo mucho que las emociones afectan a nuestro juicio. Esto no es diferente con el aprendizaje y cualquier otra actividad que requiera nuestra capacidad mental, **sentirnos bien nos ayuda a pensar mejor**.
