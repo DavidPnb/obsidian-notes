@@ -35,8 +35,6 @@ Como el [[40.02 Algebra|Algebra]], el area de las [[40.00 Matematicas MOC|Matema
 ### La Demostración Formal de un Teorema
 [[Partes Escritas de una Demostracion Formal]]
 
-Converso de una declaración
-
 [[Teoremas Geometricos Utiles para Demostraciones]]
 
 ## Rectas Paralelas
