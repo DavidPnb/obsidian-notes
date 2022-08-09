@@ -1,4 +1,5 @@
 ---
+status: 
 alias: {title}
 created: {{date}} {{time}}
 ---

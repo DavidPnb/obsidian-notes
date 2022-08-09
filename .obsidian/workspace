@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "222bf6280c33a44f",
+        "id": "a0b070c22f63012c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
+            "file": "00-09 PKM/00 Atlas/00.01 Scopes/Notas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
+                "file": "00-09 PKM/00 Atlas/00.01 Scopes/Notas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -65,7 +65,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 1,
                   "linkDistance": 261,
-                  "scale": 0.07431471009954958,
+                  "scale": 0.13051065406000695,
                   "close": false
                 }
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#neuroscience",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
+                "file": "00-09 PKM/00 Atlas/00.01 Scopes/Notas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md"
+                "file": "00-09 PKM/00 Atlas/00.01 Scopes/Notas.md"
               }
             }
           },
@@ -217,17 +217,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "222bf6280c33a44f",
+  "active": "a0b070c22f63012c",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
-    "40-49 Ciencias/40 Matematicas/Teoremas Geometricos Utiles para Demostraciones.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Informal.md",
+    "00-09 PKM/02 Cards/Natural Selection.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/Notas.md",
+    "30-39 Lenguajes/31 Español/Uso de Grafias.md",
+    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+    "00-09 PKM/07 Inbox/+ About Encounters.md",
+    "00-09 PKM/07 Inbox/+ Unsorted/Acetilcolina.md",
+    "00-09 PKM/09 Workflow/Metadatos PKM.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Active Recall.md",
-    "00-09 PKM/07 Inbox/Motivacion.md",
-    "00-09 PKM/07 Inbox/Acetilcolina.md",
-    "00-09 PKM/07 Inbox/Serotonina.md",
-    "00-09 PKM/07 Inbox/Dopamina.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Como Estudiar de Forma mas Eficiente.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-07.md"
   ]
 }
