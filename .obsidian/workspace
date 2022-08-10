@@ -94,7 +94,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 1,
                   "linkDistance": 261,
-                  "scale": 0.07431471009954983,
+                  "scale": 0.22920133578337276,
                   "close": false
                 }
               }
@@ -232,15 +232,15 @@
   },
   "active": "d63a20b8af370ca1",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
     "00-09 PKM/03 Extras/Templates/Book Note Template.md",
     "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md",
     "20-29 Filosofia y Religion/20 Filosofia/Hermeneutica.md",
     "00-09 PKM/09 Workflow/Metadatos PKM.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
     "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-07.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
-    "40-49 Ciencias/41 CS/Ciencias de la Computacion MOC.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md"
   ]
 }

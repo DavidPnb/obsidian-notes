@@ -6,48 +6,23 @@ created: 2022-07-13 08:46
 ## Información
 tags:: #source/book📚 
 writer:: [[Marco Aurelio]]
+status:: Doing
 subject:: [[Estoicismo]]
 started:: 2022-06-22 12:55
 finished::
 rating:: 5.0
 
-## 🌍 De que Trata
-
-
 ## 🔍 Como lo Descubri
 Susan Rigetti [Philosophy](https://www.susanrigetti.com/philosophy)
 
-## 🧠 Opiniones
-
-### Que me Gusto
-
-### Que me Disgusto
-
-## ✍️ El Libro en Tres Frases
-1. Se agradecido, la vida es un proceso de la naturaleza del que tu formas parte
-2. Valora la justicia, la razon, la etica y los buenos valores 
-3. Tu felicidad no depende de las situaciones que enfrentes en tu vida, esta solo depende de tu opinion
-
-## ✍️ 3 Mejores Citas
+## ✍️ Citas
 >Produce buenas acciones como un viñedo produce uvas: naturalmente, sin pensarlo
 
 >Cada momento, enfoca tu atención y realiza las tares con simplicidad, eficiencia y dignidad. Llena tu mente con pensamientos de amor, libertad y justicia, sin dejar espacios para pensamientos negativos o destructivos
 
 >Para cambiar tu experiencia, cambia tu opinion
 
-## 🎨 Impresiones
-
-## ☘️ Como me Cambio el Libro
-
-## 📒 Proposito del Autor
-[[Marco Aurelio]] escribio estos libros como una serie de manuscritos personales en su epoca como emperador, para recordarse a si mismo sus valores y principios
-
-## Ideas Importantes
-- **Como vivir una mejor vida**
-
 ## 📚Libros Relacionados
-
-## Planes a Futuro
 
 ## Notas
 ### Libro 1
@@ -95,7 +70,26 @@ Este habla sobre uno de los conceptos fundamentales del [[Estoicismo]]. En mucha
 - El carácter es la suma de tus pensamientos a través del tiempo
 	- Los pensamientos tiñen el alma; por esto, llena tu mente con pensamientos positivos
 
+### Libro 6
+- Como los otros libros, valora a la razon como separada de las emociones y sentimientos
+	- Las evidencias actuales apuntan a que los sentimientos y las emociones controlan a nuestra mente racional y no al reves
+- Consistentemente muestra un enfoque esencialista, en el que todas las cosas tienen un motivo
+- Las preocupaciones son como pesadillas que tenemos cuando estamos despiertos, este miedo es generado por nuestras creencias
+- Nosotros nos vemos atraidos por las representaciones de virtudes, por eso siempre han habido historias de heroismo y valentia
+
+## Puntos Clave
+1. Se agradecido, la vida es un proceso de la naturaleza del que tu formas parte
+2. Valora la justicia, la razon, la etica y los buenos valores 
+3. Tu felicidad no depende de las situaciones que enfrentes en tu vida, esta solo depende de tu opinion
+
+## Contexto
+
+## Relevancia
+
+## Anexos
+
+## Referencias
+
+## Comentarios
 ___
-
-
 
