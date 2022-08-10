@@ -1,51 +1,34 @@
 ---
-status: 
-alias: {title}
+alias: 
 created: {{date}} {{time}}
 ---
 # {{title}}
 ## Información
 tags:: #source/book📚 
 writer:: [[]]
+status:: To Do
 subject::
 started::
 finished::
 
-## 🌍 De que Trata
-
-
 ## 🔍 Como lo Descubri
 
-## 🧠 Opiniones
+## 📚 Libros Relacionados
 
-### Que me Gusto
-
-### Que me Disgusto
-
-## ✍️ El Libro en Tres Frases
-1. 
-2. 
-3. 
-
-## ✍️ 3 Mejores Citas
->
-
->
-
->
-
-## 🎨 Impresiones
-
-## ☘️ Como me Cambio el Libro
-
-## 📒 Proposito del Autor
-
-## Ideas Importantes
-
-## 📚Libros Relacionados
-
-## Planes a Futuro
+## Citas
 
 ## Notas
+
+## Puntos Clave
+
+## Contexto
+
+## Relevancia
+
+## Anexos
+
+## Referencias
+
+## Comentarios
 ___
 

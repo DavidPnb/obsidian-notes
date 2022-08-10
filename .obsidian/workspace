@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,19 +42,48 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "path:\"10-19 Desarrollo Personal y Aprendizaje\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:\"20-29 Filosofia y Religion\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7921746
+                      }
+                    },
+                    {
+                      "query": "path:\"30-39 Lenguajes\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2167773
+                      }
+                    },
+                    {
+                      "query": "path:\"40-49 Ciencias\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5417696
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": 0,
@@ -65,7 +94,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 1,
                   "linkDistance": 261,
-                  "scale": 0.13051065406000695,
+                  "scale": 0.07431471009954983,
                   "close": false
                 }
               }
@@ -124,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md"
               }
             }
           },
@@ -203,15 +232,15 @@
   },
   "active": "d63a20b8af370ca1",
   "lastOpenFiles": [
+    "00-09 PKM/03 Extras/Templates/Book Note Template.md",
+    "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md",
+    "20-29 Filosofia y Religion/20 Filosofia/Hermeneutica.md",
+    "00-09 PKM/09 Workflow/Metadatos PKM.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
+    "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-07.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
-    "40-49 Ciencias/41 CS/Ciencias de la Computacion MOC.md",
-    "40-49 Ciencias/41 CS/Computadoras.md",
-    "00-09 PKM/03 Extras/Templates/Weekly Note Template.md",
-    "00-09 PKM/03 Extras/Templates/Daily Note Template.md",
-    "00-09 PKM/03 Extras/Templates/Course Template.md",
-    "00-09 PKM/03 Extras/Templates/Note Template.md",
-    "00-09 PKM/03 Extras/Templates/Idea Template.md"
+    "40-49 Ciencias/41 CS/Ciencias de la Computacion MOC.md"
   ]
 }

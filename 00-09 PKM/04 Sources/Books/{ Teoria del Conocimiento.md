@@ -1,11 +1,11 @@
 ---
-alias: {title}
 created: 2022-07-20 17:39
 ---
 # { Teoria del Conocimiento
 ## Información
 tags:: #source/book📚 
 writer:: [[Franklin Leon Rugeles]]
+status:: Doing
 subject:: [[20.05 Epistemologia]]
 started:: 2022-04-22 21:48
 finished::
@@ -43,9 +43,23 @@ finished::
 ### El Metodo del Conocimiento
 - [[Materialismo]]
 - [[Fenomenologia]]
-## Corrientes Actuales del Conocimiento
-### Teoria del Conocimiento de la Ciencia en la Postmodernidad
-### El Aporte de la Psicologia
-### El Paradigma de la Complejidad
-### El Conocimiento Dialogico-Convivial desde America Latina
+- [[Hermeneutica]]
+
+### Corrientes Actuales del Conocimiento
+#### Teoria del Conocimiento de la Ciencia en la Postmodernidad
+#### El Aporte de la Psicologia
+#### El Paradigma de la Complejidad
+#### El Conocimiento Dialogico-Convivial desde America Latina
+
+## Puntos Clave
+
+## Contexto
+
+## Relevancia
+
+## Anexos
+
+## Referencias
+
+## Comentarios
 ___
