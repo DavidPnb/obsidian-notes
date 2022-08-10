@@ -2,6 +2,8 @@
 created: ["{{date}}"]
 tags: 
 - PeriodicNotes/Weekly
+banner: ""
+banner_icon: 🗓️
 ---
 ___
 ```toc

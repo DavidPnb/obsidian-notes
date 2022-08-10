@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
+            "file": "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
+                "file": "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
+                "file": "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,12 +160,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md"
+                "file": "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md"
               }
             }
           },
           {
-            "id": "288f0e736fa35465",
+            "id": "a907e4a5f124d75f",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -173,26 +173,10 @@
             }
           },
           {
-            "id": "259c520641331072",
+            "id": "b7d948612ea56f71",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "4b06e7a05bf9cf48",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "88a33236c356ad92",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
               "state": {}
             }
           }
@@ -219,15 +203,15 @@
   },
   "active": "d63a20b8af370ca1",
   "lastOpenFiles": [
-    "00-09 PKM/03 Extras/Templates/Note Template.md",
-    "00-09 PKM/03 Extras/Templates/Idea Template.md",
-    "00-09 PKM/03 Extras/Templates/Youtube Note Template.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-07.md",
+    "40-49 Ciencias/41 CS/Ciencias de la Computacion MOC.md",
+    "40-49 Ciencias/41 CS/Computadoras.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
     "00-09 PKM/03 Extras/Templates/Weekly Note Template.md",
     "00-09 PKM/03 Extras/Templates/Daily Note Template.md",
-    "00-09 PKM/03 Extras/Templates/Untitled 1.md",
-    "00-09 PKM/03 Extras/Templates/Flashcard Template.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
-    "00-09 PKM/02 Cards/Natural Selection.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Notas.md"
+    "00-09 PKM/03 Extras/Templates/Course Template.md",
+    "00-09 PKM/03 Extras/Templates/Note Template.md",
+    "00-09 PKM/03 Extras/Templates/Idea Template.md"
   ]
 }

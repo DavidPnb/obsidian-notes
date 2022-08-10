@@ -4309,7 +4309,8 @@ var DEFAULT_SETTINGS = {
   sync_type: "one-way",
   username: "",
   password: "",
-  encryption_key: ""
+  encryption_key: "",
+  sync_interval: void 0
 };
 var FleetingNotesPlugin = class extends import_obsidian.Plugin {
   onload() {
@@ -4332,12 +4333,24 @@ var FleetingNotesPlugin = class extends import_obsidian.Plugin {
       this.addSettingTab(new FleetingNotesSettingTab(this.app, this));
       if (this.settings.sync_on_startup) {
         this.app.workspace.onLayoutReady(() => {
-          this.syncFleetingNotes();
+          this.autoSync();
         });
       }
     });
   }
+  disableAutoSync() {
+    if (this.settings.sync_interval) {
+      clearInterval(this.settings.sync_interval);
+    }
+  }
+  autoSync(syncIntervalMin = 30) {
+    const syncIntervalMs = syncIntervalMin * 60 * 1e3;
+    this.disableAutoSync();
+    this.syncFleetingNotes();
+    this.settings.sync_interval = setInterval(this.syncFleetingNotes.bind(this), syncIntervalMs);
+  }
   onunload() {
+    this.disableAutoSync();
   }
   loadSettings() {
     return __async(this, null, function* () {
@@ -4578,20 +4591,21 @@ var FleetingNotesSettingTab = class extends import_obsidian.PluginSettingTab {
   }
   display() {
     const { containerEl } = this;
+    let noteTemplateComponent;
     containerEl.empty();
     containerEl.createEl("h2", { text: "Authentication" });
     new import_obsidian.Setting(containerEl).setName("Email").setDesc("Email used to log into Fleeting Notes").addText((text) => text.setPlaceholder("Enter email").setValue(this.plugin.settings.username).onChange((value) => __async(this, null, function* () {
       this.plugin.settings.username = value;
       yield this.plugin.saveSettings();
     })));
-    new import_obsidian.Setting(containerEl).setName("Password").addText((text) => {
+    new import_obsidian.Setting(containerEl).setName("Password").setDesc("Password used to log into Fleeting Notes").addText((text) => {
       text.setPlaceholder("Enter password").setValue(this.plugin.settings.password).onChange((value) => __async(this, null, function* () {
         this.plugin.settings.password = value;
         yield this.plugin.saveSettings();
       }));
       text.inputEl.type = "password";
     });
-    new import_obsidian.Setting(containerEl).setName("Encryption key").addText((text) => {
+    new import_obsidian.Setting(containerEl).setName("Encryption key").setDesc("Encryption key used to encrypt notes").addText((text) => {
       text.setPlaceholder("Enter encryption key").setValue(this.plugin.settings.encryption_key).onChange((value) => __async(this, null, function* () {
         this.plugin.settings.encryption_key = value;
         yield this.plugin.saveSettings();
@@ -4603,23 +4617,40 @@ var FleetingNotesSettingTab = class extends import_obsidian.PluginSettingTab {
       this.plugin.settings.fleeting_notes_folder = value;
       yield this.plugin.saveSettings();
     })));
-    new import_obsidian.Setting(containerEl).setName("Sync notes on startup").addToggle((tog) => tog.setValue(this.plugin.settings.sync_on_startup).onChange((val) => __async(this, null, function* () {
+    new import_obsidian.Setting(containerEl).setName("Sync notes automatically").setDesc("Sync will be performed on startup and every 30 minutes").addToggle((tog) => tog.setValue(this.plugin.settings.sync_on_startup).onChange((val) => __async(this, null, function* () {
       this.plugin.settings.sync_on_startup = val;
+      if (val) {
+        this.plugin.autoSync();
+      } else {
+        this.plugin.disableAutoSync();
+      }
       yield this.plugin.saveSettings();
     })));
     new import_obsidian.Setting(containerEl).setName("Sync type:").addDropdown((dropdown) => dropdown.addOption("one-way", "One-way sync (FN \u21D2 Obsidian)").addOption("two-way", "Two-way sync (FN \u21D4 Obsidian)").setValue(this.plugin.settings.sync_type).onChange((value) => __async(this, null, function* () {
       this.plugin.settings.sync_type = value;
+      if (noteTemplateComponent) {
+        if (value == "two-way") {
+          this.plugin.settings.note_template = DEFAULT_SETTINGS.note_template;
+          noteTemplateComponent.setValue(DEFAULT_SETTINGS.note_template);
+          noteTemplateComponent.inputEl.setAttr("disabled", true);
+        } else {
+          noteTemplateComponent.inputEl.removeAttribute("disabled");
+        }
+      }
       yield this.plugin.saveSettings();
     })));
-    containerEl.createEl("hr");
-    new import_obsidian.Setting(containerEl).setHeading().setName("Note Template");
+    new import_obsidian.Setting(containerEl).setName("Note Template").setDesc("Only editable in one-way sync");
     new import_obsidian.Setting(containerEl).setHeading().addTextArea((t) => {
+      noteTemplateComponent = t;
       t.setValue(this.plugin.settings.note_template).onChange((val) => __async(this, null, function* () {
         this.plugin.settings.note_template = val;
         yield this.plugin.saveSettings();
       }));
       t.inputEl.setAttr("rows", 10);
       t.inputEl.addClass("note_template");
+      if (this.plugin.settings.sync_type == "two-way") {
+        t.inputEl.setAttr("disabled", true);
+      }
     }).addExtraButton((cb) => {
       cb.setIcon("sync").setTooltip("Refresh template").onClick(() => {
         this.plugin.settings.note_template = DEFAULT_SETTINGS.note_template;

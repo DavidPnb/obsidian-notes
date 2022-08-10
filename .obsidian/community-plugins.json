@@ -13,18 +13,14 @@
   "obsidian-admonition",
   "breadcrumbs",
   "oz-image-plugin",
-  "obsidian-mind-map",
   "obsidian-to-anki-plugin",
-  "obsidian-wikipedia",
   "obsidian-nomnoml-diagram",
   "obsidian-tasks-plugin",
   "fleeting-notes-obsidian",
   "obsidian-git",
-  "obsidian-charts",
-  "heatmap-calendar",
   "obsidian-kanban",
   "obsidian-dynamic-toc",
   "periodic-notes",
-  "juggl",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "obsidian-banners"
 ]
