@@ -9,6 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "20-29 Filosofia y Religion/20 Filosofia/Hermeneutica.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "286009bf89bc9be7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
             "mode": "source",
             "backlinks": false,
@@ -42,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
+                "file": "20-29 Filosofia y Religion/20 Filosofia/Perspectivas Filosoficas sobre la Muerte.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
+                "file": "20-29 Filosofia y Religion/20 Filosofia/Perspectivas Filosoficas sobre la Muerte.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md"
+                "file": "20-29 Filosofia y Religion/20 Filosofia/Perspectivas Filosoficas sobre la Muerte.md"
               }
             }
           },
@@ -230,13 +243,13 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "d63a20b8af370ca1",
+  "active": "286009bf89bc9be7",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
+    "20-29 Filosofia y Religion/20 Filosofia/Hermeneutica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
+    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
     "00-09 PKM/03 Extras/Templates/Book Note Template.md",
     "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md",
-    "20-29 Filosofia y Religion/20 Filosofia/Hermeneutica.md",
     "00-09 PKM/09 Workflow/Metadatos PKM.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
     "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
