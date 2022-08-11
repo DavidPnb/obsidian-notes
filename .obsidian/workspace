@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
+            "file": "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md"
               }
             }
           },
@@ -232,15 +232,15 @@
   },
   "active": "d63a20b8af370ca1",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
-    "30-39 Lenguajes/30 Linguistica/30.02 Fonologia.md",
-    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-    "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
-    "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
-    "30-39 Lenguajes/30 Linguistica/Teorias sobre el Origen del Lenguaje.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W31.md",
-    "00-09 PKM/03 Extras/Anki/Anki Lexicologia.md"
+    "40-49 Ciencias/41 CS/41.01 CyberSec-IT-Telecom/Television Analoga.md",
+    "40-49 Ciencias/41 CS/41.01 CyberSec-IT-Telecom/Mensajes y Señales en Telecomunicaciones.md",
+    "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-23.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-05.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-29.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md"
   ]
 }
