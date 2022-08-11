@@ -94,7 +94,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 1,
                   "linkDistance": 261,
-                  "scale": 0.13051065406000742,
+                  "scale": 0.1305106540600075,
                   "close": false
                 }
               }
@@ -232,15 +232,15 @@
   },
   "active": "d63a20b8af370ca1",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W31.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-07.md",
     "30-39 Lenguajes/30 Linguistica/30.02 Fonologia.md",
-    "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
     "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-    "20-29 Filosofia y Religion/20 Filosofia/Hermeneutica.md",
-    "20-29 Filosofia y Religion/20 Filosofia/Perspectivas Filosoficas sobre la Muerte.md",
-    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
-    "00-09 PKM/03 Extras/Templates/Book Note Template.md"
+    "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
+    "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
+    "30-39 Lenguajes/30 Linguistica/Teorias sobre el Origen del Lenguaje.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W31.md",
+    "00-09 PKM/03 Extras/Anki/Anki Lexicologia.md",
+    "00-09 PKM/03 Extras/Anki/Anki Fonologia.md",
+    "00-09 PKM/03 Extras/Anki/Anki Origen del Lenguaje.md"
   ]
 }
