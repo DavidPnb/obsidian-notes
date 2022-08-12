@@ -48,6 +48,6 @@ Por datos se refiere a una secuencia estructurada de caracteres que representa u
 
 ## La Imagen
 ### La Imagen en Movimiento
-[[Television Analoga]]
+[[Television Analogica]]
 ## La Television Digital
 ___

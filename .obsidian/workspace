@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d63a20b8af370ca1",
+        "id": "2ef5de2d8a520473",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-12.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
+                "file": "40-49 Ciencias/41 CS/Tipos de Redes de Telecomunicaciones.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
+                "file": "40-49 Ciencias/41 CS/Tipos de Redes de Telecomunicaciones.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md"
+                "file": "40-49 Ciencias/41 CS/Tipos de Redes de Telecomunicaciones.md"
               }
             }
           },
@@ -230,17 +230,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "d63a20b8af370ca1",
+  "active": "2ef5de2d8a520473",
   "lastOpenFiles": [
-    "40-49 Ciencias/41 CS/CPU.md",
-    "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
-    "40-49 Ciencias/41 CS/Computadoras.md",
-    "40-49 Ciencias/41 CS/Memoria RAM.md",
-    "40-49 Ciencias/41 CS/Ciencias de la Computacion MOC.md",
-    "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
-    "40-49 Ciencias/41 CS/Unidad de Logica Aritmetica.md",
-    "40-49 Ciencias/41 CS/Lenguajes de Programacion.md",
-    "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md"
+    "40-49 Ciencias/41 CS/Cables de Red.md",
+    "40-49 Ciencias/41 CS/Tipos de Redes de Telecomunicaciones.md",
+    "00-09 PKM/02 Cards/Ruido (IT).md",
+    "40-49 Ciencias/41 CS/Topologia de Redes.md",
+    "40-49 Ciencias/41 CS/41.01 CyberSec-IT-Telecom/Television Analogica.md",
+    "00-09 PKM/07 Inbox/+ Unsorted/Memoria.md",
+    "40-49 Ciencias/41 CS/Modos de Transmision de Red.md",
+    "40-49 Ciencias/41 CS/Puertos Usados en Redes.md",
+    "40-49 Ciencias/41 CS/Networking.md",
+    "40-49 Ciencias/41 CS/41.01 CyberSec-IT-Telecom/Mensajes y Señales en Telecomunicaciones.md"
   ]
 }

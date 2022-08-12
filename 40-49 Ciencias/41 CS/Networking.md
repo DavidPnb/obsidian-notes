@@ -34,6 +34,8 @@ Una red de [[Computadoras]] permite que dos o mas dispositivos electronicos pued
 ## Dispositivos
 [[Dispositivos de Red]]
 
+## Cables
+[[Cables de Red]]
 
 
 

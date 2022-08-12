@@ -4,8 +4,8 @@ created: 2022-08-11 16:39
 tags:: #on/IT 
 up:: [[Mensajes y Señales en Telecomunicaciones]]
 Links: 
-# Television Analoga
-La televisión analoga transmite los **cuadros** dividiendolos en lineas y mostrando cada cuadro de forma sucesiva para dar la ilusión de movimiento, aprovechandose del **efecto de persistencia de la retina**.
+# Television Analogica
+La televisión analogica transmite los **cuadros** dividiendolos en lineas y mostrando cada cuadro de forma sucesiva para dar la ilusión de movimiento, aprovechandose del **efecto de persistencia de la retina**.
 
 Esta usa un **tubo de rayos catodicos** (*CRT*), en el que un haz de electrones recorre todas las lineas de cada cuadro. El estandar de **cuadros por segundo** (*FPS*) es el de la mitad de la frecuencia de la corriente, por lo que es igual a 25 fps o 30 fps dependiendo de la región.
 
