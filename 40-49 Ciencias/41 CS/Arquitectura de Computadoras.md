@@ -27,8 +27,9 @@ A comienzos del siglo XX el desarrollo de aparatos electromecanicos estaba en su
 ```
 
 - [[Memoria RAM]] - Almacena la informacion
-- [[Unidad de Logica Aritmetica]] - Realiza operacion primitivas
-- Unidad de Control - Controla el orden de operaciones
+- [[CPU]]
+	- [[Unidad de Logica Aritmetica]] - Realiza operacion primitivas
+	- Unidad de Control - Controla el orden de operaciones
 - Input - Informacion que se pone en la maquina
 - Output - Informacion que sale de la maquina 
 

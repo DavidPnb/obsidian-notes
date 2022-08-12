@@ -1,4 +1,5 @@
 ---
+alias: ["RAM"]
 status:
 references:
 created: 2022-08-04 18:26

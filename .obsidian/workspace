@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,7 +94,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 1,
                   "linkDistance": 261,
-                  "scale": 0.1305106540600075,
+                  "scale": 0.07431471009954994,
                   "close": false
                 }
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md"
               }
             }
           },
@@ -232,15 +232,15 @@
   },
   "active": "d63a20b8af370ca1",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
-    "40-49 Ciencias/41 CS/41.01 CyberSec-IT-Telecom/Television Analoga.md",
-    "40-49 Ciencias/41 CS/41.01 CyberSec-IT-Telecom/Mensajes y Señales en Telecomunicaciones.md",
+    "40-49 Ciencias/41 CS/CPU.md",
+    "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
+    "40-49 Ciencias/41 CS/Computadoras.md",
+    "40-49 Ciencias/41 CS/Memoria RAM.md",
+    "40-49 Ciencias/41 CS/Ciencias de la Computacion MOC.md",
+    "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
+    "40-49 Ciencias/41 CS/Unidad de Logica Aritmetica.md",
+    "40-49 Ciencias/41 CS/Lenguajes de Programacion.md",
     "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-23.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-24.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-05.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-29.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-07-21.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md"
   ]
 }
