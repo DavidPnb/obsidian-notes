@@ -209,7 +209,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c5227808322a596e",
@@ -233,14 +234,14 @@
   "active": "2dbbba209f29e4e4",
   "lastOpenFiles": [
     "30-39 Lenguajes/30 Linguistica/30.04 Morfologia.md",
-    "00-09 PKM/03 Extras/Anki/Anki Morfologia.md",
-    "00-09 PKM/00 Home.md",
-    "00-09 PKM/03 Extras/Anki/Anki Lexicologia.md",
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Composicion de Plurales Irregulares en Ingles.md",
     "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
+    "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
+    "00-09 PKM/00 Home.md",
+    "00-09 PKM/03 Extras/Anki/Anki Morfologia.md",
+    "00-09 PKM/03 Extras/Anki/Anki Lexicologia.md",
     "00-09 PKM/05 Spaces/05.01 Investigacion/Palabras Compuestas en Ingles.md",
     "00-09 PKM/05 Spaces/05.01 Investigacion/Patrones Fonologicos del Plural en Ingles.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Procesos Fonologicos Especiales en la Pronunciacion de Negativos.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Propiedades Adicionales del Lenguaje.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Reportes de Linguistica en Chimpances.md"
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Procesos Fonologicos Especiales en la Pronunciacion de Negativos.md"
   ]
 }
