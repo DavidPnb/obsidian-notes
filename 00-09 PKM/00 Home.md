@@ -25,10 +25,12 @@ dv.header(2, greeting)
 > ###### SELF
 > |  |   
 > |---|
-> |   [[000. Obsidian\|Obsidian]] 
-> |   [[100. Personal\|Personal]] 
-> |   [[200. Knowledge Library\|PKM Library]] 
-> |   [[300. Knowledge Map\|MOK Library]] 
+> | [[Cooling pad]]|
+> |  [[Notas]]|
+> |   [[Proyectos de Linguistica]]|
+> |   [[Tasks]]|
+
+
 
 > [!infobox|left]
 > # 
@@ -40,7 +42,6 @@ dv.header(2, greeting)
 > |   [[500. Journal\|Journal]]
 > | - |
 > |  - | 
-
 
 > [!infobox|left]
 > # 
