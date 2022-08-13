@@ -55,7 +55,7 @@ Do you see at the top of this note, how I have a link "up" to the [[LYT Kit]]? T
 
 - This note, [[On the process of note-making]]
 	- ...leads back to [[LYT Kit]]...
-		- ...which leads back to the [[Home]] note!
+		- ...which leads back to the [[00 Home]] note!
 
 That means I've created a star map where I can make hyperspace jumps between different levels of "Idea Emergence" in just a few clicks.
 

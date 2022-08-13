@@ -1,5 +1,5 @@
 tags:: #atlas/Scope🔬 
-up:: [[Home]]
+up:: [[00 Home]]
 Links: 
 # Proyectos de Linguistica
 ```dataview

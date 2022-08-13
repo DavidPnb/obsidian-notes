@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[00 Home]]
 tags:: #atlas/Scope🔬
 
 > [!INFO]-  Only a basic datascope for newsletter artifacts is provided.

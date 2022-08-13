@@ -5,6 +5,8 @@
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "shorter-links",
-    "mathjax-fontsize"
+    "mathjax-fontsize",
+    "ITSimage",
+    "ITScallouts"
   ]
 }

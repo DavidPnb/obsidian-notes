@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[00 Home]]
 tags:: #x/index
 
 # + Index for index notes

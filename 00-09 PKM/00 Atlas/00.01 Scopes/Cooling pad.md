@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[00 Home]]
 tags:: #atlas/Scope🔬 
 
 # Cooling pad 🧊
