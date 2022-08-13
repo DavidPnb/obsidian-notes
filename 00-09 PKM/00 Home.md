@@ -1,9 +1,5 @@
 ---
-cssclass: myhome
-status: Done 
-target: 
-banner: "![[japan-city2.gif]]"
-banner_y: 0.67885
+banner: ""
 ---
 
 ---
@@ -56,10 +52,7 @@ dv.header(2, greeting)
 > |   [[700. Action Management\|Action Management]]
 > | - |
 > |  - | 
-
-> Personal Note : *Onward. Keep going. Keep moving forward.*
-> ![[00. Life Progress]]
-> ![[00. Activity]]
+<br>
 
 ---
 
