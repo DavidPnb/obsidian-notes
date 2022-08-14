@@ -99,6 +99,9 @@ Tener un sistema organizado no garantiza que cumpliremos con nuestras tareas, pe
 
 ### Estudiar de Forma Inteligente
 [[Como Estudiar de Forma mas Eficiente]]
+
+## Escribir Mejores Ensayos
+[[Como Escribir Mejores Ensayos]]
 ___
 
 
