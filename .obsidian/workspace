@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1457932369fbce08",
+        "id": "86442b552b340ec6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10-19 Desarrollo Personal y Aprendizaje/Chunking.md",
+            "file": "00-09 PKM/00 Home.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10-19 Desarrollo Personal y Aprendizaje/Chunking.md",
+                "file": "00-09 PKM/00 Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Desarrollo Personal y Aprendizaje/Chunking.md",
+                "file": "00-09 PKM/00 Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Desarrollo Personal y Aprendizaje/Chunking.md"
+                "file": "00-09 PKM/00 Home.md"
               }
             }
           },
@@ -230,17 +230,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "1457932369fbce08",
+  "active": "86442b552b340ec6",
   "lastOpenFiles": [
+    "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Comprender Mejor un Concepto al Enseñarlo.md",
+    "00-09 PKM/00 Home.md",
     "10-19 Desarrollo Personal y Aprendizaje/Ilusion de Competencia.md",
     "10-19 Desarrollo Personal y Aprendizaje/Chunking.md",
-    "00-09 PKM/00 Home.md",
     "00-09 PKM/04 Sources/Books/Como Escribir Mejores Ensayos.md",
     "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-14.md",
     "30-39 Lenguajes/30 Linguistica/Sustantivos.md",
-    "30-39 Lenguajes/30 Linguistica/Pragmatica.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-13.md",
-    "30-39 Lenguajes/30 Linguistica/30.04 Morfologia.md"
+    "30-39 Lenguajes/30 Linguistica/Pragmatica.md"
   ]
 }

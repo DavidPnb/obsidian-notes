@@ -14,7 +14,7 @@ Links:
 ## Aprendizaje y Memoria
 - [[Como Aprende el Cerebro]]
 - [[Memoria]]
-- [[Las Metaforas y Analogias Mejoran el Aprendizaje]]
+- [[Comprender Mejor un Concepto al Enseñarlo]]
 
 ## Procrastinación
 [[Procrastinacion]]
