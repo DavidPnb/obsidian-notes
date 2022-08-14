@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2dbbba209f29e4e4",
+        "id": "a5a1cc004b683b88",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-13.md",
-            "mode": "source",
+            "file": "00-09 PKM/00 Home.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-13.md",
+                "file": "00-09 PKM/00 Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-13.md",
+                "file": "00-09 PKM/00 Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-13.md"
+                "file": "00-09 PKM/00 Home.md"
               }
             }
           },
@@ -230,12 +230,12 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "2dbbba209f29e4e4",
+  "active": "a5a1cc004b683b88",
   "lastOpenFiles": [
+    "00-09 PKM/00 Home.md",
     "30-39 Lenguajes/30 Linguistica/Sustantivos.md",
     "30-39 Lenguajes/30 Linguistica/Pragmatica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-13.md",
-    "00-09 PKM/00 Home.md",
     "30-39 Lenguajes/30 Linguistica/30.04 Morfologia.md",
     "00-09 PKM/05 Spaces/05.01 Investigacion/Composicion de Plurales Irregulares en Ingles.md",
     "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md",
