@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e36063fa51e4bd15",
+        "id": "1457932369fbce08",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-14.md",
+            "file": "10-19 Desarrollo Personal y Aprendizaje/Chunking.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-14.md",
+                "file": "10-19 Desarrollo Personal y Aprendizaje/Chunking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,7 +94,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 1,
                   "linkDistance": 261,
-                  "scale": 0.07431471009954997,
+                  "scale": 0.13051065406000764,
                   "close": false
                 }
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-14.md",
+                "file": "10-19 Desarrollo Personal y Aprendizaje/Chunking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-14.md"
+                "file": "10-19 Desarrollo Personal y Aprendizaje/Chunking.md"
               }
             }
           },
@@ -230,17 +230,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "e36063fa51e4bd15",
+  "active": "1457932369fbce08",
   "lastOpenFiles": [
+    "10-19 Desarrollo Personal y Aprendizaje/Ilusion de Competencia.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Chunking.md",
+    "00-09 PKM/00 Home.md",
     "00-09 PKM/04 Sources/Books/Como Escribir Mejores Ensayos.md",
     "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-14.md",
-    "00-09 PKM/00 Home.md",
     "30-39 Lenguajes/30 Linguistica/Sustantivos.md",
     "30-39 Lenguajes/30 Linguistica/Pragmatica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-13.md",
-    "30-39 Lenguajes/30 Linguistica/30.04 Morfologia.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Composicion de Plurales Irregulares en Ingles.md",
-    "30-39 Lenguajes/30 Linguistica/30.03 Lexicologia.md"
+    "30-39 Lenguajes/30 Linguistica/30.04 Morfologia.md"
   ]
 }
