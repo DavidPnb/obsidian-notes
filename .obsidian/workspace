@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "81b673b67322a9e5",
+        "id": "cda08a7227c0b80f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "00-09 PKM/00 Home.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -208,6 +208,14 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "ad87187e5671a63a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ]
       },
@@ -230,8 +238,9 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "81b673b67322a9e5",
+  "active": "cda08a7227c0b80f",
   "lastOpenFiles": [
+    "00-09 PKM/00 Home.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-12.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-13.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-14.md",
@@ -240,7 +249,6 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
-    "00-09 PKM/03 Extras/Templates/Weekly Note Template.md"
+    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md"
   ]
 }
