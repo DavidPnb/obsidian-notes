@@ -64,27 +64,8 @@ Una **variable** es un simbolo que puede asumir cualquier valor del conjunto de 
 ### Funciones
 [[Funciones]]
 
-#### Propiedades de las Inecuaciones
-Las relaciones menor que $<$ y mayor que $>$ tienen la propiedad de transitividad:
-- Si $a<b$ y $b < c$ entonces $a < c$
-- Si $a<b$ y $c < d$ entonces $a + c < b + d$
-- Si $a<b$ y $c>0$ entonces $ac < bc$
-- Si $a<b$ y $c < 0$ entonces $bc < ac$
-
-#### Ecuaciones Lineares
-Son las ecuaciones más basicas en algebra
-
-La forma general de una ecuación lineal con una variable se puede escribir como: $ax+b = 0$ , donde $a \neq 0$ . En una ecuación lineal con una variable, $x = - \frac{b}{a}$ .
-
-En general se pueden resolver estas ecuaciones creando una lista de ecuaciones equivalentes, cada una más sencilla que la anterior.
-
-En el proceso de resolver una ecuacion se puede obtener un resultado que no es solución de la ecuación. A este se le denomina **solución extraña**.
-
-Una ecuación lineal con dos variables tiene muchas (es decir, un número infinito de) soluciones.
-
-Para resolver una ecuación lineal con dos variables (incógnitas), se requieren dos ecuaciones relacionadas.
-
-![[Pasted image 20220324192539.png]]
+## Ecuaciones Lineales
+[[Ecuaciones Lineares]]
 
 #### Ecuaciones Cuadraticas
 Una ecuación cuadrática es aquella que incluye un término con un exponente de 2, por ejemplo, $x^{2}$, y ningún término con un exponente mayor. El nombre deriva del latín quadrus, que significa cuadrado. En general, una ecuación cuadrática se puede expresar de la forma $ax^{2}+bx+c=0$,donde a no es cero (si fueran cero, entonces la ecuación no sería cuadrática sino lineal). 

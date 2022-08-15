@@ -13,10 +13,10 @@ Algunas ecuaciones son verdaderas para todos los valores de las variables involu
 
 Las soluciones de las ecuaciones condicionales son aquellos valores que hacen que ambos miembros se vuelvan iguales. Si la ecuación involucra solo una variable, a las soluciones tambien se les puede llamar **raices**. Resolver una ecuación implica encontrar todas las soluciones.
 
-### Propiedades de las Ecuaciones
+## Propiedades de las Ecuaciones
 Por definición, la igualdad es una relación de equivalencia; [[Relaciones]] , lo que significa que tiene las propiedades (a) reflexiva (es decir, $b = b$), (b) simétrica (es decir, si $a=b$ entonces $b=a$) (c) transitiva (es decir, si $a=b$ y $b=c$ entonces $a=c$ ).
 
-### Operaciones Usadas al Transformar Ecuaciones
+## Operaciones Usadas al Transformar Ecuaciones
 1. Si la misma cantidad es añadida a ambos miembros, los resultados son iguales
 2. Si la misma cantidad se sustrae de ambos miembros, los resultados son iguales
 3. Si la misma cantidad se multiplica a ambos miembros, los resultados son iguales
@@ -27,17 +27,17 @@ Por definición, la igualdad es una relación de equivalencia; [[Relaciones]] , 
 
 Las operaciones 1-6 a veces son llamadas **axiomas de igualdad**
 
-### Ecuaciones Equivalentes
+## Ecuaciones Equivalentes
 Las ecuaciones equivalentes son ecuaciones que tienen las mismas soluciones.
 
 Las operaciones usadas al transformar ecuaciones no siempre dan como resultado ecuaciones equivalentes. Si las operaciones resultan en una ecuacion con más soluciones que la original, a las soluciones extra se les llama **soluciones extrañas**, y a la ecuación resultante se le llama **redundante** con respecto a la original. Si el resultado es una ecuación con menos soluciones, se dice que la ecuación es **defectiva** con respecto a la original.
 
 Las operaciones 1 y 2 siempre resultan en ecuaciones equivalentes. Las operaciones 3 y 5 pueden resultar en una ecuación redundante. Las operaciones 4 y 6 pueden resultar en ecuaciones defectivas
 
-### Formulas
+## Formulas
 Una formula es una ecuación que expresa un hecho general, ley o principio.
 
-### Ecuaciones Polinomicas
+## Ecuaciones Polinomicas
 [[Expresiones Algebraicas]]
 
 Una ecuación polinomica es una declaración de igualdad entre dos polinomios. El grado de tal ecuación es el grado del termino con mayor grado en la ecuación.
@@ -47,4 +47,7 @@ A una ecuación se le llama **lineal** si es de grado $1$ , **cuadratica** si es
 Una ecuación polinomica de grado $n$ en la variable $x$ puede ser escrita 
 $a_0x^n+a_1x^{n-1}+a_2x^{n-2}+ \dots +a_{n-1}x+a_n$
 Donde $a_0,a_1, \dots , a_n$ son constantes y $n$ es un entero positivo.
+
+## Ecuaciones Lineales
+[[Ecuaciones Lineares]]
 ___

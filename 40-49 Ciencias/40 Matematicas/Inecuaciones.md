@@ -1,13 +1,19 @@
 tags:: #Mathematics 
 up:: [[Numeros Reales]]
 Links: 
-# Orden Numerico
-Se usan los simbolos $>$,$<$ y $=$ para representar *mayor que*, *menor que* e *igual que*, respectivamente.
+# Inecuaciones
+Se usan los simbolos $>$,$<$ y $=$ para representar **mayor que**, **menor que** e **igual que**, respectivamente. Son usadas para comparar el tamaño de dos numeros en la recta numerica.
 
 - Si $a - b$ es positivo, entonces $a > b$. $a$ esta a la derecha de $b$ en la recta real
 - Si $a - b$ es negativo, entonces $a < b$. $a$ esta a la izquierda de $b$ en la recta real
 - Si $a > b \: \vee \: a = b$, entonces $a \geq b$
 - Si $a < b \: \vee \: a = b$, entonces $a \leq b$
+
+Las **soluciones** de una inecuación son todos los numeros que hacen que el enunciado sea verdadero. Dos inecuaciones son **equivalentes** si tienen las mismas soluciones.
+
+El conjunto de soluciones de una inecuación esta representado por un intervalo;[[Teoria de Conjuntos#Intervalo]].
+
+Las relaciones menor que $<$ y mayor que $>$ tienen la propiedad de transitividad; [[Relaciones]]:
 
 ## Postulados
 > [!postulado]+ **Tricotomia**

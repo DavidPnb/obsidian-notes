@@ -1,10 +1,11 @@
 ---
 alias:
-status:
-references:
 created: 2022-07-12 11:58
+sr-due: 2022-08-16
+sr-interval: 1
+sr-ease: 230
 ---
-tags:: #Mathematics 
+tags:: #Mathematics #review
 up:: [[Teoria de Conjuntos]]
 Links: 
 # Relaciones

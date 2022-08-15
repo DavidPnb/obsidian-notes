@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/00 Home.md",
-            "mode": "preview",
+            "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/00 Home.md",
+                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,7 +94,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 1,
                   "linkDistance": 261,
-                  "scale": 0.13051065406000764,
+                  "scale": 0.13051065406000767,
                   "close": false
                 }
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/00 Home.md",
+                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/00 Home.md"
+                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md"
               }
             }
           },
@@ -240,15 +240,15 @@
   },
   "active": "cda08a7227c0b80f",
   "lastOpenFiles": [
-    "00-09 PKM/00 Home.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-12.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-13.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-14.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W32.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md"
+    "00-09 PKM/02 Cards/Valor Absoluto de un Numero.md",
+    "40-49 Ciencias/40 Matematicas/Inecuaciones.md",
+    "40-49 Ciencias/40 Matematicas/Teoria de Conjuntos.md",
+    "40-49 Ciencias/40 Matematicas/Relaciones.md",
+    "40-49 Ciencias/40 Matematicas/Numeros Reales.md",
+    "40-49 Ciencias/40 Matematicas/Ecuaciones Lineares.md",
+    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-15.md",
+    "40-49 Ciencias/40 Matematicas/Ecuaciones.md",
+    "00-09 PKM/00 Home.md"
   ]
 }
