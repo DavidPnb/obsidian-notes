@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "66a0f099af015ec1",
+        "id": "ca79a06a17c91314",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-16.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-16.md"
               }
             }
           },
@@ -208,14 +208,6 @@
               "type": "BC-tree",
               "state": {}
             }
-          },
-          {
-            "id": "ad87187e5671a63a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
         ]
       },
@@ -231,6 +223,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "ad87187e5671a63a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -238,11 +238,11 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "66a0f099af015ec1",
+  "active": "a8116fcfea678d42",
   "lastOpenFiles": [
+    "00-09 PKM/00 Home.md",
     "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
     "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
-    "00-09 PKM/00 Home.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-15.md",
     "20-29 Filosofia y Religion/20 Filosofia/20.00 Filosofia MOC.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W32.md",
