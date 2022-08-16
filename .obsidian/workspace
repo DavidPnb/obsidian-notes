@@ -9,8 +9,21 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/00 Home.md",
-            "mode": "preview",
+            "file": "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "34f9dc1bd6302c34",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -42,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/00 Home.md",
+                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +144,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/00 Home.md",
+                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/00 Home.md"
+                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md"
               }
             }
           },
@@ -239,15 +253,15 @@
   },
   "active": "6d78e9a856f28602",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-10.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-09.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-07.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-03.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-02.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-05.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-04.md",
     "00-09 PKM/00 Home.md",
-    "00-09 PKM/02 Cards/Valor Absoluto de un Numero.md"
+    "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
+    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-15.md",
+    "20-29 Filosofia y Religion/20 Filosofia/20.00 Filosofia MOC.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W32.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-14.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-13.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-12.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md"
   ]
 }

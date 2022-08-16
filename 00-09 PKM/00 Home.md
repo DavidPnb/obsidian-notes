@@ -38,8 +38,7 @@ dv.header(2, greeting)
 > ###### PERSONAL
 > |  |   
 > |---|
-> |   [[400. Workspace\|Workspace]]
-> |   [[500. Journal\|Journal]]
+> |  |
 > | - |
 > |  - | 
 
@@ -49,11 +48,10 @@ dv.header(2, greeting)
 > ###### OTHERS
 > |  |   
 > |---|
-> |   [[600. Life Pillars\|Life Pillars]]
-> |   [[700. Action Management\|Action Management]]
+> |  |
 > | - |
 > |  - | 
-<br>
+
 
 ---
 
