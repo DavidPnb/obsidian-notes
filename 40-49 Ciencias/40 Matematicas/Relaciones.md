@@ -1,9 +1,9 @@
 ---
 alias:
 created: 2022-07-12 11:58
-sr-due: 2022-08-16
-sr-interval: 1
-sr-ease: 230
+sr-due: 2022-08-19
+sr-interval: 3
+sr-ease: 250
 ---
 tags:: #Mathematics #review
 up:: [[Teoria de Conjuntos]]
