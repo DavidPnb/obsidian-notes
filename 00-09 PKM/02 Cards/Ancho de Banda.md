@@ -1,5 +1,5 @@
 tags:: #concept  #note/develop🍃  #on/IT 
-up:: [[Telecom - CyberSec - IT MOC]]
+up:: [[50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC]]
 Links: 
 # Ancho de Banda
 En telefonia se mandan solamente las frecuencias comprendidas entre 300Hz y 3400Hz. En telefonia, por tanto, el ancho de banda es desde 300Hz hasta 3400Hz y se dice que un circuito telefonico tiene una anchura de banda de 3100Hz. El concepto de ancho de banda implica las frecuencias que se estan transmitiendo en el momento.

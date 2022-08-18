@@ -4,7 +4,7 @@ references:
 created: 2022-06-10 09:22
 ---
 tags:: #on/CS #on/IT 
-up:: [[Ciencias de la Computacion MOC]]
+up:: [[41.00 Ciencias de la Computacion MOC]]
 Links: 
 # Computadoras
 En terminos sencillos, una computadora es un dispositivo capaz de realizar operaciones logicas y aritmeticas simples. La capacidad que tienen las computadoras de realizar estas operaciones de manera rapida y sencilla es lo que las hace tan utiles, lo que ha propagado su uso en todas las areas de nuestras vidas.

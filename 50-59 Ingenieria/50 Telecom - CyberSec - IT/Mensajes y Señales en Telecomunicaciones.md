@@ -4,7 +4,7 @@ references:
 created: 2022-07-29 11:37
 ---
 tags:: #on/IT 
-up:: [[Telecom - CyberSec - IT MOC]]
+up:: [[50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC]]
 Links: 
 # Mensajes y Señales 
 **Mensaje**: es la informacion que se desea intercambiar entre dos o mas interlocutores. En telecomunicaciones, es el conjunto de señales signos o simbolos que son objeto de una comunicacion a distancia.

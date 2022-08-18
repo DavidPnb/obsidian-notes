@@ -1,5 +1,5 @@
 tags:: #on/CS 
-up:: [[Ciencias de la Computacion MOC]]
+up:: [[41.00 Ciencias de la Computacion MOC]]
 Links: 
 # Programacion Declarativa e Imperativa
 - **Programacion Declarativa:** Se basa en expresar a modo de declaracion lo que se quiere que el programa ejecute

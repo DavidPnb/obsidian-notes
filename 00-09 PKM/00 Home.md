@@ -22,7 +22,7 @@ dv.header(2, greeting)
 > [!infobox|left]
 > # 
 >![[japan-city2.gif|cover hsmall]]
-> ###### SELF
+> ###### ATLAS
 > |  |   
 > |---|
 > | [[Cooling pad]]|
@@ -35,12 +35,16 @@ dv.header(2, greeting)
 > [!infobox|left]
 > # 
 >![[beach-view.webp|cover hsmall]]
-> ###### PERSONAL
+> ###### Main
 > |  |   
 > |---|
-> |  |
-> | - |
-> |  - | 
+> | [[40.00 Matematicas MOC]] |
+> | [[20.00 Filosofia MOC]] |
+> |  [[30.00 Linguistica MOC]] | 
+> | [[42.00 Fisica MOC]] |
+> | [[41.00 Ciencias de la Computacion MOC]] |
+> | [[50.00 Telecom - CyberSec - IT MOC]] |
+> | [[43.00 Quimica MOC]] |
 
 > [!infobox|left]
 > # 
@@ -48,10 +52,9 @@ dv.header(2, greeting)
 > ###### OTHERS
 > |  |   
 > |---|
-> |  |
-> | - |
+> | [[61.00 Yoga MOC]] |
+> | [[71 Pixel Art MOC]] |
 > |  - | 
-
 
 ---
 

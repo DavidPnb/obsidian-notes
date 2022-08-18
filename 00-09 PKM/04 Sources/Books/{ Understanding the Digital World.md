@@ -6,13 +6,13 @@ created: 2022-07-29 18:21
 ## Información
 tags:: #source/book📚 
 writer:: [[Brian W. Kernighan]]
-subject:: [[Telecom - CyberSec - IT MOC]]
+subject:: [[50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC]]
 started:: 2022-07-29 18:21
 finished::
 
 ## 🌍 De que Trata
-- [[Telecom - CyberSec - IT MOC|Informatica]]
-- [[Ciencias de la Computacion MOC|Computacion]]
+- [[50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC|Informatica]]
+- [[41.00 Ciencias de la Computacion MOC|Computacion]]
 - Privacidad
 
 ## 🔍 Como lo Descubri

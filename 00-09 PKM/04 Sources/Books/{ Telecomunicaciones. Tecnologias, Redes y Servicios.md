@@ -7,7 +7,7 @@ created: 2022-04-26 13:52
 tags:: #source/book📚 
 writer:: [[Jose Manuel Huidobro]]
 status:: Doing
-subject:: [[Telecom - CyberSec - IT MOC]]
+subject:: [[50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC]]
 started:: 2022-04-26 13:52
 finished::
 

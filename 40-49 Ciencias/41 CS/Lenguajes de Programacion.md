@@ -4,7 +4,7 @@ references:
 created: 2022-06-23 15:40
 ---
 tags:: #on/CS 
-up:: [[Ciencias de la Computacion MOC]]
+up:: [[41.00 Ciencias de la Computacion MOC]]
 Links: 
 # Lenguajes de Programacion
 Estos son los que interpretan las intrucciones dadas por el programador en lenguaje entendible por el humano y lo transforman en algo que la computadora puede entender. Esta formado por valores primitivos (numeros, caracteres), operaciones y combinaciones de operaciones mas complejas que devuelven un valor llamadas expresiones. Tambien contienen una serie de abstracciones que permiten tratar esas expresiones como valores primitivos.

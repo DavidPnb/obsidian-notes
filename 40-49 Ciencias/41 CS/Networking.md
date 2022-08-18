@@ -5,7 +5,7 @@ references:
 created: 2022-06-09 12:04
 ---
 tags:: #on/CS #on/IT 
-up:: [[Ciencias de la Computacion MOC]]
+up:: [[41.00 Ciencias de la Computacion MOC]]
 Links: 
 # Networking
 Una red de [[Computadoras]] permite que dos o mas dispositivos electronicos puedan conectarse entre si, de modo que los usarios puedan comunicarse y compartir recursos.
