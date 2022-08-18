@@ -4,7 +4,7 @@ references:
 created: 2022-07-29 11:57
 ---
 tags:: #on/IT 
-up:: [[CyberSec-IT MOC]]
+up:: [[Telecom - CyberSec - IT MOC]]
 Links: 
 # Fax
 El fax es un sistema de telecomunicaciones que sirve para enviar documentos a modo de graficos. Este no intercambia la información como caracteres, sino que interpreta al documento como una serie de puntos blancos y negros. Por eso tambien permite enviar imagenes y otros archivos.

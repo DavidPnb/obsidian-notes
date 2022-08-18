@@ -1,5 +1,5 @@
 tags:: #on/IT
-up:: [[CyberSec-IT MOC]]
+up:: [[Telecom - CyberSec - IT MOC]]
 Links: 
 # Velocidad de Transferencia
 Si por ejemplo en un segundo se hacen 8000 muestras y cada muestra tiene 8 bits, el numero total de bits que se tienen son 64000 bits . La velocidad estandar de un circuito digital es de 64 kbit/s, por esta razon los circuitos digitales se miden en multiplos de 64 kbit/s; [[Codificacion Binaria]].

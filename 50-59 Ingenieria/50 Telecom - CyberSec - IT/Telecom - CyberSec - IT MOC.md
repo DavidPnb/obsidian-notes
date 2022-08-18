@@ -1,24 +1,28 @@
 ---
-alias: ["Informatica", "Ciberseguridad"]
-status:
-references:
+alias: 
+	- "Informatica"
+	- "Ciberseguridad"
+	- "Tecnologias de la Informacion"
+	- "Ingenieria en Telecomunicaciones"
 created: 2022-05-24 11:22
 ---
 tags:: #atlas/MOC🗺 
-up:: [[+ Index for Atlases (Kit)]]
+up:: [[00 Home]]
 Links: 
-# IT MOC
+# Telecom, Cybersec, IT MOC
 ## Principios
 - [[Computadoras]]
 - [[Networking]]
 ## Recursos
+### Videos
+- [OSINT en Obsidian](https://www.youtube.com/watch?v=sKF37Ng4gaI&list=WL&index=5)
+- [Google Dorks](https://www.youtube.com/watch?v=lESeJ3EViCo&list=WL&index=7)
 ### Libros
 - [[{ Telecomunicaciones. Tecnologias, Redes y Servicios]]
 - Tratamiento de Señales en Tiempo Discreto
 - Configuración de Infraestructuras de Sistemas de Telecomunicaciones
 - Transmisión Digital (Colección Techné)
 - Electrónica de Comunicaciones
-- Redes CISCO. Curso práctico de formación para la certificación CCNA
 - Comunicaciones Móviles (Manuales)
 - Señales y sistemas
 - Sistemas de comunicaciones electrónicas

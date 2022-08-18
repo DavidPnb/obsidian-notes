@@ -1,5 +1,5 @@
 tags:: #concept 
-up:: [[CyberSec-IT MOC]]
+up:: [[Telecom - CyberSec - IT MOC]]
 Links: 
 # Multiplexacion
 El concepto de multiplexacion surge cuando se trata de transmitir, simultaneamente, por un mismo canal un conjunto de señales. Hay $n$ lineas de entrada al multiplexor, y este se conecta a un demultiplexor, via una linea de transmision. Llamamos canal a cada posible conexion, y asi, la linea es capaz de llevar $n$ canales separados de voz o datos.

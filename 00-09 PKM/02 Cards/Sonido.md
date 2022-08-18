@@ -1,5 +1,5 @@
 tags:: #concept  #on/physics #on/IT 
-up:: [[Fisica MOC]] [[CyberSec-IT MOC]]
+up:: [[Fisica MOC]] [[Telecom - CyberSec - IT MOC]]
 Links: 
 # Sonido
 Es el primero de los mensajes, el que se transmitia cuando se invento el telefono en 1876. La sensacion de sonido que llega a nuestro cerebro proviene de una variacion en la presion del aire. El sonido no es mas que el efecto de transmitir por el aire variaciones de presion.

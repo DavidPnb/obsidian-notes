@@ -6,12 +6,12 @@ created: 2022-07-29 18:21
 ## Información
 tags:: #source/book📚 
 writer:: [[Brian W. Kernighan]]
-subject:: [[CyberSec-IT MOC]]
+subject:: [[Telecom - CyberSec - IT MOC]]
 started:: 2022-07-29 18:21
 finished::
 
 ## 🌍 De que Trata
-- [[CyberSec-IT MOC|Informatica]]
+- [[Telecom - CyberSec - IT MOC|Informatica]]
 - [[Ciencias de la Computacion MOC|Computacion]]
 - Privacidad
 

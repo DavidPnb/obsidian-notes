@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "22bd69a435000481",
+        "id": "5bb28511d93bf046",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40-49 Ciencias/40 Matematicas/Relaciones.md",
-            "mode": "preview",
+            "file": "50-59 Ingenieria/50 Telecom - CyberSec - IT/Telecom - CyberSec - IT MOC.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Relaciones.md",
+                "file": "50-59 Ingenieria/50 Telecom - CyberSec - IT/Telecom - CyberSec - IT MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,7 +94,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 1,
                   "linkDistance": 261,
-                  "scale": 0.13051065406000767,
+                  "scale": 0.1305106540600078,
                   "close": false
                 }
               }
@@ -153,13 +153,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Relaciones.md",
+                "file": "50-59 Ingenieria/50 Telecom - CyberSec - IT/Telecom - CyberSec - IT MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Relaciones.md"
+                "file": "50-59 Ingenieria/50 Telecom - CyberSec - IT/Telecom - CyberSec - IT MOC.md"
               }
             }
           },
@@ -232,24 +232,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "ad87187e5671a63a",
+  "active": "5bb28511d93bf046",
   "lastOpenFiles": [
-    "00-09 PKM/00 Home.md",
-    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
     "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
+    "50-59 Ingenieria/50 Telecom - CyberSec - IT/Telecom - CyberSec - IT MOC.md",
+    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
+    "00-09 PKM/00 Home.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-15.md",
     "20-29 Filosofia y Religion/20 Filosofia/20.00 Filosofia MOC.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W32.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-14.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-13.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-12.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-11.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-12.md"
   ]
 }

@@ -1,5 +1,5 @@
 tags:: #on/IT 
-up:: [[CyberSec-IT MOC]]
+up:: [[Telecom - CyberSec - IT MOC]]
 Links: 
 # Compresion de Señales
 En la actualidad se mandan enormes cantidades de informacion a traves de las redes de telecomunicaciones. Uno de los factores que lo hace posible son las tecnicas de compresion para reducir el tamaño ocupado por las señales.
