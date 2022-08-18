@@ -1,12 +1,1 @@
-{
-  "baseFontSize": 16,
-  "cssTheme": "Dracula + LYT",
-  "translucency": false,
-  "enabledCssSnippets": [
-    "supercharged-links-gen",
-    "shorter-links",
-    "mathjax-fontsize",
-    "ITSimage",
-    "ITScallouts"
-  ]
-}
+{}
