@@ -77,6 +77,17 @@ Este habla sobre uno de los conceptos fundamentales del [[Estoicismo]]. En mucha
 - Las preocupaciones son como pesadillas que tenemos cuando estamos despiertos, este miedo es generado por nuestras creencias
 - Nosotros nos vemos atraidos por las representaciones de virtudes, por eso siempre han habido historias de heroismo y valentia
 
+### Libro 7
+- Los principios no mueren, solo se olvidan
+- Estudiar el pasado permite conocer el futuro. Los movimientos politicos se mueven en ciclos, pero la naturaleza humana es la misma
+
+### Libro 8
+- No podemos volver al pasado y vivir nuestras vidas como filósofos, pero podemos vivir la vida como filósofos de ahora en adelante
+	- Puede que no tengamos tiempo para estudiar filósofia, pero tenemos tiempo para practicarla en nuestras vidas
+- No solo hay que arrepentirse de las cosas malas que hicimos, tambien de las cosas buenas que pudimos hacer
+	- No debemos arrepentirnos de los placeres, estos no son inherentemente buenos ni malos
+- Conocer el universo nos ayuda a conocernos a nosotros mismos, saber donde estamos nos ayuda a saber quienes
+
 ## Puntos Clave
 1. Se agradecido, la vida es un proceso de la naturaleza del que tu formas parte
 2. Valora la justicia, la razon, la etica y los buenos valores 
