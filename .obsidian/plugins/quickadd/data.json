@@ -1,0 +1,32 @@
+{
+  "choices": [
+    {
+      "id": "8e000a62-19e2-41c7-bae9-66a6843de4dc",
+      "name": "Add New Book",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00-09 PKM/03 Extras/Templates/Book Note Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

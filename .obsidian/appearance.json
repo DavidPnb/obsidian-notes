@@ -1,1 +1,10 @@
-{}
+{
+  "enabledCssSnippets": [
+    "ITScallouts",
+    "ITSimage",
+    "mathjax-fontsize",
+    "supercharged-links-gen",
+    "shorter-links"
+  ],
+  "cssTheme": "Dracula + LYT"
+}

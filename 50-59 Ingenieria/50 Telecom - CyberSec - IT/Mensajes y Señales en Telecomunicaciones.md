@@ -49,5 +49,7 @@ Por datos se refiere a una secuencia estructurada de caracteres que representa u
 ## La Imagen
 ### La Imagen en Movimiento
 [[Television Analogica]]
+### Definición SD y HD
+[[Television SD y HD]]
 ## La Television Digital
 ___

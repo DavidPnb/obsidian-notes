@@ -8,13 +8,11 @@
   "obsidian-metatable",
   "sliding-panes-obsidian",
   "tag-wrangler",
-  "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-admonition",
   "breadcrumbs",
   "oz-image-plugin",
   "obsidian-to-anki-plugin",
-  "obsidian-nomnoml-diagram",
   "obsidian-tasks-plugin",
   "fleeting-notes-obsidian",
   "obsidian-git",
@@ -23,6 +21,6 @@
   "periodic-notes",
   "nldates-obsidian",
   "obsidian-banners",
-  "homepage",
-  "obsidian-spaced-repetition"
+  "obsidian-nomnoml-diagram",
+  "quickadd"
 ]

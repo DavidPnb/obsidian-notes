@@ -7,9 +7,12 @@
         "id": "2d0c42fd921b29bb",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "00-09 PKM/05 Spaces/05.02 Programacion/Programa de Seleccion Aleatoria.md"
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-17.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -39,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Programacion/Programa de Seleccion Aleatoria.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-file: \"00 Home\"",
@@ -79,6 +82,13 @@
                         "a": 1,
                         "rgb": 5417696
                       }
+                    },
+                    {
+                      "query": "path:\"50-59 Ingenieria\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -91,7 +101,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 1,
                   "linkDistance": 261,
-                  "scale": 0.0423159026897596,
+                  "scale": 0.07431471009955007,
                   "close": false
                 }
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Programacion/Programa de Seleccion Aleatoria.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Programacion/Programa de Seleccion Aleatoria.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-17.md"
               }
             }
           },
@@ -220,14 +230,6 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "ad87187e5671a63a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -237,15 +239,15 @@
   },
   "active": "2d0c42fd921b29bb",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-18.md",
+    "00-09 PKM/03 Extras/Templates/Book Note Template.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/Bookshelf.md",
+    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
+    "00-09 PKM/03 Extras/Media/Pasted image 20220818205351.png",
     "00-09 PKM/00 Home.md",
-    "60-69 Deporte y Recreacion/61 Yoga/61.00 Yoga MOC.md",
-    "70-79 Finas Artes/71 Pixel Art MOC.md",
-    "70-79 Finas Artes/70 Dibujo MOC.md",
-    "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
-    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
-    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
-    "50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC.md",
-    "40-49 Ciencias/41 CS/41.00 Ciencias de la Computacion MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/Untitled.md"
+    "40-49 Ciencias/41 CS/CPUs Avanzadas.md",
+    "40-49 Ciencias/41 CS/CPU.md",
+    "50-59 Ingenieria/50 Telecom - CyberSec - IT/Television Analogica.md",
+    "50-59 Ingenieria/50 Telecom - CyberSec - IT/Television SD y HD.md"
   ]
 }

@@ -12,4 +12,7 @@ Una CPU tambien necesita un reloj que envia señales electricas en intervalos de
 Se le llama **overclocking** al proceso por el cual se aumenta manualmente la cantidad de operaciones por segundo que puede ejecutar una CPU. Es usual que los CPUs puedan soportar una cantidad de Hz mayor a la que tienen de fabrica, pero luego de cierto limite se reduce la vida util y se compromete el funcionamiento del equipo.
 
 Para los dispositivos portatiles es muy importante reducir el consumo de bateria, por lo que en las *laptops* y los *smartphones* se implementa una forma de reducir o aumentar los ciclos de una CPU, dependiendo de la capacidad de procesamiento que requiera una tarea. 
+
+## CPUs Avanzadas
+[[CPUs Avanzadas]]
 ___
