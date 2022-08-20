@@ -25,6 +25,32 @@
       },
       "openFile": true,
       "openFileInMode": "default"
+    },
+    {
+      "id": "8c1e247b-bff6-4216-8f5e-8a0f49235b47",
+      "name": "Add New Flashcard",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00-09 PKM/03 Extras/Templates/Flashcard Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
     }
   ],
   "macros": [],
