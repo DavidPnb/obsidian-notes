@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "csl-json",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "00-09 PKM/08 Reference",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n{{abstract}}\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "00-09 PKM/09 Workflow/bib.json"
+}

@@ -27,4 +27,6 @@ Modificar nuestra ruta de aprendizaje en base al *feedback* que recibimos.
 
 ## Repetir
 No somos computadores y es probable que olvidemos la información al poco tiempo de haberla recibido. La mejor manera de incorporar conocimientos a nuestro cerebro es a través de repetición; [[Spaced Repetition]].
+
+
 ___

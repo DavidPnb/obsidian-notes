@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0c42fd921b29bb",
+        "id": "d490f1d642ecc915",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-19.md",
+            "file": "20-29 Filosofia y Religion/20 Filosofia/Identidad Personal.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-19.md",
+                "file": "20-29 Filosofia y Religion/20 Filosofia/Identidad Personal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-file: \"00 Home\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-19.md",
+                "file": "20-29 Filosofia y Religion/20 Filosofia/Identidad Personal.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-19.md"
+                "file": "20-29 Filosofia y Religion/20 Filosofia/Identidad Personal.md"
               }
             }
           },
@@ -237,17 +237,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "2d0c42fd921b29bb",
+  "active": "d490f1d642ecc915",
   "lastOpenFiles": [
-    "20-29 Filosofia y Religion/20 Filosofia/Barco de Teseo.md",
-    "10-19 Desarrollo Personal y Aprendizaje/Como Aprende el Cerebro.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-19.md",
-    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-18.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-17.md",
-    "00-09 PKM/03 Extras/Templates/Book Note Template.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Bookshelf.md",
-    "00-09 PKM/03 Extras/Media/Pasted image 20220818205351.png",
-    "00-09 PKM/00 Home.md"
+    "20-29 Filosofia y Religion/20 Filosofia/Identidad Personal.md",
+    "00-09 PKM/04 Sources/Research Papers/Pankowski(2022)OntologicalDatabasesFaceted.md",
+    "00-09 PKM/08 Reference/@Pankowski(2022)OntologicalDatabasesFaceted.md",
+    "@Pankowski(2022)OntologicalDatabasesFaceted.md",
+    "00-09 PKM/08 Reference/Ontological databases with faceted queries.md",
+    "00-09 PKM/04 Sources/Research Papers/Pankowski(2022)OntologicalDatabasesFaceted-zotero.md",
+    "00-09 PKM/04 Sources/Articles/+ About the Articles Folder.md",
+    "00-09 PKM/04 Sources/Research Papers/2010 Willpower - Robinson et al.md",
+    "00-09 PKM/04 Sources/Articles/2020 - Reading Comprehension - Bob Bain.md"
   ]
 }
