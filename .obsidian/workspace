@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-21.md",
+            "file": "10-19 Desarrollo Personal y Aprendizaje/Interleaving.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-21.md",
+                "file": "10-19 Desarrollo Personal y Aprendizaje/Interleaving.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-file: \"00 Home\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-21.md",
+                "file": "10-19 Desarrollo Personal y Aprendizaje/Interleaving.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-21.md"
+                "file": "10-19 Desarrollo Personal y Aprendizaje/Interleaving.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "1dd4e7779c98fb11",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W33.md",
+    "10-19 Desarrollo Personal y Aprendizaje/Ilusiones de Competencia.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-21.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W33.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-17.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-16.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-15.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-18.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-08.md",
     "10-19 Desarrollo Personal y Aprendizaje/Como Hacer Trabajos de Grupo.md",
-    "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
-    "00-09 PKM/04 Sources/Books/Como Escribir Mejores Ensayos.md"
+    "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md"
   ]
 }
