@@ -24,6 +24,17 @@ Muchos sustantivos presentan forma fija (*alfiler*, *híperbole*), aunque este a
 	- **heterónimo** - se designa el género con una palabra diferente (*padre* - *madre*)
 
 > [!note]+ Nota
-> 
+> Hay sustantivos de otra nominación en el género
+> **Ambiguo** - estos sustantivos pueden ser masculinos o femeninos (*azúcar*, *tilde*)
+> **Homonimos** - el uso de distinto articulo determina cambio de significado (*cometa*)
+
+
+### Número
+Es el accidente gramatical que expresa cantidad. Establece la oposición singular-plural
+- **Criterio Morfologico** - Se pluralizan con morfemas flexivos *-s* y *-es* (*horas*)
+- **Criterio Sintáctico** - Se pluralizan con articulo (*ciempiés*)
+
+> [!note]+ Nota
+> Existen sustantivos que no se pluralizan (*oro*) y sustantivos que son siempre plural (*fauces*)
 
 ___

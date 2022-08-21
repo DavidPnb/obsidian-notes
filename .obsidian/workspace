@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30-39 Lenguajes/31 Español/Sustantivos en Español.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-20.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30-39 Lenguajes/31 Español/Sustantivos en Español.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-file: \"00 Home\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-39 Lenguajes/31 Español/Sustantivos en Español.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-39 Lenguajes/31 Español/Sustantivos en Español.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-20.md"
               }
             }
           },
@@ -237,17 +237,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "531551c40669c77c",
+  "active": "1dd4e7779c98fb11",
   "lastOpenFiles": [
+    "30-39 Lenguajes/30 Linguistica/Linguistica Historica.md",
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-20.md",
+    "30-39 Lenguajes/30 Linguistica/Adquisicion del Lenguaje.md",
+    "30-39 Lenguajes/30 Linguistica/Comunicacion.md",
+    "30-39 Lenguajes/31 Español/Sustantivos en Español.md",
     "30-39 Lenguajes/30 Linguistica/30.05 Gramatica.md",
     "00-09 PKM/05 Spaces/05.01 Investigacion/Oraciones Gramaticalmente Incorrectas.md",
     "00-09 PKM/05 Spaces/05.01 Investigacion/Tiempo Gramatical en Ingles.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-20.md",
-    "30-39 Lenguajes/30 Linguistica/Silabas.md",
-    "30-39 Lenguajes/31 Español/Silabas en Español.md",
-    "30-39 Lenguajes/30 Linguistica/30.02 Fonologia.md",
-    "00-09 PKM/03 Extras/Anki/Anki Gramatica.md",
-    "00-09 PKM/03 Extras/Anki/Anki Fonologia.md",
-    "30-39 Lenguajes/30 Linguistica/Sintaxis.md"
+    "30-39 Lenguajes/30 Linguistica/Silabas.md"
   ]
 }
