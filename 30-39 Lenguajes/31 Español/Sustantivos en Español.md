@@ -8,4 +8,22 @@ Links:
 - Son **morfológicamente variables**, porque presentan accidentes gramaticales de genero y numero; [[30.04 Morfologia|Morfología]]
 - Sintácticamente funcionan como **nucleos** de una frase; [[Sintaxis]]
 - Lexicológicamente presentan **inventario abierto**, puesto que la creación de nuevos sustantivos es constante; [[30.03 Lexicologia|Lexicologia]]
+
+## Accidentes del Sustantivo
+Los **accidentes gramaticales** son los cambios que sufren las palabras en sus terminaciones y definen sus relaciones sintacticas.
+
+### Género
+Muchos sustantivos presentan forma fija (*alfiler*, *híperbole*), aunque este accidente gramatical usualmente marca la oposición de masculino y femenino.
+
+- **Criterio Morfológico**
+	- **doble forma** - se refiere al sustantivo que puede estar tanto en masculino como en femenino, los cambios se muestran en el sufijo (*medico* - *medica*)
+- **Criterio Sintáctico**
+	- **común a dos** - el articulo es el que determina el género y no la variación del morfema (*el / la estudiante*)
+	- **epiceno** - el que expresa el género es el adjetivo (*serpiente*, *personaje*)
+- **Criterio Lexicológico**
+	- **heterónimo** - se designa el género con una palabra diferente (*padre* - *madre*)
+
+> [!note]+ Nota
+> 
+
 ___
