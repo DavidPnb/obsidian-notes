@@ -30,7 +30,7 @@ aliases:
 - [ ] Implementar Función Principal con Selección de Opciones
 - [ ] Implementar Pandas
 - [ ] Recoger Datos de la Web
-- [x] Usar Git ✅ 2022-08-18
+- [x] Usar Git ✅ 2022-08-18 ^7qn5hb
 
 
 ## 📦 Recursos
@@ -38,4 +38,14 @@ aliases:
 
 
 ## Logs
-- Las comillas simples y las *trailing commas* generan errores al trabajar con archivos JSON en Python
+
+- [ ] Las comillas simples y las *trailing commas* generan errores al trabajar con archivos JSON en Python
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic","hide-card-count":false,"show-checkboxes":true}
+```
+%%

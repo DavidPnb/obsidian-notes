@@ -15,16 +15,17 @@ Links:
 - [[Como Aprende el Cerebro]]
 - [[Memoria]]
 - [[Comprender Mejor un Concepto al Enseñarlo]]
+- [[Ilusiones de Competencia]]
+- [[Chunking]]
 
 ## Procrastinación
 [[Procrastinacion]]
 
 ## Practica
 [[Importancia de la Practica en STEM]]
+[[Practica Deliberada]]
 
 ## Tecnicas de Estudio
 [[Tecnicas de Estudio]]
 
-## Chunking
-[[Chunking]]
 ___
