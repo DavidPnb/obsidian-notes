@@ -1,6 +1,5 @@
 ---
 alias: ["10 Steps to Earning Awesome Grades"]
-references:
 created: 2022-06-11 17:26
 ---
 # 10 Steps to Earning Awesome Grades (While Studying Less)
@@ -9,7 +8,7 @@ tags:: #source/book📚
 writer:: [[Thomas Frank]]
 subject:: [[10 Metaaprendizaje MOC]]
 started:: 2022-06-11 17:26
-finished:: 
+finished:: 2022-08-21 13:00
 
 ## 🌍 De que Trata
 - Productividad
@@ -18,32 +17,6 @@ finished::
 
 ## 🔍 Como lo Descubri
 - Thomas Frank (Autor) - Youtube
-
-## 🧠 Opiniones
-
-### Que me Gusto
-
-### Que me Disgusto
-
-## ✍️ El Libro en Tres Frases
-1. 
-2. 
-3. 
-
-## ✍️ 3 Mejores Citas
->Enfocarse en la meta final, no como la recompensa tangible, sino como el estado que se quiere adquirir
-
->La mente es para tener ideas, no mantenerlas
-
->Que tanto se lee es inmaterial, como se lee es crucial
-
-## 🎨 Impresiones
-
-## ☘️ Como me Cambio el Libro
-- Ayudarme a Organizar Notas Periodicas
-
-## 📒 Proposito del Autor
-- Ayudar a obtener mejores calificaciones y reducir el tiempo de estudio necesario para el desempeño optimo en estudios universitarios
 
 ## Ideas Importantes
 ### Ecuacion Tiempo-Estudio
@@ -100,8 +73,11 @@ Tener un sistema organizado no garantiza que cumpliremos con nuestras tareas, pe
 ### Estudiar de Forma Inteligente
 [[Como Estudiar de Forma mas Eficiente]]
 
-## Escribir Mejores Ensayos
+### Escribir Mejores Ensayos
 [[Como Escribir Mejores Ensayos]]
+
+### Hacer que los Trabajos de Grupo no sean tan Malos
+[[Como Hacer Trabajos de Grupo]]
 ___
 
 
