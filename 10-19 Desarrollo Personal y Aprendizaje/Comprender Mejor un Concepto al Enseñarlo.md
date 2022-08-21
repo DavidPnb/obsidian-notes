@@ -15,5 +15,8 @@ Tal y como se expresa en el punto anterior, la conexión con otros temas puede d
 
 ## Storytelling
 Las historias llevan una carga emocional y por eso son más dificiles de olvidar que hechos o información a secas.
+
+## Comprensión
+Es muy importante asegurarse de entender los temas, conceptos y terminos y la manera en que estos se relacionan antes de empezar a memorizar los detalles.
 ___
 
