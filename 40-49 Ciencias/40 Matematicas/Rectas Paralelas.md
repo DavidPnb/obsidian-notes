@@ -40,4 +40,27 @@ En la [[Geometria Euclideana]], interpretamos los [[Planos]] como superficies pl
 > [!teorema]-
 >Si dos rectas paralelas son cortadas por una [[Rectas Transversales|Transversal]], entonces los pares de angulos exteriores en el mismo lado de la transversal son suplementarios
 
+## Condiciones de Paralelismo
+> [!teorema]-
+> Si dos rectas son cortadas por una transversal tal que dos angulos correspondientes son congruentes, entonces las rectas son paralelas
+
+> [!teorema]-
+> Si dos rectas son cortadas por una transversal tal que dos angulos interiores alternos son congruentes, entonces las rectas son paralelas
+
+> [!teorema]-
+> Si dos rectas son cortadas por una transversal tal que dos angulos exteriores alternos son congruentes, entonces las rectas son paralelas
+
+> [!teorema]-
+> Si dos rectas son cortadas por una transversal tal que dos angulos interiores del mismo lado de la transversal son suplementarios, entonces las rectas son paralelas
+
+ >[!teorema]-
+> Si dos rectas son cortadas por una transversal tal que dos angulos exteriores del mismo lado de la transversal son suplementarios, entonces las rectas son paralelas
+
+ >[!teorema]-
+> Si dos rectas son paralelas a una tercera recta, entonces estas dos rectas son paralelas entre si
+
+>[!teorema]-
+> Si dos rectas coplanares son perpendiculares a una tercera recta, entonces estas dos rectas son paralelas entre si
+
+
 ___
