@@ -29,5 +29,5 @@ Durante el Renacimiento la influencia del escepticismo clasico se reflejo sobre 
 
 El filosofo aleman del siglo XVIII Immanuel Kant, a la vez que intentaba superar el escepticismo de Hume, negaba la posibilidad de conocer las cosas en si mismas o alcanzar el conocimiento metafisico. En el siglo XIX, el filosofo aleman Friedrich Nietzsche nego la posibilidad de la total objetividad y del conocimiento objetivo en ningun campo.
 
-El filosofo estadounidense del siglo XX Jorge Ruiz de Santayana, pretendiendo haber dado un paso mas alla del escepticismo de Hume, mantuvo en su obra "Escepticismo y fe animal" (1923), que la creencia en la existencia de cualquier cosa, incluido en si mismo, obedece a un impulso natural pero irracional. Se pueden encontrar rasgos de escepticismo en otras escuelas modernas de filosofia, incluyendo el pragmatismo, la filosofia analitica y el [[existencialismo]]
+El filosofo estadounidense del siglo XX Jorge Ruiz de Santayana, pretendiendo haber dado un paso mas alla del escepticismo de Hume, mantuvo en su obra "Escepticismo y fe animal" (1923), que la creencia en la existencia de cualquier cosa, incluido en si mismo, obedece a un impulso natural pero irracional. Se pueden encontrar rasgos de escepticismo en otras escuelas modernas de filosofia, incluyendo el pragmatismo, la filosofia analitica y el [[Existencialismo]]
 ___

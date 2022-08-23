@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-22.md",
+            "file": "20-29 Filosofia, Mente y Religion/22 Psicologia/22.00 Psicologia MOC.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8e9cb9e190c02e9b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-22.md",
+                "file": "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-file: \"00 Home\"",
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-22.md",
+                "file": "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-22.md"
+                "file": "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md"
               }
             }
           },
@@ -237,17 +250,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "37cc13f696274dc1",
+  "active": "8e9cb9e190c02e9b",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
+    "20-29 Filosofia, Mente y Religion/22 Psicologia/22.00 Psicologia MOC.md",
+    "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md",
+    "10-19 Desarrollo Personal y Aprendizaje/11 Carrera y Desarrollo Profesional MOC.md",
+    "20-29 Filosofia, Mente y Religion/20 Filosofia/20.00 Filosofia MOC.md",
+    "10-19 Desarrollo Personal y Aprendizaje/10 Metaaprendizaje MOC.md",
+    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
+    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
+    "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-22.md",
-    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
-    "40-49 Ciencias/40 Matematicas/Rectas.md",
-    "40-49 Ciencias/40 Matematicas/40.02 Algebra.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-21.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-20.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-19.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-18.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-17.md"
+    "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md"
   ]
 }
