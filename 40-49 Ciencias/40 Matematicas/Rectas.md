@@ -1,10 +1,9 @@
 ---
-status:
-tags: 
-references:
-created: 2022-05-17 21:31
+created: 2022-08-22 10:11
 ---
-Links: [[]]
+tags:: #Mathematics 
+up:: [[40.05 Geometria]]
+Links: 
 # Rectas
 ## Rectas en el Espacio
 Cuando Euclides formalizó la geometría por primera vez en los Elementos, definió una línea general (recta o curva) como "sin anchura" y una línea recta como una línea "que se encuentra uniformemente con los puntos sobre sí misma". Estas definiciones sirven de poco, ya que utilizan términos que no están definidos por sí mismos. De hecho, el mismo Euclides no usó estas definiciones en este trabajo, y probablemente las incluyó solo para dejarle claro al lector lo que se estaba discutiendo. En la geometría moderna, una línea se toma simplemente como un objeto indefinido con propiedades dadas por axiomas, pero a veces se define como un conjunto de puntos que obedecen a una relación lineal cuando se deja sin definir algún otro concepto fundamental.
@@ -29,9 +28,9 @@ $\begin{align*} \lambda =\frac{x-p_x}{l_x} \\ \lambda =\frac{y-p_y}{l_y} \\ \lam
 Esta ecuacion se usa para determinar si un punto pertenece a la recta.
 
 ### Recta como Interseccion de dos Planos
-$l: \begin{align*}
+$$l: \begin{align*}
 \pi_1 :A_1x+B_1y+C_1z+D_1=0 \\ \pi_2: A_2x+B_2y+C_2z+D_2=0
-\end{align*}$
+\end{align*}$$
 
 Cualquier punto cuyas coordenadas satisfagan ambas ecuaciones del sistema pertenece a $l$
 

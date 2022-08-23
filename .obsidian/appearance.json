@@ -6,5 +6,6 @@
     "supercharged-links-gen",
     "shorter-links"
   ],
-  "cssTheme": "Dracula + LYT"
+  "cssTheme": "Dracula + LYT",
+  "baseFontSize": 17
 }
