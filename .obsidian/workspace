@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -55,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md"
               }
             }
           },
@@ -252,9 +252,9 @@
   },
   "active": "a7d34934d8f2427c",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
     "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
     "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
     "40-49 Ciencias/41 CS/41.00 Ciencias de la Computacion MOC.md",
     "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
     "50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC.md",

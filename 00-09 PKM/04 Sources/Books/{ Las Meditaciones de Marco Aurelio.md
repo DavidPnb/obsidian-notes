@@ -9,7 +9,7 @@ writer:: [[Marco Aurelio]]
 status:: Doing
 subject:: [[Estoicismo]]
 started:: 2022-06-22 12:55
-finished::
+finished:: 2022-08-24 17:35
 rating:: 5.0
 
 ## 🔍 Como lo Descubri
@@ -18,7 +18,7 @@ Susan Rigetti [Philosophy](https://www.susanrigetti.com/philosophy)
 ## ✍️ Citas
 >Produce buenas acciones como un viñedo produce uvas: naturalmente, sin pensarlo
 
->Cada momento, enfoca tu atención y realiza las tares con simplicidad, eficiencia y dignidad. Llena tu mente con pensamientos de amor, libertad y justicia, sin dejar espacios para pensamientos negativos o destructivos
+>En una generación perversa, el poder determina lo que es correcto, la violencia es alabada y la virtud es difamada. - Hesiodo
 
 >Para cambiar tu experiencia, cambia tu opinion
 
@@ -92,6 +92,17 @@ Este habla sobre uno de los conceptos fundamentales del [[Estoicismo]]. En mucha
 - Este dice que mentir es una ofensa contra la naturaleza, las adaptaciones de nuestro cerebro para vivir como animales sociales dicen lo contrario
 - El pecado es la corrupción de la razon, por esto los animales no pueden cometer tal maldad
 - Pide a los dioses por un cambio interno en lugar de uno externo
+
+## Libro 10
+- La **racionalidad** es la capacidad de ver más alla de lo aparente
+- La **equanimidad** implica aceptar las cosas que la vida ofrece
+- La **magnanimidad** significa tener un alma fuerte, que no es tentada por el placer, la fama y el miedo
+
+## Libro 11
+- Antes de imponer reglas en los demás, cumplelas tu mismo
+
+## Libro 12
+- Aun si no tienes esperanza de dominar una habilidad, practicala. Nuestra habilidad con nuestra mano más habil depende del uso que le damos
 
 ## Puntos Clave
 1. Se agradecido, la vida es un proceso de la naturaleza del que tu formas parte
