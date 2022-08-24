@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/Posciencia.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "955340c563227ffb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/Posciencia.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,13 +173,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/Posciencia.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -196,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/Posciencia.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md"
               }
             }
           },
@@ -239,15 +252,15 @@
   },
   "active": "e7e5d728314b3650",
   "lastOpenFiles": [
+    "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
     "40-49 Ciencias/41 CS/41.00 Ciencias de la Computacion MOC.md",
-    "20-29 Filosofia, Mente y Religion/20 Filosofia/Posciencia.md",
+    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
     "50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC.md",
+    "00-09 PKM/02 Theory/02.01 Ciencias de la Informacion.md",
+    "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/+ Index for index notes.md",
+    "20-29 Filosofia, Mente y Religion/20 Filosofia/Posciencia.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
-    "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md",
-    "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md",
-    "90-99 Ciencias Sociales/91 Ciencias Politicas/91.00 Ciencias Politicas MOC.md",
-    "20-29 Filosofia, Mente y Religion/20 Filosofia/20.00 Filosofia MOC.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/15 Finanzas Personales MOC.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/14 Comunicacion y Habilidades Sociales MOC.md"
+    "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md"
   ]
 }
