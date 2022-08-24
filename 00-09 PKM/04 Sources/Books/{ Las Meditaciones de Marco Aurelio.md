@@ -88,6 +88,11 @@ Este habla sobre uno de los conceptos fundamentales del [[Estoicismo]]. En mucha
 	- No debemos arrepentirnos de los placeres, estos no son inherentemente buenos ni malos
 - Conocer el universo nos ayuda a conocernos a nosotros mismos, saber donde estamos nos ayuda a saber quienes
 
+## Libro 9
+- Este dice que mentir es una ofensa contra la naturaleza, las adaptaciones de nuestro cerebro para vivir como animales sociales dicen lo contrario
+- El pecado es la corrupción de la razon, por esto los animales no pueden cometer tal maldad
+- Pide a los dioses por un cambio interno en lugar de uno externo
+
 ## Puntos Clave
 1. Se agradecido, la vida es un proceso de la naturaleza del que tu formas parte
 2. Valora la justicia, la razon, la etica y los buenos valores 
