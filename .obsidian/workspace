@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40-49 Ciencias/40 Matematicas/Rectas Paralelas.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Rectas Paralelas.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-file: \"00 Home\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Rectas Paralelas.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Rectas Paralelas.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md"
               }
             }
           },
@@ -239,10 +239,10 @@
   },
   "active": "37cc13f696274dc1",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md",
     "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
     "40-49 Ciencias/40 Matematicas/Rectas Transversales.md",
     "40-49 Ciencias/40 Matematicas/Angulos Transversales.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md",
     "20-29 Filosofia, Mente y Religion/22 Psicologia/22.00 Psicologia MOC.md",
     "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md",
     "10-19 Desarrollo Personal y Aprendizaje/11 Carrera y Desarrollo Profesional MOC.md",
