@@ -46,10 +46,11 @@ finished::
 - [[Hermeneutica]]
 
 ### Corrientes Actuales del Conocimiento
-#### Teoria del Conocimiento de la Ciencia en la Postmodernidad
-#### El Aporte de la Psicologia
-#### El Paradigma de la Complejidad
-#### El Conocimiento Dialogico-Convivial desde America Latina
+- **Teoria del Conocimiento de la Ciencia en la Postmodernidad**
+	- [[Posciencia]]
+- **El Aporte de la Psicologia**
+- **El Paradigma de la Complejidad**
+- **El Conocimiento Dialogico-Convivial desde America Latina**
 
 ## Puntos Clave
 
