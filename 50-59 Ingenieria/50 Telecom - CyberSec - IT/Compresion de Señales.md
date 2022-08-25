@@ -1,5 +1,8 @@
+---
+created: 2022-08-25 10:42
+---
 tags:: #on/IT 
-up:: [[50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC]]
+up:: [[Señales Digitales]]
 Links: 
 # Compresion de Señales
 En la actualidad se mandan enormes cantidades de informacion a traves de las redes de telecomunicaciones. Uno de los factores que lo hace posible son las tecnicas de compresion para reducir el tamaño ocupado por las señales.

@@ -1,6 +1,5 @@
 ---
 
-kanban-plugin: basic
 aliases:
   - Decision Making
 
@@ -21,31 +20,17 @@ aliases:
 ## 🎯 Objectivo
 
 - [ ] 🟢 Resultado Ideal
+	- Tener taxonomias y un sistema de consultas y filtros
 - [x] 🟠 Resultado aceptable
+	- Programa de selección aleatoria funcional
 
 
 ## ✅ Tasks
-
-- [ ] Implementar Almacenamiento Permanente
-- [ ] Implementar Función Principal con Selección de Opciones
-- [ ] Implementar Pandas
-- [ ] Recoger Datos de la Web
-- [x] Usar Git ✅ 2022-08-18 ^7qn5hb
-
+[[05.02 PdSA]]
 
 ## 📦 Recursos
 
 
 
 ## Logs
-
-- [ ] Las comillas simples y las *trailing commas* generan errores al trabajar con archivos JSON en Python
-
-
-
-
-%% kanban:settings
-```
-{"kanban-plugin":"basic","hide-card-count":false,"show-checkboxes":true}
-```
-%%
+- Las comillas simples y las *trailing commas* generan errores al trabajar con archivos JSON en Python

@@ -1,5 +1,8 @@
-tags:: #concept  #note/develop🍃  #on/IT 
-up:: [[50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC]]
+---
+created: 2022-08-25 10:33
+---
+tags::  #note/develop🍃  #on/IT 
+up:: [[Mensajes y Señales en Telecomunicaciones]]
 Links: 
 # Señales Analogicas
 Son ondas continuas en el tiempo, en donde los valores varian de forma continua. Se les llama señales analogicas porque son analogas al mensaje que se quiere representar.

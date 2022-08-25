@@ -1,5 +1,5 @@
 ---
-title: Ontological databases with faceted queries
+title: "Ontological databases with faceted queries"
 authors: Tadeusz Pankowski
 year: 2022
 ---

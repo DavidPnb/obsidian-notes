@@ -52,4 +52,5 @@ Por datos se refiere a una secuencia estructurada de caracteres que representa u
 ### Definición SD y HD
 [[Television SD y HD]]
 ## La Television Digital
+[[Television Digital]]
 ___

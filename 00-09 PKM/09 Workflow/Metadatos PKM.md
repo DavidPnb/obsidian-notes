@@ -15,5 +15,5 @@ Links:
 		- *Seed* - Nota vacia
 		- *Develop* - Idea Basica
 		- *Boat* - Nota sin Conexiones
-		- *Evegreen* - Nota Completa
+		- *Evergreen* - Nota Completa
 ___

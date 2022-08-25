@@ -1,8 +1,9 @@
 ---
 alias: ["Ruido"]
+created: 2022-08-25 10:36
 ---
-tags:: #concept  #note/develop🍃  #on/IT
-up:: [[50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC]]
+tags:: #note/develop🍃  #on/IT
+up:: [[Mensajes y Señales en Telecomunicaciones]]
 Links: 
 # Ruido (IT)
 La energia de la señal decae con la distancia, por lo que hay que asegurarse que llegue con la suficiente energia como para se captada por el receptor y, ademas, el ruido debe ser sensiblemente menor que la señal original.

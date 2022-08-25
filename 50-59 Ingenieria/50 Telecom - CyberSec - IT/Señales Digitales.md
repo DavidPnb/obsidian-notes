@@ -1,5 +1,8 @@
-tags:: #concept #on/IT  
-up:: [[50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC]]
+---
+created: 2022-08-25 10:31
+---
+tags:: #on/IT  
+up:: [[Mensajes y Señales en Telecomunicaciones]]
 Links: 
 # Señales Digitales
 Las [[Señales Analogicas]] son las señales que representan al mensaje. Las señales digitales son señales creadas por el hombre, totalmente artificiales, y no se parecen en nada al mensaje que quieren representar o que quieren transmitir. Estas tienen dos caracteristicas principales, la primera: solo pueden tener dos niveles o dos valores. La señal analogica, por el contrario, puede tener cualquier valor. En la señal digital solo hay dos valores de voltios: un valor alto y un valor bajo, no hay ningun valor intermedio. La ultima caracteristica es que la transicion del valor alto al valor bajo no se puede producir en cualquier momento, no es arbitrario, se tiene que producir en momentos predeterminados.

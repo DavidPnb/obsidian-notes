@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e7e5d728314b3650",
+        "id": "d46edde678e1afae",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "20-29 Filosofia, Mente y Religion/22 Psicologia/22.00 Psicologia MOC.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "bfdf5c75146949b1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "00-09 PKM/03 Extras/Kanban/05.02 PdSA.md"
           }
         }
       }
@@ -55,7 +39,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Mente y Religion/22 Psicologia/22.00 Psicologia MOC.md",
+                "file": "00-09 PKM/03 Extras/Kanban/05.02 PdSA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Mente y Religion/22 Psicologia/22.00 Psicologia MOC.md",
+                "file": "00-09 PKM/03 Extras/Kanban/05.02 PdSA.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Mente y Religion/22 Psicologia/22.00 Psicologia MOC.md"
+                "file": "00-09 PKM/03 Extras/Kanban/05.02 PdSA.md"
               }
             }
           },
@@ -250,17 +234,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "e7e5d728314b3650",
+  "active": "d46edde678e1afae",
   "lastOpenFiles": [
-    "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/10 Aprendizaje y Educacion MOC.md",
-    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
-    "30-39 Lenguajes/30 Linguistica/Semantica.md",
-    "20-29 Filosofia, Mente y Religion/20 Filosofia/Personas.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Practica Deliberada.md",
-    "20-29 Filosofia, Mente y Religion/20 Filosofia/Problema de la Maldad.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Mejorar el Lugar de Estudio.md",
-    "20-29 Filosofia, Mente y Religion/21 Pseudociencia/Ley de la Atraccion.md"
+    "00-09 PKM/05 Spaces/05.02 Programacion/Programa de Seleccion Aleatoria.md",
+    "00-09 PKM/03 Extras/Kanban/05.02 PdSA.md",
+    "00-09 PKM/03 Extras/Kanban/Implementar Almacenamiento Permanente.md",
+    "00-09 PKM/03 Extras/Templates/Kanban Template.md",
+    "00-09 PKM/03 Extras/Templates/Project Template.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-25.md",
+    "50-59 Ingenieria/50 Telecom - CyberSec - IT/Television Digital.md",
+    "50-59 Ingenieria/50 Telecom - CyberSec - IT/Compresion de Señales.md",
+    "50-59 Ingenieria/50 Telecom - CyberSec - IT/Ruido (IT).md",
+    "00-09 PKM/08 Reference/@Pankowski(2022)OntologicalDatabasesFaceted.md"
   ]
 }

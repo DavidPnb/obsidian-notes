@@ -1,5 +1,8 @@
 {
   "newFileLocation": "current",
   "attachmentFolderPath": "00-09 PKM/03 Extras/Media",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "00-09 PKM/03 Extras/Templates/"
+  ]
 }
