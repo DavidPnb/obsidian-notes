@@ -27,5 +27,10 @@ Considera que las personas deben ser reconocidas como tal por la sociedad. Esto 
 Peter Singer considera a las personas como seres que pueden sentir y como causar sufrimiento a un ser es visto como inmoral, tenemos consideración moral hacia los seres sensibles
 
 ## Teoría de la Gradiente
-Considera que ser persona no es una clasificación a la que se pertenece o no, sino que existen distintos grados en lo que uno puede ser persona
+Considera que ser persona no es una clasificación a la que se pertenece o no, sino que existen distintos grados en los que uno puede ser persona.
+
+## AIs
+Este es un tema complicado debido a que consideramos concientes a otros seres vivos debido a las similaridades que tienen con nosotros. Al estar hechas las AIs de forma programatica es imposible determinar si estas pueden llegar a ser concientes.
+
+Entonces considerando esto ¿Como podemos determinar si una AI puede ser considerada una persona?
 ___
