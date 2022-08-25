@@ -22,5 +22,5 @@ La ley de atracción es considerada pseudociencia ya que pese a tratar de sosten
 - Tambien es suceptible al **fenomeno Baader Meinhof** (si ponemos en practica la ley de atracción, es más probable que prestemos atención a casualidades como manifestaciones del universo)
 
 ## Creencias Toxicas
-Una de las ideas más toxicas de esta creencia es que pone todo el peso de la culpa por el fallo al *manifestar un pensamiento* en las personas que la practican. Esto junto con la propia naturaleza cultista de esta clase de creencias que te piden que abandones la logica y creas ciegamente, crea la formula perfecta para una estafa espiritualista.
+Una de las ideas más toxicas de esta creencia es que pone todo el peso de la culpa por el fallo al *manifestar un pensamiento* en los que la practican en vez de admitir un fallo en la creencia. Esto junto con la propia naturaleza cultista de esta clase de creencias que te piden que abandones la logica y creas ciegamente, crea la formula perfecta para una estafa espiritualista.
 ___

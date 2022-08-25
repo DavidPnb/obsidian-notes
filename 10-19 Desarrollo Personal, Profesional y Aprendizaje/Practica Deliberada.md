@@ -8,7 +8,7 @@ Links:
 Es un metodo que surge de una investigación realizada para intentar descubrir como los expertos han aprendido y mejorado sus habilidades.
 
 ## Deconstrucción
-Consiste en descomponer las habilidades que queremos alcanzar en otras más simples, creando la ruta que vamos a seguir. La mejor manera de hacer esto es conocer el camino que han seguido otras personas en el area.
+Consiste en descomponer las habilidades que queremos alcanzar en otras más simples, creando la ruta que vamos a seguir. La mejor manera de hacer esto es conocer el camino que han seguido otros expertos en el area.
 
 ## Metas
 Estas metas deben ser los suficientemente accesibles como para que podamos realizarlas y lo suficientemente dificiles como para que no perdamos el interés. Deben ser planeadas con el proposito de que nos acostumbremos a estar fuera de nuestra zona de comfort.

@@ -14,7 +14,7 @@ Tambien se han propuesto los conceptos de **propiedades esenciales** y **propied
 
 Estas definiciones tienen sus problemas, ya que la linea que separa a las propiedades esenciales de las accidentales es subjetiva, y corrientes como el [[Existencialismo]] niegan la existencia de una *esencia*. Se cree que el filosofo griega Heráclito dijo la frase *un hombre no se baña en el mismo rio dos veces*, tanto el hombre como el agua que fluye por el rio han cambiado durante ese periodo.
 
-La idéntidad tambien depende del concepto de **fungibilidad**; es decir, que tan reemplazable es el objeto a considerar. Este es lo que hace que nuestro criterio de identidad sea diferente en caso de hablar de personas en lugar de, por ejemplo, un billete o una silla.
+La idéntidad tambien depende del concepto de **fungibilidad**; es decir, que tan reemplazable es el objeto a considerar. Este es lo que hace que nuestro criterio de identidad sea diferente en caso de hablar de [[Personas]] en lugar de, por ejemplo, un billete o una silla.
 
 ## Idéntidad Personal
 [[Identidad Personal]]

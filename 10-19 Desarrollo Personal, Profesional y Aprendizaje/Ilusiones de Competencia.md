@@ -13,5 +13,5 @@ El [[Active Recall]] se considera como la tecnica de estudio más efectiva y con
 
 **Overlearning** consiste en enfocarse mucho en aprender un tema o concepto en particular. Una vez que comprendemos una idea, no vale la pena seguir concentrandose en ella en una misma sesión de estudio porque sera más facil de repasar y aportara menos a nuestro aprendizaje a largo plazo. La [[Practica Deliberada]] es lo que hace la diferencia entre un buen estudiante y un gran estudiante.
 
-**Einstellung** es cuando nuestras concepciones acerca de como resolver un problema resultan en una visión de tunel y nos impiden ver una posible solución al buscar en otros metodos. Esta es la razon por la que los avances científicos suelen surgir de gente joven o de personas que provienen de otras areas.
+**Einstellung** es cuando nuestras concepciones acerca de como resolver un problema resultan en una visión de tunel y nos impiden ver una posible solución al buscar en otros metodos. Esta es la razon por la que los avances científicos suelen surgir de gente joven o de gente con conocimientos en otras areas.
 ___

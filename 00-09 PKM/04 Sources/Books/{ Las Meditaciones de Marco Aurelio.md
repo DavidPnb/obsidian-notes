@@ -6,7 +6,7 @@ created: 2022-07-13 08:46
 ## Información
 tags:: #source/book📚 
 writer:: [[Marco Aurelio]]
-status:: Doing
+status:: Synthesizing
 subject:: [[Estoicismo]]
 started:: 2022-06-22 12:55
 finished:: 2022-08-24 17:35
