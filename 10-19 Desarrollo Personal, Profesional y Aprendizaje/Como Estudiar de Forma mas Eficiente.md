@@ -4,7 +4,7 @@ references:
 created: 2022-08-08 11:19
 ---
 tags:: #metalearning 
-up:: [[10 Metaaprendizaje MOC]]
+up:: [[10 Aprendizaje y Educacion MOC]]
 # Como Estudiar de Forma mas Eficiente
 ## Replicar las Condiciones de Prueba
 Este es un punto muy importante ya que no solo necesitamos aprender el material de estudio, tambien debemos desempeñarnos bien en las pruebas que asigne el profesor, sean examenes, ensayos o exposiciones. Además, replicar las condiciones de prueba ayuda a reducir la **ansiedad**, lo que aumenta nuestra capacidad de memorización.

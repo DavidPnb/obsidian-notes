@@ -4,7 +4,7 @@ references:
 created: 2022-07-03 12:42
 ---
 tags:: #metalearning 
-up:: [[10 Metaaprendizaje MOC]]
+up:: [[10 Aprendizaje y Educacion MOC]]
 Links: 
 # Modos de Pensamiento
 Segun la evidencia científica, tenemos dos modos diferentes de pensar que no pueden usarse al mismo tiempo, y es fundamental comprenderlos al momento de aprender un concepto o tratar de resolver un problema. Aprender cosas dificiles toma tiempo y se recomiendo alternar entre los dos modos de pensamiento.

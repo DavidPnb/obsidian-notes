@@ -3,7 +3,7 @@ alias: ["Tecnica Feynman"]
 ---
 
 tags:: #metalearning
-up:: [[10 Metaaprendizaje MOC]]
+up:: [[10 Aprendizaje y Educacion MOC]]
 Links: 
 # Comprender Mejor un Concepto al Enseñarlo
 Esta manera de estudiar tiene respaldo científico y ayuda a mejorar nuestra comprensión y consolidar nuestro conocimiento sobre un tema. Se puede poner en practica al exteriorizar nuestros pensamientos, diciendolos en voz alta o escribiendolos.

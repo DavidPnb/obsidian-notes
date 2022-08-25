@@ -2,7 +2,7 @@
 created: 2022-08-12 18:32
 ---
 tags:: #metalearning 
-up:: [[10 Metaaprendizaje MOC]]
+up:: [[10 Aprendizaje y Educacion MOC]]
 Links: 
 # Practica Deliberada
 Es un metodo que surge de una investigación realizada para intentar descubrir como los expertos han aprendido y mejorado sus habilidades.

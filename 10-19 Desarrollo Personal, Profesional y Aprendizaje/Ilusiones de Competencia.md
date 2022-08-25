@@ -4,7 +4,7 @@ references:
 created: 2022-08-08 15:33
 ---
 tags:: #metalearning 
-up:: [[10 Metaaprendizaje MOC]]
+up:: [[10 Aprendizaje y Educacion MOC]]
 Links: 
 # Ilusión de Competencia
 Los estudios han demostrado que la **relectura** no es una tecnica de estudio efectiva; pese a esto, para muchos estudiantes es la mejor o incluso la unica que conocen. A esto se le llama **ilusion de competencia** y se cree que su causa principal el la facilidad de leer en comparación con otras tecnicas

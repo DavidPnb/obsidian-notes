@@ -6,7 +6,7 @@ created: 2022-06-11 17:26
 ## Información
 tags:: #source/book📚 
 writer:: [[Thomas Frank]]
-subject:: [[10 Metaaprendizaje MOC]]
+subject:: [[10 Aprendizaje y Educacion MOC]]
 started:: 2022-06-11 17:26
 finished:: 2022-08-21 13:00
 

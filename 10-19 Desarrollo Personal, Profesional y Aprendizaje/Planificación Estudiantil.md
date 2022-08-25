@@ -4,7 +4,7 @@ references:
 created: 2022-07-10 12:25
 ---
 tags:: #on/Action 
-up:: [[10 Metaaprendizaje MOC]]
+up:: [[10 Aprendizaje y Educacion MOC]]
 Links: 
 # Planificación Estudiantil
 ## Modo de Planeación vs Modo Robot

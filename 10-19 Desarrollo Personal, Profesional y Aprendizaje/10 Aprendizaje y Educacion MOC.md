@@ -1,5 +1,5 @@
 ---
-alias: ["Metaaprendizaje", "Aprender a Aprender"]
+alias: ["Metaaprendizaje", "Aprender a Aprender", "Educacion"]
 status:
 references:
 created: 2022-07-24 13:01
@@ -28,4 +28,8 @@ Links:
 ## Tecnicas de Estudio
 [[Tecnicas de Estudio]]
 
+## Recursos
+### Libros
+-  Richard M. Felder - Teaching and Learning STEM
+- 
 ___
