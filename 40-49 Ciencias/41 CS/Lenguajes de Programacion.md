@@ -57,4 +57,12 @@ El otro tipo de estructura de control es el **bucle**, que ejecuta el codigo una
 Los **strings** son cadenas de caracteres codificados, esto incluye letras, numeros y simbolos; [[Codificacion Binaria]]. Pueden ser representados tanto con comillas simples ( *' '* )  como con comillas dobles ( *" "* ), lo que es util para representar apóstrofes. 
 
 Estos strings pueden **concatenarse**, juntando los caracteres de dos strings en uno solo de forma analoga a la operación de suma. Los strings son objetos no escalares, y pueden usarse como si fueran listas donde cada caracter es un valor diferente. 
+
+## Funciones
+Son piezas de codigo reusables a las que se les da un nombre y pueden ser utilizadas en varias partes de un programa. La creación de funciones es la principal manera en la que se crean **abstracciones** y son la parte más esencial de un programa moderno, porque mejoran la **legibilidad** y **modularidad** haciendo que los proyectos sean más **escalables**.
+
+## Algoritmos
+Un **algoritmo** es una serie de pasos que se realizan para resolver un problema específico. Tienen su origen el [[Algebra Elemental]] y su uso en [[40.00 Matematicas MOC|Matematicas]] tambien se extiende a la programación. 
+
+La eficiencia de un algoritmo es estudiada en Analisis de Algoritmos.
 ___

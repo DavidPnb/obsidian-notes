@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-25.md",
+            "file": "40-49 Ciencias/41 CS/Lenguajes de Programacion.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-25.md",
+                "file": "40-49 Ciencias/41 CS/Lenguajes de Programacion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-25.md",
+                "file": "40-49 Ciencias/41 CS/Lenguajes de Programacion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-25.md"
+                "file": "40-49 Ciencias/41 CS/Lenguajes de Programacion.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "d46edde678e1afae",
   "lastOpenFiles": [
-    "00-09 PKM/05 Spaces/05.02 Programacion/Programa de Seleccion Aleatoria.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-25.md",
+    "40-49 Ciencias/41 CS/Lenguajes de Programacion.md",
+    "00-09 PKM/05 Spaces/05.02 Programacion/Programa de Seleccion Aleatoria.md",
     "00-09 PKM/03 Extras/Kanban/05.02 PdSA.md",
     "00-09 PKM/03 Extras/Kanban/Implementar Almacenamiento Permanente.md",
     "00-09 PKM/03 Extras/Templates/Kanban Template.md",
     "00-09 PKM/03 Extras/Templates/Project Template.md",
     "50-59 Ingenieria/50 Telecom - CyberSec - IT/Television Digital.md",
     "50-59 Ingenieria/50 Telecom - CyberSec - IT/Compresion de Señales.md",
-    "50-59 Ingenieria/50 Telecom - CyberSec - IT/Ruido (IT).md",
-    "00-09 PKM/08 Reference/@Pankowski(2022)OntologicalDatabasesFaceted.md"
+    "50-59 Ingenieria/50 Telecom - CyberSec - IT/Ruido (IT).md"
   ]
 }
