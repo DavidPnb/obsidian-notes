@@ -65,4 +65,14 @@ Son piezas de codigo reusables a las que se les da un nombre y pueden ser utiliz
 Un **algoritmo** es una serie de pasos que se realizan para resolver un problema específico. Tienen su origen el [[Algebra Elemental]] y su uso en [[40.00 Matematicas MOC|Matematicas]] tambien se extiende a la programación. 
 
 La eficiencia de un algoritmo es estudiada en Analisis de Algoritmos.
+
+## Input / Output
+La mayoria de lenguajes de programación de propósito general tienen metodos para recibir información directamente del usuario, considerada como **input**; además, deben tener una manera de hacerle llegar información al usuario, llamada **output**, esto usualmente se hace mostrando texto en la consola.
+
+## IDE
+
+Los **entornos de desarrollo integrados** son herramientas diseñadas para facilitar la tarea de escribir codigo en un lenguaje de programación específico. Estos disponen de 3 funciones principales:
+1. **Editor de Texto** - Similar a los editores de texto plano, pero tambien suele incluir **autocompletado** y **syntax highlightning**
+2. **Shell** - Permite interactuar con el codigo que escribimos
+3. **Debugger** - Ayuda a detectar **bugs** y diagnosticar problemas en el codigo
 ___

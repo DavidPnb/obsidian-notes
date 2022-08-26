@@ -4,7 +4,8 @@
     "ITSimage",
     "mathjax-fontsize",
     "supercharged-links-gen",
-    "shorter-links"
+    "shorter-links",
+    "multicolumn"
   ],
   "cssTheme": "Dracula + LYT",
   "baseFontSize": 16
