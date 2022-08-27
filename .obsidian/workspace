@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-26.md",
+            "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-26.md",
+                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-26.md",
+                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-26.md"
+                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md"
               }
             }
           },
@@ -237,17 +237,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "58168bc906301d5a",
+  "active": "531551c40669c77c",
   "lastOpenFiles": [
-    "Subtle Art.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-15.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-22.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-21.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-20.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-19.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-18.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-17.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-16.md"
+    "90-99 Ciencias Sociales/93 Sociologia/93.00 Sociologia MOC.md",
+    "20-29 Filosofia, Mente y Religion/22 Psicologia/22.00 Psicologia MOC.md",
+    "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md",
+    "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md",
+    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+    "100-109 Historia y Relacionados/101 Geografia/101.00 Geografia MOC.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-27.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W33.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-25.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-26.md"
   ]
 }
