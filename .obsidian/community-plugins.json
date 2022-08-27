@@ -23,5 +23,6 @@
   "obsidian-banners",
   "obsidian-nomnoml-diagram",
   "quickadd",
-  "obsidian-citation-plugin"
+  "obsidian-citation-plugin",
+  "templater-obsidian"
 ]
