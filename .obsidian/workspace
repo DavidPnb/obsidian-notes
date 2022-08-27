@@ -7,8 +7,13 @@
         "id": "e6f807d3640ee67c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-27.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -37,6 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-27.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-27.md"
+              }
             }
           },
           {
@@ -230,15 +239,15 @@
   },
   "active": "e6f807d3640ee67c",
   "lastOpenFiles": [
-    "Anki Sintaxis.md",
-    "30-39 Lenguajes/30 Linguistica/30.06 Sintaxis.md",
-    "30-39 Lenguajes/30 Linguistica/30.05 Gramatica.md",
-    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-    "00-09 PKM/03 Extras/Anki/Anki Gramatica.md",
-    "00-09 PKM/03 Extras/Anki/Anki Animales y Lenguaje Humano.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-26.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-27.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-25.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md"
+    "30-39 Lenguajes/30 Linguistica/30.06 Sintaxis.md",
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Movement Rule Active-Passive.md",
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Structure Depency.md",
+    "30-39 Lenguajes/30 Linguistica/30.05 Gramatica.md",
+    "00-09 PKM/03 Extras/Anki/Anki Sintaxis.md",
+    "00-09 PKM/03 Extras/Anki/Anki Animales y Lenguaje Humano.md",
+    "Anki Sintaxis.md",
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md"
   ]
 }
