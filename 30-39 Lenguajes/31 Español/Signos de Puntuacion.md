@@ -33,7 +33,7 @@ Reemplaza una palabra o frase que se ha omitido, generalmente verbos. La **elips
 >De tal palo, *(es)* tal astilla
 
 ### Coma Hiperbática
-Refleja un desorden de [[Sintaxis]] en la oración, que no sigue la estructura tradicional del español.
+Refleja un desorden de [[30.06 Sintaxis]] en la oración, que no sigue la estructura tradicional del español.
 
 >Todos los fines de semana, los actores participan
 

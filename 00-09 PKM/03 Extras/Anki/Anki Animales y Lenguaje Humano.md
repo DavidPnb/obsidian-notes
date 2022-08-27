@@ -36,11 +36,4 @@ Reverso: **Arbitrariedad**
 <!--ID: 1657417472626-->
 END
 
-START
-Basic
-Anverso: 
-¿Cual fue considerado el elemento principal en el aprendizaje del lenguaje por Kanzi?
-Reverso: Exposicion al lenguaje desde una edad temprana
-<!--ID: 1657417472695-->
-END
 ___

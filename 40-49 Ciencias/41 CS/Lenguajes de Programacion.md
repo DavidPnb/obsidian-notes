@@ -10,7 +10,7 @@ Links:
 Estos son los que interpretan las intrucciones dadas por el programador en lenguaje entendible por el humano y lo transforman en algo que la computadora puede entender. Esta formado por valores primitivos (numeros, caracteres), operaciones y combinaciones de operaciones mas complejas que devuelven un valor llamadas expresiones. Tambien contienen una serie de abstracciones que permiten tratar esas expresiones como valores primitivos.
 
 ## Sintaxis
-De forma similar a como funciona la [[Sintaxis]] en un lenguaje natural, la sintaxis determina como se deben combinar los simbolos para que el lenguaje interprete el codigo como valido.
+De forma similar a como funciona la [[30.06 Sintaxis]] en un lenguaje natural, la sintaxis determina como se deben combinar los simbolos para que el lenguaje interprete el codigo como valido.
 
 ## Semantica
 A diferencia de la sintaxis, esta se encarga de describir el significado de las operaciones y como afectan al comportamiento de los programas

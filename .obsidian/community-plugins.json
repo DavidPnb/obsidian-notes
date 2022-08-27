@@ -14,7 +14,6 @@
   "oz-image-plugin",
   "obsidian-to-anki-plugin",
   "obsidian-tasks-plugin",
-  "fleeting-notes-obsidian",
   "obsidian-git",
   "obsidian-kanban",
   "obsidian-dynamic-toc",
@@ -22,7 +21,6 @@
   "nldates-obsidian",
   "obsidian-banners",
   "obsidian-nomnoml-diagram",
-  "quickadd",
   "obsidian-citation-plugin",
   "templater-obsidian"
 ]

@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58168bc906301d5a",
+        "id": "e6f807d3640ee67c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -42,7 +37,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -99,7 +93,7 @@
                   "collapse-forces": true,
                   "centerStrength": 0.4375,
                   "repelStrength": 13.7837078651685,
-                  "linkStrength": 1,
+                  "linkStrength": 0.685758998435055,
                   "linkDistance": 261,
                   "scale": 0.07431471009955017,
                   "close": false
@@ -160,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -237,17 +228,17 @@
     "direction": "horizontal",
     "width": 415.1182861328125
   },
-  "active": "531551c40669c77c",
+  "active": "e6f807d3640ee67c",
   "lastOpenFiles": [
-    "90-99 Ciencias Sociales/93 Sociologia/93.00 Sociologia MOC.md",
-    "20-29 Filosofia, Mente y Religion/22 Psicologia/22.00 Psicologia MOC.md",
-    "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md",
-    "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md",
-    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
-    "100-109 Historia y Relacionados/101 Geografia/101.00 Geografia MOC.md",
+    "Anki Sintaxis.md",
+    "30-39 Lenguajes/30 Linguistica/30.06 Sintaxis.md",
+    "30-39 Lenguajes/30 Linguistica/30.05 Gramatica.md",
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
+    "00-09 PKM/03 Extras/Anki/Anki Gramatica.md",
+    "00-09 PKM/03 Extras/Anki/Anki Animales y Lenguaje Humano.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-27.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W33.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-25.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-26.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md"
   ]
 }
