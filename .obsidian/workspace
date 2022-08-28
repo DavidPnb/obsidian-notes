@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md",
+            "file": "10-19 Desarrollo Personal, Profesional y Aprendizaje/16 Negocios y Administracion MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md",
+                "file": "10-19 Desarrollo Personal, Profesional y Aprendizaje/16 Negocios y Administracion MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +101,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 0.685758998435055,
                   "linkDistance": 261,
-                  "scale": 0.07431471009955017,
+                  "scale": 0.130510654060008,
                   "close": false
                 }
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md",
+                "file": "10-19 Desarrollo Personal, Profesional y Aprendizaje/16 Negocios y Administracion MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md"
+                "file": "10-19 Desarrollo Personal, Profesional y Aprendizaje/16 Negocios y Administracion MOC.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "f962e18d4d3930f1",
   "lastOpenFiles": [
-    "20-29 Filosofia, Mente y Religion/22 Psicologia/22.00 Psicologia MOC.md",
-    "00-09 PKM/07 Inbox/+ Cooling Pad/El Ascenso y La Caida de GTD.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md",
     "40-49 Ciencias/43 Quimica/44.00 Biologia.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/12 Relaciones Personales MOC.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/11 Carrera y Desarrollo Profesional MOC.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/13 Marketing MOC.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/15 Finanzas Personales MOC.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/14 Comunicacion y Habilidades Sociales MOC.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-27.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-26.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-25.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-22.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md"
   ]
 }

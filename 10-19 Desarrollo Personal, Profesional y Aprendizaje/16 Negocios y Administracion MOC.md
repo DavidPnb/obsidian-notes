@@ -8,4 +8,5 @@ Links:
 ## Recursos
 ### Libros
 - Thinking in Bets by Annie Duke
+- Thinking for a Living by Thomas Davenport
 ___

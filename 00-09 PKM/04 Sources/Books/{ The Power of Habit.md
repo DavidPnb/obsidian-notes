@@ -19,19 +19,20 @@ finished::
 ## Citas
 
 ## Notas
-### Habitos de Individuos
+### Hábitos de Individuos
+1. [[Habit Loop]]
 
-### Habitos de Negocios
+### Hábitos de Negocios
 
-### Habitos de Sociedades
+### Hábitos de Sociedades
 
 ## Puntos Clave
-- **Habit Loop**
+- [[Habit Loop]]
 - **Regla Dorada del Cambio de Habitos**
 - **Keystone Habit**
 
 ## Contexto
-Best-seller acerca de la ciencia involucrada al formar y reformar habitos.
+Best-seller acerca de la ciencia involucrada al formar y reformar hábitos.
 
 ## Relevancia
 
@@ -40,5 +41,6 @@ Best-seller acerca de la ciencia involucrada al formar y reformar habitos.
 ## Referencias
 
 ## Comentarios
+Uno de sus temas principales es que segun un estudio [1](https://doi.org/10.1509%2Fjppm.25.1.90), el 40% de las acciones que realizamos en un día son **habitos**, y la mejor forma de cambiar estos hábitos no es tratar de cambiar el punto de vista de una persona, lo mejor es cambiar los factores externos que influencian estos hábitos. Tambien nos habla sobre como los cambios drasticos en nuestro comportamiento empiezan luego de cambiar un solo hábito.
 ___
 
