@@ -7,7 +7,7 @@ tags:: #metalearning
 up:: [[10 Aprendizaje y Educacion MOC]]
 Links: 
 # Chunking
-Consiste en dejar de ver el conocimiento como grandes secciones monoliticas, y empezar a ver pensamientos e ideas como pequeños trozo interconectados. Esto hace más facil incorporar nueva información al conocimiento existente y es un concepto relacionado con las **notas atomicas** del sistema [[Zettelkasten]].
+Los **chunks** son los pensamientos, ideas e información como pequeños trozo interconectados. Esto hace más facil incorporar nueva información al conocimiento existente y es un concepto relacionado con las **notas atomicas** del sistema [[Zettelkasten]].
 
 Otro de los beneficios de los **chunks** es que permiten relacionar información de areas de conocimiento que al principio no parecen tener conexión, mejorando la capacidad de desarrollar ideas y ser más creativo.
 
