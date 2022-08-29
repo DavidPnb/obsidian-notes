@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md",
+            "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md"
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "f962e18d4d3930f1",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md",
+    "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
+    "20-29 Filosofia, Mente y Religion/22 Psicologia/22.00 Psicologia MOC.md",
+    "20-29 Filosofia, Mente y Religion/20 Filosofia/20.00 Filosofia MOC.md",
+    "40-49 Ciencias/43 Quimica/44.00 Biologia.md",
+    "00-09 PKM/02 Theory/02.01 Ciencias de la Informacion.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/16 Negocios y Administracion MOC.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Combatir la Procrastinacion.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Procrastinacion.md",
-    "00-09 PKM/07 Inbox/+ Unsorted/Motivacion.md",
-    "00-09 PKM/07 Inbox/+ Unsorted/Dopamina.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Tecnica Pomodoro.md",
-    "00-09 PKM/07 Inbox/+ Unsorted/Habit Loop.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Chunking.md"
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Prestar mas Atención en Clase.md",
+    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md"
   ]
 }

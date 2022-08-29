@@ -14,7 +14,7 @@ En este contexto, el sistema se refiere a la mente, que forma parte del cuerpo
 
 - **Alimentarse Bien**
 - **Hacer Ejercicio**
-- **Dormir Bien**
+- **Dormir Bien** - Para recordar lo que aprendemos en una sesión de estudio necesitamos dormir bien en ese día y haber dormido bien el día anterior
 
 ## Sentarse al Frente y Estar Activo
 Sentarse al frente y hacer un *esfuerzo deliberado* por estar presente ayuda con los niveles de concentracion, atencion y energia.
