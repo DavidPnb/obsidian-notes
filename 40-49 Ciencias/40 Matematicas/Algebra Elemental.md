@@ -70,6 +70,9 @@ Una **variable** es un simbolo que puede asumir cualquier valor del conjunto de 
 ## Ecuaciones de Rectas
 [[Rectas en el Plano]]
 
+## Ecuaciones Lineares Simultaneas
+[[Ecuaciones Lineares Simultaneas]]
+
 #### Ecuaciones Cuadraticas
 Una ecuación cuadrática es aquella que incluye un término con un exponente de 2, por ejemplo, $x^{2}$, y ningún término con un exponente mayor. El nombre deriva del latín quadrus, que significa cuadrado. En general, una ecuación cuadrática se puede expresar de la forma $ax^{2}+bx+c=0$,donde a no es cero (si fueran cero, entonces la ecuación no sería cuadrática sino lineal). 
 
