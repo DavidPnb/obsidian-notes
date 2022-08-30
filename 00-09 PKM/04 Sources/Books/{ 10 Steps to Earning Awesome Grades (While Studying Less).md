@@ -18,38 +18,16 @@ finished:: 2022-08-21 13:00
 ## 🔍 Como lo Descubri
 - Thomas Frank (Autor) - Youtube
 
-## Ideas Importantes
-### Ecuacion Tiempo-Estudio
-Enfocarse en la meta final, no como la recompensa tangible, sino como el estado que se quiere alcanzar, esto es la **Preparacion Deseada**.
-
-Hay cuatro factores que influyen en alcanzarla:
-- **Tiempo de Clase**
-- **Calidad de Aprendizaje**
-- **Tiempo de Estudio**
-- **Eficiencia de Estudio**
-
-(TC $*$ CA) + (TE $*$ EE) = PD
-
-Esto significa que:
-
-TE = $\frac{PD - [TC * CA]}{EE}$
-
-*Para disminuir el Tiempo de Estudio se Debe Incrementar la Eficiencia de Estudio*
-
-Asumiendo que se asisten a todas las clases, el Tiempo de Clase es una constante. Si ya se puso una meta para la Preparacion Deseada, es una constante tambien.
-
-Eso nos deja con dos variables: Para disminuir la cantidad de tiempo que se debe invertir estudiando, se deben incrementar la Calidad de Aprendizaje y/o la Eficiencia de Estudio.
-
 ## 📚Libros Relacionados
 
 ## Notas
-
 ### Prestar más Atención en Clase
 [[Como Prestar mas Atención en Clase]]
 
 ### Tomar Notas más Efectivas
-Las buenas notas deben enfocarse en el **aprendizaje**, en lugar de simplemente registrar.
-- [[Cinco Metodos para Tomar Notas]]
+Las buenas notas deben enfocarse en el **aprendizaje**, en lugar de simplemente registrar información.
+
+[[Cinco Metodos para Tomar Notas]]
 
 ### Sacarle más a los Libros
 [[Como Sacarle mas a los Libros de Estudio]]

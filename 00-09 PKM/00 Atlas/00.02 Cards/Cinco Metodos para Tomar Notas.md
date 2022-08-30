@@ -1,15 +1,15 @@
-tags:: #on/PKM 
-up:: [[On the process of note-making]]
+tags:: #academic  
+up:: [[Tecnicas de Estudio]]
 Links: 
 # Cinco Metodos para Tomar Notas
 ## Subrayados
 - Se crean listas sobre el material
 	- Las ideas principales estan en el nivel superior
-		- Las ideas de soporte se vuelven anidadas
+		- Las ideas de soporte se vuelven anidadas (indentadas)
 		- Eventualmente se produce una estructura jerarquica organizada del material
 	- Es util para resumenes de libros
 		- Captura una imagen concisa del libro sin perder detalles importantes
-		- Es el mas facil de usar en digital
+		- Es lo más facil de usar en digital
 	- Su problema yace en que es facil tomar notas sin pensar acerca del contenido del material
 
 ## Metodo Cornell
@@ -29,14 +29,12 @@ Asi se procesan las notas mientras aún se esta en la clase. Esto nos ayuda a ah
 ## Mapas Mentales
 Es un excelente metodo para conectar ideas y visualizar la información, tambien se pueden usar dibujos y clasificación por colores, para ayudar a entender la informacion de forma clara.
 
-Son buenos para sacar una imagen clara de todos los detalles acerca de un tema. Pero no son muy buenos para tomar notas en clase
+Son buenos para sacar una imagen clara de todos los detalles acerca de un tema. Pero no son muy buenos para tomar notas en clase.
 
-## Metodo de Flujo
-Esta relacionado con la tecnica de **aprendizaje holisitico**, que consiste en aprender de la forma en que funciona nuestro cerebro, a través de una gran red de ideas e informacion interconectada, evitando la memorización.
+## Método de Flujo
+Esta relacionado con la tecnica de **aprendizaje holístico**, que consiste en aprender de la forma en que funciona nuestro cerebro, a través de una gran red de ideas e informacion interconectada, evitando la memorización. El metodo de flujo es un pilar fundamental del aprendizaje holistico. Mientras que otros métodos se enfocan más en un sistema jerarquico, el metodo holístico busca representar nuestra imagen mental acerca del tema. Esto tambien es pilar fundamental del método [[Zettelkasten]].
 
-El metodo de flujo es un pilar fundamental del aprendizaje holistico. Mientras que otros metodos se enfocan más en un sistema jerarquico, el metodo holistico busca representar nuestra imagen mental acerca del tema.
-
-Esto hace mas dificil escribir notas sin pensar y hace enfasis en **aprender**, haciendo mas facil aprender nuevas cosas al relacionarlas con información e ideas existentes.
+Esto hace mas dificil escribir notas sin pensar en el contenido, y hace enfasis en **aprender**. Aprendemos mejor nuevas cosas al relacionarlas con información e ideas existentes; [[Chunking]].
 
 Lo mas esencial es:
 - Conectar ideas y conceptos con flechas
@@ -53,6 +51,5 @@ En caso de haber varias diapositivas se puede formar una especie de linea de tie
 ## Notas Analogas vs Digitales
 Segun un estudio del diario *Psychological Science*, los estudiantes que toman notas en digital escriben casi el doble de palabras que los que lo hacen en papel, y ademas, son mas propensos a copiar el texto palabra por palabra.
 
-Esto es contraproducente, porque si el cerebro se enfoca mucho en la [[30.06 Sintaxis]] de las oraciones, se concentra menos en la [[Semantica]] que es muchísimo más importante para aprender. La conclusión es que si se toman notas en digital, hay que hacer un esfuerzo conciente en aprender el material comprendiendo las ideas principales, dejando de lado detalles innecesarios
-
+Esto es contraproducente, porque si el cerebro se enfoca mucho en la [[30.06 Sintaxis|Sintaxis]] de las oraciones, se concentra menos en la [[Semantica]] que es muchísimo más importante para aprender. La conclusión es que si se toman notas en digital, hay que hacer un esfuerzo conciente en aprender el material comprendiendo las ideas principales, dejando de lado detalles innecesarios.
 ___

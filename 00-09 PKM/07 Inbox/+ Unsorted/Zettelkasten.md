@@ -1,4 +1,4 @@
-up:: [[00.00 PKM]]
+up:: 
 tags:: #on/PKM 
 # Zettelkasten
 ## Folgezettel
