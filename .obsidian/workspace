@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f441f37b642ab25c",
+        "id": "208f43ac118fb619",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md",
+            "file": "40-49 Ciencias/40 Matematicas/Triangulos.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md",
+                "file": "40-49 Ciencias/40 Matematicas/Triangulos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +101,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 0.685758998435055,
                   "linkDistance": 261,
-                  "scale": 0.04231590268975966,
+                  "scale": 0.07431471009955018,
                   "close": false
                 }
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md",
+                "file": "40-49 Ciencias/40 Matematicas/Triangulos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md"
+                "file": "40-49 Ciencias/40 Matematicas/Triangulos.md"
               }
             }
           },
@@ -235,19 +235,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.1182861328125
+    "width": 425.11822509765625
   },
-  "active": "f441f37b642ab25c",
+  "active": "208f43ac118fb619",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Mejorar el Lugar de Estudio.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-29.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-27.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Planificación Estudiantil.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Cinco Metodos para Tomar Notas.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Sacarle mas a los Libros de Estudio.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Prestar mas Atención en Clase.md",
-    "00-09 PKM/07 Inbox/+ Unsorted/Zettelkasten.md"
+    "Excalidraw/Triangulos 2022-08-30 11.45.38.excalidraw.md",
+    "40-49 Ciencias/40 Matematicas/Triangulos.md",
+    "Excalidraw/Triangulos 2022-08-30 11.44.30.excalidraw.md",
+    "Excalidraw/Triangulos 2022-08-30 11.38.48.excalidraw.md",
+    "Excalidraw/Triangulos 2022-08-30 11.35.22.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-30 11.25.52.excalidraw.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Informal.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-30.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-28.md"
   ]
 }
