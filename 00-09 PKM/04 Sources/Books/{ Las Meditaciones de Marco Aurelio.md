@@ -13,7 +13,7 @@ finished:: 2022-08-24 17:35
 rating:: 5.0
 
 ## 🔍 Como lo Descubri
-Susan Rigetti [Philosophy](https://www.susanrigetti.com/philosophy)
+[[Susan Rigetti]] [Philosophy](https://www.susanrigetti.com/philosophy)
 
 ## ✍️ Citas
 >Produce buenas acciones como un viñedo produce uvas: naturalmente, sin pensarlo
