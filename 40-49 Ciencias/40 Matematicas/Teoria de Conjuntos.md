@@ -110,7 +110,11 @@ Una extensión del complemento es la diferencia simétrica, definida para los co
 -  Si $A \subseteq B$ entonces $A \setminus B = \emptyset$.
 
 ### Producto Cartesiano
-El producto cartesiano de dos conjuntos $A$ y $B$, denotado por $A × B$, es el conjunto de todos los pares ordenados $(a, b)$ tales que $a$ es miembro de $A$ y $b$ es miembro de $B$.
+El producto cartesiano de dos conjuntos $A$ y $B$, denotado por $A × B$, es el conjunto de todos los pares ordenados $(a, b)$ tales que $a$ es miembro de $A$ y $b$ es miembro de $B$. Esto significa que el producto cartesiano toma todas las posibles combinaciones de pares ordenados entre elementos de $A$ y $B$.
+
+Un **par ordenado** esta formado por dos elementos diferentes separados por coma, y a diferencia de los conjuntos, los pares ordenados si cambian al alterar el orden de sus elementos.
+
+La definición de producto cartesiano puede ser extentida a un numero $n$ de conjuntos usando **n-tuples ordenados** que contienen $n$ elementos. La cantidad de elementos del producto cartesiano es igual a la multiplicación del numero de elementos en los conjuntos operandos.
 
 #### Propiedades
 - $A \times \emptyset = \emptyset$.
@@ -126,6 +130,6 @@ Si $A$ y $B$ son dos conjuntos cualquiera, entonces
 La Cardinalidad de un conjunto $A$ es la cantidad de elementos del conjunto, denotada por $|A|$. La cardinalidad del conjunto vacio es cero
 
 ## Intervalo 
-Es el conjunto de numeros que contiene todos los numeros entre dos numeros del conjunto
+Es el conjunto de numeros que contiene todos los numeros entre dos numeros del conjunto.
 ![[Pasted image 20220318165346.png]]
 ___
