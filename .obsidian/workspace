@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-01.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-01.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-01.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "208f43ac118fb619",
   "lastOpenFiles": [
+    "00-09 PKM/05 Spaces/05.02 Programacion/Programa de Seleccion Aleatoria.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-01.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-31.md",
+    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md",
     "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
     "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-22.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-30.md",
-    "Excalidraw/Triangulos 2022-08-30 11.45.38.excalidraw.md",
-    "40-49 Ciencias/40 Matematicas/Triangulos.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md"
   ]
 }
