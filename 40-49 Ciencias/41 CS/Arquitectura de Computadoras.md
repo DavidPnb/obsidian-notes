@@ -33,15 +33,7 @@ A comienzos del siglo XX el desarrollo de aparatos electromecanicos estaba en su
 - Input - Informacion que se pone en la maquina
 - Output - Informacion que sale de la maquina 
 
-Alan Turing demostro que se puede computar cualquier cosa computable por medio de solo 6 operaciones primitivas: 
-- mover hacia la izquierda
-- mover hacia la derecha
-- escanear
-- leer
-- borrar
-- no hacer nada
-
-A esto se le llama maquina de turing y es la base para practicamente todos los lenguajes de programacion modernos. Esto significa que cualquier cosa que es computable en un lenguaje de programacion es computable en otro, ya que ambos son Turing completos.
+[[Maquina de Turing]]
 
 ## Compuertas Logicas
 Son usadas para controlar la forma en que la corriente fluye por los circuitos para dar instrucciones a una computadora. Depende del algebra booleana y se componen principalmente de compuertas:

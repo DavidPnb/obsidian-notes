@@ -4,7 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "208f43ac118fb619",
+        "id": "ee98a1300b205194",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40-49 Ciencias/41 CS/41.00 Ciencias de la Computacion MOC.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5cdb0cee359d37dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -237,17 +250,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "208f43ac118fb619",
+  "active": "5cdb0cee359d37dc",
   "lastOpenFiles": [
-    "00-09 PKM/05 Spaces/05.02 Programacion/Programa de Seleccion Aleatoria.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-01.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-08-31.md",
-    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W34.md",
-    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
-    "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-24.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-22.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-23.md"
+    "40-49 Ciencias/41 CS/Ingenieria de Software.md",
+    "40-49 Ciencias/41 CS/41.00 Ciencias de la Computacion MOC.md",
+    "40-49 Ciencias/41 CS/Alan Turing.md",
+    "40-49 Ciencias/41 CS/Maquina de Turing.md",
+    "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-01.md",
+    "40-49 Ciencias/41 CS/Lenguajes de Programacion.md",
+    "00-09 PKM/05 Spaces/05.02 Programacion/Programa de Seleccion Aleatoria.md",
+    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md"
   ]
 }

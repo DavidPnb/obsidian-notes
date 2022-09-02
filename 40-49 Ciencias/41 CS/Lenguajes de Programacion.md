@@ -53,10 +53,32 @@ Es lo que separa a un lenguaje de programación de una calculadora permitiendo a
 
 El otro tipo de estructura de control es el **bucle**, que ejecuta el codigo una cierta cantidad de veces dependiendo de la condición.
 
-## Strings
+## Estructuras de Datos
+Son las distintas formas en que podemos almacenar datos en un programa, sin tomar en cuenta las propias variables.
+
+### Arrays
+Tambien conocidos como **listas** o **vectores** los, **arreglos** almacenan una serie de valores en la memoria de forma secuencial y son las estructuras de datos más simples. La información en los arrays puede ser accedida usando índices. Además, podemos crear **matrices**, que simplemente son arreglos multidimiensionales al igual que las matrices en matemáticas. 
+
+### Strings
 Los **strings** son cadenas de caracteres codificados, esto incluye letras, numeros y simbolos; [[Codificacion Binaria]]. Pueden ser representados tanto con comillas simples ( *' '* )  como con comillas dobles ( *" "* ), lo que es util para representar apóstrofes. 
 
 Estos strings pueden **concatenarse**, juntando los caracteres de dos strings en uno solo de forma analoga a la operación de suma. Los strings son objetos no escalares, y pueden usarse como si fueran listas donde cada caracter es un valor diferente. 
+
+Los strings tambien son arrays y los caracteres en ellos pueden ser accedidos con índices.
+
+### Listas Enlazadas
+Los elementos contenidos en una **lista enlazada** contienen un valor y una dirección de memoria señala al siguiente valor en la lista, esto permite almacenar información de forma más dinamica que un array. Las listas enlazadas pueden ser **circulares**, con el ultimo elemento señalando al primero como elemento siguiente, o el ultimo elemento puede señalar a un valor nulo (**NULL**), que señala el final de la lista enlazada.
+
+Las listas enlazadas pueden ser representadas como **queues** en donde el primer elemento que se añade es el primero en ser removido (**FIFO**), o como **stacks** donde el ultimo elemento que se añade es el primero en ser removido (**LIFO**). Los procesos de añadir y remover elementos de un queue son llamados **enqueue** y **dequeue** respectívamente, en un stack son **push** y **pop**.
+
+### Arboles
+Son formas de representar la información de manera jerarquica, con elementos **padre** que señalan a elementos **hijos**. El elemento **raíz** no tiene elementos padre y los elementos **hoja** que no tienen hijos.
+
+### Grafos
+Funcionan como arboles sin el elemento jerárquico en donde todos los elementos, llamados **nodos**, pueden conectarse entre si.
+
+### Structs
+Tambien son llamados **objetos** y permiten almacenar multiples variables asociadas. Son la manera más facil de almacenar información compuesta y representar objetos de la vida real.
 
 ## Funciones
 Son piezas de codigo reusables a las que se les da un nombre y pueden ser utilizadas en varias partes de un programa. La creación de funciones es la principal manera en la que se crean **abstracciones** y son la parte más esencial de un programa moderno, porque mejoran la **legibilidad** y **modularidad** haciendo que los proyectos sean más **escalables**.
@@ -70,7 +92,6 @@ La eficiencia de un algoritmo es estudiada en Analisis de Algoritmos.
 La mayoria de lenguajes de programación de propósito general tienen metodos para recibir información directamente del usuario, considerada como **input**; además, deben tener una manera de hacerle llegar información al usuario, llamada **output**, esto usualmente se hace mostrando texto en la consola.
 
 ## IDE
-
 Los **entornos de desarrollo integrados** son herramientas diseñadas para facilitar la tarea de escribir codigo en un lenguaje de programación específico. Estos disponen de 3 funciones principales:
 1. **Editor de Texto** - Similar a los editores de texto plano, pero tambien suele incluir **autocompletado** y **syntax highlightning**
 2. **Shell** - Permite interactuar con el codigo que escribimos
