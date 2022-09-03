@@ -4,19 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5cdb0cee359d37dc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "37fc9e4512fc2a87",
         "type": "leaf",
         "state": {
@@ -114,7 +101,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 0.685758998435055,
                   "linkDistance": 261,
-                  "scale": 0.07431471009955018,
+                  "scale": 0.07431470243658113,
                   "close": false
                 }
               }
@@ -175,10 +162,10 @@
               "state": {
                 "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-03.md",
                 "collapseAll": true,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "-path: \"01 Calendar\"",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -252,15 +239,15 @@
   },
   "active": "37fc9e4512fc2a87",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-02.md",
-    "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
-    "40-49 Ciencias/44 Biologia/Celulas Animales.md",
-    "80-89 Literatura, Escritura y Ficcion/80 Escritura/80.00 Escritura MOC.md",
-    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
-    "40-49 Ciencias/43 Quimica/Agua.md",
-    "40-49 Ciencias/43 Quimica/Carbono.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-01.md",
-    "40-49 Ciencias/41 CS/41.00 Ciencias de la Computacion MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-31.md"
+    "30-39 Lenguajes/30 Linguistica/Lenguajes en el Mundo.md",
+    "30-39 Lenguajes/30 Linguistica/Lenguaje.md",
+    "30-39 Lenguajes/30 Linguistica/Teorias sobre el Origen del Lenguaje.md",
+    "30-39 Lenguajes/30 Linguistica/Adquisicion del Lenguaje.md",
+    "20-29 Filosofia, Mente y Religion/20 Filosofia/Verdad.md",
+    "30-39 Lenguajes/30 Linguistica/Comunicacion.md",
+    "30-39 Lenguajes/30 Linguistica/Propiedades del Lenguaje.md",
+    "30-39 Lenguajes/30 Linguistica/30.06 Sintaxis.md",
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-03.md"
   ]
 }

@@ -5,7 +5,7 @@ tags:: #on/language
 up:: [[30.00 Linguistica MOC]]
 Links: 
 # Adquisición del Lenguaje
-Aprender un lenguaje no es como aprender simples datos o información, más bien es un proceso que depende de areas como la [[30.02 Fonologia|Fonologia]], [[30.06 Sintaxis]], [[30.04 Morfologia|Morfología]], [[Semantica]].
+Aprender un [[Lenguaje]] no es como aprender simples datos o información, más bien es un proceso que depende de areas como la [[30.02 Fonologia|Fonologia]], [[30.06 Sintaxis]], [[30.04 Morfologia|Morfología]], [[Semantica]].
 
 Hay expertos que afirman que aprender un lenguaje como niño y aprenderlo como adulto son dos procesos muy diferentes que suceden en distintas partes del cerebro, otros afirman que son dos procesos casi identicos.
 

@@ -7,11 +7,12 @@ tags:: #on/language
 up:: [[30.00 Linguistica MOC]]
 Links: 
 # Lenguaje
-## Comunicación
-[[Comunicacion]]
+El lenguaje es un proceso de [[Comunicacion]] y es una parte importante del aspecto social de la especie humana, pero no todas las clases de comunicación pueden ser consideradas como un lenguaje. Para diferenciar el lenguaje de los diversos tipos de comunicación animal, los lingüistas señalan varias [[Propiedades del Lenguaje]], que solo estan presentes en la comunicación humana. Además de estas propiedades, se considera que los lenguajes deben cumplir con las siguientes características:
+- **El lenguaje debe tener hablantes nativos**
+- **El lenguaje debe ser capaz de cumplir con las mismas funciones que otros lenguajes** - Esto significa que debe ser posible representar en un lenguaje la misma idea que puede ser representada con otro
+- **El lenguaje debe tener una comunidad que se identifique con este** - Un lenguaje debe ser reconocido como tal
 
-## Propiedades del Lenguaje Humano
-[[Propiedades del Lenguaje]]
+Este criterio de lenguaje excluye a los [[Lenguajes de Programacion]] y los lenguajes artificiales, e incluye al lenguaje de señas.
 
 ## Hablando con Animales
 [[Comunicación entre Humanos y Animales]]
