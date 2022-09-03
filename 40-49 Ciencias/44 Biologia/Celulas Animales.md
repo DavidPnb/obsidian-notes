@@ -16,7 +16,7 @@ Estas son **células eucariotas** y su estructura hace posible la movilidad de l
 - **Lisosomas** - Contienen enzimas que procesan sustancias
 - **Nucleo** - Almacena la información del ADN y **cromosomas**
 	- *Nucleolo* - Fabrica **rRNA*** y **mRNA**
-- **Mitocondria** - Convierte las fuentes de energía en **ATP** por medio del proceso de **respiración**
+- **Mitocondria** - Convierte las fuentes de energía en **ATP** por medio del proceso de **respiración**; [[Respiracion Celular]]
 
 ## Transporte Celular
 Es la forma en que la sustancias entran y salen de la membrana celular.
