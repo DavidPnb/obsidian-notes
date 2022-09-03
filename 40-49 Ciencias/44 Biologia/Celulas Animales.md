@@ -17,4 +17,14 @@ Estas son **células eucariotas** y su estructura hace posible la movilidad de l
 - **Nucleo** - Almacena la información del ADN y **cromosomas**
 	- *Nucleolo* - Fabrica **rRNA*** y **mRNA**
 - **Mitocondria** - Convierte las fuentes de energía en **ATP** por medio del proceso de **respiración**
+
+## Transporte Celular
+Es la forma en que la sustancias entran y salen de la membrana celular.
+- **Transporte Pasivo** - No consume energía
+	- *Difusión* - Es la forma en que la célula intercambia oxigeno y agua
+		- *Ósmosis* - Es cuando la difusión ocurre a través de la membrana de una celula
+	- *Canales de Proteinas* - Permiten que el agua pase a través de membranas formadas por fosfolípidos
+- **Transporte Activo** - Consume energía en forma de **ATP**
+	- *Bomba de Sodio-Potasio* - Utiliza **ATP** para transportar potasio y sodio
+	- *Transporte Vesicular* - Transporta sustancias usando vesiculas en un proceso llamado **citosis**
 ___
