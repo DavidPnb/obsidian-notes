@@ -8,7 +8,7 @@ Links:
 Son tipos de moleculas que los organismos necesitan para llevar a cabo sus procesos biologicos. Se dividen en:
 - **Carbohidratos** - Pueden ser usados como fuentes de energía y como estructuras para almacenar esa energía. Estan hechos de **azúcares**
 	- *Monosacáridos* - Son las azúcares más simples
-		- Glucosa - Es la forma de azúcar más simple de todas, es origen vegetal y surge del proceso de **Fotosintesis**
+		- Glucosa - Es la forma de azúcar más simple de todas, es origen vegetal y surge del proceso de [[Fotosintesis]]
 		- Fructosa - Es similar a la glucosa en estructura, es más dulce que esta
 	- *Disacáridos* - Estan formados por dos monosacáridos unidos
 		- Sacarosa - Unión de glucosa y fructosa por un **enlace covalente**
