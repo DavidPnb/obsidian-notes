@@ -30,13 +30,15 @@ Habla sobre como la gente se queja de que la vida es corta, pese a que segun él
 
 
 ### 2. Consolación a Helvia
+Carta de consolación a su madre luego de ser enviado al exilio.
+
 ### 3. De la Tranquilidad de la Mente
 
 ## Puntos Clave
 Como hacer que el tiempo valga la pena y vivir una mejor vida desde el punto de vista estoico.
 
 ## Contexto
-Ensayo escrito por el ensayista y filósofo romano Seneca el Joven. Toma elementos del Estoicismo.
+Ensayo escrito por el dramatista y filósofo romano Seneca el Joven. Toma elementos del Estoicismo.
 
 ## Comentarios
 ___
