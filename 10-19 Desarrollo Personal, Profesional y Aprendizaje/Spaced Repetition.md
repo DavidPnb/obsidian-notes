@@ -1,6 +1,5 @@
 ---
-status:
-references:
+alias: ["Repeticion Espaciada"]
 created: 2022-07-10 21:11
 ---
 tags:: #metalearning 

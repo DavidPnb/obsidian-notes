@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-04.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
+                "file": "00-09 PKM/07 Inbox/+ Unsorted/Memoria.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
+                "file": "00-09 PKM/07 Inbox/+ Unsorted/Memoria.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md"
+                "file": "00-09 PKM/07 Inbox/+ Unsorted/Memoria.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "37fc9e4512fc2a87",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-31.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/10 Aprendizaje y Educacion MOC.md",
+    "00-09 PKM/07 Inbox/+ Unsorted/Memoria.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Spaced Repetition.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-04.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-03.md",
-    "40-49 Ciencias/43 Quimica/Moleculas Biologicas.md",
-    "40-49 Ciencias/44 Biologia/Fotosintesis.md",
-    "40-49 Ciencias/44 Biologia/Respiracion Celular.md",
-    "40-49 Ciencias/44 Biologia/Celulas Vegetales.md",
-    "40-49 Ciencias/44 Biologia/Celulas Animales.md",
-    "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-02.md",
-    "30-39 Lenguajes/30 Linguistica/Lenguajes en el Mundo.md"
+    "00-09 PKM/07 Inbox/+ Unsorted/Habit Loop.md",
+    "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
+    "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-08-31.md",
+    "40-49 Ciencias/43 Quimica/Moleculas Biologicas.md"
   ]
 }
