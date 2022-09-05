@@ -9,4 +9,5 @@ Links:
 ### Libros
 - Thinking in Bets by Annie Duke
 - Thinking for a Living by Thomas Davenport
+- The Compound Effect by Darren Hardy
 ___

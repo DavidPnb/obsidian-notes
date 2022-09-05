@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "37fc9e4512fc2a87",
+        "id": "142d9656655d1480",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-04.md",
+            "file": "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-04.md",
+                "file": "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-04.md",
+                "file": "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-04.md"
+                "file": "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md"
               }
             }
           },
@@ -237,17 +237,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "37fc9e4512fc2a87",
+  "active": "142d9656655d1480",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ 10 Steps to Earning Awesome Grades (While Studying Less).md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Hacer Trabajos de Grupo.md",
-    "00-09 PKM/04 Sources/Books/Como Escribir Mejores Ensayos.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Estudiar de Forma mas Eficiente.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Combatir la Procrastinacion.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Planificación Estudiantil.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Mantenerse Organizado.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Sacarle mas a los Libros de Estudio.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Cinco Metodos para Tomar Notas.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Mejorar el Lugar de Estudio.md"
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/16 Negocios y Administracion MOC.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/11 Carrera y Desarrollo Profesional MOC.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/15 Finanzas Personales MOC.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/14 Comunicacion y Habilidades Sociales MOC.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/12 Relaciones Personales MOC.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/13 Marketing MOC.md",
+    "00-09 PKM/09 Workflow/Horario.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-04.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-01.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-02.md"
   ]
 }
