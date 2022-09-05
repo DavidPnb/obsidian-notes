@@ -9,14 +9,7 @@ writer:: [[Thomas Frank]]
 subject:: [[10 Aprendizaje y Educacion MOC]]
 started:: 2022-06-11 17:26
 finished:: 2022-08-21 13:00
-
-## 🌍 De que Trata
-- Productividad
-- Estudios Universitarios
-- Aprendizaje
-
-## 🔍 Como lo Descubri
-- Thomas Frank (Autor) - Youtube
+status:: Done
 
 ## 📚Libros Relacionados
 

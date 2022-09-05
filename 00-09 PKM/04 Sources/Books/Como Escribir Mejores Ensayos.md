@@ -1,7 +1,7 @@
 ---
 created: 2022-08-14 11:38
 ---
-tags:: #metalearning #academic/writing
+tags:: #academic/writing
 up:: [[Academic MOC]]
 Links: 
 # Como Escribir Mejores Ensayos
@@ -19,16 +19,16 @@ El segundo paso despues de la lluvia de ideas es empezar la **investigación**. 
 
 Esto evitara que perdamos el rumbo al investigar y escribir y además nos sirven como metas a cumplir, dandonos la oportunidad de concentrarnos en la información que es relevante para el mensaje que queremos transmitir.
 
-## Investigar Mejor
+## Como Investigar Mejor
 1. **Encontrar fuentes** - Los articulos de *Wikipedia* y los libros mantienen una lista de referencias que contienen información más especifica. Tambien se pueden usar bases de datos de articulos y *Google Scholar*
 2. **Hacer copias personales de todas las fuentes**
 3. **Anotar** - Diferente del proceso de crear notas. Crear notas pequeñas con referencias
 4. **Decidir si es suficiente** - Tener al menos dos fuentes para las ideas principales, y al menos una para otros puntos a tratar
 
-## Escribir un Terrible Primer Borrador
+## Primer Borrador
 Se debe separar el proceso de **escritura** del proceso de **edición**. Primero se deben expresar todas las ideas, añadiendoles algo de estructura. Tambien se puede escribir acerca del propio proceso de escritura.
 
-## Editar sin Piedad
+## Edición
 No importa como nos sintamos acerca del primer borrador, editarlo siempre puede mejorarlo. Es recomendable mantener guardadas las partes del texto que recortamos en caso de que el texto tenga un tamaño requerido
 
 1. **Primera Fase** - **El texto comunica la idea principal de forma efectiva**
