@@ -20,6 +20,7 @@ finished::
 
 ## Notas
 ### Numeros
+1. [[Naturaleza de los Numeros]]
 ### Relaciones
 ### Formas
 ### Cambio
