@@ -10,4 +10,5 @@ Links:
 - Thinking in Bets by Annie Duke
 - Thinking for a Living by Thomas Davenport
 - The Compound Effect by Darren Hardy
+- Atomic Habits by James Clear
 ___
