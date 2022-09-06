@@ -18,7 +18,7 @@ Conectan a la placa madre con el almacenamiento principal ([[Memoria ROM]])
 ## Cables de Red
 Se usan para conectar entre si a varios dispositivos. El tipo de cable que se use dependera del tamaño y la topología de la red; [[Topologia de Redes]].
 
-- Par de Cobre
+- [[Par de Cobre]]
 	- Tiene cuatro pares de cables entorchados para evitar interferencia
 	- Conectan directamente a un dispositivo con una LAN, lo que los hace más eficientes que las redes inalambricas; [[Tipos de Redes de Telecomunicaciones]]
 - Coaxial
