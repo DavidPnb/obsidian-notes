@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
+            "file": "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
+                "file": "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
+                "file": "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/44.00 Biologia.md"
+                "file": "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "7405b9362dca68ea",
   "lastOpenFiles": [
+    "30-39 Lenguajes/30 Linguistica/Metodos Usados en Linguistica.md",
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
+    "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
     "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/16 Negocios y Administracion MOC.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/15 Finanzas Personales MOC.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/11 Carrera y Desarrollo Profesional MOC.md",
     "20-29 Filosofia, Mente y Religion/22 Psicologia/22.00 Psicologia MOC.md",
     "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-06.md",
-    "50-59 Ingenieria/50 Telecom - CyberSec - IT/Par de Cobre.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-05.md",
-    "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-06.md"
   ]
 }
