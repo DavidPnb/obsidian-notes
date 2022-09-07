@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30-39 Lenguajes/30 Linguistica/Lenguaje de Señas.md",
+            "file": "00-09 PKM/09 Workflow/Horario.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Lenguaje de Señas.md",
+                "file": "00-09 PKM/09 Workflow/Horario.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Lenguaje de Señas.md",
+                "file": "00-09 PKM/09 Workflow/Horario.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Lenguaje de Señas.md"
+                "file": "00-09 PKM/09 Workflow/Horario.md"
               }
             }
           },
@@ -237,13 +237,13 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "a8116fcfea678d42",
+  "active": "ae49b78250ece013",
   "lastOpenFiles": [
-    "30-39 Lenguajes/30 Linguistica/Lenguaje.md",
-    "30-39 Lenguajes/30 Linguistica/Lenguaje de Señas.md",
-    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-    "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-06.md",
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
+    "30-39 Lenguajes/30 Linguistica/Lenguaje de Señas.md",
+    "30-39 Lenguajes/30 Linguistica/Lenguaje.md",
+    "00-09 PKM/04 Sources/Books/{ Telecomunicaciones. Tecnologias, Redes y Servicios.md",
     "30-39 Lenguajes/30 Linguistica/Metodos Usados en Linguistica.md",
     "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
     "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
