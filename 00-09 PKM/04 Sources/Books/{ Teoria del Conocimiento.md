@@ -48,6 +48,7 @@ finished::
 ### Corrientes Actuales del Conocimiento
 - **Teoria del Conocimiento de la Ciencia en la Postmodernidad**
 	- [[Posciencia]]
+	- [[Origen del Pensamiento Abstracto-Racional]]
 - **El Aporte de la Psicologia**
 - **El Paradigma de la Complejidad**
 - **El Conocimiento Dialogico-Convivial desde America Latina**

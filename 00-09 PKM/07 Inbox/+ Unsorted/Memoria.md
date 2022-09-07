@@ -20,3 +20,12 @@ Debido a nuestra historia como cazadores-recolectores, nuestro cerebro evolucion
 El proceso en el que movemos información de la memoria a corto plazo a la memoria a largo plazo es llamado **consolidación**, este se da en el **hipocampo** y puede tardar varios años, por esta razon el daño al hipocampo puede afectar permanentemente la capacidad de crear recuerdos nuevos. Cuando recordamos algo, no solo lo transferimos a nuestra memoria a corto plazo, tambien modificamos el recuerdo, esto se llama **reconsolidación** y por esto los nuevos recuerdos pueden modificar a los viejos, lo que puede llevarnos a crear falsos recuerdos al ser sugestionados por otras personas o por nuestra imaginación.
 
 Los **astrocitos** se encarga de proveer nutrientes a las neuronas y repararlas, y se sabe que tambien toman un rol importante en el aprendizaje y la memoria.
+
+## Técnicas de Memorización
+Usar tecnicas de memorización puede ayudarnos a mejorar nuestra creatividad y permiten acceder de forma más rapida y efectiva a nuestra memoria a largo plazo, mejorando el proceso de [[Chunking]].
+
+### Mnemotecnia
+Consiste en asociar un conjunto de palabras con una frase memorable que tenga las mismas siglas, relacionandolas y haciendolas más faciles de recordar.
+
+### Palacio de la Memoria
+Haciendo uso de nuestra memoria visual, asociamos objetos o ideas con ubicaciones concretas en un lugar conocido. Esta técnica se usa habituálmente para memorizar varias cosas que no estan relacionadas entre si.
