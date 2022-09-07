@@ -12,7 +12,7 @@ El lenguaje es un proceso de [[Comunicacion]] y es una parte importante del aspe
 - **El lenguaje debe ser capaz de cumplir con las mismas funciones que otros lenguajes** - Esto significa que debe ser posible representar en un lenguaje la misma idea que puede ser representada con otro
 - **El lenguaje debe tener una comunidad que se identifique con este** - Un lenguaje debe ser reconocido como tal
 
-Este criterio de lenguaje excluye a los [[Lenguajes de Programacion]] y los lenguajes artificiales, e incluye al lenguaje de señas.
+Este criterio de lenguaje excluye a los [[Lenguajes de Programacion]] y los lenguajes artificiales, e incluye al [[Lenguaje de Señas]].
 
 ## Hablando con Animales
 [[Comunicación entre Humanos y Animales]]
