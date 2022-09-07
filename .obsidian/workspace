@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-07.md",
+                "file": "10-19 Desarrollo Personal, Profesional y Aprendizaje/Procrastinacion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-07.md",
+                "file": "10-19 Desarrollo Personal, Profesional y Aprendizaje/Procrastinacion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-07.md"
+                "file": "10-19 Desarrollo Personal, Profesional y Aprendizaje/Procrastinacion.md"
               }
             }
           },
@@ -239,13 +239,15 @@
   },
   "active": "c483802a046ab1e1",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-07.md",
     "00-09 PKM/07 Inbox/+ Unsorted/Memoria.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Chunking.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-07.md",
     "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md",
     "00-09 PKM/04 Sources/Books/Origen del Pensamiento Abstracto-Racional.md",
     "00-09 PKM/09 Workflow/Horario.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-06.md",
     "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
     "30-39 Lenguajes/30 Linguistica/Lenguaje de Señas.md",
-    "30-39 Lenguajes/30 Linguisti
+    "30-39 Lenguajes/30 Linguistica/Lenguaje.md"
+  ]
+}
