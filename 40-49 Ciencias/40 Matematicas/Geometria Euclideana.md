@@ -47,4 +47,7 @@ Como el [[40.02 Algebra|Algebra]], el area de las [[40.00 Matematicas MOC|Matema
 
 ### Angulos de un Triangulo
 [[Triangulos]]
+
+### Poligonos Convexos
+[[Poligonos]]
 ___

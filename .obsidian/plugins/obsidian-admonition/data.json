@@ -21,8 +21,10 @@
         "type": "font-awesome"
       },
       "command": false,
+      "title": "Definición",
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "teorema": {
       "type": "teorema",

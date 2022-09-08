@@ -5,7 +5,8 @@
     "mathjax-fontsize",
     "supercharged-links-gen",
     "shorter-links",
-    "multicolumn"
+    "multicolumn",
+    "custom-admonitions.bf5c3d"
   ],
   "cssTheme": "Dracula + LYT",
   "baseFontSize": 17
