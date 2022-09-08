@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c483802a046ab1e1",
+        "id": "68192ced2a4fa634",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-07.md",
+            "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/20.06 Metafisica.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c9df36ce4bdf3d8f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/Libre Albedrio, Determinismo y Compatibilismo.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10-19 Desarrollo Personal, Profesional y Aprendizaje/Procrastinacion.md",
+                "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/Libre Albedrio, Determinismo y Compatibilismo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Desarrollo Personal, Profesional y Aprendizaje/Procrastinacion.md",
+                "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/Libre Albedrio, Determinismo y Compatibilismo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Desarrollo Personal, Profesional y Aprendizaje/Procrastinacion.md"
+                "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/Libre Albedrio, Determinismo y Compatibilismo.md"
               }
             }
           },
@@ -237,17 +250,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "c483802a046ab1e1",
+  "active": "c9df36ce4bdf3d8f",
   "lastOpenFiles": [
+    "20-29 Filosofia, Mente y Religion/20 Filosofia/20.06 Metafisica.md",
+    "20-29 Filosofia, Mente y Religion/20 Filosofia/Filosofia de la Naturaleza.md",
+    "00-09 PKM/05 Spaces/05.02 Programacion/Programa de Seleccion Aleatoria.md",
+    "00-09 PKM/03 Extras/Kanban/05.02 PdSA.md",
+    "00-09 PKM/09 Workflow/Horario.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-07.md",
     "00-09 PKM/07 Inbox/+ Unsorted/Memoria.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Chunking.md",
     "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md",
-    "00-09 PKM/04 Sources/Books/Origen del Pensamiento Abstracto-Racional.md",
-    "00-09 PKM/09 Workflow/Horario.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-06.md",
-    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-    "30-39 Lenguajes/30 Linguistica/Lenguaje de Señas.md",
-    "30-39 Lenguajes/30 Linguistica/Lenguaje.md"
+    "00-09 PKM/04 Sources/Books/Origen del Pensamiento Abstracto-Racional.md"
   ]
 }
