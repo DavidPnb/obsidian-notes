@@ -1,7 +1,7 @@
 ---
 created: 2022-08-13 18:30
 ---
-tags:: #on/language 
+tags:: #on/language #Español 
 up:: [[30.05 Gramatica]]
 Links: 
 # Sustantivos en el Español

@@ -12,7 +12,7 @@ La mayoria de poligonos que usamos son convexos; las medidas de los angulos de p
 
 ## Clasificación por Lados
 - **Triangulo** - 3 Lados
-- **Rectangulo** - 4 Lados
+- **Cuadrilatero** - 4 Lados
 - **Pentagono** - 5 Lados
 - **Hexagono** - 6 Lados
 - **Heptagono** - 7 Lados
@@ -46,4 +46,16 @@ Una **diagonal** de un poligono es un segmento de linea que une dos vertices no 
 > [!teorema]-
 > La medida $I$ de cualquier angulo interior de un poligono regular u equiangular de $n$ lados es igual a $I=\frac{(n-2)180°}{n}$
 
+> [!teorema]-
+> La suma de las medidas de los angulos interiores de un cuadrilatero es $360°$
+
+
+> [!teorema]-
+> La suma de las medidas de los angulos exteriores de un poligono es $360°$
+
+> [!teorema]-
+> La medida $E$ de cada angulo exterior de un poligono regular o equiangular de $n$ lados es $\frac{360°}{n}$
+
+## Poligramas
+Un **poligrama** es la figura que se forma cuando se extienden los lados de un poligono convexo con 5 o más lados. Si el poligono que se extiende es regular, este resulta en un **poligrama regular**; es decir, todos los angulos interiores agudos son congruentes, todos los angulos interiores reflexivos son congruentes y todos los lados son congruentes.
 ___

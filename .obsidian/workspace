@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-08.md",
+            "file": "30-39 Lenguajes/31 Español/Determinantes en Español.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-08.md",
+                "file": "30-39 Lenguajes/31 Español/Determinantes en Español.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-08.md",
+                "file": "30-39 Lenguajes/31 Español/Determinantes en Español.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-08.md"
+                "file": "30-39 Lenguajes/31 Español/Determinantes en Español.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "c43956e191cf0e4d",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/Triangulos.md",
-    "40-49 Ciencias/40 Matematicas/Poligonos.md",
-    "00-09 PKM/09 Workflow/Horario.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-08.md",
-    "20-29 Filosofia, Mente y Religion/20 Filosofia/20.06 Metafisica.md",
-    "20-29 Filosofia, Mente y Religion/20 Filosofia/Libre Albedrio, Determinismo y Compatibilismo.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-07.md",
-    "20-29 Filosofia, Mente y Religion/20 Filosofia/Filosofia de la Naturaleza.md",
-    "00-09 PKM/05 Spaces/05.02 Programacion/Programa de Seleccion Aleatoria.md"
+    "30-39 Lenguajes/31 Español/Adjetivo Calificativo en el Español.md",
+    "30-39 Lenguajes/31 Español/Determinantes en Español.md",
+    "30-39 Lenguajes/31 Español/Fonemas del Español.md",
+    "30-39 Lenguajes/31 Español/Signos de Puntuacion.md",
+    "30-39 Lenguajes/31 Español/Silabas en Español.md",
+    "30-39 Lenguajes/31 Español/Sustantivos en Español.md",
+    "30-39 Lenguajes/31 Español/Tilde en Español.md",
+    "30-39 Lenguajes/31 Español/Uso de Grafias en Español.md",
+    "30-39 Lenguajes/31 Español/Uso de Mayusculas en Español.md",
+    "40-49 Ciencias/40 Matematicas/Poligonos.md"
   ]
 }

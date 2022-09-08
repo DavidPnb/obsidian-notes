@@ -3,7 +3,7 @@ status:
 references:
 created: 2022-07-16 11:45
 ---
-tags:: #on/language 
+tags:: #on/language #Español 
 up:: [[30.00 Linguistica MOC]]
 Links: 
 # Signos de Puntuacion

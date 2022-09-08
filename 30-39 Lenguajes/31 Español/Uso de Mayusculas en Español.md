@@ -3,10 +3,10 @@ status:
 references:
 created: 2022-07-09 10:05
 ---
-tags:: #on/language 
+tags:: #on/language #Español 
 up:: [[30.00 Linguistica MOC]]
 Links: 
-# Uso de Mayúsculas
+# Uso de Mayúsculas en Español
 Se escribe con mayúsculas:
 - La primera palabra de un texto
 - Despues de un signo de interrogación o exclamación, excepto despues de una coma

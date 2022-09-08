@@ -1,7 +1,7 @@
 ---
 created: 2022-08-27 17:15
 ---
-tags:: #on/language 
+tags:: #on/language #Español 
 up:: [[30.05 Gramatica]]
 Links: 
 # Adjetivo Calificativo en Español

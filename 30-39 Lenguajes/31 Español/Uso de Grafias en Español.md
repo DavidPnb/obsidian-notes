@@ -3,10 +3,10 @@ status:
 references:
 created: 2022-07-01 18:13
 ---
-tags:: #on/language #note/boat🚤 
+tags:: #on/language #Español 
 up:: [[30.00 Linguistica MOC]]
 Links: 
-# Uso de Grafias
+# Uso de Grafias en Español
 A partir de ciertos casos particulares se pueden hallar ciertos patrones de escritura.
 
 ## Se Escribe con B

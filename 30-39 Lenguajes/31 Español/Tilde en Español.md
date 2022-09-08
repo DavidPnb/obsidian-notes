@@ -1,7 +1,10 @@
-tags:: #on/language 
+---
+created: 2022-09-08 16:50
+---
+tags:: #on/language #Español 
 up:: [[30.02 Fonologia]]
 Links: 
-# Tilde
+# Tilde en Español
 Antes de determinar las reglas ortograficas del uso de la tilde es necesario aclarar los siguientes conceptos:
 
 - **Acento** - Es la mayor fuerza con la que se pronuncia una silaba de una palabra; [[Silabas]]
