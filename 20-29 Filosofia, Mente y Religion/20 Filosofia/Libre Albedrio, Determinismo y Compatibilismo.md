@@ -10,4 +10,7 @@ El libre albedrío es la creencia en que tenemos control sobre las acciones que 
 
 ## Determinismo
 Si los pensamientos en nuestra mente estan ligados a procesos que ocurren en nuestro cerebro, entonces estos tambien pertenecen al mundo físico y estan determinados enteramente por la causa y efecto.
+
+## Compatibilismo
+Afirma que pese a vivir en un mundo determinista, tenemos un libre albedrío que esta determinado por la cantidad de control que tenemos sobre las decisiones que tomamos.
 ___
