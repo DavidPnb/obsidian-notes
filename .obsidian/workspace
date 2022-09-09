@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/Significado.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-09.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/Significado.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/Significado.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Mente y Religion/20 Filosofia/Significado.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-09.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "c43956e191cf0e4d",
   "lastOpenFiles": [
+    "00-09 PKM/09 Workflow/Horario.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-09.md",
+    "20-29 Filosofia, Mente y Religion/20 Filosofia/Significado.md",
     "20-29 Filosofia, Mente y Religion/20 Filosofia/Filosofia del Lenguaje.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-08.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-05.md",
     "40-49 Ciencias/40 Matematicas/Ecuaciones Cuadraticas.md",
     "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
     "40-49 Ciencias/40 Matematicas/Pasted image 20220324193058.png.md",
-    "00-09 PKM/03 Extras/Media/Pasted image 20220324193058.png",
-    "30-39 Lenguajes/31 Español/Adjetivo Calificativo en el Español.md",
-    "30-39 Lenguajes/31 Español/Determinantes en Español.md",
-    "30-39 Lenguajes/31 Español/Fonemas del Español.md"
+    "00-09 PKM/03 Extras/Media/Pasted image 20220324193058.png"
   ]
 }
