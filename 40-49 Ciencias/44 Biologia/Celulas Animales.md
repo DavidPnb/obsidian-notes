@@ -14,7 +14,7 @@ Estas son **células eucariotas** y su estructura hace posible la movilidad de l
 - **Ribosomas** - Transforman aminoacidos en polipéptidos
 - **Aparato de Golgi** - Almacena proteinas y las distribuye
 - **Lisosomas** - Contienen enzimas que procesan sustancias
-- **Nucleo** - Almacena la información del ADN y **cromosomas**
+- **Nucleo** - Almacena la información del [[ADN]] y **cromosomas**
 	- *Nucleolo* - Fabrica **rRNA*** y **mRNA**
 - **Mitocondria** - Convierte las fuentes de energía en **ATP** por medio del proceso de **respiración**; [[Respiracion Celular]]
 
