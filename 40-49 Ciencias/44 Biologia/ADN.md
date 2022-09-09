@@ -13,4 +13,6 @@ El ADN esta formado por dos cadenas de **nucleótidos** complementarias, lo que 
 
 ![[Pasted image 20220909121034.png]]
 
+## Genes
+Los genes son secuencias de nucleótidos en el ADN que contienen la información necesaria para producir la secuencia de aminoácidos de una proteína específica; [[Proteinas]].
 ___
