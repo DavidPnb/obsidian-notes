@@ -5,5 +5,5 @@ tags:: #on/philosophy #on/History
 up:: [[100.00 Historia MOC]]
 Links: 
 # Historia de la Filosofia
-[[Comienzos de la Filosofia]]
+[[Origenes de la Filosofia]]
 ___
