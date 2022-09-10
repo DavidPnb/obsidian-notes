@@ -10,7 +10,6 @@ status:: Synthesizing
 subject:: [[Estoicismo]]
 started:: 2022-06-22 12:55
 finished:: 2022-08-24 17:35
-rating:: 5.0
 
 ## 🔍 Como lo Descubri
 [[Susan Rigetti]] [Philosophy](https://www.susanrigetti.com/philosophy)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-09.md",
+            "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-09.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-09.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-09.md"
+                "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "072092af722edb84",
   "lastOpenFiles": [
-    "40-49 Ciencias/44 Biologia/ADN.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-09.md",
-    "40-49 Ciencias/44 Biologia/Celulas Animales.md",
-    "40-49 Ciencias/44 Biologia/Celulas.md",
-    "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
-    "40-49 Ciencias/43 Quimica/Moleculas Biologicas.md",
-    "00-09 PKM/09 Workflow/Horario.md",
-    "20-29 Filosofia, Mente y Religion/20 Filosofia/Significado.md",
-    "20-29 Filosofia, Mente y Religion/20 Filosofia/Filosofia del Lenguaje.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-08.md"
+    "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
+    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
+    "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
+    "00-09 PKM/04 Sources/Books/{ The Joy of X.md",
+    "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md",
+    "20-29 Filosofia, Mente y Religion/20 Filosofia/Origen del Pensamiento Abstracto-Racional.md",
+    "50-59 Ingenieria/50 Telecom - CyberSec - IT/Medios de Transmision.md",
+    "20-29 Filosofia, Mente y Religion/20 Filosofia/La Vida es Larga si Sabemos como Vivirla.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Escribir Mejores Ensayos.md",
+    "00-09 PKM/04 Sources/Articles/+ About the Articles Folder.md"
   ]
 }
