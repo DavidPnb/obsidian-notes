@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
+            "file": "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "64b0d525e3535538",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md"
               }
             }
           },
@@ -237,17 +250,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "072092af722edb84",
+  "active": "64b0d525e3535538",
   "lastOpenFiles": [
+    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
+    "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
     "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
     "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
-    "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
     "00-09 PKM/04 Sources/Books/{ The Joy of X.md",
     "00-09 PKM/04 Sources/Books/{ Teoria del Conocimiento.md",
     "20-29 Filosofia, Mente y Religion/20 Filosofia/Origen del Pensamiento Abstracto-Racional.md",
     "50-59 Ingenieria/50 Telecom - CyberSec - IT/Medios de Transmision.md",
     "20-29 Filosofia, Mente y Religion/20 Filosofia/La Vida es Larga si Sabemos como Vivirla.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Escribir Mejores Ensayos.md",
-    "00-09 PKM/04 Sources/Articles/+ About the Articles Folder.md"
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Escribir Mejores Ensayos.md"
   ]
 }

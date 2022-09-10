@@ -21,6 +21,11 @@ finished::
 ## Citas
 
 ## Notas
+### El Ascenso del Estoicismo
+
+### Técnicas Psicológicas Estoicas
+### Consejos Estoicos
+### Estoicismo para Vidas Modernas
 
 ## Puntos Clave
 
