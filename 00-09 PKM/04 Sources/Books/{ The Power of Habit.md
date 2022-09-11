@@ -21,6 +21,7 @@ finished::
 ## Notas
 ### Hábitos de Individuos
 1. [[Habit Loop]]
+2. [[Como Crear Nuevos Habitos]]
 
 ### Hábitos de Negocios
 

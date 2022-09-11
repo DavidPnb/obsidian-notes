@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b6799e879a4eb7ab",
+        "id": "469ae1374cda408a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W36.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W36.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -77,7 +77,7 @@
                       }
                     },
                     {
-                      "query": "path:\"40-49 Ciencias\"",
+                      "query": "path:\"40-49 Ciencias\", path:\"90-99 Ciencias Sociales\"",
                       "color": {
                         "a": 1,
                         "rgb": 5417696
@@ -101,7 +101,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 0.685758998435055,
                   "linkDistance": 261,
-                  "scale": 0.1305106406023884,
+                  "scale": 0.07431470243658116,
                   "close": false
                 }
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W36.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W36.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md"
               }
             }
           },
@@ -237,17 +237,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "b6799e879a4eb7ab",
+  "active": "469ae1374cda408a",
   "lastOpenFiles": [
-    "00-09 PKM/00 Atlas/00.01 Scopes/Bookshelf.md",
-    "00-09 PKM/03 Extras/Templates/Weekly Note Template.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W36.md",
-    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
-    "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
-    "00-09 PKM/09 Workflow/Metadatos PKM.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-06.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-05.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
-    "00-09 PKM/07 Inbox/+ Unsorted/Motivacion.md"
+    "30-39 Lenguajes/30 Linguistica/30.07 Semantica.md",
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Superordinados y Prototipos.md",
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Roles Theta.md",
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Movement Rule Active-Passive.md",
+    "00-09 PKM/03 Extras/Anki/Anki Semantica.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
+    "00-09 PKM/07 Inbox/+ Unsorted/Como Crear Nuevos Habitos.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
+    "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
+    "20-29 Filosofia, Creencias y Religion/22 Mitologia/22.00 Mitologia.md"
   ]
 }
