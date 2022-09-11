@@ -3,7 +3,7 @@ tags:: #atlas/scope🔬
 # Bookshelf 📚
 
 ```dataview
-table  writer as Author
+table  writer as Autor, subject as Tema
 from #source/book📚
-sort status
+where status = "Synthesizing"
 ```

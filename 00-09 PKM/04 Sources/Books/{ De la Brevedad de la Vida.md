@@ -25,7 +25,6 @@ finished:: 2022-08-31 09:52
 > El mayor obstaculo para la vida es la expectativa, que se aferra al futuro y suelta al presente, acomodando lo que yace en control de la fortuna y abandonando lo que yace en tu control
 
 ## Notas
-### 1. De la Brevedad de la Vida
 [[La Vida es Larga si Sabemos como Vivirla]]
 
 ## Puntos Clave

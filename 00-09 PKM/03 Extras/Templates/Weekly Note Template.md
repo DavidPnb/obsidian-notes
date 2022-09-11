@@ -25,7 +25,7 @@ SORT file.name ASC
 ### 📑 Reviews
 - [ ]  📅  🔼 Organizar Sistema de Archivos
 - [ ]  📅  🔼 Organizar Inbox
-- [ ]  📅  🔼 Finalizar, Borrar, o Reprogramar Tareas
+- [ ]  📅  🔼 Organizar Tareas y Libros
 - [ ]  📅  🔼 Mover Recordatorios e Información de las Notas Diarias
 
 ### 🔃 Reflexión

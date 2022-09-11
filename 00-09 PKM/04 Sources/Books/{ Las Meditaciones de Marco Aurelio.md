@@ -22,6 +22,8 @@ finished:: 2022-08-24 17:35
 >Para cambiar tu experiencia, cambia tu opinion
 
 ## 📚Libros Relacionados
+- [[{ De la Brevedad de la Vida]]
+- [[{ A Guide to the Good Life]]
 
 ## Notas
 ### Libro 1
@@ -111,10 +113,6 @@ Este habla sobre uno de los conceptos fundamentales del [[Estoicismo]]. En mucha
 ## Contexto
 
 ## Relevancia
-
-## Anexos
-
-## Referencias
 
 ## Comentarios
 ___
