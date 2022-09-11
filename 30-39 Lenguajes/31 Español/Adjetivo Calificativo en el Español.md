@@ -10,7 +10,7 @@ Es una categoría gramatical que designa una cualidad o característica del sust
 ## Características
 - Es morfológicamente variable porque presenta accidentes de género y número; [[30.04 Morfologia|Morfología]]
 - Presenta inventario abierto, por lo que se pueden generar nuevos adjetivos; [[30.03 Lexicologia|Lexicologia]]
-- Semánticamente, el adjetivo completa el significado del [[Sustantivos en Español|Sustantivo]]; [[Semantica]]
+- Semánticamente, el adjetivo completa el significado del [[Sustantivos en Español|Sustantivo]]; [[30.07 Semantica]]
 - Sintácticamente, el adjetivo modifica diréctamente al sustantivo y forma parte de la frase nominal; [[30.06 Sintaxis|Sintaxis]]
 
 ## Clasificación

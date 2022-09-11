@@ -15,7 +15,7 @@ El lenguaje humano puede referirse a un tiempo y espacio en el que no estamos pr
 Esta capacidad de desplazamiento tambien nos permite referirnos a cosas abstractas que no forman parte del mundo físico
 
 ## Arbitrariedad
-La ausencia de conexion entre una una forma lingüistica y su [[Semantica]]. Los animales tienen un rango mucho más limitado de señales para comunicar mensajes, y su uso es situacional, por lo cual hay una clara relación entre la señal y su mensaje.
+La ausencia de conexion entre una una forma lingüistica y su [[30.07 Semantica]]. Los animales tienen un rango mucho más limitado de señales para comunicar mensajes, y su uso es situacional, por lo cual hay una clara relación entre la señal y su mensaje.
 
 ## Productividad
 Es la capacidad de crear nuevos recursos lingüisticos siempre que sea necesario, por lo que se dice que el numero de palabras potencial de cualquier lenguaje es infinito. En cambio los animales tienen un numero finito de sonidos que pueden usar, y estos ya estan ligados a un mensaje especifico, a esto se le conoce como **referencia fija**.

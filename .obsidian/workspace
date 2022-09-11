@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
+            "file": "00-09 PKM/03 Extras/Anki/Anki Semantica.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
+                "file": "00-09 PKM/03 Extras/Anki/Anki Semantica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -101,7 +101,7 @@
                   "repelStrength": 13.7837078651685,
                   "linkStrength": 0.685758998435055,
                   "linkDistance": 261,
-                  "scale": 0.04231589832635098,
+                  "scale": 0.1305106406023884,
                   "close": false
                 }
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
+                "file": "00-09 PKM/03 Extras/Anki/Anki Semantica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md"
+                "file": "00-09 PKM/03 Extras/Anki/Anki Semantica.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "b6799e879a4eb7ab",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
-    "30-39 Lenguajes/30 Linguistica/Significado.md",
+    "40-49 Ciencias/41 CS/Lenguajes de Programacion.md",
     "30-39 Lenguajes/30 Linguistica/30.07 Semantica.md",
+    "00-09 PKM/03 Extras/Anki/Anki Semantica.md",
+    "30-39 Lenguajes/30 Linguistica/Semantica.md",
+    "00-09 PKM/03 Extras/Anki/Anki Sintaxis.md",
+    "30-39 Lenguajes/30 Linguistica/Significado.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
     "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
     "20-29 Filosofia, Mente y Religion/20 Filosofia/20.00 Filosofia MOC.md",
-    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W36.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-05.md",
-    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Origenes de la Filosofia.md",
-    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Origen del Pensamiento Abstracto-Racional.md"
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md"
   ]
 }

@@ -51,5 +51,5 @@ En caso de haber varias diapositivas se puede formar una especie de linea de tie
 ## Notas Analogas vs Digitales
 Segun un estudio del diario *Psychological Science*, los estudiantes que toman notas en digital escriben casi el doble de palabras que los que lo hacen en papel, y ademas, son mas propensos a copiar el texto palabra por palabra.
 
-Esto es contraproducente, porque si el cerebro se enfoca mucho en la [[30.06 Sintaxis|Sintaxis]] de las oraciones, se concentra menos en la [[Semantica]] que es muchísimo más importante para aprender. La conclusión es que si se toman notas en digital, hay que hacer un esfuerzo conciente en aprender el material comprendiendo las ideas principales, dejando de lado detalles innecesarios.
+Esto es contraproducente, porque si el cerebro se enfoca mucho en la [[30.06 Sintaxis|Sintaxis]] de las oraciones, se concentra menos en la [[30.07 Semantica]] que es muchísimo más importante para aprender. La conclusión es que si se toman notas en digital, hay que hacer un esfuerzo conciente en aprender el material comprendiendo las ideas principales, dejando de lado detalles innecesarios.
 ___

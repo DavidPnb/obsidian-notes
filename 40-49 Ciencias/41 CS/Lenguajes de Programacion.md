@@ -15,7 +15,7 @@ De forma similar a como funciona la [[30.06 Sintaxis]] en un lenguaje natural, l
 ## Semantica
 A diferencia de la sintaxis, esta se encarga de describir el significado de las operaciones y como afectan al comportamiento de los programas
 
-[[Semantica]]
+[[30.07 Semantica]]
 
 ## Logica
 La logica del codigo no depende de la sintaxis ni el significado, sino del resultado final que se desea que el programa ejecute.
