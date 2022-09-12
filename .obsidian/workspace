@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-12.md",
+            "file": "40-49 Ciencias/40 Matematicas/Secciones Conicas.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "527185b93e651b89",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-12.md",
+                "file": "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -77,7 +90,7 @@
                       }
                     },
                     {
-                      "query": "path:\"40-49 Ciencias\", path:\"90-99 Ciencias Sociales\"",
+                      "query": "path:\"40-49 Ciencias\"",
                       "color": {
                         "a": 1,
                         "rgb": 5417696
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-12.md",
+                "file": "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-12.md"
+                "file": "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md"
               }
             }
           },
@@ -237,17 +250,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "4d5121487e439d5d",
+  "active": "527185b93e651b89",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-12.md",
+    "40-49 Ciencias/40 Matematicas/Secciones Conicas.md",
+    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
+    "40-49 Ciencias/40 Matematicas/Operaciones con Expresiones Algebraicas.md",
+    "40-49 Ciencias/40 Matematicas/40.01 Logica Matematica.md",
+    "40-49 Ciencias/40 Matematicas/40.02 Algebra.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W36.md",
     "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
-    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-    "30-39 Lenguajes/30 Linguistica/Teorias sobre el Origen del Lenguaje.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Conexion entre la Maniobra Heimlich y el Desarrollo del Habla.md",
-    "30-39 Lenguajes/30 Linguistica/Lenguajes en el Mundo.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
-    "30-39 Lenguajes/30 Linguistica/30.07 Semantica.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Superordinados y Prototipos.md"
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md"
   ]
 }
