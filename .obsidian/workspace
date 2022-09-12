@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "469ae1374cda408a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "4d5121487e439d5d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
+            "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W36.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -55,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W36.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -173,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W36.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md"
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W36.md"
               }
             }
           },
@@ -252,15 +239,15 @@
   },
   "active": "4d5121487e439d5d",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W36.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
     "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
     "30-39 Lenguajes/30 Linguistica/Teorias sobre el Origen del Lenguaje.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Conexion entre la Maniobra Heimlich y el Desarrollo del Habla.md",
     "30-39 Lenguajes/30 Linguistica/Lenguajes en el Mundo.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
     "30-39 Lenguajes/30 Linguistica/30.07 Semantica.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Superordinados y Prototipos.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Roles Theta.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Movement Rule Active-Passive.md"
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Superordinados y Prototipos.md"
   ]
 }

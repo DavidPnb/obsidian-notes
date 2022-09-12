@@ -6,7 +6,7 @@ created: 2022-07-13 08:46
 ## Información
 tags:: #source/book📚 
 writer:: [[Marco Aurelio]]
-status:: Synthesizing
+status:: Done
 subject:: [[Estoicismo]]
 started:: 2022-06-22 12:55
 finished:: 2022-08-24 17:35
@@ -111,9 +111,6 @@ Este habla sobre uno de los conceptos fundamentales del [[Estoicismo]]. En mucha
 3. Tu felicidad no depende de las situaciones que enfrentes en tu vida, esta solo depende de tu opinion
 
 ## Contexto
-
-## Relevancia
-
-## Comentarios
+Obra literaria constituida por una serie de reflexiones del filósofo y emperador romano [[Marco Aurelio]]
 ___
 
