@@ -9,6 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4d5121487e439d5d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
             "mode": "source",
             "backlinks": false,
@@ -237,17 +250,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "469ae1374cda408a",
+  "active": "4d5121487e439d5d",
   "lastOpenFiles": [
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
+    "30-39 Lenguajes/30 Linguistica/Teorias sobre el Origen del Lenguaje.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Conexion entre la Maniobra Heimlich y el Desarrollo del Habla.md",
+    "30-39 Lenguajes/30 Linguistica/Lenguajes en el Mundo.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
     "30-39 Lenguajes/30 Linguistica/30.07 Semantica.md",
     "00-09 PKM/05 Spaces/05.01 Investigacion/Superordinados y Prototipos.md",
     "00-09 PKM/05 Spaces/05.01 Investigacion/Roles Theta.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Movement Rule Active-Passive.md",
-    "00-09 PKM/03 Extras/Anki/Anki Semantica.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-11.md",
-    "00-09 PKM/07 Inbox/+ Unsorted/Como Crear Nuevos Habitos.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-10.md",
-    "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
-    "20-29 Filosofia, Creencias y Religion/22 Mitologia/22.00 Mitologia.md"
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Movement Rule Active-Passive.md"
   ]
 }

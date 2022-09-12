@@ -10,14 +10,10 @@ Links:
 ## Origen Divino
 Muchas culturas antiguas atribuyen el lenguaje a un origen divino. Estos creian que si un niño crecía en aislamiento sin contacto con ninguna lengua, este hablaría el lenguaje de los dioses o lenguaje original. La evidencia actual sin embargo, demuestra que un niño sin contacto con un lenguaje simplemente no desarrollara el lenguaje en absoluto (Ya se han documentado muchos casos relativamente famosos).
 
-- [[Torre de Babel]]
-- [[Sarasvati y el Lenguaje]]
-- [[Experimentos del Lenguaje Divino]]
-
 ## Origen Natural
 Esta teoriza que el lenguaje pudo haberse desarrollado a través de la imitación de sonidos que escuchabamos en la naturaleza, usando los sonidos para referirnos a los objetos de forma similar a las onomatopeyas. Sin embargo, esta no puede explicar los conceptos abstractos, aparte del hecho de que un lenguaje no esta formado solamente por nombres para los objetos.
 
-Tambien se ha sugerido que pude surgir de sonidos producidos por respuestas emocionales como el dolor. Esto parece poco probable ya que estos se pronuncian esencialmente diferentes a como pronunciamos normalmente las palabras.
+Tambien se ha sugerido que pude surgir de sonidos producidos por respuestas emocionales como el dolor. Esto parece poco probable ya que estos se pronuncian esencialmente diferentes a como pronunciamos normalmente las palabras. Además, sabemos que los otros primates y chimpances tambien pueden rugir y gruñir, por lo que esta teoría no explica que diferencias nos permitieron desarrollar el lenguaje.
 
 ## Origen por Interacción Social
 Esta habla sobre un origen del lenguaje en actividades de esfuerzo físico, especialmente las realizadas en grupo, donde la coordinación mediante una forma de comunicación era vital para la realización de una actividad.
@@ -40,12 +36,11 @@ El **cerebro** humano esta lateralizado, lo que significa que separa funciones e
 La **hipotesis del innatismo** intenta contestar el porque los humanos parecemos tener una proeficiencia con el lenguaje, incluso los que nacen inabilitados para escuchar sonidos. Esta indica que el desarrollo del lenguaje se da principalmente por mutaciones geneticas que solo la especie humana parece poseer.
 
 ## Tareas
-- [x] [[Conexion entre la Maniobra Heimlich y el Desarrollo del Habla]] ✅ 2022-07-02
 - [ ] [[Torre de Babel]] 🔽
 - [ ] [[Argumentos a favor y en contra de la Explicacion Teleologica del Origen del Lenguaje]] 🔽
 - [ ] [[La Ontogenia recapitula la Filogenia]] ¿Que significa? 🔽
 - [ ] [[Evidencias acerca de la Edad del Lenguaje]] 🔽
-- [ ] [[Conexion entre la Hipotesis del Innatismo y la Gramatica Universal]]
+- [ ] [[Conexion entre la Hipotesis del Innatismo y la Gramatica Universal]] 🔽 
 
 ## Proyectos
 1. [[Relación entre el Lenguaje y la Inteligencia]]
