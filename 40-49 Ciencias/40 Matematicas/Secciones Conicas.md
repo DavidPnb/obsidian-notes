@@ -15,6 +15,14 @@ donde $a, b, c, d, e, f$ son constantes dadas y $a + b + c \neq 0$ . Si $a, b, c
 Estan gráficas son intersecciones de un plano y un cono rectangulo circular, por esta razon son llamadas **secciones cónicas**.
 
 ## Círculos
+Un círculo es el lugar geométrico de todos los puntos en un plano que estan a una distancia fija de un punto fijo en el plano. El punto fijo es el **centro** del círculo y la distancia fija es el **radio** del círculo. Cuando el centro del círculo esta en el origen $(0, 0)$ y el radio es $r$ , la forma general de la ecuación es $x^2 + y^2 = r^2$. Si el centro del círculo esta en el punto $(h,k)$ y el radio es $r$ , la ecuación tiene la forma $(x - h)^2 + (y - k)^2 = r^2$ . Si $r^2 = 0$ , la ecuación representa un punto en el plano. Si $r^2 < 0$ , la ecuación representa a una figura inexistente.
 
+## Parabolas
+[[Parabolas]]
 
+## Elipses
+[[Elipses]]
+
+## Hiperbola
+[[Hiperbola]]
 ___

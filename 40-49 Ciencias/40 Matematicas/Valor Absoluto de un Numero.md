@@ -1,3 +1,6 @@
+---
+created: 2022-09-12 18:34
+---
 tags:: #Mathematics 
 up:: [[Inecuaciones]]
 Links: 

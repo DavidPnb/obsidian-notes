@@ -3,7 +3,7 @@ status:
 references:
 created: 2022-06-29 18:54
 ---
-tags:: #Mathematics
+tags:: #Mathematics #on/History 
 up:: [[Logaritmos]]
 Links: 
 # Origen de los Logaritmos

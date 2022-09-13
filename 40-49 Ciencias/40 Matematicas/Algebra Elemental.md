@@ -79,6 +79,12 @@ Una **variable** es un simbolo que puede asumir cualquier valor del conjunto de 
 ## Ecuaciones Radicales
 Una ecuación radical es aquella que incluye una o más incognitas dentro de un radical. Para resolverlas, se aisla uno de los terminos radicales de un lado de la ecuación y se mueve el resto al otro lado, se cancela la raíz y se repite el proceso hasta que se eliminen todas las raíces.
 
-## Secciones Conicas
+## Secciones Cónicas
 [[Secciones Conicas]]
+
+## Sistemas de Ecuaciones Involucrando Cuadráticas
+[[Sistema de Ecuaciones Cuadraticas]]
+
+## Inecuaciones
+[[Inecuaciones]]
 ___
