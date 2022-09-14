@@ -81,7 +81,7 @@ Funcionan como arboles sin el elemento jerárquico en donde todos los elementos,
 Tambien son llamados **objetos** y permiten almacenar multiples variables asociadas. Son la manera más facil de almacenar información compuesta y representar objetos de la vida real.
 
 ## Funciones
-Son piezas de codigo reusables a las que se les da un nombre y pueden ser utilizadas en varias partes de un programa. La creación de funciones es la principal manera en la que se crean **abstracciones** y son la parte más esencial de un programa moderno, porque mejoran la **legibilidad** y **modularidad** haciendo que los proyectos sean más **escalables**.
+Son piezas de codigo reusables a las que se les da un nombre y pueden ser utilizadas en varias partes de un programa. La creación de funciones es la principal manera en la que se crean **abstracciones** y **modularidad**, que son la parte más esencial de un programa moderno porque mejoran la **legibilidad** y hacen que los proyectos sean más **escalables**. La abstracción implica que al introducir información adecuada siempre se va a recibir información adecuada, sin la necesidad de preocuparse por el funcionamiento interno del codigo. La modularidad significa que diferentes piezas de codigo separadas cumplen una funcionalidad separada, y en conjunto producen la funcionalidad del programa completo.
 
 ## Algoritmos
 Un **algoritmo** es una serie de pasos que se realizan para resolver un problema específico. Tienen su origen el [[Algebra Elemental]] y su uso en [[40.00 Matematicas MOC|Matematicas]] tambien se extiende a la programación. 

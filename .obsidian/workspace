@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-13.md",
+            "file": "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-13.md",
+                "file": "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-13.md",
+                "file": "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-13.md"
+                "file": "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md"
               }
             }
           },
@@ -239,6 +239,8 @@
   },
   "active": "4d5121487e439d5d",
   "lastOpenFiles": [
+    "30-39 Lenguajes/30 Linguistica/Lenguaje.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-13.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-12.md",
     "00-09 PKM/09 Workflow/Horario.md",
@@ -246,8 +248,6 @@
     "40-49 Ciencias/40 Matematicas/Inecuaciones.md",
     "40-49 Ciencias/40 Matematicas/Operaciones con Enteros.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Origen de los Logaritmos.md",
-    "40-49 Ciencias/40 Matematicas/Valor Absoluto de un Numero.md",
-    "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Cuadraticas.md",
-    "40-49 Ciencias/40 Matematicas/Secciones Conicas.md"
+    "40-49 Ciencias/40 Matematicas/Valor Absoluto de un Numero.md"
   ]
 }
