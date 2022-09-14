@@ -8,4 +8,5 @@ Links:
 ## Recursos
 ### Libros
 - Harville Hendrix & Helen LaKelly Hunt - Getting the Love You Want
+- Deborah Tannen - You Just Don't Understand
 ___
