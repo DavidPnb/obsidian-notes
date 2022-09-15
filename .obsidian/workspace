@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-14.md",
+            "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-14.md",
+                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-14.md",
+                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-14.md"
+                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md"
               }
             }
           },
@@ -239,6 +239,7 @@
   },
   "active": "4d5121487e439d5d",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-14.md",
     "00-09 PKM/04 Sources/Books/Futuro Lejano del Universo.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia de la Naturaleza.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
@@ -246,7 +247,6 @@
     "00-09 PKM/04 Sources/Books/{ This Will Make You Smarter.md",
     "00-09 PKM/03 Extras/Templates/Book Note Template.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W37.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-14.md",
     "00-09 PKM/04 Sources/Books/{ The Joy of X.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-13.md"
   ]
