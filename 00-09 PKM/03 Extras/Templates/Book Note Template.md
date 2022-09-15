@@ -8,7 +8,7 @@ tags:: #source/book📚
 writer:: [[]]
 status:: To Do
 subject::
-started::
+started:: {{date}} {{time}}
 finished::
 
 ## 🔍 Como lo Descubri
