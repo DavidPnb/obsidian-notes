@@ -33,5 +33,5 @@ Son tipos de moleculas que los organismos necesitan para llevar a cabo sus proce
 	- Enzimas - Regulan procesos químicos y estan involucradas en la digestión
 	- Anticuerpos - Se combinan con sustancias que el cuerpo considera extrañas y son parte importante del sistema inmune
 	- Endorfinas - Hormonas con efecto analgésico
-- **Acidos Nucleicos**
+- [[Acidos Nucleicos]]
 ___
