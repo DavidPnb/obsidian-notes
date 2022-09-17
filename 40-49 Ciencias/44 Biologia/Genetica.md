@@ -7,4 +7,7 @@ up:: [[44.00 Biologia]]
 - [[Herencia]]
 - [[ADN]]
 - [[ARN]]
+- [[Transcripcion y Translacion del ADN]]
+- [[Mitosis]]
+- [[Meiosis]]
 ___
