@@ -20,5 +20,5 @@ La gente lee los periodicos de forma pasiva para enterarse de las noticias del d
 5. Prestar atención al formato del texto, como las negritas, cursivas o listas. Estas pueden contener los detalles importantes o ideas principales del capitulo
 
 ### Resumenes
-Resumir lo que se Lee es una buena forma de hacer [[Active Recall]]. El hecho de explicarnos a nostros mismos el contenido nos ayuda a conseguir una mayor comprensión. A esto se le asocia con la *tecnica Feynman*
+Resumir lo que se Lee es una buena forma de hacer [[Active Recall]]. El hecho de explicarnos a nostros mismos el contenido nos ayuda a conseguir una mayor comprensión. A esto se le asocia con la *[[Comprender Mejor un Concepto al Enseñarlo|tecnica Feynman]]*
 ___

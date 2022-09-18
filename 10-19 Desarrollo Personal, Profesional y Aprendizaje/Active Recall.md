@@ -17,5 +17,5 @@ El active recall es una tecnica de estudio que consiste en evaluarnos a nosotros
 - **Hacernos preguntas justo despues de terminar de estudiar** 
 - **Usar [[Spaced Repetition]]** 
 - **Practica** - Muy importante en [[40.00 Matematicas MOC|Matématicas]] y temas similares; [[Importancia de la Practica en STEM]]
-- **Enseñar** - Hacer uso de la *tecnica Feynman*
+- **Enseñar** - Hacer uso de la *[[Comprender Mejor un Concepto al Enseñarlo|tecnica Feynman]]*
 ___

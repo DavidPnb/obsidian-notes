@@ -11,7 +11,7 @@ Esta manera de estudiar tiene respaldo científico y ayuda a mejorar nuestra com
 Un punto clave de este metodo es la simplificación de un concepto, eliminando la jerga innecesaria y el habla técnica. Entender como este se relaciona con otros conceptos y sus aplicaciones puede hacer que la información se exteriorice de forma más facil.
 
 ## Usar Analogias
-Tal y como se expresa en el punto anterior, la conexión con otros temas puede darle sentido a un concepto que consideramos dificil y estimula la comprensión intuitiva; [[Chunking]].
+Tal y como se expresa en el punto anterior, la conexión con otros temas puede darle sentido a un concepto que consideramos dificil y estimula la comprensión intuitiva; [[Chunking]]. Con las analogias y metáforas tambien podemos sacarle más provecho a nuestra [[Memoria]] visual y mejorar la forma en que recordamos información
 
 ## Storytelling
 Las historias llevan una carga emocional y por eso son más dificiles de olvidar que hechos o información a secas.
