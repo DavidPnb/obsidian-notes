@@ -14,7 +14,7 @@ Las reglas para manipular fracciones algebraicas son las mismas que para manipul
 Hay tres signos asociados con la fracción: el signo del numerador, del denominador y el de toda la fracción. Se pueden alterar simultaneamente dos de estos signos sin alterar el valor de la fracción
 
 ## Operaciones
-Para sumar expresiones racionales se busca a un denominador común, y se convierte cada fracción a una fracción equivalente con ese denominador. Para esto se usa el MCM; [[Factorizacion#Minimo Comun Multiplo]].
+Para sumar expresiones racionales se busca a un denominador común, y se convierte cada fracción a una fracción equivalente con ese denominador. Para esto se usa el MCM; [[40.04 Teoria de los Numeros#Minimo Comun Multiplo|Minimo Comun Multiplo]].
 
 Las otras operaciones funcionan de forma analoga a las [[Operaciones con Fracciones]] convencionales.
 

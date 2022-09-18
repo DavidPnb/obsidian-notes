@@ -20,8 +20,8 @@ finished::
 
 ## Notas
 ### Numeros
-1. [[Intuiciones sobre Aritmetica#Naturaleza de los Números|Desde Peces hasta Infinito]]
-2. [[Intuiciones sobre Aritmetica#Grupos de Rocas|Grupos de Rocas]]
+1. [[Naturaleza de los Numeros|Desde Peces hasta Infinito]]
+2. [[Grupos de Rocas como Representacion Numerica|Grupos de Rocas]]
 ### Relaciones
 ### Formas
 ### Cambio
