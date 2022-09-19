@@ -1,49 +1,33 @@
 ---
-
 created: ["{{date}} {{time}}"]
-
-aliases: [""]
-
 ---
 
 # ❗❓ Información
 
-related::
+started:: {{date}} {{time}}
 
-date::
+finished::
 
-professor/speaker::
+speaker::
 
 tags::
 
 ---
 
-# ❗ Tema
+## ❗ Tema
+
+## Relacionados
 
 ## 📦 Recursos
 
--
 
 ## 🔑 Puntos Clave
 
--
 
 ## ❓ Preguntas
 
--
 
 ## 🎯 Acciones
 
-- [ ]
-
-- [ ]
-
-- [ ]
-
-- [ ]
-
-- [ ]
 
 ## Notas
-
--
