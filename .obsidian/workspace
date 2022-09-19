@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-19.md",
+            "file": "00-09 PKM/04 Sources/Courses/Algebra Elementary to Advanced.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-19.md",
+                "file": "00-09 PKM/04 Sources/Courses/Algebra Elementary to Advanced.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -101,7 +101,7 @@
                   "repelStrength": 19.1267605633803,
                   "linkStrength": 0.906259780907668,
                   "linkDistance": 494,
-                  "scale": 0.042315898326351006,
+                  "scale": 0.04231589832635102,
                   "close": false
                 }
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-19.md",
+                "file": "00-09 PKM/04 Sources/Courses/Algebra Elementary to Advanced.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-19.md"
+                "file": "00-09 PKM/04 Sources/Courses/Algebra Elementary to Advanced.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "f9ad6f85ff1f6395",
   "lastOpenFiles": [
-    "00-09 PKM/03 Extras/Templates/Book Note Template.md",
+    "40-49 Ciencias/40 Matematicas/Numeros.md",
+    "40-49 Ciencias/40 Matematicas/Numeros Reales.md",
+    "00-09 PKM/04 Sources/Courses/Algebra Elementary to Advanced.md",
+    "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
+    "00-09 PKM/04 Sources/Courses/Obsidian Flight School.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-19.md",
+    "00-09 PKM/03 Extras/Templates/Book Note Template.md",
     "00-09 PKM/03 Extras/Templates/Course Note Template.md",
     "00-09 PKM/03 Extras/Templates/Course Template.md",
-    "00-09 PKM/04 Sources/Courses/The LYT Workshop.md",
-    "00-09 PKM/04 Sources/Courses/Obsidian Flight School.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-18.md",
-    "40-49 Ciencias/44 Biologia/Aplicaciones de la Biologia.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Analitica en el Espacio.md",
-    "40-49 Ciencias/40 Matematicas/Fracciones Algebraicas.md"
+    "00-09 PKM/04 Sources/Courses/The LYT Workshop.md"
   ]
 }

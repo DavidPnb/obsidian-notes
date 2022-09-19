@@ -1,6 +1,4 @@
 ---
-status:
-references:
 created: 2022-06-29 17:46
 ---
 tags:: #Mathematics 

@@ -18,7 +18,7 @@ Tambien llamados numeros cardinales. Es el conjunto formados por los Numeros Ent
 [[Numeros Enteros]]
 
 ## Numeros Racionales
-Incluye todos los numeros que pueden ser expresados como fracciones con denominadores y numeradores enteros. El conjunto de todos los numeros racionales incluye a los enteros  ya que todos los enteros pueden ser escritos como una fraccion con denominador 1.
+Incluye todos los numeros que pueden ser expresados como fracciones con denominadores y numeradores enteros, donde el denominador no es igual a cero. El conjunto de todos los numeros racionales incluye a los enteros  ya que todos los enteros pueden ser escritos como una fraccion con denominador 1.
 
 [[Fracciones]]
 
