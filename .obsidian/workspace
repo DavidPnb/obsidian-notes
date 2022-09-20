@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40-49 Ciencias/40 Matematicas/Valor Absoluto de un Numero.md",
+            "file": "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -55,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Valor Absoluto de un Numero.md",
+                "file": "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -114,7 +114,7 @@
                   "repelStrength": 19.1267605633803,
                   "linkStrength": 0.906259780907668,
                   "linkDistance": 494,
-                  "scale": 0.04231589832635102,
+                  "scale": 0.04231589832635103,
                   "close": false
                 }
               }
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.01219177246094,
-    "collapsed": true
+    "width": 422.01219177246094
   },
   "right": {
     "id": "6a3a32269de26270",
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Valor Absoluto de un Numero.md",
+                "file": "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Valor Absoluto de un Numero.md"
+                "file": "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md"
               }
             }
           },
@@ -249,20 +248,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.11822509765625,
-    "collapsed": true
+    "width": 425.11822509765625
   },
   "active": "6c8c61f4c43ded4e",
   "lastOpenFiles": [
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-20.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-19.md",
+    "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
+    "40-49 Ciencias/40 Matematicas/Ecuaciones Lineares.md",
+    "40-49 Ciencias/40 Matematicas/Ecuaciones Lineares Simultaneas.md",
+    "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md",
     "40-49 Ciencias/40 Matematicas/Valor Absoluto de un Numero.md",
     "00-09 PKM/03 Extras/Anki/Anki Valor Absoluto de un Numero.md",
     "00-09 PKM/03 Extras/Anki/Anki Sintaxis.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-19.md",
-    "40-49 Ciencias/40 Matematicas/Ecuaciones Lineares.md",
-    "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W37.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-17.md"
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md"
   ]
 }
