@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-19.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-20.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-19.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.01219177246094
+    "width": 422.01219177246094,
+    "collapsed": true
   },
   "right": {
     "id": "6a3a32269de26270",
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-19.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-19.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-20.md"
               }
             }
           },
@@ -239,15 +240,15 @@
   },
   "active": "6c8c61f4c43ded4e",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-19.md",
+    "40-49 Ciencias/40 Matematicas/Ecuaciones Lineares.md",
+    "40-49 Ciencias/40 Matematicas/Valor Absoluto de un Numero.md",
+    "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W37.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-17.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-18.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-16.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-15.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-14.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-13.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-12.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Bookshelf.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W37.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-15.md"
   ]
 }
