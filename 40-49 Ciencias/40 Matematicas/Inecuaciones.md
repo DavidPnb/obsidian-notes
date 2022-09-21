@@ -2,7 +2,7 @@ tags:: #Mathematics
 up:: [[Numeros Reales]]
 Links: 
 # Inecuaciones
-Se usan los simbolos $>$,$<$ y $=$ para representar **mayor que**, **menor que** e **igual que**, respectivamente. Son usadas para comparar el tamaño de dos numeros en la recta numerica.
+Se usan los simbolos $>$,$<$ y para representar **mayor que** y **menor que**, respectivamente, y son llamadas **desigualdades estrictas**. Son usadas para comparar el tamaño de dos numeros en la recta numerica.
 
 - Si $a - b$ es positivo, entonces $a > b$. $a$ esta a la derecha de $b$ en la recta real
 - Si $a - b$ es negativo, entonces $a < b$. $a$ esta a la izquierda de $b$ en la recta real
@@ -11,11 +11,13 @@ Se usan los simbolos $>$,$<$ y $=$ para representar **mayor que**, **menor que**
 
 Las **soluciones** de una inecuación son todos los numeros que hacen que el enunciado sea verdadero. Dos inecuaciones son **equivalentes** si tienen las mismas soluciones.
 
-El conjunto de soluciones de una inecuación esta representado por un [[Teoria de Conjuntos#Intervalo|Intervalo]].
+El conjunto de soluciones de una inecuación esta representado por [[Intervalos Numericos]].
 
 Las relaciones menor que $<$ y mayor que $>$ tienen la propiedad de transitividad; [[Relaciones]].
 
 ## Postulados
+Las siguientes propiedades estan representadas por desigualdades estrictas, pero tambien aplican para **mayor o igual** y **menor o igual**.
+
 > [!postulado]+ **Tricotomia**
 >
 >Si $a,b \in \mathbb{R}$, entonces al compararlos se puede presentar uno y solo uno de los siguientes casos:
@@ -39,6 +41,11 @@ Las relaciones menor que $<$ y mayor que $>$ tienen la propiedad de transitivida
 >si $c>0$, entonces $ac>bc$
 >si $c<0$, entonces $ac<bc$
 
+> [!postulado]+ **Recíproco**
+>
+>Para $a,b \in \mathbb{R}$, si $a>b$, entonces:
+>$$\frac{1}{a}<\frac{1}{b}$$
+
 ## Valor Absoluto
 [[Valor Absoluto de un Numero]]
 
@@ -56,4 +63,6 @@ Un sistema de ecuaciones cuyas ecuaciones se intersecten siempre tiene una soluc
 ## Programación Linear
 Varios problemas prácticos involucran una función que debe ser minimizada o maximizada y esta sujeta a varias restricciones. Si la función es una inecuación linear, los extremos de la función ocurren en las esquinas de la región delimitada por las restricciones.
 
+## Intervalos
+[[Intervalos Numericos]]
 ___

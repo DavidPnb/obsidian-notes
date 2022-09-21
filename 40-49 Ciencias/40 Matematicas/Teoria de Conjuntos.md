@@ -129,7 +129,6 @@ Si $A$ y $B$ son dos conjuntos cualquiera, entonces
 ## Cardinalidad
 La Cardinalidad de un conjunto $A$ es la cantidad de elementos del conjunto, denotada por $|A|$. La cardinalidad del conjunto vacio es cero
 
-## Intervalo 
-Es el conjunto de numeros que contiene todos los numeros entre dos numeros del conjunto.
-![[Pasted image 20220318165346.png]]
+## Intervalos 
+[[Intervalos Numericos]]
 ___
