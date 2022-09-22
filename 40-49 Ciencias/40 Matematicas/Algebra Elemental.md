@@ -71,7 +71,7 @@ Una **variable** es un simbolo que puede asumir cualquier valor del conjunto de 
 [[Rectas en el Plano]]
 
 ## Ecuaciones Lineares Simultaneas
-[[Ecuaciones Lineares Simultaneas]]
+[[Sistema de Ecuaciones Lineares]]
 
 ## Ecuaciones Cuadraticas en una Variable
 [[Ecuaciones Cuadraticas]]

@@ -22,7 +22,7 @@ Dos rectas no verticales son **perpendiculares** si y solo si el producto de sus
 
 ## Forma Estándar
 $$Ax+By = C$$
-Esta formula es más usada en sistemas de ecuaciones lineares simultaneas; [[Ecuaciones Lineares Simultaneas]]
+Esta formula es más usada en sistemas de ecuaciones lineares simultaneas; [[Sistema de Ecuaciones Lineares]]
 
 ## Forma Pendiente-Intecepto de la Ecuación de la Recta
 Si una recta tiene pendiente $m$ e intercepto en $y$ igual a $(0, b)$ , entonces  para cualquier punto $(x,y)$ donde $x \neq 0$ $$m = \frac{y - b}{x - 0}$$ y $$y = mx + b$$

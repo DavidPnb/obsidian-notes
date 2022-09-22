@@ -16,5 +16,5 @@ En general se pueden resolver estas ecuaciones creando una lista de ecuaciones e
 [[Rectas en el Plano]]
 
 ## Ecuaciones Lineares Simultaneas
-[[Ecuaciones Lineares Simultaneas]]
+[[Sistema de Ecuaciones Lineares]]
 ___
