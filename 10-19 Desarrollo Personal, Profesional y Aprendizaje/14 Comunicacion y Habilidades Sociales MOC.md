@@ -8,4 +8,5 @@ Links:
 ## Recursos
 ### Libros
 Marshall Rosenberg - Nonviolent Communication
+Tynan - Superhuman Social Skills
 ___

@@ -8,4 +8,5 @@ Links:
 ## Recursos
 ### Libros
 - Influence: The Psychology of Persuasion by Robert B. Cialdini
+- 
 ___

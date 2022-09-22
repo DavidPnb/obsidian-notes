@@ -11,4 +11,7 @@ Links:
 - Thinking for a Living by Thomas Davenport
 - The Compound Effect by Darren Hardy
 - Atomic Habits by James Clear
+- The Gap and the Gain by Benjamin Hardy
+- The Minimalist Entrepreneur - Sahil Lavingia
+- The Millionaire Fastlane - MJ DeMarco
 ___
