@@ -53,7 +53,9 @@ Las siguientes propiedades estan representadas por desigualdades estrictas, pero
 Resolver inecuaciones de orden superior es similar a resolver [[Ecuaciones]] de orden superior. Se compara la inecuación con cero y se buscan los valores de los factores que hagan que el resultado sea positivo o negativo, dependiendo del tipo de inecuación. Para esto se puede usar una tabla de signos.
 
 ## Inecuaciones Lineares de Dos Variables
-La solución de una inecuación linear de dos variables $x$ y $y$ consiste en todos los puntos $(x,y)$ que satisfacen la inecuación. Como las [[Ecuaciones Lineares]] representan rectas, las inecuaciones lineares representan puntos de un lado de la recta. Si la recta esta incluida o no en la solución depende de si se usa el simbolo $\leq$ o $\geq$ . Estas soluciones generalmente son encontradas por métodos gráficos.
+La solución de una inecuación linear de dos variables $x$ y $y$ consiste en el conjunto de pares ordenados $(x,y)$ que satisfacen la inecuación. Como las [[Ecuaciones Lineares]] representan rectas, las inecuaciones lineares representan puntos de un lado de la recta. Si la recta esta incluida o no en la solución depende de si se usa el simbolo $\leq$ o $\geq$ . Estas soluciones generalmente son encontradas por métodos gráficos.
+
+Para graficar la solución de una inecuación linear de dos variables primero se grafica la recta dividiendo la gráfica en dos mitades y se observa si esta es parte de la solución. Luego, se evaluan en la ecuación las coordenadas de un punto de un lado de la recta, si el punto satisface la ecuación, se sombrea la mitad de la gráfica que incluye al punto, de lo contrario, se sombrea la otra mitad.
 
 ## Sistemas de Inecuaciones Lineares
 Si se tienen dos o más inecuaciones lineares en dos variables, se dice que se tiene un **sistema de inecuaciones lineares** y la solución del sistema es la intersección de las soluciones de las ecuaciones.
