@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40-49 Ciencias/40 Matematicas/Inecuaciones.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-22.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Inecuaciones.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Inecuaciones.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Inecuaciones.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-22.md"
               }
             }
           },
@@ -239,6 +239,7 @@
   },
   "active": "73659f050636bf33",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Inecuaciones.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/10 Aprendizaje y Educacion MOC.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/16 Negocios y Administracion MOC.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/13 Marketing MOC.md",
@@ -247,7 +248,6 @@
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/12 Relaciones Personales MOC.md",
     "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/14 Comunicacion y Habilidades Sociales MOC.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/11 Carrera y Desarrollo Profesional MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-22.md"
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/11 Carrera y Desarrollo Profesional MOC.md"
   ]
 }
