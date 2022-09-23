@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-22.md",
+            "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-22.md",
+                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-22.md",
+                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-22.md"
+                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "73659f050636bf33",
   "lastOpenFiles": [
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/14 Comunicacion y Habilidades Sociales MOC.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-23.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-09-22.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/14 Comunicacion y Habilidades Sociales MOC.md",
     "40-49 Ciencias/40 Matematicas/Inecuaciones.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/10 Aprendizaje y Educacion MOC.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/16 Negocios y Administracion MOC.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/13 Marketing MOC.md",
     "70-79 Finas Artes/70 Arte.md",
-    "70-79 Finas Artes/71 Pixel Art MOC.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/12 Relaciones Personales MOC.md",
-    "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md"
+    "70-79 Finas Artes/71 Pixel Art MOC.md"
   ]
 }
