@@ -30,12 +30,13 @@
       "type": "teorema",
       "color": "43, 177, 6",
       "icon": {
-        "name": "question",
+        "name": "info",
         "type": "font-awesome"
       },
       "command": false,
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,
