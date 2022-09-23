@@ -9,4 +9,5 @@ Links:
 ### Libros
 Marshall Rosenberg - Nonviolent Communication
 Tynan - Superhuman Social Skills
+Debra Fine - The Fine Art of Small Talk
 ___
