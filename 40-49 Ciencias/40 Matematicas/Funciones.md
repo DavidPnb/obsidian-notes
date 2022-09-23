@@ -1,6 +1,4 @@
 ---
-status:
-references:
 created: 2022-08-02 11:49
 ---
 tags:: #Mathematics 
@@ -22,8 +20,12 @@ La notación $y=f(x)$ indica que $y$ es una función de $x$ . En esta notación,
 ## Simetría
 Cuando una parte de la grafica es un reflejo de otra parte, se dice que la función es simétrica con respecto al **eje de reflexión**.
 
+[[Simetria|Simetría]]
+
 ## Traslaciones
 El grafico de una función se mueve hacia arriba sumando una constante positiva a cada valor de $y$ . El grafico de una función se mueve hacia abajo restando una constante positiva a cada valor de $y$ . El grafico de una función se mueve hacia la derecha restando una constante positiva a cada valor de $x$ . El grafico de una función se mueve hacia la izquierda sumando una constante positiva a cada valor de $x$.
+
+[[Transformaciones Geometricas]]
 
 ## Escalas
 Multiplicar $y$ por una constante estira la grafica verticalmente si esta es mayor que $1$ , y la encoje si es menor . Multiplicar $x$ por una constante encoje la grafica horizontalmente si esta es mayor que $1$ , y la estira si es menor.
