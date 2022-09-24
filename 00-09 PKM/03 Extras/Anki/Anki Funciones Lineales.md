@@ -7,7 +7,8 @@ TARGET DECK: Matematicas :: Algebra Elemental
 START
 Cloze+
 Content: 
-Si se conocen las coordenadas de dos puntos, se puede encontra la pendiente de la recta usando la ecuación {{c1:: $m = \frac{y_2-y_1}{x_2-x_1}$}}
+Si se conocen las coordenadas de dos puntos, se puede encontrar la pendiente de la recta usando la ecuación {{c1:: $m = \frac{y_2-y_1}{x_2-x_1}$}}
+<!--ID: 1663977654012-->
 END
 
 START
@@ -19,13 +20,14 @@ Content:
 
 {{c1:: m}} es la pendiente de la recta
 
-{{c1:: $(x_0,y_0)$}} son las coordenadas cualquier punto en la recta
+{{c1:: $(x_0,y_0)$}} son las coordenadas de cualquier punto en la recta
 
 ## Forma Pendiente Intercepto
 {{c2:: $y = mx + b$}}
 
 {{c2:: $m$}} es la pendiente de la recta.
 
-{{c2:: $(0,b)}} es el intercepto en $y$
+{{c2:: $(0,b)$}} es el intercepto en $y$
+<!--ID: 1663977655244-->
 END
 ___
