@@ -13,7 +13,7 @@ Content:
 3. {{c3:: $f(x)+a$}} Mueve el gráfico $a$ unidades hacia arriba
 4. {{c4:: $f(x)-a$}} Mueve el gráfico $a$ unidades hacia abajo
 5. {{c5:: $f(x)*a$}} Estira verticalmente el gráfico por un factor de $a$
-6. {{c6:: $f(x)*a$}} Encoje horizontalmente el gráfico por un factor de $a$
+6. {{c6:: $f(x*a)$}} Encoje horizontalmente el gráfico por un factor de $a$
 <!--ID: 1663976624941-->
 END
 

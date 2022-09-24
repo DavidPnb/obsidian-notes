@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee8266ed1a5c86e",
+        "id": "06497d1489b636db",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W38.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -37,6 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W38.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -154,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W38.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W38.md"
+              }
             }
           },
           {
@@ -228,17 +237,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "3ee8266ed1a5c86e",
+  "active": "06497d1489b636db",
   "lastOpenFiles": [
-    "20-29 Filosofia, Creencias y Religion/21 Pseudociencia y Supersticion/Ley de la Atraccion.md",
-    "20-29 Filosofia, Creencias y Religion/21 Pseudociencia y Supersticion/Evangelismo Televisivo y Milagros.md",
-    "00-09 PKM/03 Extras/Anki/Anki Funciones.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-23.md",
-    "00-09 PKM/03 Extras/Anki/Anki Funciones Lineales.md",
-    "40-49 Ciencias/40 Matematicas/Funciones Lineales.md",
-    "00-09 PKM/03 Extras/Anki/Anki Gramatica.md",
-    "00-09 PKM/03 Extras/Anki/Anki Animales y Lenguaje Humano.md",
-    "00-09 PKM/03 Extras/Anki/Anki Valor Absoluto de un Numero.md",
-    "00-09 PKM/03 Extras/Anki/Anki Fonologia.md"
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W37.md",
+    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/17 Supervivencia y Preparacion contra Emergencias.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Active Reading.md",
+    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/An asymptotic curve models the development of skills, strength, habits, and more.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Aikido.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Abduccion.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/a few so free that they are enslaved in pursuit of their follies''.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Drawing 2022-09-24 10.44.29.excalidraw.md"
   ]
 }
