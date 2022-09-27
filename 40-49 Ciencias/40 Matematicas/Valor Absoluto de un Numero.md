@@ -30,4 +30,13 @@ Justo como con las [[Ecuaciones]], las [[Inecuaciones]] con valor absoluto tambi
 
 1. Si $|a| < b$, entonces $-b < a < b$
 2. Si $|a| > b$, entonces $b < a < -b$
+
+## Como Función
+$$|x|= \begin{align}
+x, &  \text{ si } x \geq 0 \\
+-x, & \text{ si } x < 0
+\end{align}$$
+
+**Dominio:**  $\mathbb{R}$ 
+**Rango:** $[0,\infty)$ 
 ___

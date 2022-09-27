@@ -18,10 +18,10 @@
   "obsidian-kanban",
   "obsidian-dynamic-toc",
   "periodic-notes",
-  "nldates-obsidian",
   "obsidian-banners",
   "obsidian-nomnoml-diagram",
   "obsidian-citation-plugin",
   "templater-obsidian",
-  "obsidian-timeline"
+  "obsidian-timeline",
+  "obsidian-latex-suite"
 ]

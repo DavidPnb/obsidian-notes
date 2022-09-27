@@ -8,4 +8,8 @@ Links:
 ## Recursos
 ### Libros
 - Steal Like an Artist Trilogy by Austin Kleon
+- **Comics**
+	- Understanding Comics by Scott McCloud
+	- How to Draw Comics the Marvel Way by Stan Lee
+	- Making Comics by Scott McCloud
 ___

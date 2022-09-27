@@ -12,7 +12,7 @@ tags:: #on/PKM #x/meta
 - The Miracles of Human Language
 ## Miercoles
 - Teoría del Conocimiento
-- Learning How to Learn
+- Mindshift
 ## Jueves
 - Geometry
 - Lenguaje Lumbreras
@@ -24,10 +24,8 @@ tags:: #on/PKM #x/meta
 - A Guide to the Good Life
 ## Domingo
 - The Power of Habit
-- Precalculo
+- Algebra: Beginner to Advanced
 ## Toda la Semana
-- Prealgebra
-- Algebra
 - Crash Course Philosophy
 - Crash Course CS
 - Crash Course Biology

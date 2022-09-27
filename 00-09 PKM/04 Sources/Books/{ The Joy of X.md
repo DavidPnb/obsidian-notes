@@ -22,6 +22,7 @@ finished::
 ### Numeros
 1. [[Naturaleza de los Numeros|Desde Peces hasta Infinito]]
 2. [[Grupos de Rocas como Representacion Numerica|Grupos de Rocas]]
+3. [[Los Negativos y sus Analogias|El Enemigo de mi Enemigo es mi Amigo]]
 ### Relaciones
 ### Formas
 ### Cambio

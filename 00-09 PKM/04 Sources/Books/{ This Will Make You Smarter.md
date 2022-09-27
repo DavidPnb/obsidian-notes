@@ -20,7 +20,7 @@ finished::
 
 ## Notas
 - [[Futuro Lejano del Universo]]
-- 
+- [[La Vida Inteligente es Algo Unico]]
 
 ## Contexto
 Colección de ensayos hechos por multiples científicos respondiendo a la pregunta ¿Que concepto científico mejoraría las herramientas cognitivas de cualquiera?

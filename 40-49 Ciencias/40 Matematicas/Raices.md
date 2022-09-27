@@ -69,4 +69,9 @@ Se dice que dos o más radicales son **similares** si luego de ser reducidos a s
 - Para sumar algebraicamente dos o más radicales, se reduce cada radical a su forma mas simple y se suman los terminos con radicales similares
 - Para multiplicar dos radicales con el mismo indice, se usan las leyes de los radicales
 - Para multiplicar dos radicales con indices diferentes, estos se pueden transforman en exponentes fraccionarios y luego ser simplificados usando leyes de los exponentes
+
+## Como Función
+$$f(x)=\sqrt[n]{ x } = x^{1/n}, \text{ } n \geq 2$$
+**Dominio:** $[0,\infty), \text{ si } \frac{n}{2} =0; \text{ } (- \infty,\infty)$
+**Rango:** $[0,\infty), \text{ si } \frac{n}{2} =0; \text{ } (- \infty,\infty)$
 ___
