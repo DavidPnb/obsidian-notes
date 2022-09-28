@@ -22,7 +22,8 @@ finished::
 
 ## Notas
 ### El Ascenso del Estoicismo
-
+1. [[Origenes de la Filosofia]]
+2. [[Origen del Estoicismo]]
 ### Técnicas Psicológicas Estoicas
 ### Consejos Estoicos
 ### Estoicismo para Vidas Modernas
@@ -32,5 +33,6 @@ finished::
 ## Anexos
 
 ## Comentarios
+- El autor decide dejar de lado el estoicismo griego para enfocarse en el romano, considerando que este es más relevante para las necesidades del lector
 ___
 

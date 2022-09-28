@@ -13,4 +13,5 @@ Links:
 	- How to Draw Comics the Marvel Way by Stan Lee
 	- Making Comics by Scott McCloud
 	- Graphic Storytelling and Visual Narrative by Will Eisner
+	- Expressive Anatomy for Comics and Narrative by Will Eisner
 ___
