@@ -2,7 +2,7 @@
 created: 2022-08-17 21:34
 ---
 tags:: #atlas/MOC🗺 
-up:: [[00 Home]]
+up::
 Links: 
 # Arte
 ## Recursos
@@ -12,4 +12,5 @@ Links:
 	- Understanding Comics by Scott McCloud
 	- How to Draw Comics the Marvel Way by Stan Lee
 	- Making Comics by Scott McCloud
+	- Graphic Storytelling and Visual Narrative by Will Eisner
 ___

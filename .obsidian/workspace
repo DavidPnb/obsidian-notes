@@ -7,8 +7,13 @@
         "id": "a0b0267bdc8e1957",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-28.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -37,6 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-28.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -95,7 +101,7 @@
                   "repelStrength": 19.1267605633803,
                   "linkStrength": 0.595618153364632,
                   "linkDistance": 428,
-                  "scale": 0.04231589832635047,
+                  "scale": 0.07431470243658037,
                   "close": false
                 }
               }
@@ -154,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-28.md"
+              }
             }
           },
           {
@@ -228,17 +237,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "a0b0267bdc8e1957",
+  "active": "e65dfbe364e03466",
   "lastOpenFiles": [
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Principio de Mediocridad.md",
-    "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
-    "40-49 Ciencias/40 Matematicas/Funciones.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-26.md",
-    "40-49 Ciencias/40 Matematicas/Combinacion de Funciones.md",
-    "00-09 PKM/04 Sources/Books/{ The Joy of X.md",
-    "40-49 Ciencias/40 Matematicas/40.08 Matematica Popular/Los Negativos y sus Analogias.md",
-    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
-    "40-49 Ciencias/40 Matematicas/40.08 Matematica Popular/Grupos de Rocas como Representacion Numerica.md",
-    "40-49 Ciencias/40 Matematicas/Sucesiones y Series.md"
+    "70-79 Finas Artes/70 Arte.md",
+    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-27.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W39.md",
+    "00-09 PKM/04 Sources/Books/{ This Will Make You Smarter.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Universo sin Proposito.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Barco de Teseo.md",
+    "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
+    "40-49 Ciencias/41 CS/Memoria de Almacenamiento.md",
+    "40-49 Ciencias/41 CS/41.00 Ciencias de la Computacion MOC.md"
   ]
 }

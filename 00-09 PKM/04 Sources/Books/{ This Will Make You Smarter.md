@@ -21,6 +21,8 @@ finished::
 ## Notas
 - [[Futuro Lejano del Universo]]
 - [[La Vida Inteligente es Algo Unico]]
+- [[Principio de Mediocridad]]
+- [[Universo sin Proposito]]
 
 ## Contexto
 Colección de ensayos hechos por multiples científicos respondiendo a la pregunta ¿Que concepto científico mejoraría las herramientas cognitivas de cualquiera?

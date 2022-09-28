@@ -5,6 +5,7 @@
   "alphaSortAsc": true,
   "altLinkFields": [],
   "CSVPaths": "",
+  "createIndexIndent": "  ",
   "dateFormat": "YYYY-MM-DD",
   "dateNoteFormat": "yyyy-MM-dd",
   "dateNoteField": "next",
@@ -12,11 +13,8 @@
   "dateNoteAddMonth": "",
   "dateNoteAddYear": "",
   "debugMode": "WARN",
-  "defaultView": true,
   "dendronNoteDelimiter": ".",
   "dendronNoteField": "up",
-  "downViewWrap": false,
-  "dotsColour": "#0f3ae6",
   "dvWaitTime": 5000,
   "enableAlphaSort": true,
   "enableRelationSuggestor": false,
@@ -32,12 +30,11 @@
     "child"
   ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
-  "gridDots": false,
-  "gridHeatmap": false,
-  "heatmapColour": " #FF1690",
+  "gridDefaultDepth": 25,
   "hierarchyNotes": [
     ""
   ],
+  "hierarchyNoteIsParent": false,
   "HNUpField": "",
   "indexNotes": [
     ""
@@ -49,10 +46,8 @@
   "refreshOnNoteChange": false,
   "useAllMetadata": true,
   "openMatrixOnLoad": true,
-  "openStatsOnLoad": true,
   "openDuckOnLoad": false,
   "openDownOnLoad": true,
-  "overflowMLView": true,
   "parseJugglLinksWithoutJuggl": false,
   "showNameOrType": true,
   "showRelationType": true,
@@ -89,7 +84,7 @@
     "down",
     "child"
   ],
-  "showAll": false,
+  "showAll": "Shortest",
   "noPathMessage": "This note has no real or implied parents",
   "tagNoteField": "",
   "threadIntoNewPane": false,
@@ -145,5 +140,13 @@
     "cousinsIsSibling": false
   },
   "refreshOnNoteSave": false,
-  "showUpInJuggl": false
+  "showUpInJuggl": false,
+  "defaultView": true,
+  "downViewWrap": false,
+  "dotsColour": "#0f3ae6",
+  "gridDots": false,
+  "gridHeatmap": false,
+  "heatmapColour": " #FF1690",
+  "openStatsOnLoad": true,
+  "overflowMLView": true
 }

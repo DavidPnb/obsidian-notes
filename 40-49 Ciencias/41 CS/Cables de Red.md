@@ -6,7 +6,7 @@ up:: [[Networking]]
 Links: 
 # Cables de Red
 ## Cables de Disco Duro
-Conectan a la placa madre con el almacenamiento principal ([[Memoria ROM]])
+Conectan a la placa madre con el almacenamiento principal ([[Memoria de Almacenamiento]])
 
 - SATA
 	- Es de ultima generación y transmite datos en alto velocidad

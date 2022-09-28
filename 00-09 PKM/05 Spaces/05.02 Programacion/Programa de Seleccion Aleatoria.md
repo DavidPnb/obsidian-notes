@@ -5,17 +5,24 @@ aliases:
 
 ---
 
-## 🚀 Proyecto -> Programa de Seleccion Aleatoria
-
-
-
-## 🧾 Descripción
-
+# 🚀 Proyecto -> Programa de Seleccion Aleatoria
 
 
 ## 📢 Información
 
+created::  27-09-2022 09:24
 
+up::
+
+deadline::
+
+hibernating::  27-09-2022 09:24
+
+completion date expected::
+
+completed::
+
+tags:: #on/CS 
 
 ## 🎯 Objectivo
 

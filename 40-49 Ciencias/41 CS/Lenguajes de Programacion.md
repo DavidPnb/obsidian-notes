@@ -96,4 +96,7 @@ Los **entornos de desarrollo integrados** son herramientas diseñadas para facil
 1. **Editor de Texto** - Similar a los editores de texto plano, pero tambien suele incluir **autocompletado** y **syntax highlightning**
 2. **Shell** - Permite interactuar con el codigo que escribimos
 3. **Debugger** - Ayuda a detectar **bugs** y diagnosticar problemas en el codigo
+
+## Recursión
+Las funciones recursivas son funciones que se llaman a si mismas dentro de su codigo. Este proceso es similar a como funciona la recursión en las matemáticas. Para utilizar la recursión se divide un problema en problemas cada vez más simples hasta que se llega al caso más simple, que puede ser resuelto directamente. La recursión es comúnmente vista como una alternativa a la iteración que se ve en los bucles, en la que se sacrifica tiempo de computo por legibilidad para el programador.
 ___
