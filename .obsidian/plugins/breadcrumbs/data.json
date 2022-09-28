@@ -133,7 +133,7 @@
   "impliedRelations": {
     "siblingIdentity": false,
     "sameParentIsSibling": true,
-    "siblingsSiblingIsSibling": false,
+    "siblingsSiblingIsSibling": true,
     "siblingsParentIsParent": false,
     "parentsSiblingsIsParents": false,
     "parentsParentsIsParent": false,

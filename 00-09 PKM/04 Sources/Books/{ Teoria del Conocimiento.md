@@ -52,6 +52,7 @@ finished::
 	- [[Proyecto Cientifico Moderno]]
 	- [[Paradigma Cientifico Actual]]
 	- [[Auge del Paradigma Positivista]]
+	- 
 - **El Aporte de la Psicologia**
 - **El Paradigma de la Complejidad**
 - **El Conocimiento Dialogico-Convivial desde America Latina**
