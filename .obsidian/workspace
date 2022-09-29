@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-28.md",
+            "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-28.md",
+                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-28.md",
+                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-09-28.md"
+                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "55ae00dec96e9ab6",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ The Joy of X.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-28.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Insultos y Mensajes de Odio.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Objetos Inexistentes e Imaginarios.md",
     "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
     "30-39 Lenguajes/30 Linguistica/Implicacion.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-28.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W39.md",
     "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
-    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Estoicismo.md",
-    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Origen del Estoicismo.md"
+    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Estoicismo.md"
   ]
 }
