@@ -17,7 +17,7 @@ started:: 2022-09-28 19:42
 finished::
 
 ## 🔍 Como lo Descubri
-1st Bookclub [Obsidian Members Group]()
+1st Bookclub OMG
 
 ## 📚 Libros Relacionados
 
