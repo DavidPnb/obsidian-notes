@@ -14,4 +14,5 @@ Links:
 	- Making Comics by Scott McCloud
 	- Graphic Storytelling and Visual Narrative by Will Eisner
 	- Expressive Anatomy for Comics and Narrative by Will Eisner
+	- DC Comics Guide to Coloring and Lettering by Mark Chiarello
 ___

@@ -6,7 +6,7 @@ created: 2022-09-29 11:31
 ## Información
 tags:: #source/book📚 
 
-writer:: [[]]
+writer:: [[Timothy Gowers]]
 
 status:: To Do
 
@@ -35,7 +35,7 @@ finished::
 ### Influencia de las Matemáticas
 
 ## Contexto
-Libro de matemáticas escrito por un ganador del premio Fields que busca dar una introducción a los temas más importantes en la matemática moderna.
+Libro de matemáticas editado por un ganador del premio Fields que busca dar una introducción a los temas más importantes en la matemática moderna.
 
 ## Anexos
 
