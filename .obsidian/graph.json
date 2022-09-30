@@ -1,10 +1,10 @@
 {
-  "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "collapse-filter": true,
+  "search": "-path:\"00-09 PKM/00 Atlas\"",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:\"40-49 Ciencias\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431413
+      }
     }
   ],
   "collapse-display": false,
@@ -28,10 +35,10 @@
   "nodeSizeMultiplier": 1.13070620714222,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.663846153846154,
-  "repelStrength": 15.2461538461538,
-  "linkStrength": 0.404221212930804,
-  "linkDistance": 169,
-  "scale": 0.40252075423479244,
+  "centerStrength": 0.601233818770227,
+  "repelStrength": 20,
+  "linkStrength": 0.659486245954693,
+  "linkDistance": 465,
+  "scale": 0.042315898326350423,
   "close": false
 }
