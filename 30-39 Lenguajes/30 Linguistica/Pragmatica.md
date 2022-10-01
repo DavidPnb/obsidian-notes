@@ -44,4 +44,8 @@ La **cara negativa** de una persona representa su necesidad de independencia e i
 - [ ] 🔽 ¿Que significa la frase "Un contexto es una construcción psicologica" (Sperber & Wilson, 1995)? 
 - [ ] 🔽 ¿Que es la **proyección deíctica**
 - [ ] 🔽 ¿Que son los **verbos performativos**?
+
+## Proyectos
+1. [[Pragmatica P A]]
+2. [[Pragmatica P B]]
 ___

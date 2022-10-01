@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-01.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W39.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-01.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W39.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-01.md"
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W39.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "0feb764a4e356b57",
   "lastOpenFiles": [
-    "30-39 Lenguajes/30 Linguistica/30.07 Semantica.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-01.md",
     "30-39 Lenguajes/30 Linguistica/Pragmatica.md",
+    "30-39 Lenguajes/30 Linguistica/Pragmatica P A.md",
+    "30-39 Lenguajes/30 Linguistica/Pragmatica P B.md",
+    "30-39 Lenguajes/30 Linguistica/30.07 Semantica.md",
     "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
     "100-109 Historia y Relacionados/101 Geografia/101.00 Geografia MOC.md",
     "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md",
     "30-39 Lenguajes/30 Linguistica/30.04 Morfologia.md",
-    "30-39 Lenguajes/30 Linguistica/Implicacion.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-01.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-09-30.md",
-    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md"
+    "30-39 Lenguajes/30 Linguistica/Implicacion.md"
   ]
 }
