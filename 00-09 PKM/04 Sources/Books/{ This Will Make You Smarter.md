@@ -23,10 +23,12 @@ finished::
 - [[La Vida Inteligente es Algo Unico]]
 - [[Principio de Mediocridad]]
 - [[Universo sin Proposito]]
+- [[Principio de Copernico]]
 
 ## Contexto
-Colección de ensayos hechos por multiples científicos respondiendo a la pregunta ¿Que concepto científico mejoraría las herramientas cognitivas de cualquiera?
+Colección de ensayos hechos por multiples científicos respondiendo a la pregunta ¿Que concepto científico mejoraría las herramientas cognitivas de cualquier persona?
 
 ## Comentarios
+- He encontrado que el propio carácter de este trabajo es lo que resulta en su mayor defecto. Por ser una colección de muchos ensayos dirigidos a personas sin formación previa, acaba siendo extremadamente superficial en todos los temas que los participantes intentan tratar
 ___
 

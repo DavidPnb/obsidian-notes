@@ -29,7 +29,7 @@ Son tipos de moleculas que los organismos necesitan para llevar a cabo sus proce
 		- Colesterol - Junto con los fosfolípidos componen las membranas celulares y al ser descompuestos forman hormonas
 			- Testosterona - Hormona sexual masculina
 			- Estradiol - Hormona sexual femenina
-- **Proteinas** - Son los compuestos organicos más complicados en la Tierra. Estan formados por **aminoacidos**, que contienen [[Carbono]], **Hidrogeno** y **Nitrogeno**.
+- [[Proteinas]] - Son los compuestos organicos más complicados en la Tierra. Estan formados por **aminoacidos**, que contienen [[Carbono]], **Hidrogeno** y **Nitrogeno**.
 	- Enzimas - Regulan procesos químicos y estan involucradas en la digestión
 	- Anticuerpos - Se combinan con sustancias que el cuerpo considera extrañas y son parte importante del sistema inmune
 	- Endorfinas - Hormonas con efecto analgésico
