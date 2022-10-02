@@ -2,15 +2,18 @@
 created: ["{{date}} {{time}}"]
 ---
 
-# ❗❓ Información
+# {{title}}
+## ❗❓ Información
 
 started:: {{date}} {{time}}
 
 finished::
 
-speaker::
+instructor::
 
-tags::
+tags:: #source/course🏛 
+
+subject::
 
 ---
 

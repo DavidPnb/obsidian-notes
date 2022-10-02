@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0feb764a4e356b57",
+        "id": "d000dec64b310220",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-01.md",
+            "file": "00-09 PKM/04 Sources/Courses/% Mindshift.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-01.md",
+                "file": "00-09 PKM/04 Sources/Courses/% Mindshift.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-01.md",
+                "file": "00-09 PKM/04 Sources/Courses/% Mindshift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-01.md"
+                "file": "00-09 PKM/04 Sources/Courses/% Mindshift.md"
               }
             }
           },
@@ -237,17 +237,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "0feb764a4e356b57",
+  "active": "d000dec64b310220",
   "lastOpenFiles": [
-    "70-79 Finas Artes/70 Arte.md",
+    "00-09 PKM/04 Sources/Courses/Obsidian Flight School.md",
+    "00-09 PKM/04 Sources/Courses/Algebra Elementary to Advanced.md",
+    "00-09 PKM/03 Extras/Templates/Course Note Template.md",
+    "00-09 PKM/03 Extras/Templates/Book Note Template.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-02.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-01.md",
+    "70-79 Finas Artes/70 Arte.md",
     "30-39 Lenguajes/30 Linguistica/30.06 Sintaxis.md",
     "30-39 Lenguajes/30 Linguistica/30.04 Morfologia.md",
-    "30-39 Lenguajes/30 Linguistica/30.02 Fonologia.md",
-    "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Descripcion Fonetica de Patrones Regulares de Sonido en Expresiones en Ingles.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Señales Visuales para Reconocer Sonidos de Vocales.md",
-    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-    "30-39 Lenguajes/31 Español/Determinantes en Español.md"
+    "30-39 Lenguajes/30 Linguistica/30.02 Fonologia.md"
   ]
 }
