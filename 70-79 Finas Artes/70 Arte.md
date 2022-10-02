@@ -16,4 +16,5 @@ Links:
 	- Expressive Anatomy for Comics and Narrative by Will Eisner
 	- DC Comics Guide to Coloring and Lettering by Mark Chiarello
 	- Faster than a Speeding Bullet by Stephen Weiner
+	- The Visual Language of Comics by Neil Cohn
 ___
