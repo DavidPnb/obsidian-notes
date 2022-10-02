@@ -4,7 +4,7 @@ created: 2022-09-24 12:19
 tags:: #Mathematics 
 up:: [[Funciones]]
 # Funciones Racionales
-Las funciones racionales tienen la forma $R(x)=\frac{P(x)}{Q(x)}$ , donde $P(x), Q(x)$ son [[Funciones Polinomicas]] y $Q(x) \neq 0$ . El dominio de $R(x)$ es la intersección de los dominios de $P(x)$ y $Q(x)$.
+Las funciones racionales tienen la forma $R(x)=\frac{P(x)}{Q(x)}$ , donde $P(x), Q(x)$ son [[Funciones Polinomicas]] y $Q(x) \neq 0$ . El dominio de $R(x)$ es la intersección de los dominios de $P(x)$ y $Q(x)$. Investigaciones científicas indican que curvas asintóticas pueden modelar el desarrollo de habilidades, la [[Memoria]] y la formación de hábitos; [[Habit Loop]] [1](https://www.researchgate.net/publication/230576970_Promoting_habit_formation).
 
 ## Asíntotas
 Las Asíntotas son [[Rectas en el Plano]] a las que la gráfica de la función se acerca pero nunca toca.

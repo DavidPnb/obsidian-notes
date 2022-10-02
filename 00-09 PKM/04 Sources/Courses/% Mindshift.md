@@ -18,7 +18,7 @@ subject:: [[10 Aprendizaje y Educacion MOC]]
 ---
 
 ## ❗ Tema
-Enseña herramientas para el aprendizaje con un enfoque en el desarrollo profesional.
+Enseña herramientas para el aprendizaje con un enfoque en el desarrollo profesional. Este enfatiza que podemos **Cambiar nuestra mente**, ya que nuestras aptitudes actuales no necesariamente nos indican en que aspectos tenemos potencial para mejorar.
 
 ## 📦 Recursos
 

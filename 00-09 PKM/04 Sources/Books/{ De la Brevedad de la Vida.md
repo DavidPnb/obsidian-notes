@@ -6,7 +6,7 @@ created: 2022-08-31 09:52
 ## Información
 tags:: #source/book📚 
 writer:: [[Seneca]]
-status:: Done
+status:: Synthesizing
 subject:: [[Estoicismo]]
 started:: 2022-08-31 09:52
 finished:: 2022-08-31 09:52

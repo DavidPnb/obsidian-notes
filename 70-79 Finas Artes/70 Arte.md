@@ -17,4 +17,5 @@ Links:
 	- DC Comics Guide to Coloring and Lettering by Mark Chiarello
 	- Faster than a Speeding Bullet by Stephen Weiner
 	- The Visual Language of Comics by Neil Cohn
+	- Perspective for Comic Book Artist by David Chelsea
 ___
