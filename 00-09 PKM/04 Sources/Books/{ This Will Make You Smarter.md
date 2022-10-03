@@ -24,6 +24,7 @@ finished::
 - [[Principio de Mediocridad]]
 - [[Universo sin Proposito]]
 - [[Principio de Copernico]]
+- [[Promover un Estilo de Vida Cientifico]]
 
 ## Contexto
 Colección de ensayos hechos por multiples científicos respondiendo a la pregunta ¿Que concepto científico mejoraría las herramientas cognitivas de cualquier persona?
