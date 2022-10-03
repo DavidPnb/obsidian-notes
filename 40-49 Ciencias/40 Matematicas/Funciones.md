@@ -35,4 +35,7 @@ Son funciones que estan definidas por diferentes formulas en distintas partes de
 
 ## Combinación de Funciones
 [[Combinacion de Funciones]]
+
+## Funciones Inyectivas
+Una función es **inyectiva** si y solo si $f(x_{1})=f(x_{2})$ únicamente cuando $x_{1}=x_{2}$ .
 ___

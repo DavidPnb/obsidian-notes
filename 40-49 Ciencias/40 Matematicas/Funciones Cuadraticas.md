@@ -4,7 +4,7 @@ created: 2022-09-24 19:34
 tags:: #Mathematics 
 up:: [[Funciones]]
 # Funciones Cuadráticas
-Son funciones de la forma $ax^2+bx+c$ , donde $a,b,c$ son constantes y $a \neq 0$ .
+Son funciones de la forma $ax^2+bx+c$ , donde $a,b,c$ son constantes y $a \neq 0$ . Esta función no es inyectiva. Estas suelen ser usadas para modelar parábolas en mecánica clasica y para representar el area de una superficie.
 
 ## Gráfica
 La gráfica de las funciones cuadráticas forma una parábola, que es una de las [[Secciones Conicas]]. Esta parábola se abre hacia arriba si $a$ es positivo y hacia abajo si $a$ es negativo. El punto en la mitad de la parábola es el **vértice**, que es el punto más bajo si la parábola abre  hacia arriba y es el punto más alto si la parábola abre hacia abajo.
