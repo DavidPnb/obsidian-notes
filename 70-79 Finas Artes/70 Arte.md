@@ -18,4 +18,6 @@ Links:
 	- Faster than a Speeding Bullet by Stephen Weiner
 	- The Visual Language of Comics by Neil Cohn
 	- Perspective for Comic Book Artist by David Chelsea
+- **Animación**
+	- The Illusion of Life by Ollie Johnston
 ___

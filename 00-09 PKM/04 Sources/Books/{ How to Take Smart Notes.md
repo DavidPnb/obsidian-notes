@@ -25,6 +25,7 @@ finished::
 
 ## Notas
 ### Todo lo Que Necesitas Saber
+1. **Las Soluciones Buenas son Simples – e Inesperadas** - Dice que debemos aspirar a un sistema simple y efectivo como GTD, pero con la versatilidad necesaria para la escritura.  Este sistema permitira que nuestra mente no se llene de tareas por hacer y que en lugar de eso se enfoque en lo más importante: escribir. El hecho de que el sistema sea simple nos permite empezar a poner complejidad en el contenido, que es donde más importa
 
 ## Puntos Clave
 

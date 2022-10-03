@@ -11,7 +11,7 @@ finished::
 
 instructor:: [[Barbara Oakley]], [[Terrence Sejnowski]]
 
-tags:: #source/course🏛 
+tags:: #source/course🏛
 
 subject:: [[10 Aprendizaje y Educacion MOC]]
 
@@ -33,3 +33,7 @@ Enseña herramientas para el aprendizaje con un enfoque en el desarrollo profesi
 
 
 ## Notas
+### El Cambio es Posible
+- El [[Active Recall]] no solo debe ser practicado directamente por el estudiante, sino que los profesores tambien se benefician al incorporarlo en sus clases. Esto tambien vuelve a la clase más entretenida y evita que el estudiante pierda [[Motivacion]]
+- El conocimiento de un area de conocimiento puede ser transferible a otra area aparentemente no relacionada, lo qye puede darnos una mejor perspectiva con respecto a la nueva información que nos encontremos
+- [[Mastery Learning]]
