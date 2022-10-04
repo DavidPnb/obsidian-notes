@@ -20,4 +20,5 @@ Links:
 	- Perspective for Comic Book Artist by David Chelsea
 - **Animación**
 	- The Illusion of Life by Ollie Johnston
+	- How to Make Animated Films by Tony White
 ___

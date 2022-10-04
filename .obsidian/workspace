@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W39.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-03.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W39.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W39.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-03.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "69d4721ea01ebfd2",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
+    "00-09 PKM/07 Inbox/+ Unsorted/Zettelkasten.md",
+    "70-79 Finas Artes/70 Arte.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-03.md",
     "00-09 PKM/04 Sources/Books/{ This Will Make You Smarter.md",
     "00-09 PKM/04 Sources/Books/Promover un Estilo de Vida Cientifico.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-03.md",
     "40-49 Ciencias/40 Matematicas/Funciones Cuadraticas.md",
     "40-49 Ciencias/40 Matematicas/Funciones Exponenciales.md",
     "40-49 Ciencias/40 Matematicas/Funciones Lineales.md",
-    "40-49 Ciencias/40 Matematicas/Funciones.md",
-    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
-    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-02.md"
+    "40-49 Ciencias/40 Matematicas/Funciones.md"
   ]
 }
