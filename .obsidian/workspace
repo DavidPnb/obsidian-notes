@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-05.md",
+            "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.02 Estetica.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-05.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.02 Estetica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-05.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.02 Estetica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-05.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.02 Estetica.md"
               }
             }
           },
@@ -240,8 +240,8 @@
   "active": "69d4721ea01ebfd2",
   "lastOpenFiles": [
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Apreciacion Estetica.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-05.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-04.md",
     "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
     "00-09 PKM/04 Sources/Books/{ This Will Make You Smarter.md",

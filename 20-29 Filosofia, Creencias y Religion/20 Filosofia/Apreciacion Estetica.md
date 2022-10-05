@@ -3,7 +3,7 @@ created: 2022-10-05 12:28
 ---
 tags:: #on/philosophy 
 up:: [[20.02 Estetica|Estetica]]
-# Apreciacion Estetica
+# Apreciación Estética
 La **apreciación estética** consiste en recibir sensaciones placenteras provienentes de éstimulos sensoriales, de esta definición se puede concluir que el arte debe evocar sensaciones a la audiencia. 
 
 En este sentido, el arte puede interpretarse como algo que depende completamente de quien lo percibe, pero tambien se suele afirmar que el arte depende de las emociones que el artista quiere transmitir. La belleza natural tambien puede ser considerada arte, por lo que la definición de arte puede llegar a ser difusa.
