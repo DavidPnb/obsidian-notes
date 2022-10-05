@@ -21,4 +21,6 @@ Links:
 - **Animación**
 	- The Illusion of Life by Ollie Johnston
 	- How to Make Animated Films by Tony White
+- **Filmación**
+	- Grammar of the Film Language by Daniel Arijon
 ___
