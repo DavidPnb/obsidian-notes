@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/07 Inbox/+ Unsorted/Zettelkasten.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-04.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/07 Inbox/+ Unsorted/Zettelkasten.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/07 Inbox/+ Unsorted/Zettelkasten.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/07 Inbox/+ Unsorted/Zettelkasten.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-04.md"
               }
             }
           },
