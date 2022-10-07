@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+            "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -101,7 +101,7 @@
                   "repelStrength": 19.1267605633803,
                   "linkStrength": 0.595618153364632,
                   "linkDistance": 428,
-                  "scale": 0.04231589832635053,
+                  "scale": 0.07431470243658037,
                   "close": false
                 }
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md"
+                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "69d4721ea01ebfd2",
   "lastOpenFiles": [
+    "40-49 Ciencias/44 Biologia/Enlaces No Covalentes.md",
+    "40-49 Ciencias/43 Quimica/Agua.md",
+    "40-49 Ciencias/44 Biologia/Enlaces Covalentes.md",
+    "70-79 Finas Artes/70 Arte y Diseño.md",
+    "40-49 Ciencias/43 Quimica/Carbono.md",
+    "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-07.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-06.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-05.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.02 Estetica.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Apreciacion Estetica.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-04.md",
-    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
-    "00-09 PKM/04 Sources/Books/{ This Will Make You Smarter.md",
-    "70-79 Finas Artes/70 Arte.md",
-    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md"
+    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-05.md"
   ]
 }

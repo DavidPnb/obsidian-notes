@@ -4,7 +4,7 @@ created: 2022-08-17 21:34
 tags:: #atlas/MOC🗺 
 up::
 Links: 
-# Arte
+# Arte y Diseño
 ## Recursos
 ### Libros
 - Steal Like an Artist Trilogy by Austin Kleon
@@ -23,4 +23,6 @@ Links:
 	- How to Make Animated Films by Tony White
 - **Filmación**
 	- Grammar of the Film Language by Daniel Arijon
+- **Diseño de Videojuegos**
+	- On Game Design by Chris Crawford
 ___
