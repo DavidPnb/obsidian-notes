@@ -23,6 +23,14 @@ Links:
 	- How to Make Animated Films by Tony White
 - **Filmación**
 	- Grammar of the Film Language by Daniel Arijon
-- **Diseño de Videojuegos**
+- **Diseño de Juegos**
 	- On Game Design by Chris Crawford
+	- How to Do Things with Videogames by Ian Bogost
+	- Homo Ludens by Johan Huizinga
+- **Diseño Gráfico**
+	- Non-Designer's Design Book by Robin Williams
+- **Tipografía y Caligrafía**
+	- [Practical Typography](https://practicaltypography.com/)
+- **Diseño Web**
+	- Don't Make me Think by Steve Krug
 ___

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
+            "file": "70-79 Finas Artes/70 Arte y Diseño.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
+                "file": "70-79 Finas Artes/70 Arte y Diseño.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
+                "file": "70-79 Finas Artes/70 Arte y Diseño.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md"
+                "file": "70-79 Finas Artes/70 Arte y Diseño.md"
               }
             }
           },
@@ -239,6 +239,7 @@
   },
   "active": "69d4721ea01ebfd2",
   "lastOpenFiles": [
+    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
     "40-49 Ciencias/44 Biologia/Enlaces No Covalentes.md",
     "40-49 Ciencias/43 Quimica/Agua.md",
     "40-49 Ciencias/44 Biologia/Enlaces Covalentes.md",
@@ -247,7 +248,6 @@
     "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-07.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-06.md",
-    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-05.md"
+    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md"
   ]
 }
