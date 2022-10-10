@@ -1,5 +1,5 @@
 tags:: #Mathematics
-up:: [[Exponenciacion]]
+up:: [[Exponentes]]
 Links: 
 # Notación Científica
 Es una manera de simplificar la representacion de numeros muy grandes o muy pequeños usando potencias de diez.

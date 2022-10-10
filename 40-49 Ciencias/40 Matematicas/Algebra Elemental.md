@@ -20,7 +20,7 @@ Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principal
 [[Numeros Reales]]
 
 ### Exponentes y Potencias
-[[Exponenciacion]]
+[[Exponentes]]
 
 ### Operaciones con Fracciones
 [[Operaciones con Fracciones]]
@@ -40,7 +40,7 @@ Al igual que en la [[Aritmetica]], el algebra tiene cuatro operaciones principal
 [[Fracciones Algebraicas]]
 
 ## Exponentes
-[[Exponenciacion]]
+[[Exponentes]]
 
 ## Raices
 [[Raices]]
@@ -93,4 +93,7 @@ Una ecuación radical es aquella que incluye una o más incognitas dentro de un 
 
 ## Sucesiones y Series
 [[Sucesiones y Series]]
+
+## Logaritmos
+[[Logaritmos]]
 ___

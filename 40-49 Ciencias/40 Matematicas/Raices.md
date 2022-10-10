@@ -8,7 +8,7 @@ tags:: #Mathematics
 up:: [[Aritmetica]]
 Links:
 # Raices
-Un radical es una expresión de la forma $\sqrt[n]{a}$, que denota la raiz enesima principal de $a$; [[Exponenciacion]]. El entero positivo $n$ es el **indice**, mientras que $a$ es el **radicando**. El indice se omite si $n = 2$.
+Un radical es una expresión de la forma $\sqrt[n]{a}$, que denota la raiz enesima principal de $a$; [[Exponentes]]. El entero positivo $n$ es el **indice**, mientras que $a$ es el **radicando**. El indice se omite si $n = 2$.
 
 Para valores pares de n, los números positivos también tienen una raíz enésima negativa, mientras que los números negativos no tienen una raíz enésima real.
 

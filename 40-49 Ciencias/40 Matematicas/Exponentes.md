@@ -6,7 +6,7 @@ created: 2022-04-06 19:22
 tags:: #Mathematics 
 up:: [[Aritmetica]]
 Links: 
-# Exponenciacion
+# Exponentes
 ## Exponente Entero Positivo
 Si $n$ es un entero positivo, $a^n$ es el producto de $n$ factores, cada uno con valor $a$.
 

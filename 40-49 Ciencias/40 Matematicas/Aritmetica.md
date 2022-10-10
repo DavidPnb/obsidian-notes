@@ -24,7 +24,7 @@ Es una rama de las [[40.00 Matematicas MOC]] que consiste en el estudio de los [
 ### Otras Operaciones
 - [[Raices]]
 - [[Fracciones]]
-- [[Exponenciacion]]
+- [[Exponentes]]
 - [[Logaritmos]]
 
 ### Orden de las Operaciones
