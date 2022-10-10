@@ -15,7 +15,7 @@ Son los lípidos más comunes.
 	- Omega 3 - Son grasas esenciales que no pueden ser producidas por nuestro cuerpo, por lo que necesitamos obtenerlas en nuestra comida. Esta presente en el aceite de pescado
 
 ## Fosfolípidos
-Estan formados por tres moleculas de **ácido graso** y un **grupo fosfato**. Componen las membranas de nuestras celulas, ya que tienen extremo polar y otro extremo no polar. Esto les permite configurarse de tal forma que mantienen el líquido del interior separado del líquido del exterior.
+Estan formados por tres moleculas de **ácido graso** y un **grupo fosfato**. Componen las membranas de nuestras celulas, ya que tienen extremo polar y otro extremo no polar. Esto les permite configurarse de tal forma que mantienen el líquido del interior separado del líquido del exterior, formando una **bicapa lípidica**.
 
 ## Esteroides
 Contienen cuatro anillos de átomos de [[Carbono]]
