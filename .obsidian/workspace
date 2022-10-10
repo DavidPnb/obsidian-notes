@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-10.md",
+            "file": "40-49 Ciencias/43 Quimica/Lipidos.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-10.md",
+                "file": "40-49 Ciencias/43 Quimica/Lipidos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-10.md",
+                "file": "40-49 Ciencias/43 Quimica/Lipidos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-10.md"
+                "file": "40-49 Ciencias/43 Quimica/Lipidos.md"
               }
             }
           },
@@ -239,15 +239,15 @@
   },
   "active": "01d36feae9f04f5e",
   "lastOpenFiles": [
+    "40-49 Ciencias/43 Quimica/Moleculas Biologicas.md",
+    "40-49 Ciencias/43 Quimica/Agua.md",
+    "40-49 Ciencias/43 Quimica/Enlaces No Covalentes.md",
+    "40-49 Ciencias/43 Quimica/Enlaces Covalentes.md",
+    "40-49 Ciencias/43 Quimica/Lipidos.md",
+    "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-10.md",
     "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
     "40-49 Ciencias/40 Matematicas/Logaritmos.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-10.md",
-    "40-49 Ciencias/40 Matematicas/Exponentes.md",
-    "00-09 PKM/09 Workflow/Horario.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-09.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W40.md",
-    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
-    "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/La Vida es Larga si Sabemos como Vivirla.md"
+    "40-49 Ciencias/40 Matematicas/Exponentes.md"
   ]
 }
