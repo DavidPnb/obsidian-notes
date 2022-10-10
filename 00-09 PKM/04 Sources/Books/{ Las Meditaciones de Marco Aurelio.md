@@ -6,7 +6,7 @@ created: 2022-07-13 08:46
 ## Información
 tags:: #source/book📚 
 writer:: [[Marco Aurelio]]
-status:: Synthesizing
+status:: Done
 subject:: [[Estoicismo]]
 started:: 2022-06-22 12:55
 finished:: 2022-08-24 17:35
@@ -27,10 +27,10 @@ finished:: 2022-08-24 17:35
 
 ## Notas
 ### Libro 1
-En el primer libro, Marco Aurelio expresa su agradecimiento por todos los familiares y conocidos que lo llevaron a ser como era, que le enseñaron e inspiraron su codigo de conducta y que lo motivaron en el camino de la [[20.00 Filosofia MOC|Filosofia]]. Ademas agradece no haber caido en manos de los sofistas, adivinos y astrologos, y por la salud de sus hijos y esposa; que a pesar que su madre murio cuando era muy joven pudo pasar sus ultimos años con el.
+En el primer libro, Marco Aurelio expresa su agradecimiento por todos los familiares y conocidos que lo llevaron a ser como era, que le enseñaron e inspiraron su codigo de conducta y que lo motivaron en el camino de la [[20.00 Filosofia MOC|Filosofia]]. Ademas agradece no haber caido en manos de los sofistas, adivinos y astrologos, y por la salud de sus hijos y esposa; tambien agradece que a pesar que su madre murio cuando era muy joven pudo pasar sus ultimos años con el.
 
 Este tambien destaca la labor de Emperador de su padre adoptivo. Que era un ejemplo de los valores y principios, un gobernante discreto y prudente aparte de ser una persona sencilla, rindiendo honor a verdaderos filosofos y no a los sofistas y no dudando en pedir y dar consejos libremente.
-(Este demuestra una postura Socratica hacia los sofistas)
+(Este demuestra una postura Socrática hacia los sofistas)
 
 ### Libro 2
 Este habla sobre uno de los conceptos fundamentales del [[Estoicismo]]. En muchas ocasiones no podemos controlar las situaciones y las personas que nos encontramos, pero podemos cambiar la manera como reaccionamos a estas:
@@ -107,7 +107,7 @@ Este habla sobre uno de los conceptos fundamentales del [[Estoicismo]]. En mucha
 
 ## Puntos Clave
 1. Se agradecido, la vida es un proceso de la naturaleza del que tu formas parte
-2. Valora la justicia, la razon, la etica y los buenos valores 
+2. Valora la justicia, la razon, la ética y los buenos valores 
 3. Tu felicidad no depende de las situaciones que enfrentes en tu vida, esta solo depende de tu opinion
 
 ## Contexto

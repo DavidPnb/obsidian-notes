@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "69d4721ea01ebfd2",
+        "id": "01d36feae9f04f5e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -237,17 +237,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "69d4721ea01ebfd2",
+  "active": "01d36feae9f04f5e",
   "lastOpenFiles": [
-    "70-79 Finas Artes/70 Arte y Diseño.md",
-    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
-    "40-49 Ciencias/44 Biologia/Enlaces No Covalentes.md",
-    "40-49 Ciencias/43 Quimica/Agua.md",
-    "40-49 Ciencias/44 Biologia/Enlaces Covalentes.md",
-    "40-49 Ciencias/43 Quimica/Carbono.md",
-    "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-07.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-06.md",
-    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md"
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W40.md",
+    "00-09 PKM/04 Sources/Books/{ Las Meditaciones de Marco Aurelio.md",
+    "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/La Vida es Larga si Sabemos como Vivirla.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/Bookshelf.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-09.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Cause and Effect.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Cassandra.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Some Greek Allusions.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Cabin.md"
   ]
 }
