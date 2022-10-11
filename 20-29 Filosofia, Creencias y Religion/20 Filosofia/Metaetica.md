@@ -25,4 +25,5 @@ Es la creencia de que no existen hechos morales objetivos. Su principal corrient
 ## Teorías Éticas
 Son sistemas que intentan dar respuestas consistentes a las preguntas morales. Estan basados en asunciones que deben ser aceptadas para que se sostenga el resto de la teoría, y principios morales que pueden ser compartidos con otras teorías.
 1. [[Teoria del Mandamiento Divino]]
+2. [[Teoria de la Ley Natural]]
 ___
