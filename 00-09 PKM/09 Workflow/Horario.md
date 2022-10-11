@@ -7,7 +7,7 @@ tags:: #on/PKM #x/meta
 - Outline of College Algebra
 - Introduction to Biology
 ## Martes
-- Telecomunicaciones
+- Proyectos en Python
 - The Joy of X
 - The Miracles of Human Language
 ## Miercoles
@@ -30,5 +30,4 @@ tags:: #on/PKM #x/meta
 - Crash Course CS
 - Crash Course Biology
 - How to Study for Exams
-- Proyectos en Python
 ___
