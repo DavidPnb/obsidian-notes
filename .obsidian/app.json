@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
     "00-09 PKM/03 Extras/Templates/"
-  ]
+  ],
+  "spellcheck": false
 }

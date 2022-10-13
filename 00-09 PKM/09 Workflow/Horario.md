@@ -15,7 +15,7 @@ tags:: #on/PKM #x/meta
 - Mindshift
 ## Jueves
 - Geometry
-- Lenguaje Lumbreras
+- Proyectos de Lenguaje
 ## Viernes
 - ¿Que puede salir mal?
 - MIT 6.00.1x

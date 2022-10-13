@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-09 PKM/09 Workflow/Horario.md",
+            "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-13.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/09 Workflow/Horario.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/09 Workflow/Horario.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/09 Workflow/Horario.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-13.md"
               }
             }
           },
@@ -239,6 +239,7 @@
   },
   "active": "59ee2ceba59d0525",
   "lastOpenFiles": [
+    "00-09 PKM/09 Workflow/Horario.md",
     "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-11.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-10.md",
@@ -247,7 +248,6 @@
     "40-49 Ciencias/40 Matematicas/40.08 Matematica Popular/Grupos de Rocas como Representacion Numerica.md",
     "40-49 Ciencias/40 Matematicas/40.08 Matematica Popular/Naturaleza de los Numeros.md",
     "40-49 Ciencias/40 Matematicas/40.08 Matematica Popular/Intuiciones sobre Aritmetica.md",
-    "00-09 PKM/09 Workflow/Horario.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md"
   ]
 }
