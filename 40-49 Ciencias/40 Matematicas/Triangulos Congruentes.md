@@ -21,4 +21,8 @@ Se dice que dos lados que forman un angulo **incluyen** a ese angulo. De forma s
 > [!postulado]+
 > Si dos angulos y el lado incluido de un triangulo son congruentes a dos angulos y un lado incluido de otro triangulo, entonces los triangulos son congruentes
 
+> [!postulado]+
+> Si dos angulos y un lado no incluido de un triangulo son congruentes a dos angulos y un lado no incluido de otro triangulo, entonces los triangulos son congruentes
+
+
 ___
