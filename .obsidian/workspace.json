@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59ee2ceba59d0525",
+            "id": "66da9bd8be1cbc89",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,6 +18,14 @@
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "997abea9d61637cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -248,17 +256,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "59ee2ceba59d0525",
+  "active": "66da9bd8be1cbc89",
   "lastOpenFiles": [
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Descripcion Fonetica de Patrones Regulares de Sonido en Expresiones en Ingles.md",
+    "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
+    "00-09 PKM/05 Spaces/05.01 Investigacion/Señales Visuales para Reconocer Sonidos de Vocales.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-13.md",
     "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
     "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
     "40-49 Ciencias/40 Matematicas/Triangulos.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-13.md",
     "00-09 PKM/09 Workflow/Horario.md",
-    "70-79 Finas Artes/70 Arte y Diseño.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-12.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-11.md",
-    "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-10.md"
+    "70-79 Finas Artes/70 Arte y Diseño.md"
   ]
 }
