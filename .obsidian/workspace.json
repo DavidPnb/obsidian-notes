@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-13.md",
+                "file": "40-49 Ciencias/44 Biologia/Herencia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,14 +21,20 @@
             }
           },
           {
-            "id": "997abea9d61637cb",
+            "id": "087fd8334808bf19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-13.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -135,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cromo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-13.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-13.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-14.md"
               }
             }
           },
@@ -256,17 +262,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "66da9bd8be1cbc89",
+  "active": "087fd8334808bf19",
   "lastOpenFiles": [
-    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Descripcion Fonetica de Patrones Regulares de Sonido en Expresiones en Ingles.md",
-    "30-39 Lenguajes/30 Linguistica/30.01 Fonetica.md",
-    "00-09 PKM/05 Spaces/05.01 Investigacion/Señales Visuales para Reconocer Sonidos de Vocales.md",
+    "40-49 Ciencias/44 Biologia/Cromosomas.md",
+    "40-49 Ciencias/44 Biologia/Herencia.md",
+    "40-49 Ciencias/44 Biologia/Transcripcion y Translacion del ADN.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-14.md",
+    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
+    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+    "40-49 Ciencias/40 Matematicas/40.08 Matematica Popular/Naturaleza de los Numeros.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-13.md",
-    "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
-    "40-49 Ciencias/40 Matematicas/Triangulos.md",
     "00-09 PKM/09 Workflow/Horario.md",
-    "70-79 Finas Artes/70 Arte y Diseño.md"
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md"
   ]
 }
