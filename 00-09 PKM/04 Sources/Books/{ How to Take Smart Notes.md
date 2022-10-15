@@ -24,9 +24,11 @@ finished::
 ## Citas
 
 ## Notas
-### Todo lo Que Necesitas Saber
+### Todo lo que Necesitas Saber
 1. **Las Soluciones Buenas son Simples – e Inesperadas** - Dice que debemos aspirar a un sistema simple y efectivo como GTD, pero con la versatilidad necesaria para la escritura.  Este sistema permitira que nuestra mente no se llene de tareas por hacer y que en lugar de eso se enfoque en lo más importante: escribir. El hecho de que el sistema sea simple nos permite empezar a poner complejidad en el contenido, que es donde más importa
 2. [[Zettelkasten|Slip-Box]]
+### Todo lo que Necesitas Hacer
+Escribir un ensayo se hace más facil cuando se tiene disponible un borrador con las ideas, argumentos, citas y otros elementos necesarios, porque nos deja solamente con el trabajo de edición. Como tomar notas para externalizar nuestros pensamientos ya es indispensable para el proceso de aprendizaje, se pueden usar estas notas como la base para nuestros futuros trabajos escritos, lo que nos permite tener ya preparado el primer paso del proceso de escritura.
 
 ## Puntos Clave
 
