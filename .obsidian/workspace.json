@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Analisis del Discurso.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +61,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Analisis del Discurso.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-15.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -141,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "principio coop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Analisis del Discurso.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-15.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/Analisis del Discurso.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-15.md"
               }
             }
           },
@@ -262,17 +261,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bed5589eebdba878",
+  "active": "f740972498f58a62",
   "lastOpenFiles": [
-    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
+    "30-39 Lenguajes/30 Linguistica/Analisis del Discurso.md",
+    "30-39 Lenguajes/30 Linguistica/Implicacion.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-15.md",
+    "30-39 Lenguajes/30 Linguistica/30.00 Linguistica MOC.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W41.md",
     "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Concept Expansion.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Complexity (defn).md",
     "00-09 PKM/00 Atlas/00.02 Cards/Commonplace Book.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Collective Intelligence.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Cogito Ergo Sum.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Cobwebs into Cables.md"
+    "00-09 PKM/00 Atlas/00.02 Cards/Collective Intelligence.md"
   ]
 }
