@@ -10,4 +10,6 @@ Posteriormente, los estoicos romanos se enfocaron en como alcanzar la **tranquil
 
 ## Estoicismo Romano
 Los cuatro representantes mas importantes del estoicismo romano fueron [[Marco Aurelio]], [[Seneca]], Epicteto y Musonio Rufo. Entre ellos, Seneca era el mejor escritor, Musonio era más directo y práctico, Epicteto era más analítico y Marco Aurelio tenía los escritos más personales.
+
+
 ___
