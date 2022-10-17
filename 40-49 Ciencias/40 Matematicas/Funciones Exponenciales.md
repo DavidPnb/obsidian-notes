@@ -10,4 +10,11 @@ Las funciones exponenciales son funciones trascendentes, estas no pueden ser rep
 Esta función es conocida por su increible tasa de crecimiento, si derivamos esta función nos damos cuenta que su tasa de cambio es proporcional a la propia función. Existe un valor para la base que hace que la constante de proporcionalidad sea igual a $1$ , y se denota como $e$ . Esto quiere decir que $e^x=dx/dy \;e^x$ , esta es la unica función que es igual a su propia derivada.
 
 Esto es lo que le da tantas aplicaciones al momento de modelar fenomenos con cantidades cuya tasa de cambio es proporcional a la propia cantidad, representando un crecimiento o decaimiento exponencial. Estas aplicaciones se dan en las ciencias naturales y sociales.
+
+## Propiedades
+[[Exponentes]]
+
+- **Dominio**: $\mathbb{R}$
+- **Rango**: $\mathbb{R^{+}}$
+
 ___

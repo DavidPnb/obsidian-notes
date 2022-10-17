@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-17.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-17.md"
               }
             }
           },
@@ -250,6 +250,8 @@
   },
   "active": "1b245aee53a5326c",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Funciones Exponenciales.md",
+    "40-49 Ciencias/40 Matematicas/Exponentes.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-17.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-16.md",
     "00-09 PKM/00 Atlas/00.03 Personal/Diagnostico.md",
@@ -257,8 +259,6 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-15.md",
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Estoicismo.md",
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Origen del Estoicismo.md",
-    "00-09 PKM/07 Inbox/+ Unsorted/Como Crear Nuevos Habitos.md",
-    "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
-    "00-09 PKM/09 Workflow/Horario.md"
+    "00-09 PKM/07 Inbox/+ Unsorted/Como Crear Nuevos Habitos.md"
   ]
 }

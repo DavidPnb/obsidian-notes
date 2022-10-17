@@ -22,7 +22,7 @@ En caso de que $b$ sea negativo, no existe raiz enesima positiva, pero existe ra
 ## Exponente Racional
 Si $m$ y $n$ son enteros positivos se define que $$a^{m/n} = \sqrt[n]{a^m}$$
 
-### Propiedades
+## Propiedades
 $$b^0=1$$
 
 $$b^{m+n}=b^m*b^n$$
