@@ -15,4 +15,5 @@ up:: [[44.00 Biologia]]
 - [[Especies]]
 - [[Desarrollo Animal]]
 - [[Desarrollo Evolutivo]]
+- [[Genetica Poblacional]]
 ___
