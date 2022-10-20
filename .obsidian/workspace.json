@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-17.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-17.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-17.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-17.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-18.md"
               }
             }
           },
@@ -264,15 +264,15 @@
   },
   "active": "e8d631cf740c5408",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-19.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-17.md",
     "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md",
     "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-17.md",
     "40-49 Ciencias/44 Biologia/Taxonomia.md",
     "40-49 Ciencias/44 Biologia/Genetica.md",
     "40-49 Ciencias/44 Biologia/Genetica Poblacional.md",
     "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
     "40-49 Ciencias/43 Quimica/Atomos.md",
-    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
-    "00-09 PKM/00 Atlas/00.03 Personal/Diagnostico.md"
+    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md"
   ]
 }
