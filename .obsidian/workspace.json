@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/03 Extras/Anki/Anki Trigonometria.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-21.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3327e3e819082ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/03 Extras/Anki/Anki Trigonometria.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/03 Extras/Anki/Anki Trigonometria.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/03 Extras/Anki/Anki Trigonometria.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-10-21.md"
               }
             }
           },
@@ -264,17 +277,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d4c2e4b335ae0995",
+  "active": "a3327e3e819082ee",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-21.md",
+    "00-09 PKM/04 Sources/Books/{ This Will Make You Smarter.md",
     "00-09 PKM/03 Extras/Anki/Anki Valor Absoluto de un Numero.md",
     "00-09 PKM/03 Extras/Anki/Anki Trigonometria.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md",
     "00-09 PKM/03 Extras/Anki/Anki Funciones Cuadraticas.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
-    "00-09 PKM/03 Extras/Anki/Trigo.md",
-    "00-09 PKM/03 Extras/Anki/Anki Fonologia.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-21.md"
+    "00-09 PKM/03 Extras/Anki/Trigo.md"
   ]
 }
