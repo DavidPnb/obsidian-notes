@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Simetria.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W42.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Simetria.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W42.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Simetria.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W42.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Simetria.md"
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W42.md"
               }
             }
           },
@@ -266,15 +266,15 @@
   },
   "active": "723871540f2e4b3a",
   "lastOpenFiles": [
-    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-22.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-23.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W42.md",
-    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
-    "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
-    "40-49 Ciencias/40 Matematicas/Simetria.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-21.md",
-    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md"
+    "00-09 PKM/00 Atlas/00.02 Cards/Deploy Spaces with the MAPS folder structure.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Deliberate Practice.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Defining a habit.md",
+    "40-49 Ciencias/40 Matematicas/Decimales.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/In case of a focus emergency.md",
+    "40-49 Ciencias/40 Matematicas/Numeros Enteros.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Datascope (defn).md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Cybertron Theme.md"
   ]
 }
