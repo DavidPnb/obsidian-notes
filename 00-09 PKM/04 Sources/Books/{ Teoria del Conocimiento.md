@@ -21,7 +21,7 @@ finished::
 - [[Tipos de Mentalidad]]
 
 ### Metodo Cientifico
-- [[Metodo Cientifico]]
+- [[00-09 PKM/00 Atlas/00.02 Cards/Metodo Cientifico]]
 
 - [[Diferencias entre Filosofia y Ciencia]]
 

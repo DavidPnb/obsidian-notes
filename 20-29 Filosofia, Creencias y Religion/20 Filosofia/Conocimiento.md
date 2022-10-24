@@ -15,7 +15,7 @@ El conocimiento es, por una parte, el estado de quien conoce o sabe algo, y por 
 
 Las ciencias constituyen uno de los principales tipos de conocimiento. Hay tambien no obstante, muchos tipos de conocimiento que, sin ser cientificos, no dejan de estar bien adaptados a sus propositos como: las artes, tradiciones, el lenguaje o la historia.
 
-[[Metodo Cientifico]]
+[[00-09 PKM/00 Atlas/00.02 Cards/Metodo Cientifico]]
 
 La definicion clasica de saber es la de una creencia verdadera justificada. En el año 1960 Edmund Gettier con sus Casos de Gettier, propuso que esta definicion no aplica para en todos los casos para lo que consideramos como saber.
 
