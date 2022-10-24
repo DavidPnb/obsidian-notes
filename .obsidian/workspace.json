@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "723871540f2e4b3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 PKM/00 Atlas/00.04 People/Marco Aurelio.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/00 Atlas/00.04 People/Marco Aurelio.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/00 Atlas/00.04 People/Marco Aurelio.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/00 Atlas/00.04 People/Marco Aurelio.md"
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md"
               }
             }
           },
@@ -264,13 +250,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "723871540f2e4b3a",
+  "active": "d125d9b7f09f7f5b",
   "lastOpenFiles": [
-    "00-09 PKM/00 Atlas/00.04 People/Seneca.md",
-    "00-09 PKM/00 Atlas/00.04 People/Marco Aurelio.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-23.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W42.md",
+    "00-09 PKM/00 Atlas/00.04 People/Marco Aurelio.md",
+    "00-09 PKM/00 Atlas/00.04 People/Seneca.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Deploy Spaces with the MAPS folder structure.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Deliberate Practice.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Defining a habit.md",
