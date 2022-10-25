@@ -25,6 +25,7 @@ finished::
 1. [[Origenes de la Filosofia]]
 2. [[Origen del Estoicismo]]
 ### Técnicas Psicológicas Estoicas
+1. **Visualización Negativa** - Consiste en imaginar que perdemos las cosas que tenemos en este momento, lo que nos vuelve menos susceptibles a lamentar su eventual pérdida y más agradecidos con nuestra situación actual. Esta tambien evita que nos adaptemos a nuestra situación actual independientemente de las metas que hallamos alcanzado, lo que se conoce como **adaptación hedonista** y puede llevar a una insatisfacción constante
 ### Consejos Estoicos
 ### Estoicismo para Vidas Modernas
 

@@ -4,7 +4,7 @@ created: 2022-06-20 18:40
 tags:: #Mathematics
 up:: [[Aritmetica]]
 # Logaritmos
-Si $b^{x}=N$ donde $N$ es un número positivo y $b$ es un número positivo diferente de $1$ , entonces $x$ es el logaritmo en base $b$ de $N$ y se escribe $\log_{b}{N}=x$ . Los [[Exponentes]] $b^{x}=N$ y los logaritmos $\log_{b}{N}=x$ son equivalentes, por lo que además de leyes de los exponentes existen leyes de los logaritmos.
+Si $b^{x}=N$ donde $N$ es un número positivo y $b$ es un número positivo diferente de $1$ , entonces $x$ es el logaritmo en base $b$ de $N$ y se escribe $\log_{b}{N}=x$ . Los [[Exponentes]] $b^{x}=N$ y los logaritmos $\log_{b}{N}=x$ son equivalentes, por lo que además de leyes de los exponentes existen leyes de los logaritmos. El volumen de un sonido en decibeles y la magnitud de un sismo en escala de Richter se miden de forma logaritmica.
 
 ## Leyes de los Logaritmos
 1. El logaritmo de la multiplicación de dos números es igual a la suma de los logaritmos de los dos números $\log_{b}{MN}=\log_{b}{M}+\log_{b}{N}$
