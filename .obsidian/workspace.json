@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c6637886bd5d5a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-49 Ciencias/Mediciones Cientificas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+                "file": "40-49 Ciencias/Mediciones Cientificas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+                "file": "40-49 Ciencias/Mediciones Cientificas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md"
+                "file": "40-49 Ciencias/Mediciones Cientificas.md"
               }
             }
           },
@@ -264,17 +277,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b1cebf6dc3ac76d9",
+  "active": "3c6637886bd5d5a7",
   "lastOpenFiles": [
+    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-26.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
     "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-25.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-24.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
     "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
-    "40-49 Ciencias/40 Matematicas/Funciones Exponenciales.md",
-    "40-49 Ciencias/40 Matematicas/Logaritmos.md",
-    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
-    "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md"
+    "40-49 Ciencias/40 Matematicas/Funciones Exponenciales.md"
   ]
 }
