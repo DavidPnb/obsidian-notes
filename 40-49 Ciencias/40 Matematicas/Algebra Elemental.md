@@ -96,4 +96,7 @@ Una ecuación radical es aquella que incluye una o más incognitas dentro de un 
 
 ## Logaritmos
 [[Logaritmos]]
+
+## Combinaciones y Permutaciones
+[[Combinatoria]]
 ___

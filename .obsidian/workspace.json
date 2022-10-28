@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md",
+                "file": "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a1ff6a29d6eb9cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-49 Ciencias/40 Matematicas/Combinatoria.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md",
+                "file": "40-49 Ciencias/40 Matematicas/Combinatoria.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md",
+                "file": "40-49 Ciencias/40 Matematicas/Combinatoria.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md"
+                "file": "40-49 Ciencias/40 Matematicas/Combinatoria.md"
               }
             }
           },
@@ -261,17 +274,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "b34cda768b545186",
+  "active": "6a1ff6a29d6eb9cb",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-28.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-27.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md",
     "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-26.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
-    "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md",
-    "40-49 Ciencias/43 Quimica/Materia.md",
-    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
-    "40-49 Ciencias/Mediciones Cientificas.md"
+    "90-99 Ciencias Sociales/90 Antropologia/90.00 Antropologia MOC.md"
   ]
 }
