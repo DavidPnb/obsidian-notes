@@ -28,9 +28,11 @@ Links:
 	- How to Do Things with Videogames by Ian Bogost
 	- Homo Ludens by Johan Huizinga
 - **Diseño Gráfico**
-	- Non-Designer's Design Book by Robin Williams
+	- The Non-Designer's Design Book by Robin Williams
 - **Tipografía y Caligrafía**
 	- [Practical Typography](https://practicaltypography.com/)
 - **Diseño Web**
 	- Don't Make me Think by Steve Krug
+- **Teoría del Color**
+	- Interaction of Color by Josef Albers
 ___
