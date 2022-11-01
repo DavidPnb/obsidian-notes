@@ -35,4 +35,6 @@ Links:
 	- Don't Make me Think by Steve Krug
 - **Teoría del Color**
 	- Interaction of Color by Josef Albers
+- **Historia del Arte**
+	- Meggs' History of Graphic Design by Philip Meggs
 ___
