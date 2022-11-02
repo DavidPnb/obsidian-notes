@@ -19,6 +19,8 @@
     ""
   ],
   "startup_templates": [
+    "",
     ""
-  ]
+  ],
+  "enable_ribbon_icon": true
 }
