@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md"
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md"
               }
             }
           },
@@ -276,15 +276,15 @@
   },
   "active": "bb31fef0a59e9f40",
   "lastOpenFiles": [
-    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
+    "40-49 Ciencias/40 Matematicas/40.05 Geometria.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-02.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-01.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-30.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-10-28.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-27.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-26.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-25.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-18.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-27.md"
   ]
 }
