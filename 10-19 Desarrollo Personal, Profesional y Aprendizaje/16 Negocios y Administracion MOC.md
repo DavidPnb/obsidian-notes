@@ -15,4 +15,5 @@ Links:
 - The Minimalist Entrepreneur - Sahil Lavingia
 - The Millionaire Fastlane - MJ DeMarco
 - Superforecasting - Philip Tetlock
+- Problem Solving 101 - Ken Watanabe
 ___
