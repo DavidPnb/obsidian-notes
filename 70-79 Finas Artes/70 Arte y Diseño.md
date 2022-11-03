@@ -29,6 +29,7 @@ Links:
 	- Homo Ludens by Johan Huizinga
 - **Diseño Gráfico**
 	- The Non-Designer's Design Book by Robin Williams
+	- Universal Principles of Design by William Lidwell
 - **Tipografía y Caligrafía**
 	- [Practical Typography](https://practicaltypography.com/)
 - **Diseño Web**

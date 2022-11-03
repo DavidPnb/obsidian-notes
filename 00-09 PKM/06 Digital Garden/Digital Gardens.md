@@ -1,5 +1,3 @@
--   [karlicoss’ exobrain](https://beepb00p.xyz/exobrain/) on Software and Science
--   [Andy Matuschak’s working notes](https://notes.andymatuschak.org/About_these_notes) on Note-taking and Knowledge Work
 -   [Eleanor’s notes](https://publish.obsidian.md/eleanorkonik) on History and Worldbuilding
 -   [Danny Hatcher](https://notes.dannyhatcher.com/Notes) on Education and Learning
 -   [mnml’s vault](https://publish.obsidian.md/manuel) on Programming, Note-taking and Music
