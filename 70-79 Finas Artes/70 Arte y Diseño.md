@@ -7,6 +7,7 @@ Links:
 # Arte y Diseño
 ## Recursos
 ### Libros
+- Drawing in the Right Side of the Brain by Betty Edwards
 - Steal Like an Artist Trilogy by Austin Kleon
 - **Comics**
 	- Understanding Comics by Scott McCloud
