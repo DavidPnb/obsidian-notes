@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-05.md",
+                "file": "90-99 Ciencias Sociales/91 Ciencias Politicas/91.00 Ciencias Politicas MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-05.md",
+                "file": "90-99 Ciencias Sociales/91 Ciencias Politicas/91.00 Ciencias Politicas MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-05.md",
+                "file": "90-99 Ciencias Sociales/91 Ciencias Politicas/91.00 Ciencias Politicas MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-05.md"
+                "file": "90-99 Ciencias Sociales/91 Ciencias Politicas/91.00 Ciencias Politicas MOC.md"
               }
             }
           },
@@ -276,6 +276,7 @@
   },
   "active": "9ed2d4de1cf5aa1d",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-05.md",
     "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-04.md",
@@ -284,7 +285,6 @@
     "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/14 Comunicacion y Habilidades Sociales MOC.md",
     "90-99 Ciencias Sociales/91 Ciencias Politicas/91.00 Ciencias Politicas MOC.md",
-    "70-79 Finas Artes/70 Arte y Diseño.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-03.md"
+    "70-79 Finas Artes/70 Arte y Diseño.md"
   ]
 }
