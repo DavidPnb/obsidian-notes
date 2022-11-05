@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9ed2d4de1cf5aa1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+                "file": "00-09 PKM/03 Extras/Excalidraw/Triangulos 2022-08-30 11.45.38.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+                "file": "00-09 PKM/03 Extras/Excalidraw/Triangulos 2022-08-30 11.45.38.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md"
+                "file": "00-09 PKM/03 Extras/Excalidraw/Triangulos 2022-08-30 11.45.38.excalidraw.md"
               }
             }
           },
@@ -274,17 +260,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "9ed2d4de1cf5aa1d",
+  "active": "531551c40669c77c",
   "lastOpenFiles": [
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W44.md",
-    "70-79 Finas Artes/70 Arte y Diseño.md",
-    "90-99 Ciencias Sociales/91 Ciencias Politicas/91.00 Ciencias Politicas MOC.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-02.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-01.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-05.md",
-    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-10-31.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-04.md",
-    "00-09 PKM/03 Extras/Excalidraw/QM1B01 2022-11-04 15.56.07.excalidraw.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md"
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Flow Map.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Flow Stoppers.md"
   ]
 }
