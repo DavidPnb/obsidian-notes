@@ -28,7 +28,7 @@ finished::
 1. **Las Soluciones Buenas son Simples – e Inesperadas** - Dice que debemos aspirar a un sistema simple y efectivo como GTD, pero con la versatilidad necesaria para la escritura.  Este sistema permitira que nuestra mente no se llene de tareas por hacer y que en lugar de eso se enfoque en lo más importante: escribir. El hecho de que el sistema sea simple nos permite empezar a poner complejidad en el contenido, que es donde más importa
 2. [[Zettelkasten|Slip-Box]]
 ### Todo lo que Necesitas Hacer
-Escribir un ensayo se hace más facil cuando se tiene disponible un borrador con las ideas, argumentos, citas y otros elementos necesarios, porque nos deja solamente con el trabajo de edición. Como tomar notas para externalizar nuestros pensamientos ya es indispensable para el proceso de aprendizaje, así que se pueden usar estas notas como la base para nuestros futuros trabajos escritos, lo que nos permite tener ya preparado el primer paso del proceso de escritura.
+Escribir un ensayo se hace más facil cuando se tiene disponible un borrador con las ideas, argumentos, citas y otros elementos necesarios, porque nos deja solamente con el trabajo de edición. Como tomar notas para externalizar nuestros pensamientos ya es indispensable para el proceso de aprendizaje, se pueden usar estas notas como la base para nuestros futuros trabajos escritos, lo que nos permite tener ya preparado el primer paso del proceso de escritura.
 
 - **Escribir un Ensayo Paso por Paso**
 	1. Hacer notas provisionales
@@ -46,7 +46,15 @@ Escribir un ensayo se hace más facil cuando se tiene disponible un borrador con
 		1. Usando las ideas en nuestras notas y trasladandolas al contexto de nuestro argumento
 	8. Editar
 
-El sistema nos permite realizar diferentes pasos de distintos ensayos al mismo tiempo lo que nos hace más eficientes al desarrollar diferentes ideas.
+El sistema nos permite realizar diferentes partes de distintos ensayos al mismo tiempo lo que nos hace más eficientes al desarrollar diferentes ideas.
+
+### Todo lo que Necesitas Tener
+Se necesitan cuatro cosas:
+- Una forma de escribir notas (papel y lapiz)
+- Un Reference Manager como Zotero
+- Un Zettelkasten o una aplicación como Obsidian
+- Un editor como MS Word
+
 
 ## Puntos Clave
 
