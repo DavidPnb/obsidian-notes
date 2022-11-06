@@ -55,6 +55,8 @@ Se necesitan cuatro cosas:
 - Un Zettelkasten o una aplicación como Obsidian
 - Un editor como MS Word
 
+### Unas Cuantas Cosas a Tener en Mente
+La efectividad de cualquier herramienta depende del nivel de técnica con la que la utilizamos. Por esto, los siguientes cuatro capitulos exploran los principios fundamentales detras de el sistema.
 
 ## Puntos Clave
 
