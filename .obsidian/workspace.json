@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-07.md",
+                "file": "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-07.md",
+                "file": "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-07.md",
+                "file": "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-07.md"
+                "file": "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md"
               }
             }
           },
@@ -276,6 +276,7 @@
   },
   "active": "6618488f3f301858",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-07.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-06.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-02.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-01.md",
@@ -284,7 +285,6 @@
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "70-79 Artes/70 Arte y Diseño.md",
     "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
-    "00-09 PKM/03 Extras/Excalidraw/QM1B01 2022-11-04 15.56.07.excalidraw.md"
+    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md"
   ]
 }
