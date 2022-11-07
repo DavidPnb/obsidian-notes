@@ -6,4 +6,5 @@ tags:: #atlas/MOC🗺
 ## Recursos
 ### Libros
 - Introduction to Architecture - Francis Ching
+- A Visual Dictionary of Architecture - Francis Ching
 ___
