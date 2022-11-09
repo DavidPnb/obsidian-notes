@@ -28,20 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07666ffb5e5a9fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-09.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W45.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-09.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W45.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -197,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-09.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W45.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-09.md"
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W45.md"
               }
             }
           },
@@ -287,17 +274,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "07666ffb5e5a9fb9",
+  "active": "6618488f3f301858",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-09.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/10 Aprendizaje y Educacion MOC.md",
+    "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-08.md",
     "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-07.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
-    "00-09 PKM/03 Extras/Excalidraw/QM1B01 2022-11-04 15.56.07.excalidraw.md",
-    "80-89 Literatura, Escritura y Ficcion/80 Escritura/80.00 Escritura MOC.md"
+    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md"
   ]
 }
