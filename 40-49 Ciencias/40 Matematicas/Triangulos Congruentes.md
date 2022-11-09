@@ -24,5 +24,6 @@ Se dice que dos lados que forman un angulo **incluyen** a ese angulo. De forma s
 > [!postulado]+
 > Si dos angulos y un lado no incluido de un triangulo son congruentes a dos angulos y un lado no incluido de otro triangulo, entonces los triangulos son congruentes
 
-
+## Partes Correspondientes de Triangulos Congruentes
+Las partes correspondientes de triangulos congruentes son congruentes.
 ___
