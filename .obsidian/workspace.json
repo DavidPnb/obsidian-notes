@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "6618488f3f301858",
+            "id": "c36bd92460a48558",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W45.md",
+                "file": "70-79 Artes/70 Arte y Diseño.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W45.md",
+                "file": "70-79 Artes/70 Arte y Diseño.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W45.md",
+                "file": "70-79 Artes/70 Arte y Diseño.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2022-W45.md"
+                "file": "70-79 Artes/70 Arte y Diseño.md"
               }
             }
           },
@@ -274,17 +274,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "6618488f3f301858",
+  "active": "c36bd92460a48558",
   "lastOpenFiles": [
-    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-10.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-09.md",
     "40-49 Ciencias/41 CS/41.00 Ciencias de la Computacion MOC.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W45.md",
     "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
     "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/10 Aprendizaje y Educacion MOC.md",
-    "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md"
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/10 Aprendizaje y Educacion MOC.md"
   ]
 }
