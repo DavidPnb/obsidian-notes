@@ -1,5 +1,5 @@
 tags:: #concept  #on/physics
-up:: [[50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC]]
+up:: [[50.00 Telecomunicaciones]]
 Links: 
 # Hercios
 En nuestro oido tenemos el timpano, una membrana pequeña que va vibrando influenciada por la presion, al mismo ritmo que vibraba el objeto productor del sonido.

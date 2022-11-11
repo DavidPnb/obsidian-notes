@@ -42,4 +42,5 @@ Links:
 - **Teatro y Actuación**
 	- Impro by Keith Johnstone
 	- Different Every Night by Mike Alfreds
+	- Notes on Directing by Hauser & Reich
 ___

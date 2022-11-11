@@ -7,7 +7,7 @@ created: 2022-04-26 13:52
 tags:: #source/book📚 
 writer:: [[Jose Manuel Huidobro]]
 status:: Doing
-subject:: [[50.00 Telecom - CyberSec - IT MOC|Ingenieria en Telecomunicaciones]]
+subject:: [[50.00 Telecomunicaciones|Ingenieria en Telecomunicaciones]]
 started:: 2022-04-26 13:52
 finished::
 

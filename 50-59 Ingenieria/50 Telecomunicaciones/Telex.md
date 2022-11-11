@@ -4,7 +4,7 @@ references:
 created: 2022-07-29 11:46
 ---
 tags:: #on/IT 
-up:: [[50-59 Ingenieria/50 Telecom - CyberSec - IT/50.00 Telecom - CyberSec - IT MOC]]
+up:: [[50.00 Telecomunicaciones]]
 Links: 
 # Telex
 El telex es un sistema de telecomunicaciones en desuso. Su forma de operar era similar a una maquina de escribir que enviaba a modo de bits las letras que se presionaban en la maquina a una [[Velocidad de Transferencia]] de 50 bit/s.
