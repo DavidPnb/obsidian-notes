@@ -67,7 +67,7 @@ Esto tambien implica la igualdad entre la razón de dos lados de un triángulo y
 \frac{a}{b}=\frac{d}{e}
 $$
 Una última conclusión es que la razón de las areas de los dos triangulos es igual al cuadrado de la razón de cualquier par de lados correspondientes. Esto se expresa como $$
-\frac{A_{1}}{A_{2}}=\frac{a}{d}
+\frac{A_{1}}{A_{2}}=\frac{a^{2}}{d^{2}}
 $$
 ## Teorema de Pitagoras
 En un triángulos rectángulo, el lado del triángulo que esta opuesto al ángulo recto es llamado **hipotenusa**, y los otros dos lados son llamados **catetos**.
