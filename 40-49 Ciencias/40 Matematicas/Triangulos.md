@@ -56,10 +56,22 @@ En un triangulo cualquiera $\triangle ABC$ , los puntos $A$ , $B$ y $C$ son los 
 > [!teorema]-
 > Si dos angulos de un triangulo son congruentes a dos angulos de otro triangulos, los angulos restantes tambien son congruentes
 
-Cuando los lados de un triangulo son extendidos, cada angulo formado por un lado y la extensión del lado adyacente es un **angulo exterior**.
+Cuando los lados de un triángulo son extendidos, cada angulo formado por un lado y la extensión del lado adyacente es un **ángulo exterior**.
 
 >[!teorema]-
 > La medida de un angulo exterior de un triangulo es igual a la medida de los dos angulos interiores no adyacentes
 
+## Similaridad
+Coloquialmente hablando, dos triángulos son similares si tienen la misma forma pero diferentes tamaños. La similaridad se define de forma más precisa como la igualdad de las razones de los lados correspondientes de los triángulos. Es decir $$\frac{a}{d}=\frac{b}{e}=\frac{c}{f}$$
+Esto tambien implica la igualdad entre la razón de dos lados de un triángulo y la razón de los lados correspondientes del otro triángulo. Esto se puede expresar como $$
+\frac{a}{b}=\frac{d}{e}
+$$
+Una última conclusión es que la razón de las areas de los dos triangulos es igual al cuadrado de la razón de cualquier par de lados correspondientes. Esto se expresa como $$
+\frac{A_{1}}{A_{2}}=\frac{a}{d}
+$$
+## Teorema de Pitagoras
+En un triángulos rectángulo, el lado del triángulo que esta opuesto al ángulo recto es llamado **hipotenusa**, y los otros dos lados son llamados **catetos**.
+
+El teorema de Pitagoras establece que el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos, lo que es igual a $c^{2}=a^{2}+b^{2}$ .
 ___
 
