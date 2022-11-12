@@ -58,6 +58,9 @@ Se necesitan cuatro cosas:
 ### Unas Cuantas Cosas a Tener en Mente
 La efectividad de cualquier herramienta depende del nivel de técnica con la que la utilizamos. Por esto, los siguientes cuatro capitulos exploran los principios fundamentales detras de el sistema.
 
+### Escribir es lo Único que Cuenta
+Este modo de pensar nos incita a pensar en la información que recibimos de una manera diferente, dandole un propósito en nuestra escritura y, por lo tanto, motivandonos a analizar críticamente las ideas y argumentos presentados. Esto le da valor a lo que escribimos independientemente de si es publicado o no, porque podemos desarrollar habilidades intelectuales que pueden extrapolarse a otras areas de nuestra vida.
+
 ## Puntos Clave
 
 ## Contexto
