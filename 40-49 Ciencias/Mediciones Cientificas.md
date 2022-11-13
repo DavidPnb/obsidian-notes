@@ -6,6 +6,14 @@ up:: [[42.00 Fisica MOC]], [[43.00 Quimica MOC]]
 # Mediciones Científicas
 Los científicos usan instrumentos para medir las propiedades de una sustancia. Estan propiedades son **macroscópicas** si pueden medirse directamente, y **microscópicas** si involucran particulas invisibles y deben medirse de forma indirecta.
 
+## Exactitud y Precisión
+En las mediciones científicas se hace una distinción entre estos dos conceptos. La **exactitud** representa que tan cerca esta el valor de la medición del valor real y la **precisión** representa  que tan cercanos entre sí son los valores de las mediciones. Mediciones exactas generalmente conllevan a mediciones precisas, pero mayor precisión en las mediciones no implica una mayor exactitud.
+
+## Análisis Dimensional
+Para expresar las cantidades obtenidas en las mediciones se usan los **factores de conversión**. Un factor de conversión es una fracción cuyo valor es igual a uno y que contiene las unidad de la medición original en el denominador y la unidad buscadas en el númerador, de este modo la unidad original se cancela con la del denominador y el resultado se expresa en la unidad buscada.$$
+\frac{\cancel{\text{Unidad Original}}*\text{Unidad Buscada}}{\cancel{\text{Unidad Original}}}=\text{Unidad Buscada}
+$$
+
 ## Unidades del Sistema Internacional
 Por mucho tiempo, la comunidad científica usó unidades métricas que se relacionan de manera decimal. Pero en 1960, la Conferencia General de Pesos y Medidas, que es el órgano encargado de estas mediciones, propuso el Sistema Internacional de Unidades (**SI**). Este tiene siete unidades de las que derivan las demás, y un conjunto de prefijos que las modifican de forma decimal.
 
