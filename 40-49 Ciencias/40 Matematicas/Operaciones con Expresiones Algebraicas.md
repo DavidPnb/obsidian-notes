@@ -17,7 +17,7 @@ La sustracción de expresiones algebraicas se consigue al multiplicar cada termi
 Se multiplican los terminos en los factores de las expresiones.
 
 ### Multiplicación de Monomios
-Se usan las leyes de los exponentes, la regla de los signos; , y las propiedades conmutativas de la multiplicación; [[Exponentes]] - [[Operaciones con Enteros#Regla de los Signos]] - [[Numeros Reales#Propiedades]].
+Se usan las leyes de los exponentes, la regla de los signos; , y las propiedades conmutativas de la multiplicación; [[Exponentes]] .
 
 ### Monomio por Polinomio
 Se multiplica el monomio por cada termino del polinomio y luego se combinan los resultados.
@@ -26,7 +26,7 @@ Se multiplica el monomio por cada termino del polinomio y luego se combinan los 
 Se multiplica cada termino del primer polinomio por cada termino del segundo y luego se combinan los resultados.
 
 ## División
-Se usan las leyes de los exponentes en la división; [[Numeros Reales#Propiedades]].
+Se usan las leyes de los exponentes en la división.
 
 ### División de Monomios
 Se encuentra el cociente de los coeficientes numericos, el de las variables, y se multiplican estos cocientes.

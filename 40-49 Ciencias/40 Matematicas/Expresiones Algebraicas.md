@@ -7,7 +7,7 @@ tags:: #Mathematics
 up:: [[Algebra Elemental]]
 Links: 
 # Expresiones Algebraicas
-Es una combinación de numeros y letras llamadas **variables** para representar numeros genericos; [[Numeros]].
+Es una combinación de numeros y letras llamadas **variables** usada para representar numeros genericos; [[Numeros]].
 
 Un **termino** consiste en productos y cocientes de numeros y variables, estos estan separados por operaciones de suma y resta; [[Aritmetica]].
 

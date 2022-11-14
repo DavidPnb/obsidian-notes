@@ -7,7 +7,7 @@ tags:: #Mathematics
 up:: [[40.02 Algebra]]
 Links:  
 # Algebra Elemental
-Es la forma mas basica de [[40.02 Algebra|Algebra]], una de las ramas más grandes de las [[40.00 Matematicas MOC|Matematicas]]. Es una forma muy util de representar numéricamente fenómenos de la realidad.
+Es la forma mas basica de [[40.02 Algebra|Algebra]], una de las ramas más grandes de las [[40.00 Matematicas MOC|Matematicas]]. Es una forma muy util de representar numéricamente fenómenos de la realidad. Esta
 
 ```toc
 style: number

@@ -8,7 +8,7 @@ Links:
 Incluye todos los numeros de medicion. Cada numero real corresponde a un punto en la recta numerica. Esta formado por los Numeros Racionales e Irracionales positivos y negativos, ademas del cero.
 
 ## Representacion Grafica
-Para representar los numeros reales se escoje un punto en la recta para representar el cero y se le llama el **origen**. Los [[Numeros Enteros]] positivos son asociados con puntos a la derecha del origen y los negativos con puntos a la izquierda del origen, a una distancia respectiva al valor que representan. Los numeros las fracciones son representadas entre dos [[Numeros Enteros]]. La posición de los numeros en la recta establece un orden numerico al sistema de los reales; [[Inecuaciones]]. Esta correspondencia entre numeros reales y puntos en la recta es de uno a uno o **biunívoca**.
+Para representar los numeros reales se escoje un punto en la recta para representar el cero y se le llama el **origen**. Los [[Numeros Enteros]] positivos son asociados con puntos a la derecha del origen y los negativos con puntos a la izquierda del origen, a una distancia respectiva al valor que representan. Las fracciones son representadas entre dos [[Numeros Enteros]]. La posición de los numeros en la recta establece un orden numerico al sistema de los reales. Esta correspondencia entre numeros reales y puntos en la recta es de uno a uno o **biunívoca**.
 
 [[Geometria Analitica]]
 

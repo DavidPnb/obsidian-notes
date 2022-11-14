@@ -27,9 +27,13 @@ $$b^0=1$$
 
 $$b^{m+n}=b^m*b^n$$
 
+$$
+b^{m-n}=\frac{b^{m}}{b^{n}}
+$$
+
 $$(b^m)^n=b^{mn}$$
 
-$$(b*c)^{n}=b^n*c^n$$
+$$(bc)^{n}=b^nc^n$$
 
 $$(\frac{a}{b})^n=\frac{a^n}{b^n}$$
 
