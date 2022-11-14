@@ -1,5 +1,3 @@
--   [Eleanor’s notes](https://publish.obsidian.md/eleanorkonik) on History and Worldbuilding
--   [Danny Hatcher](https://notes.dannyhatcher.com/Notes) on Education and Learning
 -   [mnml’s vault](https://publish.obsidian.md/manuel) on Programming, Note-taking and Music
 -   [Nicole van der Hoeven](https://notes.nicolevanderhoeven.com/) on Tech and TTRPGs
 -   [jay l. colbert](https://wilde-at-heart.garden/) on Library Organization and Metadata

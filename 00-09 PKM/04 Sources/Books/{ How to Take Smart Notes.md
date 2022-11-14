@@ -61,6 +61,12 @@ La efectividad de cualquier herramienta depende del nivel de técnica con la que
 ### Escribir es lo Único que Cuenta
 Este modo de pensar nos incita a pensar en la información que recibimos de una manera diferente, dandole un propósito en nuestra escritura y, por lo tanto, motivandonos a analizar críticamente las ideas y argumentos presentados. Esto le da valor a lo que escribimos independientemente de si es publicado o no, porque podemos desarrollar habilidades intelectuales que pueden extrapolarse a otras areas de nuestra vida.
 
+### La Simpleza es lo más Importante
+Este es uno de los pilares fundamentales de este sistema, el cual busca reducir la complejidad en el proceso de tomar notas para que el valor de estas crezca con el pasar del tiempo. Para que las notas se mantengan organizadas y se mantengan con un propósito, el sistema las separa en tres grupos.
+- **Notas Efímeras** - Son recordatorios desechables de una idea que no tienen una estructura fija. Su propósito es capturar ideas de forma rapida y con la menor fricción posible para no interrumpir el flujo de trabajo en el momento en que se presentan
+- **Notas Permanentes** - Como su nombre lo indica, estas ocupan un lugar permanente y fijo en el sistema. Su estructura esta estandarizada y expresan una idea de la forma más clara y concisa posible, volviendolas utiles en varios contextos. Son las notas principales del sistema y las que añaden mayor valor a largo plazo
+- **Notas de Proyectos** - Son notas con información relevante para el contexto específico de un proyecto y pueden ser desechadas cuando este termine. Estan notas se mantienen separadas y no interfieren con las otras ideas y pensamientos
+
 ## Puntos Clave
 
 ## Contexto
