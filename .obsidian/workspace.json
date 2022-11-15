@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-14.md",
+                "file": "40-49 Ciencias/40 Matematicas/Inecuaciones.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-14.md",
+                "file": "40-49 Ciencias/40 Matematicas/Inecuaciones.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.01219177246094
+    "width": 422.01219177246094,
+    "collapsed": true
   },
   "right": {
     "id": "6a3a32269de26270",
@@ -197,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-14.md",
+                "file": "40-49 Ciencias/40 Matematicas/Inecuaciones.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-14.md"
+                "file": "40-49 Ciencias/40 Matematicas/Inecuaciones.md"
               }
             }
           },
@@ -289,15 +290,15 @@
   },
   "active": "ad52d0db814d86c8",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Ecuaciones Lineares.md",
+    "40-49 Ciencias/40 Matematicas/Ecuaciones Cuadraticas.md",
     "40-49 Ciencias/40 Matematicas/Algebra Elemental.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-14.md",
     "40-49 Ciencias/40 Matematicas/Expresiones Algebraicas.md",
     "40-49 Ciencias/40 Matematicas/Operaciones con Expresiones Algebraicas.md",
     "40-49 Ciencias/40 Matematicas/Exponentes.md",
     "40-49 Ciencias/40 Matematicas/Raices.md",
     "40-49 Ciencias/40 Matematicas/Numeros Reales.md",
-    "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-14.md",
-    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md"
+    "40-49 Ciencias/44 Biologia/44.00 Biologia.md"
   ]
 }
