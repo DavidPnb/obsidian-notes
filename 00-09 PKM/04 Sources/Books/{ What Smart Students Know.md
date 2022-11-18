@@ -26,7 +26,9 @@ Amazon Reviews (Make It Stick)
 
 ## Notas
 ### Lo que los Buenos Estudiantes Piensan Sobre la Escuela
-La principal diferencia que tienen los mejores estudiantes no es inteligencia o trabajo duro, sino que su actitud les permite ver y hacer las cosas de un modo diferente. Esta actitud es característica de un **autodidacta**.
+La cualidad determinante que exhiben los mejores estudiantes no es inteligencia o trabajo duro, sino su actitud, que les permite ver y hacer las cosas de un modo diferente. 
+
+Esta actitud es la característica de un **autodidacta**, es decir, alguien que toma el control de su propia educación. El mensaje principal del libro es que ninguna escuela puede enseñarte de la manera en que mejor te funciona, por lo tanto, la cantidad y la calidad de tu aprendizaje dependen únicamente de ti. 
 
 ### Como Aprenden los Buenos Estudiantes
 ### Como los Buenos Estudiantes Aprenden Distintos Temas
@@ -36,13 +38,13 @@ La principal diferencia que tienen los mejores estudiantes no es inteligencia o 
 ## Puntos Clave
 
 ## Contexto
-Libro del año 1993 acerca de como estudiar y aprender mejor en secundaria y universidad.  El autor tiene experiencia en el area de consultoria académica. El libro puede contener información obsoleta.
+Libro del año 1993 acerca de como estudiar y aprender mejor en secundaria y universidad.  El autor tiene experiencia como consultor académico. El libro puede contener información obsoleta.
 
 ## Anexos
 
 ## Referencias
 
 ## Comentarios
-- La idea principal del libro es que el sistema educativo esta mal y que la forma en que pensamos sobre la educación es incorrecta. Solo cambiandonos a nosotros mismos podemos tomar el control de nuestro aprendizaje y mejorar nuestra comprensión al mismo tiempo que mejoramos nuestro desempeño academico
+- La idea principal del libro es que el sistema educativo esta mal y que la forma en que pensamos sobre la educación es incorrecta. Solo cambiándonos a nosotros mismos podemos tomar el control de nuestro aprendizaje y mejorar nuestra comprensión al mismo tiempo que mejoramos nuestro desempeño académico
 ___
 
