@@ -26,6 +26,8 @@ Amazon Reviews (Make It Stick)
 
 ## Notas
 ### Lo que los Buenos Estudiantes Piensan Sobre la Escuela
+La principal diferencia que tienen los mejores estudiantes no es inteligencia o trabajo duro, sino que su actitud les permite ver y hacer las cosas de un modo diferente. Esta actitud es característica de un **autodidacta**.
+
 ### Como Aprenden los Buenos Estudiantes
 ### Como los Buenos Estudiantes Aprenden Distintos Temas
 ### Como los Buenos Estudiantes Obtienen sus Notas
