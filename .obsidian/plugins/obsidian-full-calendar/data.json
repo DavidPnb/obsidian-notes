@@ -1,0 +1,17 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#483699",
+      "directory": "00-09 PKM/01 Calendar/01.03 Full Calendar Uni"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": false,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}
