@@ -36,5 +36,5 @@ El número atómico y el número de masa de un elemento se representa como $$
 $$
 Los **isotopos** de un elemento son átomos con mismo número atómico y diferente cantidad de neutrones.
 
-. La **masa atómica relativa** es la masa promedio de los protones y neutrones de los diferentes isotopos.
+La **masa atómica relativa** es la masa promedio de los protones y neutrones de los diferentes isotopos.
 ___
