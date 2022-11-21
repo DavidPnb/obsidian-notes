@@ -67,6 +67,9 @@ Este es uno de los pilares fundamentales de este sistema, el cual busca reducir 
 - **Notas Permanentes** - Como su nombre lo indica, estas ocupan un lugar permanente y fijo en el sistema. Su estructura esta estandarizada y expresan una idea de la forma más clara y concisa posible, volviendolas utiles en varios contextos. Son las notas principales del sistema y las que añaden mayor valor a largo plazo
 - **Notas de Proyectos** - Son notas con información relevante para el contexto específico de un proyecto y pueden ser desechadas cuando este termine. Estan notas se mantienen separadas y no interfieren con las otras ideas y pensamientos
 
+### Nadie Empieza desde Cero
+Esto es porque los temas y preguntas que desarrollamos estan predeterminadas por la información que hemos consumido con anterioridad.
+
 ## Puntos Clave
 
 ## Contexto

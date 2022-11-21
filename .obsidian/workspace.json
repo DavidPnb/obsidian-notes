@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "b9efb3549f8983be",
+            "id": "6ee5727b1947af72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md"
+                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md"
               }
             }
           },
@@ -282,17 +282,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "b9efb3549f8983be",
+  "active": "6ee5727b1947af72",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cogito Ergo Sum.md",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-21.md",
+    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
     "40-49 Ciencias/40 Matematicas/Ecuaciones Cuadraticas.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
     "40-49 Ciencias/43 Quimica/Atomos.md",
-    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
-    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-20.md"
+    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md"
   ]
 }

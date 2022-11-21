@@ -31,6 +31,22 @@ La cualidad determinante que exhiben los mejores estudiantes no es inteligencia 
 Esta actitud es la característica de un **autodidacta**, es decir, alguien que toma el control de su propia educación. El mensaje principal del libro es que ninguna escuela puede enseñarte de la manera en que mejor te funciona, por lo tanto, la cantidad y la calidad de tu aprendizaje dependen únicamente de ti. 
 
 ### Como Aprenden los Buenos Estudiantes
+Introduce un método socrático en el que el estudiante se hace preguntas y las responde por su propia cuenta. Estas preguntas pueden resumirse como
+1. ¿Cuál es mi propósito al leer esto?
+2. ¿Que es lo que ya se acerca del tema?
+3. ¿Cual es el plano más general?
+4. ¿Qué es lo que esta por decir el autor?
+5. ¿Cuales son las *Preguntas de Experticia*?
+6. ¿Qué interrogantes me genera esta información?
+7. ¿Qué información es importante?
+8. ¿Cómo puedo parafrasear y resumir la información?
+9. ¿Cómo puedo organizar la información?
+10. ¿Cómo puede ilustra la información?
+11. ¿Cómo puedo recordar mejor esta información?
+12. ¿Cómo encaja esta información con lo que ya sé?
+
+Dependiendo del contexto, algunas preguntas pueden ser más importantes que otras.
+
 ### Como los Buenos Estudiantes Aprenden Distintos Temas
 ### Como los Buenos Estudiantes Obtienen sus Notas
 ### Como los Buenos Estudiantes lo Juntan Todo
