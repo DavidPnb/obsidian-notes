@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c0059f6d17bb1de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-21.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -170,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-21.md"
               }
             }
           },
@@ -268,17 +282,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "d125d9b7f09f7f5b",
+  "active": "c0059f6d17bb1de2",
   "lastOpenFiles": [
+    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-21.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-20.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W46.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-15.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-17.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-18.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-19.md",
-    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
-    "00-09 PKM/01 Calendar/01.03 Full Calendar Uni/(Every R,T) QM1B01 11).md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-19.md"
   ]
 }
