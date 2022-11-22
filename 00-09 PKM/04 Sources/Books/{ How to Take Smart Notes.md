@@ -68,7 +68,7 @@ Este es uno de los pilares fundamentales de este sistema, el cual busca reducir 
 - **Notas de Proyectos** - Son notas con información relevante para el contexto específico de un proyecto y pueden ser desechadas cuando este termine. Estan notas se mantienen separadas y no interfieren con las otras ideas y pensamientos
 
 ### Nadie Empieza desde Cero
-Esto es porque los temas y preguntas que desarrollamos estan predeterminadas por la información que hemos consumido con anterioridad.
+El proceso de investigación y escritura es ciclico, y esta influenciado por lo que escribimos en el pasado, así que se puede usar ese conocimiento acumulado como punto de partida para los nuevos temas de investigación.
 
 ## Puntos Clave
 
