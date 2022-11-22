@@ -33,6 +33,8 @@ Esta actitud es la característica de un **autodidacta**, es decir, alguien que 
 ### Como Aprenden los Buenos Estudiantes
 Introduce un método socrático en el que el estudiante se hace preguntas y las responde por su propia cuenta. Estas preguntas pueden resumirse como
 1. ¿Cuál es mi propósito al leer esto?
+	1. Esto determina la forma en que respondemos las once preguntas restantes. El propósito que formulemos debe ser lo más específico posible
+	2. 1-2 minutos
 2. ¿Que es lo que ya se acerca del tema?
 3. ¿Cual es el plano más general?
 4. ¿Qué es lo que esta por decir el autor?
@@ -45,7 +47,7 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 11. ¿Cómo puedo recordar mejor esta información?
 12. ¿Cómo encaja esta información con lo que ya sé?
 
-Dependiendo del contexto, algunas preguntas pueden ser más importantes que otras.
+Dependiendo del contexto, algunas preguntas pueden ser más importantes que otras. Estas tambien pueden extrapolarse a clases y seminarios.
 
 ### Como los Buenos Estudiantes Aprenden Distintos Temas
 ### Como los Buenos Estudiantes Obtienen sus Notas
