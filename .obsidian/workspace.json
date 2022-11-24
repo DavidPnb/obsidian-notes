@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md"
+                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md"
               }
             }
           },
@@ -285,6 +285,7 @@
   "active": "3c07381bc17a045f",
   "lastOpenFiles": [
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-22.md",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
@@ -292,7 +293,6 @@
     "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-21.md",
     "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
-    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/60.00 Fitness.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cogito Ergo Sum.md"
+    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/60.00 Fitness.md"
   ]
 }

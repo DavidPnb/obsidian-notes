@@ -70,6 +70,14 @@ Este es uno de los pilares fundamentales de este sistema, el cual busca reducir 
 ### Nadie Empieza desde Cero
 El proceso de investigación y escritura es ciclico, y esta influenciado por lo que escribimos en el pasado, así que se puede usar ese conocimiento acumulado como punto de partida para los nuevos temas de investigación.
 
+### Deja que el Trabajo te Lleve Hacia Adelante
+En el proceso de aprendizaje, una forma de motivación interna es más efectiva que una motivación externa. Esta motivación puede construirse a través del feedback que recibimos de nuestra red de notas, lo que nos ayuda a mejorar nuestra capacidad de interpretación y expresión de ideas. Esto nos hace aprender de mejor manera y así mantener un ciclo positivo en el que mejoramos continuamente.
+
+### Los Seis Pasos para Escribir de Forma Exitosa
+Estos pasos son explicados a detalle en los siguientes capitulos.
+
+
+
 ## Puntos Clave
 
 ## Contexto
