@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Parabolas.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 7.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Parabolas.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 7.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Parabolas.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 7.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Parabolas.md"
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 7.md"
               }
             }
           },
@@ -284,15 +284,15 @@
   },
   "active": "e8090e054f19fd88",
   "lastOpenFiles": [
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 7.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-25.md",
+    "40-49 Ciencias/40 Matematicas/Parabolas.md",
     "40-49 Ciencias/40 Matematicas/Secciones Conicas.md",
     "40-49 Ciencias/40 Matematicas/Circulos.md",
-    "40-49 Ciencias/40 Matematicas/Parabolas.md",
     "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
     "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
-    "40-49 Ciencias/40 Matematicas/Valor Absoluto.md",
-    "40-49 Ciencias/40 Matematicas/Rectas.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
-    "40-49 Ciencias/40 Matematicas/Funciones.md",
-    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md"
+    "40-49 Ciencias/40 Matematicas/Valor Absoluto.md"
   ]
 }
