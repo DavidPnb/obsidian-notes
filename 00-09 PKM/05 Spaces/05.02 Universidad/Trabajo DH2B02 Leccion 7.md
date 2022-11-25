@@ -10,5 +10,8 @@
 ## Problema 2
 ![[Pasted image 20221125173152.png]]
 
+## Ejemplo 1
+![[Trabajo DH2B02 Leccion 7-7.png]]
+
 ## Ejemplo 2
 ![[Trabajo DH2B02 Leccion 7-5.png]]
