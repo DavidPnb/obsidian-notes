@@ -42,5 +42,5 @@ Si $a \neq 0$, entonces $a^{-n} = \frac{1}{a^n}$
 [[Inecuaciones]]
 
 ## Valor Absoluto
-[[Valor Absoluto de un Numero]]
+[[Valor Absoluto]]
 ___

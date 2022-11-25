@@ -4,7 +4,7 @@ created: 2022-11-02 18:20
 tags:: #Mathematics 
 up:: [[40.05 Geometria]]
 # Geometría Análitica
-La geometría analítica es el estudio de la [[40.05 Geometria|Geometría]] utilizando un sistema de coordenadas.
+La geometría analítica es el estudio de la [[40.05 Geometria|Geometría]] utilizando un sistema de coordenadas, lo que permite usar los métodos y herramientas del [[40.02 Algebra|Algebra]].
 
 ## Sistemas de Coordenadas
 ### Segmento Dirigido
@@ -16,7 +16,7 @@ Un **sistema de coordenadas** establece una relación biunívoca entre puntos ge
 1. Siendo $X'X$ una recta cuya dirección positiva es de izquierda a derecha, y siendo $O$ un punto fijo sobre la recta
 2. Se toma un punto $A$ a la derecha de $O$ como punto de referencia, y se considera a $\overline{OA}$ como unidad de longitud
 	1. Si $P$ es un punto de $X'X$ situado a la derecha de $O$ tal que $OP$ contiene $x$ veces a $\overline{OA}$ , entonces $P$ corresponde a el número real $x$
-	2. Si $P|$ es un punto de $X'X$ situado a la izquierda de $O$ tal que $OP$ contiene $x'$ veces a $\overline{OA}$ , entonces $P$ corresponde a el número real $x'$
+	2. Si $P'$ es un punto de $X'X$ situado a la izquierda de $O$ tal que $OP$ contiene $x'$ veces a $\overline{OA}$ , entonces $P$ corresponde a el número real $-x$
 
 En este caso, todos los puntos yacen sobre una recta, por lo que se le llama **sistema unidimensional** o **sistema de coordenadas lineal**.
 
@@ -40,13 +40,13 @@ $$
 ### Sistema de Coordenadas en el Plano
 El sistema de coordenadas bidimensional es usado en la Geometría Analítica plana y puede representar cualquier punto ubicado dentro de un plano.
 
-El sistema de coordenadas más común que se utiliza es el sistema de coordenadas rectangulares, tambien usado en el álgebra y la trigonometría. Este sistema consta de dos rectas $X'X$ y $Y'Y$ , llamadas **ejes de coordenadas**, que son perpendiculares entre sí. La $X'X$ es llamada eje $X$ ; la recta $Y'Y$ es llamada eje $Y$, y su punto de intersección $O$ es el **origen**. La dirección positiva del eje $X$ es hacia la derecha y la dirección positiva del eje $Y$ es hacia arriba. Los ejes dividen al plano en cuatro regiones llamadas **cuadrantes**.
+El sistema de coordenadas más común que se utiliza es el sistema de coordenadas rectangulares, tambien usado en el álgebra y la trigonometría. Este sistema consta de dos rectas $X'X$ y $Y'Y$ , llamadas **ejes de coordenadas**, que son perpendiculares entre sí. La recta $X'X$ es llamada eje $X$ ; la recta $Y'Y$ es llamada eje $Y$, y su punto de intersección $O$ es el **origen**. La dirección positiva del eje $X$ es hacia la derecha y la dirección positiva del eje $Y$ es hacia arriba. Los ejes dividen al plano en cuatro regiones llamadas **cuadrantes**.
 - Cuadrante $\mathrm{I}$ - Semieje $X$ positivo, Semieje $Y$ positivo
 - Cuadrante $\mathrm{II}$ - Semieje $X$ negativo, Semieje $Y$ positivo
 - Cuadrante $\mathrm{III}$ - Semieje $X$ negativo, Semieje $Y$ negativo
 - Cuadrante $\mathrm{IV}$ - Semieje $X$ positivo, Semieje $Y$ negativo
 
-Siendo $A$ un punto en el eje $X$ y $B$ un punto en el eje $Y$, la longitud del segmento dirigido $OA$ se representa por $x$ y es llamada **abscisa**. De forma similar, la longitud del segmento dirigido $OB$ se representa por $y$ y es llamada **ordenada**. Los números reales $x$ y $y$ se llaman coordenadas de un punto $P$ y se representan como el par ordenado $(x, y)$ , donde $(x,y) \neq (y,x)$ siempre que $x\neq y$ .
+Siendo $A$ la proyección perpendicular de $P$ sobre el eje $X$ y $B$ la proyección perpendicular de $P$ sobre el eje $Y$, la longitud del segmento dirigido $OA$ se representa por $x$ y es llamada **abscisa**. De forma similar, la longitud del segmento dirigido $OB$ se representa por $y$ y es llamada **ordenada**. Los números reales $x$ y $y$ se llaman coordenadas del punto $P$ y se representan como el par ordenado $(x, y)$ , donde $(x,y) \neq (y,x)$ siempre que $x\neq y$ .
 
 Si se consideran solo los puntos cuyas ordenadas son cero, el sistema se reduce a un sistema lineal; por lo tanto, el sistema de coordenadas lineal es un caso especial del sistema de coordenadas bidimensionales.
 

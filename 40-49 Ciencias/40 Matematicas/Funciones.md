@@ -36,7 +36,7 @@ El grafico de una función se mueve hacia arriba sumando una constante positiva 
 Multiplicar $y$ por una constante estira la grafica verticalmente si esta es mayor que $1$ , y la encoje si es menor . Multiplicar $x$ por una constante encoje la grafica horizontalmente si esta es mayor que $1$ , y la estira si es menor.
 
 ## Funciones a Trozos
-Son funciones que estan definidas por diferentes formulas en distintas partes de su dominio. La más común es la función del [[Valor Absoluto de un Numero]].
+Son funciones que estan definidas por diferentes formulas en distintas partes de su dominio. La más común es la función del [[Valor Absoluto]].
 
 ## Combinación de Funciones
 [[Combinacion de Funciones]]

@@ -47,7 +47,7 @@ Las siguientes propiedades estan representadas por desigualdades estrictas, pero
 >$$\frac{1}{a}<\frac{1}{b}$$
 
 ## Valor Absoluto
-[[Valor Absoluto de un Numero]]
+[[Valor Absoluto]]
 
 ## Inecuaciones de Grado Superior
 Resolver inecuaciones de orden superior es similar a resolver [[Ecuaciones]] de orden superior. Se compara la inecuación con cero y se buscan los valores de los factores que hagan que el resultado sea positivo o negativo, dependiendo del tipo de inecuación. Para esto se puede usar una tabla de signos.

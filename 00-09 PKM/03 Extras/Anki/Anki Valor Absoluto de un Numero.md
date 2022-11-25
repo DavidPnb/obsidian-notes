@@ -1,5 +1,5 @@
 tags:: #flashcard 
-up:: [[Valor Absoluto de un Numero]]
+up:: [[Valor Absoluto]]
 Links: 
 # Anki Valor Absoluto de un Numero
 TARGET DECK: Matematicas :: Algebra Elemental

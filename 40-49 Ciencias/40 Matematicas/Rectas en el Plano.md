@@ -8,12 +8,12 @@ Links:
 ## Pendiente de una Recta
 La ecuación $ax+by=c$ , donde $a$ y $b$ no son ambos cero y $a$ , $b$ y $c$ son [[Numeros Reales]], es la forma estandar de la ecuación de la recta.
 
-La **pendiente** de una es la tasa de cambio de $y$ dividida entre la tasa de cambio de $x$
+La **pendiente** de una recta es la tasa de cambio de $y$ dividida entre la tasa de cambio de $x$ .
 
 Si $(x_1, y_1)$ y $(x_2, y_2)$ son dos puntos pertenecientes a la recta y $m$ es la pendiente de la recta, entonces $$m = \frac{y_2 - y_1}{x_2 - x_1} ; \; x_2 \neq x_1$$
-Si la pendiente es negativa, significa que al ver el grafico de izquierda a derecha $y$ decrementa medida que $x$ incrementa. Si es positiva, $y$ incrementa junto con $x$ .
+Si la pendiente es negativa, significa que al ver el grafico de izquierda a derecha el valor de $y$ se reduce a medida que $x$ incrementa. Si es positiva, $y$ incrementa junto con $x$ . Además, el [[Valor Absoluto]] de la pendiente indica que tan empinada es la recta.
 
-$y=k$, donde $k$ es una constante, es la ecuación de una **recta horizontal** con pendiente igual a cero, debido a que $y$ es constante. $x=k$ , donde $k$ es una constante, es la ecuación de una **recta vertical** cuya pendiente no esta definida, debido a que todos los valores de $x$ son iguales y la división entre cero no esta definida. 
+$y=k$, donde $k$ es una constante, es la ecuación de una **recta horizontal** con pendiente igual a cero, debido a que $y$ se mantiene igual. $x=k$ , donde $k$ es una constante, es la ecuación de una **recta vertical** cuya pendiente no esta definida, debido a que todos los valores de $x$ son iguales y la división entre cero no esta definida. 
 
 ## Rectas Paralelas y Perpendiculares
 Dos rectas no verticales son **paralelas** si y solo si sus pendientes son iguales.
