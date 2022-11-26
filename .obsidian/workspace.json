@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "d8235091c8d7dfd4",
+            "id": "d1a7704cc6440cf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/07 Inbox/+ Cooling Pad/Habit formation provides an evolutionary advantage.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 8.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/07 Inbox/+ Cooling Pad/Habit formation provides an evolutionary advantage.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 8.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/07 Inbox/+ Cooling Pad/Habit formation provides an evolutionary advantage.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/07 Inbox/+ Cooling Pad/Habit formation provides an evolutionary advantage.md"
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 8.md"
               }
             }
           },
@@ -282,17 +282,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "d8235091c8d7dfd4",
+  "active": "d1a7704cc6440cf3",
   "lastOpenFiles": [
+    "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 8.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-26.md",
+    "00-09 PKM/07 Inbox/+ Cooling Pad/Habit formation provides an evolutionary advantage.md",
     "00-09 PKM/00 Atlas/00.02 Cards/How Atomic Habits fit into the conversation on habits.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Hormesis.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Heterarchy.md",
-    "50-59 Ingenieria/50 Telecomunicaciones/Hercios.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W47.md",
-    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-26.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-11-25.md",
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md"
+    "00-09 PKM/00 Atlas/00.02 Cards/Heterarchy.md"
   ]
 }
