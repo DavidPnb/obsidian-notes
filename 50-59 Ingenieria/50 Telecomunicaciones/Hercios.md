@@ -1,6 +1,8 @@
-tags:: #concept  #on/physics
+---
+created: 2022-11-26 10:54
+---
+tags:: #on/IT  #on/physics
 up:: [[50.00 Telecomunicaciones]]
-Links: 
 # Hercios
 En nuestro oido tenemos el timpano, una membrana pequeña que va vibrando influenciada por la presion, al mismo ritmo que vibraba el objeto productor del sonido.
 
