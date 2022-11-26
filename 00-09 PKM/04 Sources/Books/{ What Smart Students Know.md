@@ -35,7 +35,10 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 1. ¿Cuál es mi propósito al leer esto?
 	1. Esto determina la forma en que respondemos las once preguntas restantes. El propósito que formulemos debe ser lo más específico posible
 	2. 1-2 minutos
-2. ¿Que es lo que ya se acerca del tema?
+2. ¿Qué es lo que ya se acerca del tema?
+	1. ¿Qué hechos se conocen?
+	2. ¿A qué me recuerda el tema?
+	3. ¿Qué es lo que quiero saber sobre el tema?
 3. ¿Cual es el plano más general?
 4. ¿Qué es lo que esta por decir el autor?
 5. ¿Cuales son las *Preguntas de Experticia*?
