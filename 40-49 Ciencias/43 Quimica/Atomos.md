@@ -34,7 +34,7 @@ El **número de masa (A)** es la cantidad de protones y neutrones en el núcleo 
 El número atómico y el número de masa de un elemento se representa como $$
 \ce{ {}^{Z}_{A}X }
 $$
-Los **isotopos** de un elemento son átomos con mismo número atómico y diferente cantidad de neutrones.
+Los **isótopos** de un elemento son átomos con mismo número atómico y diferente cantidad de neutrones. Los isótopos se representan por su número de masa, a excepción de los isótopos de hidrógeno-2 e hidrógeno-3, llamados deuterio y tritio respectivamente.
 
 La **masa atómica relativa** es la masa promedio de los protones y neutrones de los diferentes isotopos.
 ___
