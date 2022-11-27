@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 8.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-26.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 8.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 8.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 8.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-11-26.md"
               }
             }
           },
@@ -284,11 +284,11 @@
   },
   "active": "d1a7704cc6440cf3",
   "lastOpenFiles": [
+    "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 8.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 8.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-11-26.md",
     "00-09 PKM/07 Inbox/+ Cooling Pad/Habit formation provides an evolutionary advantage.md",
     "00-09 PKM/00 Atlas/00.02 Cards/How Atomic Habits fit into the conversation on habits.md",
