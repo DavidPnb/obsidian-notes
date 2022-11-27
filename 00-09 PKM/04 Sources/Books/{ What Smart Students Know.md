@@ -39,7 +39,22 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 	1. ¿Qué hechos se conocen?
 	2. ¿A qué me recuerda el tema?
 	3. ¿Qué es lo que quiero saber sobre el tema?
-3. ¿Cual es el plano más general?
+3. ¿Cual es el plano general?
+	1. ¿Qué debo buscar?
+		1. Ideas y Temas Principales
+		2. Términos y Conceptos Importantes
+		3. Organización General
+	2. En libros
+		1. Prefacio e Introducción
+		2. Biografía del Autor
+		3. Tabla de Contenidos
+		4. Resumen del Capitulo
+	3. En los capitulos
+		1. Titulo del Capitulo
+		2. Primer y Último Parrafo
+		3. Subtitulos
+		4. Anexos
+		5. Primera frase de cada parrafo
 4. ¿Qué es lo que esta por decir el autor?
 5. ¿Cuales son las *Preguntas de Experticia*?
 6. ¿Qué interrogantes me genera esta información?
