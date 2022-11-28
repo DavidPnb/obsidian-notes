@@ -56,6 +56,22 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 		4. Anexos
 		5. Primera frase de cada parrafo
 4. ¿Qué es lo que esta por decir el autor?
+	1. Pistas Estructurales
+		1. Problemas seguidos de soluciones
+		2. Definiciones seguidas por ejemplos
+		3. Regla general seguida por excepciones
+		4. Afirmación seguida por razones
+		5. Pregunta seguida por respuesta
+		6. Causa seguida por efecto
+	2. Pistas Gramaticales
+		1. Introducir una nueva idea
+			1. Pero, Sin embargo
+		2. Enfatizar la idea en discusión
+			1. Y, Además, Tambien
+		3. Ofrecer una conclusión
+			1. Así que, Por lo tanto, Por consiguiente
+		4. Proveer razones para una conclusión
+			1. Porque, Ya que
 5. ¿Cuales son las *Preguntas de Experticia*?
 6. ¿Qué interrogantes me genera esta información?
 7. ¿Qué información es importante?

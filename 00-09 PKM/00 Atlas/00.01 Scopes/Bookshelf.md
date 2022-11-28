@@ -5,5 +5,5 @@ tags:: #atlas/scope🔬
 ```dataview
 table  writer as Autor, subject as Tema
 from #source/book📚
-where status = "Synthesizing"
+where status != "Done"
 ```

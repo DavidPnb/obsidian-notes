@@ -5,5 +5,12 @@
   "userIgnoreFilters": [
     "00-09 PKM/03 Extras/Templates/"
   ],
-  "spellcheck": false
+  "spellcheck": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

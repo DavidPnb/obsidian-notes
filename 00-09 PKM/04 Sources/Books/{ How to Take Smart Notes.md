@@ -76,7 +76,14 @@ En el proceso de aprendizaje, una forma de motivación interna es más efectiva 
 ### Los Seis Pasos para Escribir de Forma Exitosa
 Estos pasos son explicados a detalle en los siguientes capitulos.
 
-
+### Tareas Separadas y Entrelazadas
+- **Dale a cada tarea toda tu atención**
+	- Ante la llegada de la era de la información, las personas de la sociedad moderna presentan un deficit de atención cada vez mayor
+- **Ser Multitareas no es una buena idea**
+- **Dale a cada tarea el tipo adecuado de atención**
+- **Vuelvete un experto en lugar de un planeador**
+- **Ten un cierre**
+- **Reduce el número de decisiones**
 
 ## Puntos Clave
 
