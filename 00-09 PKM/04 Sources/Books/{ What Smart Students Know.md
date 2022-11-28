@@ -73,6 +73,14 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 		4. Proveer razones para una conclusión
 			1. Porque, Ya que
 5. ¿Cuales son las *Preguntas de Experticia*?
+	1. Preguntas de Experticia
+		1. Son las preguntas que surgen más frecuentemente en un tema
+	2. Preguntas de Orientación
+		1. ¿Cuál es la definición?
+		2. ¿Cuales son los ejemplos?
+		3. ¿Cuales son los distintos tipos?
+		4. ¿A que se relaciona?
+		5. ¿Con que se compara?
 6. ¿Qué interrogantes me genera esta información?
 7. ¿Qué información es importante?
 8. ¿Cómo puedo parafrasear y resumir la información?

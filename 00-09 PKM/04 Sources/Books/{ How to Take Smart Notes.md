@@ -80,6 +80,8 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 - **Dale a cada tarea toda tu atención**
 	- Ante la llegada de la era de la información, las personas de la sociedad moderna presentan un deficit de atención cada vez mayor
 - **Ser Multitareas no es una buena idea**
+	- Varios estudios han observado que el **multitasking** reduce la eficiencia de nuestro trabajo y disminuye la capacidad que tenemos para lidiar con varias tareas, ya que tratar de concentrarse en más de una cosa es agotador para nuestro cerebro
+	- Podemos mejorar nuestra capacidad de concentración si reducimos las distracciones y separamos las tareas de forma clara
 - **Dale a cada tarea el tipo adecuado de atención**
 - **Vuelvete un experto en lugar de un planeador**
 - **Ten un cierre**
