@@ -18,7 +18,7 @@ Son tipos de moleculas que los organismos necesitan para llevar a cabo sus proce
 			- Amilosa - Es el almidón más simple y estructuralmente es casi idéntico a la celulosa
 		- Glucógeno - Es nuestra forma de almacenar glucosa a corto plazo y es similar al almidón. Se encuentra en nuestros musculos y en nuestro hígado
 - [[Lipidos]]
-- [[Proteinas]] - Son los compuestos organicos más complicados en la Tierra. Estan formados por **aminoacidos**, que contienen [[Carbono]], **Hidrogeno** y **Nitrogeno**.
+- [[Proteinas]] - Son los [[compuestos organicos]] más complicados en la Tierra. Estan formados por **aminoacidos**, que contienen [[Carbono]], **Hidrogeno** y **Nitrogeno**.
 	- Enzimas - Regulan procesos químicos y estan involucradas en la digestión
 	- Anticuerpos - Se combinan con sustancias que el cuerpo considera extrañas y son parte importante del sistema inmune
 	- Endorfinas - Hormonas con efecto analgésico

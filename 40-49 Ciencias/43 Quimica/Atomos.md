@@ -4,6 +4,8 @@ created: 2022-10-17 17:55
 tags:: #chemistry 
 up:: [[43.00 Quimica MOC]]
 # Átomos
+Los únicos elementos que se presentan en la naturaleza como [[Atomos]] son los gases nobles y por esta razón se conocen como **gases monoatómicos**. La mayor parte de la materia esta compuesta por [[Moleculas]] o [[Iones]]
+
 ## Teoría Atómica de Dalton 
 Es una de las primeras teorías fundamentales de la química y fue creada por John Dalton en 1808. Esta teoría fue influenciada por la visión atomista de la naturaleza del filosófo griego Democrito. Puede resumirse de la siguiente manera
 
