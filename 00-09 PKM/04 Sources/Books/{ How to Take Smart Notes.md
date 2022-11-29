@@ -81,7 +81,7 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 	- Ante la llegada de la era de la información, las personas de la sociedad moderna presentan un deficit de atención cada vez mayor
 - **Ser Multitareas no es una buena idea**
 	- Varios estudios han observado que el **multitasking** reduce la eficiencia de nuestro trabajo y disminuye la capacidad que tenemos para lidiar con varias tareas, ya que tratar de concentrarse en más de una cosa es agotador para nuestro cerebro
-	- Podemos mejorar nuestra capacidad de concentración si reducimos las distracciones y separamos las tareas de forma clara
+	- La concentración prolongada, en la que nos concentramos por periodos largos de tiempo, es vital para el aprendizaje y la productividad, y puede verse disminuida por las distracciones de la actualidad. Podemos mejorar nuestra capacidad de concentración si reducimos las distracciones, evitamos el multitasking y separamos las tareas de forma clara
 - **Dale a cada tarea el tipo adecuado de atención**
 - **Vuelvete un experto en lugar de un planeador**
 - **Ten un cierre**
