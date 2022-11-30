@@ -82,6 +82,10 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 		4. ¿A que se relaciona?
 		5. ¿Con que se compara?
 6. ¿Qué interrogantes me genera esta información?
+	1. Implicaciones
+	2. Asunciones
+	3. Situaciones Hipotéticas
+	4. Analogias
 7. ¿Qué información es importante?
 8. ¿Cómo puedo parafrasear y resumir la información?
 9. ¿Cómo puedo organizar la información?

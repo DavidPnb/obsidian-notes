@@ -83,6 +83,7 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 	- Varios estudios han observado que el **multitasking** reduce la eficiencia de nuestro trabajo y disminuye la capacidad que tenemos para lidiar con varias tareas, ya que tratar de concentrarse en más de una cosa es agotador para nuestro cerebro
 	- La concentración prolongada, en la que nos concentramos por periodos largos de tiempo, es vital para el aprendizaje y la productividad, y puede verse disminuida por las distracciones de la actualidad. Podemos mejorar nuestra capacidad de concentración si reducimos las distracciones, evitamos el multitasking y separamos las tareas de forma clara
 - **Dale a cada tarea el tipo adecuado de atención**
+	- Las diversas tareas que estan involucradas en el proceso de escritura, como la lectura y la edición, requieren distintos tipos de enfoque y de mentalidad porque su naturaleza nos hace afrontarlas de una forma determinada. Si queremos completar estas tareas de forma efectiva, necesitamos pensar de manera flexible
 - **Vuelvete un experto en lugar de un planeador**
 - **Ten un cierre**
 - **Reduce el número de decisiones**
