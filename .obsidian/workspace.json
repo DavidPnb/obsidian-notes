@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "9e2727bf2750cf33",
+            "id": "edbc0b7657f1edd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "db85c929b89c5e0d",
+            "id": "9e2727bf2750cf33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,7 +136,7 @@
                   "repelStrength": 19.1267605633803,
                   "linkStrength": 0.595618153364632,
                   "linkDistance": 428,
-                  "scale": 0.042315898326350534,
+                  "scale": 0.07431470243658038,
                   "close": true
                 }
               }
@@ -295,17 +295,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "db85c929b89c5e0d",
+  "active": "9e2727bf2750cf33",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-03.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-02.md",
-    "40-49 Ciencias/43 Quimica/Compuestos Inorganicos.md",
+    "40-49 Ciencias/43 Quimica/Reacciones Quimicas.md",
     "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
     "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
-    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-01.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md"
+    "40-49 Ciencias/43 Quimica/Relaciones de Masa en Quimica.md",
+    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W48.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Linking your thinking encourages leaps of insights.md"
   ]
 }

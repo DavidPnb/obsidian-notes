@@ -1,5 +1,4 @@
 
--   [jay l. colbert](https://wilde-at-heart.garden/) on Library Organization and Metadata
 -   [Leah Ferguson](https://notes.leahferguson.com/) on Design and D&D
 -   [Paul Bauer Codes](https://bauer.codes/notes) on Coding
 -   [Nikola’s Digital Garden](https://notes.nikolamilekic.com/) on CS, Mathematics and Politics
