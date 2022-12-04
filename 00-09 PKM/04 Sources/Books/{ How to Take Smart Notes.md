@@ -85,6 +85,7 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 - **Dale a cada tarea el tipo adecuado de atención**
 	- Las diversas tareas que estan involucradas en el proceso de escritura, como la lectura y la edición, requieren distintos tipos de enfoque y de mentalidad porque su naturaleza nos hace afrontarlas de una forma determinada. Si queremos completar estas tareas de forma efectiva, necesitamos pensar de manera flexible
 - **Vuelvete un experto en lugar de un planeador**
+	- Un experto no depende de decisiones concientes o de reglas y pasos explicitos, sino que su experiencia les permite recurrir a su intuición para tomar acción de la forma que mejor se adapte a las circunstancias específicas
 - **Ten un cierre**
 - **Reduce el número de decisiones**
 
