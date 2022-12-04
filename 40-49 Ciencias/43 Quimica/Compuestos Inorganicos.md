@@ -21,7 +21,7 @@ Los **compuestos moleculares binarios** se nombra de manera similar a los compue
 
 ## Ácidos y Bases
 ### Ácidos
-Un **ácido** es una sustancia que libera iones de hidrógeno cuando se disuelve en agua. Su fórmula contiene uno o más átomos de hidrógeno junto con un grupo aniónico. Los **oxíacidos** son ácidos que contienen hidrógeno, oxígeno y otro elemento, llamado **elemento central**. Generalmente en sus fórmulas se nombra primero el hidrógeno, despues el elemento central y por último el oxígeno. La nomenclatura de los oxíacidos hace uso de **ácidos de referencia**.
+Un **ácido** es una sustancia que se ionizan en agua para formar iones de hidrógeno. Su fórmula contiene uno o más átomos de hidrógeno junto con un grupo aniónico. Los **oxíacidos** son ácidos que contienen hidrógeno, oxígeno y otro elemento, llamado **elemento central**. Generalmente en sus fórmulas se nombra primero el hidrógeno, despues el elemento central y por último el oxígeno. La nomenclatura de los oxíacidos hace uso de **ácidos de referencia**.
 
 ![[43.00 Quimica-1.png]]
 
@@ -30,7 +30,7 @@ Al elemento central se le agregan los afijos *hipo-...-oso*, *-oso* y *per-...-i
 Los **oxianiones** son los aniones de los oxíacidos. Si el oxíacido terminaba en *-ico*, el oxianión termina en *-ato*, y si el oxíacido termina en *-oso*, el oxianión termina en *-ito*. En caso de que el oxianión siga acompañado por átomos de hidrógeno, se debe especificar su cantidad.
 
 ### Bases
-Las **bases** son sustancias que liberan iones hidróxido al disolverse en agua. Para nombrarlas se usa la palabra hidróxido seguida del nombre del elemento que lo acompaña.
+Las **bases** son sustancias que se ionizan en agua para formar iones hidróxido. Para nombrarlas se usa la palabra hidróxido seguida del nombre del elemento que lo acompaña.
 
 ## Hidratos
 Los **hidratos** son compuestos que estan unidos con un número determinado de moléculas de agua. Para nombrarlos se debe especificar el número de moleculas de agua.
