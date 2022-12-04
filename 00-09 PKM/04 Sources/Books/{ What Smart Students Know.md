@@ -87,6 +87,10 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 	3. Situaciones Hipotéticas
 	4. Analogias
 7. ¿Qué información es importante?
+	1. Debemos invertir el 80% de nuestro tiempo en el 20% más importante de la información
+	2. Hechos o Ideas que permiten contestar las preguntas de experticia y orientación
+	3. Información que muestre una brecha en nuestro entendimiento
+	4. Términos, conceptos e ideas claves
 8. ¿Cómo puedo parafrasear y resumir la información?
 9. ¿Cómo puedo organizar la información?
 10. ¿Cómo puede ilustra la información?
