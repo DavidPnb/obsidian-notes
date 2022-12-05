@@ -95,7 +95,12 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 	1. Parafrasear la información
 	2. Usar la minima cantidad de palabras posible
 9. ¿Cómo puedo organizar la información?
-10. ¿Cómo puede ilustra la información?
+	1. ¿En que maneras diferentes puedo comparar la información?
+	2. ¿Qué elementos son similares de alguna manera?
+	3. ¿Qué elementos son diferentes?
+	4. ¿Qué elementos dependen de otros?
+	5. ¿Cómo se comparan los elementos en términos de preguntas de experticia y de orientación?
+10. ¿Cómo puedo ilustrar la información?
 11. ¿Cómo puedo recordar mejor esta información?
 12. ¿Cómo encaja esta información con lo que ya sé?
 
