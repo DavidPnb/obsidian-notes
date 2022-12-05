@@ -92,6 +92,8 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 	3. Información que muestre una brecha en nuestro entendimiento
 	4. Términos, conceptos e ideas claves
 8. ¿Cómo puedo parafrasear y resumir la información?
+	1. Parafrasear la información
+	2. Usar la minima cantidad de palabras posible
 9. ¿Cómo puedo organizar la información?
 10. ¿Cómo puede ilustra la información?
 11. ¿Cómo puedo recordar mejor esta información?
