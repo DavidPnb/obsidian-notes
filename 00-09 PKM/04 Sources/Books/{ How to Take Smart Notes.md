@@ -87,6 +87,9 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 - **Vuelvete un experto en lugar de un planeador**
 	- Un experto no depende de decisiones concientes o de reglas y pasos explicitos, sino que su experiencia les permite recurrir a su intuición para tomar acción de la forma que mejor se adapte a las circunstancias específicas
 - **Ten un cierre**
+	- Nuestra memoria a corto plazo es un recurso limitado, así que debemos concentrarnos en los pensamientos más importantes y externalizar el resto en el sistema.
+	- Hemos descubierto que las tareas que tenemos sin terminar ocupan espacio en nuestra memoria a corto plazo. Esto es llamado **efecto Zeigarnik** y es la base de sistemas como *GTD* o *BASB*, que externalizan las tareas y se aseguran que podamos revisarlas más tarde, reduciendo la carga que ocupan en nuestra memoria
+	- Los datos aislados son más dificiles de recordar que la información que podemos entender. Por esto es importante establecer relaciones entre las ideas con las que queremos familiarizarnos
 - **Reduce el número de decisiones**
 
 ## Puntos Clave
