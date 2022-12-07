@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md"
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md"
               }
             }
           },
@@ -299,13 +299,13 @@
   "lastOpenFiles": [
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-07.md",
     "40-49 Ciencias/40 Matematicas/Sucesiones y Series.md",
+    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
     "40-49 Ciencias/40 Matematicas/Determinantes.md",
     "40-49 Ciencias/40 Matematicas/40.02 Algebra.md",
     "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
     "40-49 Ciencias/40 Matematicas/Funciones Polinomicas.md",
     "40-49 Ciencias/40 Matematicas/Expresiones Algebraicas.md",
     "40-49 Ciencias/40 Matematicas/Operaciones con Expresiones Algebraicas.md",
-    "40-49 Ciencias/40 Matematicas/Factorizacion.md",
-    "40-49 Ciencias/40 Matematicas/Algebra Elemental.md"
+    "40-49 Ciencias/40 Matematicas/Factorizacion.md"
   ]
 }

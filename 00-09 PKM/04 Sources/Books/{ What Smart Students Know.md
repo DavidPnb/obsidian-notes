@@ -101,6 +101,9 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 	4. ¿Qué elementos dependen de otros?
 	5. ¿Cómo se comparan los elementos en términos de preguntas de experticia y de orientación?
 10. ¿Cómo puedo ilustrar la información?
+	1. Diagramas
+	2. Tablas
+	3. Formas
 11. ¿Cómo puedo recordar mejor esta información?
 12. ¿Cómo encaja esta información con lo que ya sé?
 
