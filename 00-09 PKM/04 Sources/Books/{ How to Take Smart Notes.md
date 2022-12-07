@@ -91,6 +91,8 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 	- Hemos descubierto que las tareas que tenemos sin terminar ocupan espacio en nuestra memoria a corto plazo. Esto es llamado **efecto Zeigarnik** y es la base de sistemas como *GTD* o *BASB*, que externalizan las tareas y se aseguran que podamos revisarlas más tarde, reduciendo la carga que ocupan en nuestra memoria
 	- Los datos aislados son más dificiles de recordar que la información que podemos entender. Por esto es importante establecer relaciones entre las ideas con las que queremos familiarizarnos
 - **Reduce el número de decisiones**
+	- Poder tomar descansos para despues retomar el trabajo en curso es vital para el aprendizaje, otorga un descanso mental y da tiempo a que la información se transfiera a la memoria a largo plazo
+	- Reducir el número de decisiones evita que desgastemos nuestra fuerza de voluntad, lo que mejora nuestra toma de decisiones
 
 ## Puntos Clave
 
