@@ -99,4 +99,6 @@ Una ecuación radical es aquella que incluye una o más incognitas dentro de un 
 
 ## Combinaciones y Permutaciones
 [[Combinatoria]]
+
+## 
 ___
