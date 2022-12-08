@@ -94,6 +94,14 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 	- Poder tomar descansos para despues retomar el trabajo en curso es vital para el aprendizaje, otorga un descanso mental y da tiempo a que la información se transfiera a la memoria a largo plazo
 	- Reducir el número de decisiones evita que desgastemos nuestra fuerza de voluntad, lo que mejora nuestra toma de decisiones
 
+### Leer para Entender
+- **Leer con una Pluma a la Mano**
+	- Con esto podemos traducir la información en el texto y extrapolarla a otros contextos que sean de utilidad para nuestras ideas y argumentos
+- **Tener Mente Abierta**
+- **Consigue la Esencia del Texto**
+- **Aprende a Leer**
+- **Lee para Entender**
+
 ## Puntos Clave
 
 ## Contexto
