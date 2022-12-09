@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
+                "file": "40-49 Ciencias/40 Matematicas/Combinatoria.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c09eaec3460bae7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-49 Ciencias/40 Matematicas/Productos Notables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -156,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "teorema del rest",
+                "query": "\"(a+b)^2\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,8 +188,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md"
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md"
               }
             }
           },
@@ -295,17 +307,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "657dbeca60e434bc",
+  "active": "935d609eb82f250d",
   "lastOpenFiles": [
+    "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
+    "40-49 Ciencias/40 Matematicas/Combinatoria.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-09.md",
+    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-08.md",
     "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-07.md",
-    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
     "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
     "40-49 Ciencias/43 Quimica/Compuestos Inorganicos.md",
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "40-49 Ciencias/40 Matematicas/Sucesiones y Series.md",
-    "40-49 Ciencias/40 Matematicas/Determinantes.md",
-    "40-49 Ciencias/40 Matematicas/40.02 Algebra.md"
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md"
   ]
 }
