@@ -105,6 +105,14 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 	2. Tablas
 	3. Formas
 11. ¿Cómo puedo recordar mejor esta información?
+	1. Decidir si la información tiene sentido lógico o puede ser reconstruida con conocimientos previos
+	2. Usar un gancho
+		1. Imagenes
+		2. Rimas
+		3. Historias
+		4. Patrones
+	3. Involucrar activamente tantos sentidos como sea posible
+	4. Usar la información constantemente
 12. ¿Cómo encaja esta información con lo que ya sé?
 
 Dependiendo del contexto, algunas preguntas pueden ser más importantes que otras. Estas tambien pueden extrapolarse a clases y seminarios.

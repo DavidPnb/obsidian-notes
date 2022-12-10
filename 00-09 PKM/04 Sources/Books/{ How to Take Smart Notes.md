@@ -98,6 +98,7 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 - **Leer con una Pluma a la Mano**
 	- Con esto podemos traducir la información en el texto y extrapolarla a otros contextos que sean de utilidad para nuestras ideas y argumentos
 - **Tener Mente Abierta**
+	- Para evitar el sesgo de confirmación se debe recolectar toda información relevante a un tema de investigación, y luego desarrollar el argumento a partir de la evidencia recolectada en lugar de hacerlo a la inversa
 - **Consigue la Esencia del Texto**
 - **Aprende a Leer**
 - **Lee para Entender**
