@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
+                "file": "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
+                "file": "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
+                "file": "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md"
+                "file": "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md"
               }
             }
           },
@@ -297,15 +297,15 @@
   },
   "active": "c09eaec3460bae7c",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-10.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-09.md",
+    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
     "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "40-49 Ciencias/40 Matematicas/Induccion Matematica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Induccion.md",
     "40-49 Ciencias/40 Matematicas/Productos Notables.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
-    "40-49 Ciencias/40 Matematicas/Combinatoria.md",
-    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-08.md"
+    "40-49 Ciencias/40 Matematicas/Combinatoria.md"
   ]
 }
