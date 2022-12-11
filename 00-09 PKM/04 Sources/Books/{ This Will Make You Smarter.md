@@ -9,24 +9,10 @@ writer:: [[John Brockman]]
 status:: Doing
 subject:: [[10 Aprendizaje y Educacion MOC]]
 started:: 2022-09-14 18:30
-finished::
+finished:: 2022-12-11 12:51
 
 ## 🔍 Como lo Descubri
 [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
-
-## 📚 Libros Relacionados
-
-## Citas
-
-## Notas
-- [[Futuro Lejano del Universo]]
-- [[La Vida Inteligente es Algo Unico]]
-- [[Principio de Mediocridad]]
-- [[Universo sin Proposito]]
-- [[Principio de Copernico]]
-- [[Promover un Estilo de Vida Cientifico]]
-- **Experimentación** - Aunque no lo consideremos, hacemos experimentos constantemente en nuestra vida cotidiana. Si aprendieramos como razonar y recolectar evidencia de forma correcta, podriamos aprender mejor de nuestras experiencias, lo que afectaría positivamente todos los aspectos de nuestra vida
-- **La Metainducción Pesimista de la Historia de la Ciencia** - Muchas hipótesis y teorías antiguas han sido desmentidas con el pasar del tiempo, y es probable que lo mismo pase con gran parte del conocimiento actual. Esto no es necesariamente pesimista, ya que tenerlo en cuenta nos vuelve más humildes y nos incita a ser más abiertos a la evidencia que contradice nuestras creencias
 
 ## Contexto
 Colección de ensayos hechos por multiples científicos respondiendo a la pregunta ¿Que concepto científico mejoraría las herramientas cognitivas de cualquier persona?
