@@ -114,6 +114,7 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 	3. Involucrar activamente tantos sentidos como sea posible
 	4. Usar la información constantemente
 12. ¿Cómo encaja esta información con lo que ya sé?
+	1. Crear una guía de estudio resumiendo los temas a una sola pagina, tomando en cuenta el temario del curso y actualizandolo constantemente
 
 Dependiendo del contexto, algunas preguntas pueden ser más importantes que otras. Estas tambien pueden extrapolarse a clases y seminarios.
 

@@ -100,6 +100,7 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 - **Tener Mente Abierta**
 	- Para evitar el sesgo de confirmación se debe recolectar toda información relevante a un tema de investigación, y luego desarrollar el argumento a partir de la evidencia recolectada en lugar de hacerlo a la inversa
 - **Consigue la Esencia del Texto**
+	- Tomar notas es la manera ideal para prácticar mejorar nuestra capacidad de interpretación de textos. Esto nos permite extraer más facilmente la esencia de lo que se expresa, lo que nos ayuda a leer más rapido
 - **Aprende a Leer**
 - **Lee para Entender**
 
