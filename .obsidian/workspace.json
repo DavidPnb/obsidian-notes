@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md"
               }
             }
           },
@@ -308,17 +308,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "c2fbabc265dbe83e",
+  "active": "edbc0b7657f1edd1",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
     "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
     "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+    "00-09 PKM/03 Extras/Excalidraw/Geometria Analitica 2022-12-19 16.48.40.excalidraw.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W51.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
     "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
-    "40-49 Ciencias/40 Matematicas/Determinantes.md",
-    "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-18.md"
+    "40-49 Ciencias/40 Matematicas/Determinantes.md"
   ]
 }
