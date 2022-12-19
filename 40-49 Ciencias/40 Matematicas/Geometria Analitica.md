@@ -6,7 +6,12 @@ up:: [[40.05 Geometria]]
 # Geometría Análitica
 La geometría analítica es el estudio de la [[40.05 Geometria|Geometría]] utilizando un sistema de coordenadas, lo que permite usar los métodos y herramientas del [[40.02 Algebra|Algebra]].
 
+## Vectores
+En el enfoque vectorial, varios conceptos de vectores son fundamentales, como el producto punto y el producto cruz. En este contexto, los vectores pueden ser considerados una representación algebraica de un segmento dirigido. A esto se le llama comunmente **vector geométrico**. Este concepto se usa mucho en la física, en donde un vector se usa para representar magnitudes que se comprenden mejor al pensar en ellas como una flecha con un origen y un extremo.
+
 ## Sistemas de Coordenadas
+Los sistemas de coordenadas son los que permiten representar las figuras geométricas de forma analítica y explorar algebraicamente sus propiedades.
+
 ### Segmento Dirigido
 El concepto de segmento en geometría elemental se extiende al agregarle un **sentido** o **dirección**. El primer punto del segmento es llamado **origen** y el segundo se llama **extremo**. En un segmento dirigido, las longitudes de dos segmentos con sentidos opuestos tienen signos diferentes. Esto significa que $\overline{AB}=-\overline{BA}$  y $\overline{AB}+\overline{BC}=\overline{AC}$.
 

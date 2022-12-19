@@ -23,12 +23,25 @@
             }
           },
           {
+            "id": "04995989f9bd9a4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "edbc0b7657f1edd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -197,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md"
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md"
               }
             }
           },
@@ -295,17 +308,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "edbc0b7657f1edd1",
+  "active": "c2fbabc265dbe83e",
   "lastOpenFiles": [
-    "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-18.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W50.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2022-W51.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
     "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
-    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
-    "00-09 PKM/07 Inbox/+ Cooling Pad/Mayeutica.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metodo Socratico.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/MOCs Overview.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/MOCs encourage flexible non-destructive thinking.md"
+    "40-49 Ciencias/40 Matematicas/Determinantes.md",
+    "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-18.md"
   ]
 }
