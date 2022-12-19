@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md"
               }
             }
           },
@@ -297,6 +297,7 @@
   },
   "active": "edbc0b7657f1edd1",
   "lastOpenFiles": [
+    "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-18.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W50.md",
@@ -305,7 +306,6 @@
     "00-09 PKM/07 Inbox/+ Cooling Pad/Mayeutica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metodo Socratico.md",
     "00-09 PKM/00 Atlas/00.02 Cards/MOCs Overview.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/MOCs encourage flexible non-destructive thinking.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/MOCs are Dialectics.md"
+    "00-09 PKM/00 Atlas/00.02 Cards/MOCs encourage flexible non-destructive thinking.md"
   ]
 }
