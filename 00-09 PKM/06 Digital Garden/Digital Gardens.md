@@ -1,5 +1,4 @@
 
--   [Paul Bauer Codes](https://bauer.codes/notes) on Coding
 -   [Nikola’s Digital Garden](https://notes.nikolamilekic.com/) on CS, Mathematics and Politics
 -   [Joschua’s Garden](https://joschuasgarden.com/) on Christianity
 -   [The Integral Guide to Well-Being](https://integralguide.com/) on Mental Health and Psychology
