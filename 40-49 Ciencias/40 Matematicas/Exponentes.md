@@ -37,6 +37,10 @@ $$(bc)^{n}=b^nc^n$$
 
 $$(\frac{a}{b})^n=\frac{a^n}{b^n}$$
 
+$$
+b^{x}=b^{y}\iff x=y;b\neq0,b\neq 1
+$$
+
 ## Notación Científica
 [[Notacion Cientifica]]
 ___
