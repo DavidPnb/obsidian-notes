@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
+                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
+                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md"
+                "file": "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md"
               }
             }
           },
@@ -308,17 +308,17 @@
     "direction": "horizontal",
     "width": 425.11822509765625
   },
-  "active": "0b4ccf9e60e1b828",
+  "active": "786f5b309a876c05",
   "lastOpenFiles": [
-    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-20.md",
     "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
+    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-19.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-05.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-12.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-14.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-18.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/60.00 Fitness.md"
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md"
   ]
 }
