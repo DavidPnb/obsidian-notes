@@ -104,6 +104,7 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 - **Aprende a Leer**
 	- Escribir sobre lo que leemos pone a prueba nuestra comprensión del tema y mejora nuestras posibilidades de recordar la información a largo plazo
 - **Lee para Entender**
+	- La elaboración es una técnica de aprendizaje que consiste en darle sentido a la información al explorarla y relacionarla con información ya conocida. Tomar notas nos permite almacenar datos aislados a largo plazo, liberando espacio en el cerebro que puede ser dedicado al entendimiento y la creatividad
 
 ## Puntos Clave
 
