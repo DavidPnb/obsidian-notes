@@ -101,10 +101,12 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 	- Para evitar el sesgo de confirmación se debe recolectar toda información relevante a un tema de investigación, y luego desarrollar el argumento a partir de la evidencia recolectada en lugar de hacerlo a la inversa
 - **Consigue la Esencia del Texto**
 	- Tomar notas es la manera ideal para practicar y mejorar nuestra capacidad de interpretación de textos. Esto nos permite extraer más facilmente la esencia de lo que se expresa, lo que nos ayuda a leer más rapido
-- **Aprende a Leer**
+- **Aprender a Leer**
 	- Escribir sobre lo que leemos pone a prueba nuestra comprensión del tema y mejora nuestras posibilidades de recordar la información a largo plazo
 - **Lee para Entender**
 	- La elaboración es una técnica de aprendizaje que consiste en darle sentido a la información al explorarla y relacionarla con información ya conocida. Tomar notas nos permite almacenar datos aislados a largo plazo, liberando espacio en el cerebro que puede ser dedicado al entendimiento y la creatividad
+
+### Tomar Notas Inteligentes
 
 ## Puntos Clave
 

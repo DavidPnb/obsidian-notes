@@ -118,6 +118,46 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 Dependiendo del contexto, algunas preguntas pueden ser más importantes que otras. Estas tambien pueden extrapolarse a clases y seminarios.
 
 ### Como los Buenos Estudiantes Aprenden Distintos Temas
+- Tipos de Temas
+	- **Comprensión** - Son los que más se benefician de las doce preguntas originales
+		- Antropología
+		- Astronomía
+		- Biología
+		- Geología
+		- Educación
+		- Geografía
+		- Historia
+		- Leyes
+		- Administración
+		- Marketing
+		- Ciencias Politicas
+		- Psicología
+		- Sociología
+	- **Interpretación**
+		- Historia del Arte
+		- Teoría de la Danza
+		- Teoría de la Musica
+		- Literatura
+		- Crítica Cinematografica
+		- Filosofía
+		- Teología
+	- **Resolución de Problemas**
+		- Contaduria
+		- Química
+		- Computación
+		- Economia
+		- Ingeniería
+		- Finanzas
+		- Lógica
+		- Matemáticas
+		- Física
+	- **Producción** - Estan fuera del alcance del método
+		- Escritura Creativa
+		- Danza
+		- Música
+		- Lengua Extranjera
+		- Artes Plasticas
+		- Teatro
 ### Como los Buenos Estudiantes Obtienen sus Notas
 ### Como los Buenos Estudiantes lo Juntan Todo
 
