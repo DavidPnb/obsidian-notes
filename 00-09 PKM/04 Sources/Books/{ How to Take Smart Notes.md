@@ -106,7 +106,8 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 - **Lee para Entender**
 	- La elaboración es una técnica de aprendizaje que consiste en darle sentido a la información al explorarla y relacionarla con información ya conocida. Tomar notas nos permite almacenar datos aislados a largo plazo, liberando espacio en el cerebro que puede ser dedicado al entendimiento y la creatividad
 
-### Tomar Notas Inteligentes
+### Tomar Notas Inteligentes 
+El exito de una investigación en el ambito academico depende la capacidad para recontextualizar la información y relacionarla con otras ideas.
 
 ## Puntos Clave
 
