@@ -133,7 +133,7 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 		- Ciencias Politicas
 		- Psicología
 		- Sociología
-	- **Interpretación**
+	- **Interpretación** - Tienen muchas preguntas para plantearse y hacen especial énfasis en el recurso original, que suele leerse repetidas veces
 		- Historia del Arte
 		- Teoría de la Danza
 		- Teoría de la Musica

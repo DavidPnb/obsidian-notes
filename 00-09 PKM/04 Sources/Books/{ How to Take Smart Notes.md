@@ -109,6 +109,8 @@ Estos pasos son explicados a detalle en los siguientes capitulos.
 ### Tomar Notas Inteligentes 
 El exito de una investigación en el ambito academico depende la capacidad para recontextualizar la información y relacionarla con otras ideas.
 
+- **Crear una Carrera una Nota a la Vez** - Debido a la complejidad que requiere escribir el manuscrito de un ensayo, la productividad del academico debe medirse por medio de la cantidad de notas que genera, ya que estas notas incluyen tanto investigación como relaciones entre ideas, evidencias y argumentos
+
 ## Puntos Clave
 
 ## Contexto

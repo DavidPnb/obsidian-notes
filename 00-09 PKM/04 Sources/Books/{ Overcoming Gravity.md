@@ -29,6 +29,19 @@ finished::
 		1. Es la ventaja mecanica que se obtiene por medio de un punto de apoyo determinado. Para evitar el uso de pesos, el ejercicio con peso corporal busca reducir la palanca para así aumentar la cantidad de fuerza que los musculos deben ejercer para realizar un movimiento
 		2. La palanca puede disminuirse al cambiar la posición del cuerpo, alterando el centro de gravedad y aumentando el torque que se aplica los musculos
 		3. Los musculos son más fuertes en su posición de descanso. Por lo tanto, al flexionarlos o extenderlos se aplica más tensión sobre estos
+	3. Términos Comunes de Entrenamiento
+		1. **Repeticiones** - Número de veces que se repite un ejercicio en un set
+		2. **Sets** - Número de veces que se realiza un ejercicio
+		3. **Descanso** - Tiempo entre cada set. Puede ser menor al entrenar para resistencia o mayor al entrenar para fuerza
+		4. **Tempo** - Velocidad a la que se ejecutan las repeticiones. Incluye segundos en movimiento inicial, segundos en posición terminal, segundos de contramovimiento y segundos de posición inicial
+		5. **Intensidad** - Dificultad de un ejercicio. Se mide en porcentaje de RM por set
+		6. **Volumen** - Cantidad total de ejercicios realizada en una sesión de entrenamiento
+		7. **Frecuencia** - Que tan seguido se realiza un ejercicio
+		8. **Atributo** - Cualidad particular que se entrena. Puede ser fuerza, flexibilidad, mobilidad, resistencia, hipertrofia, cardio
+		9. **Fallo** - Punto en el que no se puede realizar otro ejercicio de la forma apropiada
+		10. **Capacidad de Trabajo** - Capacidad de realizar más ejercicio luego de adaptarse a una sesión de entrenamiento
+		11. **Descarga** - Periodo en el que se reducen algunos factores de una rutina para permitir que el cuerpo se recupere
+		12. **Estancamiento** - Punto en el que un atleta deja de mejorar su desempeño en una rutina específica
 ### Construir una Rutina
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa

@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "334af21471150cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-21.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c2fbabc265dbe83e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -313,17 +300,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "334af21471150cd3",
+  "active": "c2fbabc265dbe83e",
   "lastOpenFiles": [
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-21.md",
+    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
     "00-09 PKM/04 Sources/Books/{ Think.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-21.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cogito Ergo Sum.md",
     "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
-    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-20.md",
-    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md"
+    "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md"
   ]
 }
