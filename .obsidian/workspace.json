@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-21.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-21.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-21.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-21.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-22.md"
               }
             }
           },
@@ -302,9 +302,9 @@
   },
   "active": "c2fbabc265dbe83e",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-21.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-21.md",
     "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
     "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
