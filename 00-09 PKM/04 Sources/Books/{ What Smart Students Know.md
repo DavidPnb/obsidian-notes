@@ -133,7 +133,7 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 		- Ciencias Politicas
 		- Psicología
 		- Sociología
-	- **Interpretación** - Tienen muchas preguntas para plantearse y hacen especial énfasis en el recurso original, que suele leerse repetidas veces
+	- **Interpretación** - Contienen muchas preguntas para plantearse y hacen especial énfasis en el recurso original, que suele leerse repetidas veces
 		- Historia del Arte
 		- Teoría de la Danza
 		- Teoría de la Musica
@@ -141,7 +141,7 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 		- Crítica Cinematografica
 		- Filosofía
 		- Teología
-	- **Resolución de Problemas**
+	- **Resolución de Problemas** - Requieren del reconocimiento de patrones y el dominio de técnicas de solución de problemas, y se enfocan más en la práctica que en la organización de la información
 		- Contaduria
 		- Química
 		- Computación
