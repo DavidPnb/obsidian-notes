@@ -42,6 +42,7 @@ finished::
 		10. **Capacidad de Trabajo** - Capacidad de realizar más ejercicio luego de adaptarse a una sesión de entrenamiento
 		11. **Descarga** - Periodo en el que se reducen algunos factores de una rutina para permitir que el cuerpo se recupere
 		12. **Estancamiento** - Punto en el que un atleta deja de mejorar su desempeño en una rutina específica
+	4. Continuo de Repeticiones - Contiene la fuerza en un extremo y la resistencia en otro extremo. Una requiere de menos repeticiones y más intensidad, lo que puede llegar hasta un máximo de repeticiones (1 RM), la otra requiere menos intensidad y más repeticiones. Ambas no pueden ser desarrolladas de forma óptima al mismo tiempo, pero se pueden desarrollar en una cantidad decente. La proporción máxima entre las dos debe ser 4:1 o 1:4, ya que el desarrollo de un extremo trae beneficios para el otro
 ### Construir una Rutina
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa
