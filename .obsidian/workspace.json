@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "c2fbabc265dbe83e",
+            "id": "390cc71737170bb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "70-79 Artes/70 Arte y Diseño.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "70-79 Artes/70 Arte y Diseño.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "70-79 Artes/70 Arte y Diseño.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "70-79 Artes/70 Arte y Diseño.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-23.md"
               }
             }
           },
@@ -314,17 +314,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c2fbabc265dbe83e",
+  "active": "390cc71737170bb0",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Drawing on the Right Side of the Brain.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-23.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-22.md",
-    "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
     "70-79 Artes/70 Arte y Diseño.md",
+    "80-89 Literatura, Escritura y Ficcion/82 Cine y TV/82.00 Cine y TV.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
-    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-21.md"
+    "80-89 Literatura, Escritura y Ficcion/81 Literatura/81.00 Literatura MOC.md"
   ]
 }
