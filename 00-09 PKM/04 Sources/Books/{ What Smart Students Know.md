@@ -159,6 +159,14 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 		- Artes Plasticas
 		- Teatro
 ### Como los Buenos Estudiantes Obtienen sus Notas
+- Preparación para Examenes
+	- Conocer el contenido
+	- Repasar el temario del curso
+	- Revisar examenes previos
+	- Revisar notas
+	- Responder preguntas
+	- Resumir la guía de estudio
+	- Reconstruir la guía de estudio de memoria
 ### Como los Buenos Estudiantes lo Juntan Todo
 
 ## Puntos Clave
