@@ -1,6 +1,4 @@
 
--   [Nikola’s Digital Garden](https://notes.nikolamilekic.com/) on CS, Mathematics and Politics
--   [Joschua’s Garden](https://joschuasgarden.com/) on Christianity
 -   [The Integral Guide to Well-Being](https://integralguide.com/) on Mental Health and Psychology
 -   [Bryan Jenks](https://publish.obsidian.md/bryan-jenks) on ADHD and IT
 -   [Obsidian Hub](https://publish.obsidian.md/hub) on everything Obsidian
