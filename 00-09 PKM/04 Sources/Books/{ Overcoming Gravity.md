@@ -43,6 +43,10 @@ finished::
 		11. **Descarga** - Periodo en el que se reducen algunos factores de una rutina para permitir que el cuerpo se recupere
 		12. **Estancamiento** - Punto en el que un atleta deja de mejorar su desempeño en una rutina específica
 	4. Continuo de Repeticiones - Contiene la fuerza en un extremo y la resistencia en otro extremo. Una requiere de menos repeticiones y más intensidad, lo que puede llegar hasta un máximo de repeticiones (1 RM), la otra requiere menos intensidad y más repeticiones. Ambas no pueden ser desarrolladas de forma óptima al mismo tiempo, pero se pueden desarrollar en una cantidad decente. La proporción máxima entre las dos debe ser 4:1 o 1:4, ya que el desarrollo de un extremo trae beneficios para el otro
+2. **Fisiología de la Fuerza y la Hipertrofia**
+	1. ¿Qué es la Fuerza?
+		1. Fuerza = Adaptaciones Neuronales * Area de la Sección Transversal del Músculo
+		2. Al incremento en el tamaño del músculo se le llama **hipertrofia**. A la larga, entrenar para ganar fuerza y entrenar para ganar músculo tiene el mismo resultado, a menos que se consuman PEDs
 ### Construir una Rutina
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa

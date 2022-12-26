@@ -167,6 +167,11 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 	- Responder preguntas
 	- Resumir la guía de estudio
 	- Reconstruir la guía de estudio de memoria
+- Desempeño en los examenes
+	- Leer cuidadosamente las indicaciones
+	- Revisar cada pregunta
+	- Medir el tiempo
+	- Responder las preguntas
 ### Como los Buenos Estudiantes lo Juntan Todo
 
 ## Puntos Clave
