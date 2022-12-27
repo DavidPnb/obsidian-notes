@@ -323,21 +323,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "a127511716bd8f6b",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-27.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cogito Ergo Sum.md",
     "00-09 PKM/04 Sources/Books/{ Think.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-27.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-26.md",
     "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
     "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-25.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-24.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-25.md"
   ]
 }
