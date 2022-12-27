@@ -7,7 +7,116 @@ up:: [[40.05 Geometria]]
 La geometría analítica es el estudio de la [[40.05 Geometria|Geometría]] utilizando un sistema de coordenadas, lo que permite usar los métodos y herramientas del [[40.02 Algebra|Algebra]].
 
 ## Vectores
-En el enfoque vectorial, varios conceptos de vectores son fundamentales, como el producto punto y el producto cruz. En este contexto, los vectores pueden ser considerados una representación algebraica de un segmento dirigido. A esto se le llama comunmente **vector geométrico**. Este concepto se usa mucho en la física, en donde un vector se usa para representar magnitudes que se comprenden mejor al pensar en ellas como una flecha con un origen y un extremo.
+En el enfoque vectorial, varios conceptos de vectores son fundamentales, como el producto punto y el producto cruz. En este contexto, los vectores pueden ser considerados una representación analítica de un segmento dirigido. A esto se le llama comunmente **vector geométrico**. Este concepto se usa mucho en la física, en donde un vector se usa para representar magnitudes que se comprenden mejor al pensar en ellas como una flecha con un origen y un extremo.
+
+### Características de un Vector
+Un vector geométrico tiene tres características
+- **Módulo** - Representa la longitud del vector. Es igual a la longitud del segmento entre el origen y el extremo del vector
+- **Dirección** - Esta determinada por la pendiente de la recta que contiene al vector
+- **Sentido** - Una de las dos orientaciones posibles de la recta que contiene al vector
+
+Esto contrasta con el concepto de un **escalar**, que pueden ser representados por una única magnitud.
+
+Un vector generalmente se representa como $\overrightarrow{A}$ , usando $|\overrightarrow{A}|$ para referirse al modulo del vector. Un vector entre dos puntos se representa como  $\overrightarrow{AB}$ , donde $A$ es el origen del vector, $B$ es el extremo y $|\overrightarrow{AB} |$ es el modulo del vector.
+
+Dos vectores son **paralelos** si tienen la misma dirección.
+
+### Igualdad de Vectores
+Dos vectores son iguales si y solo si sus características son iguales.
+
+### Suma de Vectores
+La suma geométrica de vectores se realiza usando la **regla del paralelogramo**, donde un vector se posiciona con su origen en el extremo del vector anterior, y el **vector suma** va desde el origen del primer vector hasta el extremo del último.
+
+- **Propiedades**
+	- Conmutativa
+		- $\overrightarrow{A}+\overrightarrow{B}=\overrightarrow{B}+\overrightarrow{A}$
+	- Asociativa
+		- $(\overrightarrow{A}+\overrightarrow{B})+\overrightarrow{C}=\overrightarrow{A}+(\overrightarrow{B}+\overrightarrow{C})$
+	- Existencia de elementro neutro
+		- $\overrightarrow{A}+\overrightarrow{0}=\overrightarrow{A}$
+	- Existencia de opuesto
+		- $\overrightarrow{A}+\overrightarrow{B}=\overrightarrow{0}$
+	- Monotonía de la igualdad vectorial respecto a la suma de vectores
+		- $\overrightarrow{A}=\overrightarrow{B}, \overrightarrow{C}=\overrightarrow{D}\implies\overrightarrow{A}+\overrightarrow{C}=\overrightarrow{B}+\overrightarrow{D}$
+
+### Resta de Vectores
+Geométricamente, $\overrightarrow{A}-\overrightarrow{B}$ es el vector que al sumarse con $\overrightarrow{B}$ resulta en el vector $\overrightarrow{A}$ . Este vector tiene como origen el extremo de $\overrightarrow{B}$ y como extremo el extremo de $\overrightarrow{A}$ . Se calcula como $\overrightarrow{A}-\overrightarrow{B}=\overrightarrow{A}+(-\overrightarrow{B})$ , donde $-\overrightarrow{B}$ es el opuesto de $\overrightarrow{B}$.
+
+### Producto entre un Vector y un Escalar
+Produce un vector proporcional al vector original cuyo sentido depende del signo del escalar.
+
+- **Propiedades**
+	- Distributiva respecto a la suma de vectores
+		- $\lambda(\overrightarrow{A}+\overrightarrow{B})=\lambda\overrightarrow{A}+\lambda\overrightarrow{B}$
+	- Distributiva respecto a la suma escalar
+		- $(\alpha+\beta)\overrightarrow{A}=\alpha\overrightarrow{A}+\beta\overrightarrow{A}$
+	- Monotonía de la igualda vectorial respecto al producto de un escalar por un vector
+		- $\overrightarrow{A}=\overrightarrow{B},\lambda=\alpha\implies \lambda\overrightarrow{A}=\alpha\overrightarrow{B}$
+		- $\overrightarrow{A}=\lambda\overrightarrow{C},\alpha\overrightarrow{B}=\overrightarrow{D}\implies \overrightarrow{A}+\alpha \overrightarrow{B}=\lambda\overrightarrow{C}+\overrightarrow{D}$
+	- Asociativa respecto al producto de un escalar por un vector
+		- $(\alpha \beta)\overrightarrow{A}=\alpha(\beta\overrightarrow{A})=\beta(\alpha\overrightarrow{A})$
+	- $\pm1*\overrightarrow{A}=\pm\overrightarrow{A}$
+	- $0*\overrightarrow{A}=\overrightarrow{0}$
+	- $\lambda\overrightarrow{A}=\overrightarrow{A}\lambda$
+
+### Vectores Unitarios
+Son vectores cuyo modulo es igual a uno, y por lo tanto estan caracterizados por su dirección y sentido. El vector unitario en la dirección de $\overrightarrow{A}$ , denotado como $\overrightarrow{\mu}_{A}$ , se calcula como $\frac{\overrightarrow{A}}{|\overrightarrow{A}|}$.
+
+### Base de Vectores
+Se dice que un vector $\overrightarrow{C}$ es una **combinación lineal** de $\overrightarrow{A}$ y $\overrightarrow{B}$ si $\overrightarrow{C}=\lambda_{1}\overrightarrow{A}+\lambda_{2}\overrightarrow{B}$ .
+
+> [!teorema] Teorema de la Base (**a**)
+> Cualquier vector $\overrightarrow{C}$ puede ser escrito como una combinación lineal de dos vectores no nulos y no paralelos $\overrightarrow{A}$ y $\overrightarrow{B}$ que esten el mismo plano
+
+> [!teorema] Teorema de la Base (**b**)
+> Cualquier vector $\overrightarrow{D}$ en el espacio tridimensional puede ser escrito como combinación linear de tres vectores no nulos y no paralelos $\overrightarrow{A}$ , $\overrightarrow{B}$ y $\overrightarrow{C}$
+
+La **dimensión** de una base es el número de vectores que pertenecen a la base
+
+- Vectores
+	- Son elementos de un conjunto llamado **espacio vectorial**
+		- Vectores Equipolentes
+			- Vectores que poseen las mismas características
+		- Vectores Libres
+			- Vectores que cumplen una relación de equivalencia
+				- $\overrightarrow{a}\approx\overrightarrow{b}$
+					- $|\overrightarrow{a}|=|\overrightarrow{b}|$
+					- $\text{Dirección de } \overrightarrow{a} = \text{Dirección de } \overrightarrow{b}$
+					- $\text{Sentido de } \overrightarrow{a} = \text{Sentido de } \overrightarrow{b}$
+					- Vectores Fijos
+						- $\text{Origen de } \overrightarrow{a} = \text{Origen de } \overrightarrow{b}$
+		- Vectores de Posición
+			- Vectores cuyo origen es el sistema de coordenadas
+		- Vector Unitario
+			- Su módulo es igual a $1$
+		- Vector Nulo
+			- $\overrightarrow{0}$
+				- $\overrightarrow{a}=(0,0,0)$
+		- Vectores Opuestos
+			- Tienen sentidos opuestos
+				- $\overrightarrow{A}+\overrightarrow{B}=\overrightarrow{0}$
+		- Igualdad de Vectores - Dos vectores son iguales si y solo si sus características son iguales
+			- $\overrightarrow{A}=\overrightarrow{B}$
+				- $A_{x}=B_{x}$
+				- $A_{y}=B_{y}$
+				- $A_{z}=B_{z}$
+		- Suma algebraica de vectores - La suma geométrica de vectores se realiza usando la **regla del paralelogramo**, donde un vector se posiciona con su origen en el extremo del vector anterior, y el **vector suma** va desde el origen del primer vector hasta el extremo del último
+			- $\overrightarrow{A}+\overrightarrow{B}$
+				- $(A_{x}+B_{x},A_{y}+B_{y},A_{z}+B_{z})$
+				- Tambien es un vector
+				- Propiedades
+					- Conmutativa
+						- $\overrightarrow{A}+\overrightarrow{B}=\overrightarrow{B}+\overrightarrow{A}$
+					- Asociativa
+						- $(\overrightarrow{A}+\overrightarrow{B})+\overrightarrow{C}=\overrightarrow{A}+(\overrightarrow{B}+\overrightarrow{C})$
+					- Existencia de elementro neutro
+						- $\overrightarrow{A}+\overrightarrow{0}=\overrightarrow{A}$
+					- Existencia de opuesto
+						- $\overrightarrow{A}+\overrightarrow{B}=\overrightarrow{0}$
+					- Monotonía de la igualdad vectorial respecto a la suma de vectores
+						- $\overrightarrow{A}=\overrightarrow{B}, \overrightarrow{C}=\overrightarrow{D}\implies\overrightarrow{A}+\overrightarrow{C}=\overrightarrow{B}+\overrightarrow{D}$
+		- Diferencia de vectores - Geométricamente, $\overrightarrow{A}-\overrightarrow{B}$ es el vector que al sumarse con $\overrightarrow{B}$ resulta en el vector $\overrightarrow{A}$
+			- $\overrightarrow{A}-\overrightarrow{B}=\overrightarrow{A}+(-\overrightarrow{B})$
 
 ## Sistemas de Coordenadas
 Los sistemas de coordenadas son los que permiten representar las figuras geométricas de forma analítica y explorar algebraicamente sus propiedades.
