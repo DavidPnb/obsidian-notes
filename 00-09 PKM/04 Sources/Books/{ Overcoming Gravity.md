@@ -47,6 +47,10 @@ finished::
 	1. ¿Qué es la Fuerza?
 		1. Fuerza = Adaptaciones Neuronales * Area de la Sección Transversal del Músculo
 		2. Al incremento en el tamaño del músculo se le llama **hipertrofia**. A la larga, entrenar para ganar fuerza y entrenar para ganar músculo tiene el mismo resultado, a menos que se consuman PEDs
+	2. Sistema Nervioso Central, Unidades Motoras y Fibras Musculares
+		1. Las **Unidades Motoras** estan conformadas por una neurona muscular y todas las fibras musculares con las que se conectan. Una unidad motora solo puede conectarse con un tipo de fibra muscular
+		2. Las unidades motoras se categorizan en un continuo que depende de su umbral de activación. Las del umbral más bajo activan fibras enfocadas a resistencia, las del umbral alto activan fibras enfocadas a fuerza y las que estan en medio a fibras que pueden comportarse de ambas maneras dependiendo del entrenamiento que se les de
+		3. El **Principio de Henneman** indica que las unidades musculares son acivadas desde la más pequeña a la más grande. Para entrenar las fibras que tienen más capacidad para la hipertrofia se deben usar ejercicios de alta intensidad
 ### Construir una Rutina
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa

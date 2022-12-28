@@ -112,6 +112,7 @@ El exito de una investigación en el ambito academico depende la capacidad para 
 - **Crear una Carrera una Nota a la Vez** - Debido a la complejidad que requiere escribir el manuscrito de un ensayo, la productividad del academico debe medirse por medio de la cantidad de notas que genera, ya que estas notas incluyen tanto investigación como relaciones entre ideas, evidencias y argumentos
 - **Pensar Fuera del Cerebro** - La capacidad humana de procesar ideas muy abstractas o complejas depende de reconocer nuestras propias limitaciones e incorporar el uso de herramientas externas
 - **Aprende al no Intentarlo** - El aprendizaje y la memoria deben construirse a través del entendimiento, conectando la nueva información con la información ya conocida y destacando las diferencias y similitudes entre conceptos por encima de sus categorias, ya que esto permite una conexión directa que ayuda a asociar los temas con diferentes contextos lo que mejora nuestra capacidad para recordarlos
+- **Añadir Notas Permanentes** - Estas deben estar conectadas a notas anteriores
 
 ## Puntos Clave
 
