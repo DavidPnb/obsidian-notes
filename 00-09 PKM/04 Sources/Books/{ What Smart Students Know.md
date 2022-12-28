@@ -172,6 +172,37 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 	- Revisar cada pregunta
 	- Medir el tiempo
 	- Responder las preguntas
+- Escribir Ensayos
+	- Partes
+		- Introducción
+			- Trasfondo
+			- Opinión Personal
+		- Argumento
+			- Razones
+			- Evidencia
+		- Conclusión
+			- Resumen
+	- Términos
+		- **Trasfondo** - Es el área general que incluye al tema del ensayo
+		- **Limitar** - Limitar una opinión implica restringirla o especificarla
+		- **Tesis** - Incluye una opinión y las razones para esa opinión
+		- **Evidencia**
+			- Hechos
+			- Estudios
+			- Detalles
+			- Ejemplos
+		- **Aserción** - Afirmación u opinión que se expresa sin evidencia que la respalde
+		- **Asunción** - Hecho o razón que respalda una opinión pero no suele expresarse
+		- **Oposición** - Todas las opiniones que difieren con la nuestra
+		- **Concesión** - Consiste en tomar en cuenta las opiniones contrarias
+	- Pasos
+		- Escoger el tema
+		- Explorar el tema para generar ideas
+		- Organizar y evaluar las ideas
+		- Tomar un posición
+		- Respaldarla con detalles
+		- Escribir el primer borrador
+		- Revisar y editar el borrador final
 ### Como los Buenos Estudiantes lo Juntan Todo
 
 ## Puntos Clave
