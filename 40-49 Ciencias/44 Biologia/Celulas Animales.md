@@ -5,18 +5,22 @@ tags:: #biology
 up:: [[Celulas]]
 Links: 
 # Células Animales
-Estas son **células eucariotas** y su estructura hace posible la movilidad de los animales a través de músculos. Estan formadas por:
+Estas son **células eucariotas** y su estructura hace posible la movilidad de los animales a través de músculos. Cada tipo de célula lleva a cabo una función determinada, y esta compuesta por **orgánulos**, que son las partes que llevan a cabo las funciones internas y que pueden variar dependiendo de la función de la célula.
+
+Estan formadas por:
 - **Cilios** / **Flagelos** - Son estructuras tubulares hechas de proteinas que tienen el proposito de darle movilidad a la célula
-- **Membrana Celular** - Se encarga de mantener encapsulados los contenidos de la célula y regular que contenidos pueden salir y entrar por medio de **permeabilidad selectiva**
-- **Citoplasma** - Esta formado por agua y nutriente
+- **Membrana Celular** - Se encarga de mantener encapsulados los contenidos de la célula y regular que contenidos pueden salir y entrar por medio de **permeabilidad selectiva**. Esta formada por [[Lipidos]], lo que le da una capacidad hidrofóbica
+- **Citoplasma** - Es la parte interior de la célula que contiene el medio acuoso y los orgánulos
 	- *Citoesqueleto* - Conjunto de fibras de proteinas que refuerzan la célula
-- **Retículo Endoplastico** - Son membranas formadas por fosfolípidos que transportan sustancias por la célula
-- **Ribosomas** - Transforman aminoacidos en polipéptidos
+- **Retículo Endoplastico** - Son membranas formadas por fosfolípidos que generan lípidos y proteínas y las envian al Aparato de Golgi. Contiene ribosomas
+- **Ribosomas** - Transforman aminoacidos en polipéptidos, lo que permite generar [[Proteinas]]
 - **Aparato de Golgi** - Almacena proteinas y las distribuye
 - **Lisosomas** - Contienen enzimas que procesan sustancias
 - **Nucleo** - Almacena la información del [[ADN]] y **cromosomas**
 	- *Nucleolo* - Fabrica **rRNA*** y **mRNA**
 - **Mitocondria** - Convierte las fuentes de energía en **ATP** por medio del proceso de **respiración**; [[Respiracion Celular]]
+
+![[Celulas Animales.png]]
 
 ## Transporte Celular
 Es la forma en que la sustancias entran y salen de la membrana celular.
