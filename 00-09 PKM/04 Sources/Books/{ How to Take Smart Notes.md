@@ -114,6 +114,9 @@ El exito de una investigación en el ambito academico depende la capacidad para 
 - **Aprende al no Intentarlo** - El aprendizaje y la memoria deben construirse a través del entendimiento, conectando la nueva información con la información ya conocida y destacando las diferencias y similitudes entre conceptos por encima de sus categorias, ya que esto permite una conexión directa que ayuda a asociar los temas con diferentes contextos lo que mejora nuestra capacidad para recordarlos
 - **Añadir Notas Permanentes** - Estas deben estar conectadas a notas anteriores
 
+### Desarrollar Ideas
+La estructura del sistema otorga un grado de flexibilidad que permite conectar las ideas que desarrollan un tema particular al mismo tiempo que conservamos la brevedad de cada una de las ideas individuales.
+
 ## Puntos Clave
 
 ## Contexto

@@ -197,6 +197,8 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 		- **Concesión** - Consiste en tomar en cuenta las opiniones contrarias
 	- Pasos
 		- Escoger el tema
+			- Buscar en las notas, libros y materiales de la clase
+			- El tema debe ser específico y generar cierto grado de controversia
 		- Explorar el tema para generar ideas
 		- Organizar y evaluar las ideas
 		- Tomar un posición
