@@ -24,6 +24,9 @@ finished::
 ### Dibujar y el Arte de Andar en Bicicleta
 El dibujo es una habilidad que puede ser enseñada y aprendida y nos permite mejorar nuestra capacidad de percepción, expresión y creatividad.
 
+### Primeros Pasos en Dibujo
+Nuestra habilidad para dibujar nuestras percepciones se ve determinada por la capacidad de evitar el uso de simbolos. Los **simbolos** son abstracciones de las formas que percibimos, y son reforzadas en nuestra memoria a través del uso repetido desde una edad temprana.
+
 ## Puntos Clave
 
 ## Contexto
