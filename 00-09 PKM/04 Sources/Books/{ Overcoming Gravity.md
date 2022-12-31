@@ -51,6 +51,22 @@ finished::
 		1. Las **Unidades Motoras** estan conformadas por una neurona muscular y todas las fibras musculares con las que se conectan. Una unidad motora solo puede conectarse con un tipo de fibra muscular
 		2. Las unidades motoras se categorizan en un continuo que depende de su umbral de activación. Las del umbral más bajo activan fibras enfocadas a resistencia, las del umbral alto activan fibras enfocadas a fuerza y las que estan en medio a fibras que pueden comportarse de ambas maneras dependiendo del entrenamiento que se les de
 		3. El **Principio de Henneman** indica que las unidades musculares son acivadas desde la más pequeña a la más grande. Para entrenar las fibras que tienen más capacidad para la hipertrofia se deben usar ejercicios de alta intensidad
+	3. Adaptaciones Neuronales para la Fuerza - Factores que contribuyen a la fuerza además de la hipertrofia
+		1. **Reclutamiento** - Capacidad para sumar unidades motoras a la realización de un movimiento
+			1. Depende de las limitaciones nerviosas que el cerebro le impone a los musculos
+			2. Estas capacidades pueden aumentarse con ejercicios en el rango de 1-3 RM 
+		2. **Cadencia de Activación** - Velocidad a la que las señales se envian a las unidades motoras
+			1. Empieza a incrementar luego de que todas las unidades motoras en un musculo son implementadas
+			2. Más importante para la hipertrofia que para la fuerza
+		3. **Sincronización** - Reducción en el tiempo que las unidades motoras tardan en activarse juntas
+			1. Depende de la práctica repetida de cada ejercicio o movimiento
+		4. **Contribución** - Timing en la activación conjunta de las unidades motoras
+			1. De esta depende la efectividad de cada uno de los movimientos musculares
+		5. **Inhibición Antagonica** - Reducción de la activación de los musculos que se oponen al movimiento
+			1. Puede aumentar la capacidad de contracción del musculo
+			2. Requiere que se estire el musculo antagonico antes del ejercicio
+		6. **Aprendizaje Motor** - Conexiones neuronales que favorecen el aprendizaje de un movimiento
+			1. Requiere de concentración y una tecnica apropiada
 ### Construir una Rutina
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa

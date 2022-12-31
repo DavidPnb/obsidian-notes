@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-30.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-30.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-30.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-30.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md"
               }
             }
           },
@@ -329,9 +329,9 @@
   },
   "active": "a127511716bd8f6b",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-30.md",
     "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
     "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-30.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-29.md",
     "00-09 PKM/04 Sources/Books/{ Drawing on the Right Side of the Brain.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2022-12-28.md",
