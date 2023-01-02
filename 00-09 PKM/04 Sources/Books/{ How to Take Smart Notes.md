@@ -117,6 +117,8 @@ El exito de una investigación en el ambito academico depende la capacidad para 
 ### Desarrollar Ideas
 La estructura del sistema otorga un grado de flexibilidad que permite conectar las ideas que desarrollan un tema particular al mismo tiempo que conservamos la brevedad de cada una de las ideas individuales.
 
+- **Desarrollar Temas** - El uso de palabras claves y metadatos nos aseguran que podremos volver a encontrar notas relevantes a un tema, además, nos hace pensar sobre la naturaleza de una nota y su relación con las otras. Esta herramienta no es un reemplazante de la interconectividad entre las notas, sino que es una manera de agrupar todas las notas que puedan aportar a un tema en concreto
+
 ## Puntos Clave
 
 ## Contexto

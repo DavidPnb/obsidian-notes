@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-31.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-31.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-02.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-31.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2022-12-31.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-02.md"
               }
             }
           },
@@ -323,20 +323,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "a127511716bd8f6b",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-01.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-31.md",
+    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
+    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2022-W52.md",
     "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Positive Feedback Loop.md",
     "00-09 PKM/00 Atlas/00.02 Cards/People's attributes are domain-specific.md",
-    "00-09 PKM/07 Inbox/+ Unsorted/Origen de los Logaritmos.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/+ About Cards.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/OODA Loop.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/On the process of note-making.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/On the process of making MOCs.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/On having a TODO note.md"
+    "00-09 PKM/07 Inbox/+ Unsorted/Origen de los Logaritmos.md"
   ]
 }

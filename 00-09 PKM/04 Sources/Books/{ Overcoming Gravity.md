@@ -67,6 +67,7 @@ finished::
 			2. Requiere que se estire el musculo antagonico antes del ejercicio
 		6. **Aprendizaje Motor** - Conexiones neuronales que favorecen el aprendizaje de un movimiento
 			1. Requiere de concentración y una tecnica apropiada
+	4. El Rol del Sistema Nervioso Central - El sistema nervioso central al igual que los musculos, requiere de ejercicio de intensidad y de descanso posterior para ser entrenado apropiadamente. Esto significa que al haber un estancamiento, aumentar los descanso puede tener mejor resultado que aumentar el ejercicio
 ### Construir una Rutina
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa

@@ -200,6 +200,7 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 			- Buscar en las notas, libros y materiales de la clase
 			- El tema debe ser específico y generar cierto grado de controversia
 		- Explorar el tema para generar ideas
+			- Investigar, hacerse preguntas y organizar la información
 		- Organizar y evaluar las ideas
 		- Tomar un posición
 		- Respaldarla con detalles
