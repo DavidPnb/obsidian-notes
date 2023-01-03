@@ -15,7 +15,7 @@ La variable que representa al dominio se llamada **variable independiente** y a 
 La notación $y=f(x)$ indica que $y$ es una función de $x$ . En esta notación, $f(a)$ representa el valor de $y$ cuando $x=a$ . Con esta notación cualquier letra puede ser usada para representar una función.
 
 ## Sistema de Coordenadas Rectangular
-[[Sistema de Coordenadas Cartesianas]]
+[[Geometria Analitica]]
 
 ## Simetría
 Cuando una parte de la grafica es un reflejo de otra parte, se dice que la función es simétrica con respecto al **eje de reflexión**.
@@ -23,7 +23,7 @@ Cuando una parte de la grafica es un reflejo de otra parte, se dice que la funci
 [[Simetria|Simetría]]
 
 ### Funciones Pares e Impares
-Una función es **par** cuando la función es simétrica respecto al eje $y$ , esto se expresa como $f(-x)=f(x)$ para todos los valores de $x$ pertenecientes al dominio. Se dice que una función es **impar** cuando la función es simétrica respecto al origen de coordenadas y, por lo tanto, $f(-x)=f(x)$ para todos los $x$ pertenecientes al dominio de la función.
+Una función es **par** cuando la función es simétrica respecto al eje $y$ , esto se expresa como $f(-x)=f(x)$ para todos los valores de $x$ pertenecientes al dominio. Se dice que una función es **impar** cuando la función es simétrica respecto al origen de coordenadas y, por lo tanto, $f(-x)=-f(x)$ para todos los $x$ pertenecientes al dominio de la función.
 
 El nombre de función par e impar viene de la función potencia $x^{n}$ donde $n$ es un entero positivo. Si el exponente $n$ es par, la función presenta simetría con respecto al eje $y$ , y si es impar, entonces es simétrica respecto al origen.
 

@@ -70,7 +70,7 @@ Una última conclusión es que la razón de las areas de los dos triangulos es i
 \frac{A_{1}}{A_{2}}=\frac{a^{2}}{d^{2}}
 $$
 ## Teorema de Pitagoras
-En un triángulos rectángulo, el lado del triángulo que esta opuesto al ángulo recto es llamado **hipotenusa**, y los otros dos lados son llamados **catetos**.
+En un triángulo rectángulo, el lado del triángulo que esta opuesto al ángulo recto es llamado **hipotenusa**, y los otros dos lados son llamados **catetos**.
 
 El teorema de Pitagoras establece que el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos, lo que es igual a $c^{2}=a^{2}+b^{2}$ .
 ___
