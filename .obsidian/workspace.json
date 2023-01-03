@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "0f73909e0e77d55c",
+            "id": "8e43a740ccec2dad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-03.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "8e43a740ccec2dad",
+            "id": "7ecb7bb7781d2abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-02.md",
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-03.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-03.md"
               }
             }
           },
@@ -326,17 +326,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0f73909e0e77d55c",
+  "active": "8e43a740ccec2dad",
   "lastOpenFiles": [
-    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
-    "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-02.md",
+    "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-03.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cogito Ergo Sum.md",
     "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+    "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+    "00-09 PKM/04 Sources/Books/{ Think.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-02.md",
     "40-49 Ciencias/40 Matematicas/Funciones.md",
-    "40-49 Ciencias/40 Matematicas/Triangulos.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-01.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2022-12-31.md",
-    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md"
+    "40-49 Ciencias/40 Matematicas/Triangulos.md"
   ]
 }
