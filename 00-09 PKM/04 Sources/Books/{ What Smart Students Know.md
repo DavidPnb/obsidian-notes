@@ -202,7 +202,9 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 		- Explorar el tema para generar ideas
 			- Investigar, hacerse preguntas y organizar la información
 		- Organizar y evaluar las ideas
+			- Dividir la información en razones a favor y en contra, clasificando en grupos las ideas relacionadas
 		- Tomar un posición
+			- La opinión en la tesis debe ser interesante y respaldable, además de que debe ser limitada para ser lo suficientemente precisa
 		- Respaldarla con detalles
 		- Escribir el primer borrador
 		- Revisar y editar el borrador final
