@@ -68,6 +68,10 @@ finished::
 		6. **Aprendizaje Motor** - Conexiones neuronales que favorecen el aprendizaje de un movimiento
 			1. Requiere de concentración y una tecnica apropiada
 	4. El Rol del Sistema Nervioso Central - El sistema nervioso central al igual que los musculos, requiere de ejercicio de intensidad y de descanso posterior para ser entrenado apropiadamente. Esto significa que al haber un estancamiento, aumentar los descanso puede tener mejor resultado que aumentar el ejercicio
+	5. Mecanismos de Hipertrofia
+		1. **Tensión Mecánica** - Se activa a través de ejercicios de alta intensidad, y a menudo se le llama Hipertrofia de Alto Umbral. Cuando el cuerpo percibe tensión de alta intensidad en los musculos, se agrega más masa para compensar el esfuerzo
+		2. **Daño Excéntrico y Microfacturas** - Involucran daños en los musculos que activan procesos que benefician al crecimiento muscular y dependen de cierto número de repeticiones
+		3. **Acumulación de Metabolitos, Factores de Crecimiento Local, Hipoxia y similares** - Estas son las adaptaciones que surgen de ejercicios con baja intensidad y alta frecuencia
 ### Construir una Rutina
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa

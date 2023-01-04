@@ -118,6 +118,10 @@ El exito de una investigación en el ambito academico depende la capacidad para 
 La estructura del sistema otorga un grado de flexibilidad que permite conectar las ideas que desarrollan un tema particular al mismo tiempo que conservamos la brevedad de cada una de las ideas individuales.
 
 - **Desarrollar Temas** - El uso de palabras claves y metadatos nos aseguran que podremos volver a encontrar notas relevantes a un tema, además, nos hace pensar sobre la naturaleza de una nota y su relación con las otras. Esta herramienta no es un reemplazante de la interconectividad entre las notas, sino que es una manera de agrupar todas las notas que puedan aportar a un tema en concreto
+- **Hacer Conexiones Inteligentes** - Las conexiones entre las notas permiten desarrollar nuestras ideas y anclar los nuevos conceptos a la información que ya conocemos.
+	- Las conexiones de tipo índice vienen de notas que pueden ser consideradas como un resumen de un tema. Estas conexiones suelen estar acompañadas por palabras o frases que describen el contenido en el interior de las otras notas y pueden ser actualizadas de manera periodica
+	- Las conexiones entre notas son las más comunes y permiten conectar ideas y conceptos relacionados independientemente del tema de donde provienen
+- 
 
 ## Puntos Clave
 
