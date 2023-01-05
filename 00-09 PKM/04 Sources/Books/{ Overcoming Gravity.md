@@ -72,6 +72,9 @@ finished::
 		1. **Tensión Mecánica** - Se activa a través de ejercicios de alta intensidad, y a menudo se le llama Hipertrofia de Alto Umbral. Cuando el cuerpo percibe tensión de alta intensidad en los musculos, se agrega más masa para compensar el esfuerzo
 		2. **Daño Excéntrico y Microfacturas** - Involucran daños en los musculos que activan procesos que benefician al crecimiento muscular y dependen de cierto número de repeticiones
 		3. **Acumulación de Metabolitos, Factores de Crecimiento Local, Hipoxia y similares** - Estas son las adaptaciones que surgen de ejercicios con baja intensidad y alta frecuencia
+	6. Ejercicios de Cadena Cerrada y Abierta
+		1. Los ejercicios de **Cadena Cinética Abierta** se realizan con libertad de movimiento en las extremidades
+		2. Los ejercicios de **Cadena Cinética Cerrada** se realizan con restricción de movimiento en las extremidades. Generalmente se usan para adquirir fuerza en el tren superior
 ### Construir una Rutina
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa
