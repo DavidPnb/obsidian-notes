@@ -25,7 +25,10 @@ finished::
 El dibujo es una habilidad que puede ser enseñada y aprendida y nos permite mejorar nuestra capacidad de percepción, expresión y creatividad.
 
 ### Primeros Pasos en Dibujo
-Nuestra habilidad para dibujar nuestras percepciones se ve determinada por la capacidad de evitar el uso de simbolos. Los **simbolos** son abstracciones de las formas que percibimos, y son reforzadas en nuestra memoria a través del uso repetido desde una edad temprana.
+Nuestra habilidad para dibujar nuestras percepciones se ve mermada por el uso de simbolos. Los **simbolos** son abstracciones de las formas que percibimos, y son reforzadas en nuestra memoria a través del uso repetido desde una edad temprana.
+
+### El Cerebro, su Parte Izquierda y Derecha
+El cerebro esta divido en dos hemisferios: el izquierdo y el derecho. Al hemisferio izquierdo se le atribuyen las cualidades lógicas, racionales y abstractas, y al hemisferio derecho las intuitivas, perceptivas y holisticas. El hemisferio derecho es el más indicado para labores perceptivas, así que para evitar el hemisferio izquierdo tome el control durante la tarea, se le debe confundir con información que este no este dispuesto a procesar.
 
 ## Puntos Clave
 

@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-05.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-05.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-05.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-05.md"
               }
             }
           },
@@ -323,21 +323,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "8e43a740ccec2dad",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Drawing on the Right Side of the Brain.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-05.md",
+    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-01-04.md",
     "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
     "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
     "40-49 Ciencias/44 Biologia/Celulas Animales.md",
     "40-49 Ciencias/44 Biologia/Mitosis.md",
-    "40-49 Ciencias/44 Biologia/Celulas.md",
-    "40-49 Ciencias/44 Biologia/44.00 Biologia.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-03.md",
-    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md"
+    "40-49 Ciencias/44 Biologia/Celulas.md"
   ]
 }
