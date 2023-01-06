@@ -75,6 +75,9 @@ finished::
 	6. Ejercicios de Cadena Cerrada y Abierta
 		1. Los ejercicios de **Cadena Cinética Abierta** se realizan con libertad de movimiento en las extremidades
 		2. Los ejercicios de **Cadena Cinética Cerrada** se realizan con restricción de movimiento en las extremidades. Generalmente se usan para adquirir fuerza en el tren superior
+3. **Tablas de Progresiones y Metas de Entrenamiento**
+	1. Tablas de Progresiones y como Usarlas
+		1. Las progresiones son listas con ejercicios que tienen atributos relacionadas y que estan ordenadas de menor a mayor dificultad
 ### Construir una Rutina
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa

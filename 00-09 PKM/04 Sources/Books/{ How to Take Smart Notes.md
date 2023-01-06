@@ -122,6 +122,7 @@ La estructura del sistema otorga un grado de flexibilidad que permite conectar l
 	- Las conexiones de tipo índice vienen de notas que pueden ser consideradas como un resumen de un tema. Estas conexiones suelen estar acompañadas por palabras o frases que describen el contenido en el interior de las otras notas y pueden ser actualizadas de manera periodica
 	- Las conexiones entre notas son las más comunes y permiten conectar ideas y conceptos relacionados independientemente del tema de donde provienen
 - **Comparar, Corregir y Diferenciar** - Solemos sobreestimar la importancia de la información que esta disponible más facilmente, y por esto, nos enfocamos en las ideas más recientes. El sistema evita que esto suceda al externalizar la información, lo que le da disponibilidad a información más antigua, la cual puede extender o confrontar a la que es más reciente. Esto tambien nos permite comparar la información de manera objetiva para encontrar similitudes y diferencias, o para buscar contradicciones
+- **Crear Herramientas para el Pensamiento** - El mero uso del sistema nos obliga a usar los métodos comprobados para un aprendizaje ideal como el espaciado, la elaboración, variación y recall.
 
 ## Puntos Clave
 

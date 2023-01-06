@@ -208,6 +208,18 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 		- Respaldarla con detalles
 			- Citas, evidencia y ejemplos que respalden las opiniones presentadas y permitan ocupar espacio que puede ser necesario si se quieren extender el ensayo. Se deben tomar en cuenta las opiniones que necesitan respaldo y, de ser necesario, expresarlas como una aserción
 		- Escribir el primer borrador
+			- **Introducción** - 1/8 del ensayo
+				- Información de Trasfondo
+				- Tema Específico
+				- Tesis Completa
+					- Opinión
+					- Argumentos a Favor y en Contra
+			- **Argumento** - 3/4 del ensayo
+				- Contras
+				- Pros
+			- **Conclusión** - 1/8 del ensayo
+				- Resumen de la Tesis
+				- Relevancia de la Tesis
 		- Revisar y editar el borrador final
 ### Como los Buenos Estudiantes lo Juntan Todo
 
