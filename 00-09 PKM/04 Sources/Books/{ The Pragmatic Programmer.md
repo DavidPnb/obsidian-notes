@@ -45,5 +45,6 @@ El libro es extremadamente popular y presumiblemente ha creado un gran impacto e
 
 ## Comentarios
 - El libro puede ser verboso, lo que evita la jerga y la complejidad de un libro técnico, pero a la vez aumenta la cantidad de texto que se necesita para comunicar una idea
+- Las características principales de un programador pragmático son su dedicación por su trabajo y su análisis crítico de cada fase del desarrollo
 ___
 
