@@ -221,6 +221,14 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 				- Resumen de la Tesis
 				- Relevancia de la Tesis
 		- Revisar y editar el borrador final
+			- Estructura General
+			- Parrafos
+			- Oraciones
+			- Palabras
+			- Errores Gramaticales
+			- Errores Ortográficos
+			- Estilo
+			- Formato
 ### Como los Buenos Estudiantes lo Juntan Todo
 
 ## Puntos Clave
