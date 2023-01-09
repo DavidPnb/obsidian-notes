@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2023-W01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2023-W01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2023-W01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Power of Habit.md"
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2023-W01.md"
               }
             }
           },
@@ -323,21 +323,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "2bd6efa4a1fb55cd",
   "lastOpenFiles": [
     "00-09 PKM/01 Calendar/01.01 Daily/2023-01-07.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-06.md",
-    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
+    "00-09 PKM/04 Sources/Books/{ The Joy of X.md",
+    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+    "40-49 Ciencias/40 Matematicas/De que Tratan las Matematicas.md",
     "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "00-09 PKM/04 Sources/Books/{ The Pragmatic Programmer.md",
-    "40-49 Ciencias/41 CS/41.00 Ciencias de la Computacion MOC.md",
-    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-05.md",
-    "00-09 PKM/04 Sources/Books/{ Drawing on the Right Side of the Brain.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-04.md"
+    "00-09 PKM/04 Sources/Books/{ The Princeton Companion to Mathematics.md",
+    "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
+    "00-09 PKM/07 Inbox/+ Unsorted/Como Crear Nuevos Habitos.md",
+    "Keystone Habits.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Procrastinacion.md"
   ]
 }
