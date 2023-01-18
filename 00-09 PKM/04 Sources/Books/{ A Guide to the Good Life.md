@@ -31,6 +31,7 @@ finished::
 4. **Abnegación** - Consiste en experimentar voluntariamente incomodidades menores en nuestra vida, lo que trae tres beneficios: nos prepara para enfrentar incomodidades mayores en el futuro, evita que nos preocupemos por esas incomodidades en el presente y, al igual que la visualización negativa, nos ayuda a apreciar lo que tenemos. El estoicismo nos advierte acerca de perseguir los placeres, de esta forma evitamos los vicios y practicamos el autocontrol, y por lo tanto nos hacemos más propensos a cumplir con nuestra filosofía de vida
 5. **Meditación** - Implica analizar de forma crítica los eventos que experimentamos y nuestras acciones con respecto a estos. Examinar los eventos de manera objetiva nos permite aprender de nuestros errores y los de los demás. Tambien debemos tomar en cuenta que el progreso no se realiza de forma lineal, y que no debemos rendirnos al experimentar tropiezos en nuestra vida
 ### Consejos Estoicos
+1. **Deber** - Los estoicos proponen que es nuestro deber amar a la humanidad, ya que cooperar con los demás concuerda con nuestras funciones sociales y biológicas y esto nos hace más propensos a alcanzar la tranquilidad
 ### Estoicismo para Vidas Modernas
 
 ## Puntos Clave
