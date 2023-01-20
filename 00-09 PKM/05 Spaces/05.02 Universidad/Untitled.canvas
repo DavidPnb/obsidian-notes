@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"e361921997048002","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Vectores"},
+		{"id":"b489cbd63cf3f1e9","x":241,"y":13,"width":250,"height":60,"type":"text","text":"Operaciones"},
+		{"id":"3d5fdcd35002a5bc","x":-146,"y":-191,"width":293,"height":82,"type":"text","text":"Características"},
+		{"id":"f378ac3b93ab592d","x":-153,"y":-312,"width":224,"height":60,"type":"text","text":"Módulo"},
+		{"id":"56400744a1895441","x":17,"y":-313,"width":250,"height":60,"type":"text","text":"Dirección"},
+		{"id":"50a74ccdac24e51c","x":189,"y":-312,"width":250,"height":60,"type":"text","text":"Sentido"},
+		{"id":"a620cbcd46235938","x":-192,"y":-473,"width":303,"height":60,"type":"text","text":"$\\sqrt{ Ax^{2}+Ay^{2}+ Az^{2}}$"},
+		{"id":"6b3811035ae2b183","x":119,"y":-636,"width":256,"height":124,"type":"text","text":"$$\\cos \\alpha=\\frac{Ax}{|\\overrightarrow{A}|}$$"},
+		{"id":"c23a3efae483fab7","x":-525,"y":-473,"width":278,"height":60,"type":"text","text":"Componentes"},
+		{"id":"eb6bf8679476ad95","x":147,"y":-473,"width":250,"height":90,"type":"text","text":"Cosenos Directores"},
+		{"id":"f745e47eafbbebd4","x":272,"y":-109,"width":250,"height":65,"type":"text","text":"Suma de Vectores"},
+		{"id":"dc0b17218cdf04e0","x":593,"y":77,"width":280,"height":83,"type":"text","text":"Multiplicación por un Escalar"},
+		{"id":"91ce60e9f8a5448c","x":986,"y":104,"width":404,"height":193,"type":"text","text":"La magnitud del escalar altera el módulo, el signo del escalar altera el sentido. La dirección del vector original se mantiene"},
+		{"id":"fbb68cbe4a09db4c","x":631,"y":-109,"width":304,"height":98,"type":"text","text":"Suma de Componentes"},
+		{"id":"5cd2d5afe11cefa6","x":1074,"y":-87,"width":316,"height":130,"type":"text","text":"Propiedades Análogas a su Contraparte Algebráica"},
+		{"id":"3e3fe65b6bdbd0a3","x":1060,"y":-203,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"eddf5417d4e6bb94","fromNode":"e361921997048002","fromSide":"right","toNode":"b489cbd63cf3f1e9","toSide":"left"},
+		{"id":"fdcee0df21f67e21","fromNode":"e361921997048002","fromSide":"top","toNode":"3d5fdcd35002a5bc","toSide":"bottom"},
+		{"id":"696dc6885aae7e25","fromNode":"3d5fdcd35002a5bc","fromSide":"top","toNode":"f378ac3b93ab592d","toSide":"bottom"},
+		{"id":"10fbca3ac2a97e8f","fromNode":"3d5fdcd35002a5bc","fromSide":"top","toNode":"56400744a1895441","toSide":"bottom"},
+		{"id":"4c90757b27f57bfa","fromNode":"3d5fdcd35002a5bc","fromSide":"top","toNode":"50a74ccdac24e51c","toSide":"bottom"},
+		{"id":"3da3b40f0d8e675e","fromNode":"f378ac3b93ab592d","fromSide":"top","toNode":"a620cbcd46235938","toSide":"bottom"},
+		{"id":"b5918a8926877ca7","fromNode":"56400744a1895441","fromSide":"top","toNode":"eb6bf8679476ad95","toSide":"bottom"},
+		{"id":"5662d8334245a578","fromNode":"50a74ccdac24e51c","fromSide":"top","toNode":"eb6bf8679476ad95","toSide":"bottom"},
+		{"id":"08d9c49dab18dec8","fromNode":"eb6bf8679476ad95","fromSide":"top","toNode":"6b3811035ae2b183","toSide":"bottom"},
+		{"id":"4283649dd4a5a168","fromNode":"c23a3efae483fab7","fromSide":"right","toNode":"a620cbcd46235938","toSide":"left"},
+		{"id":"e48adff00ccbb8af","fromNode":"c23a3efae483fab7","fromSide":"right","toNode":"eb6bf8679476ad95","toSide":"left","color":"1"},
+		{"id":"8ca9ee67d6b05547","fromNode":"b489cbd63cf3f1e9","fromSide":"top","toNode":"f745e47eafbbebd4","toSide":"bottom"},
+		{"id":"9a5622d493487c04","fromNode":"f745e47eafbbebd4","fromSide":"right","toNode":"fbb68cbe4a09db4c","toSide":"left"},
+		{"id":"167ade3f55ff1c07","fromNode":"b489cbd63cf3f1e9","fromSide":"right","toNode":"dc0b17218cdf04e0","toSide":"left"},
+		{"id":"c3d5a148c97d3af5","fromNode":"dc0b17218cdf04e0","fromSide":"right","toNode":"91ce60e9f8a5448c","toSide":"left"},
+		{"id":"df3d72641a52b143","fromNode":"fbb68cbe4a09db4c","fromSide":"right","toNode":"5cd2d5afe11cefa6","toSide":"left"},
+		{"id":"8c1c45118df0a2a7","fromNode":"91ce60e9f8a5448c","fromSide":"top","toNode":"5cd2d5afe11cefa6","toSide":"bottom"},
+		{"id":"6de7fb617705d2f9","fromNode":"fbb68cbe4a09db4c","fromSide":"right","toNode":"3e3fe65b6bdbd0a3","toSide":"left"}
+	]
+}

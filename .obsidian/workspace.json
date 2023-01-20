@@ -26,12 +26,15 @@
             "id": "aca00b577f1dfdd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Untitled.canvas",
+                "viewState": {
+                  "x": 944.9041083046855,
+                  "y": 183.88924495199882,
+                  "zoom": -0.5555555216471356,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -41,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 16.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 16.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Untitled.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -210,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 16.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 16.md"
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Untitled.canvas"
               }
             }
           },
@@ -326,17 +329,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2bd6efa4a1fb55cd",
+  "active": "aca00b577f1dfdd3",
   "lastOpenFiles": [
-    "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/Untitled.canvas",
+    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-20.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-01-19.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 16.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-01-18.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-01-10.md",
-    "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cogito Ergo Sum.md",
-    "00-09 PKM/04 Sources/Books/{ Think.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-09.md"
+    "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md"
   ]
 }
