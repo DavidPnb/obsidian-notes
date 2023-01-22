@@ -23,22 +23,6 @@
             }
           },
           {
-            "id": "aca00b577f1dfdd3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Untitled.canvas",
-                "viewState": {
-                  "x": 1158.1834755144212,
-                  "y": -94.42689308221316,
-                  "zoom": -0.6666666666666669,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
             "id": "2bd6efa4a1fb55cd",
             "type": "leaf",
             "state": {
@@ -48,6 +32,22 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3c1ef65f7d43f9eb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Untitled.canvas",
+                "viewState": {
+                  "x": 120.84465955548433,
+                  "y": 315.65544274284366,
+                  "zoom": -0.11111114501953145,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Untitled.canvas",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Untitled.canvas",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/Untitled.canvas"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-20.md"
               }
             }
           },
@@ -329,12 +329,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aca00b577f1dfdd3",
+  "active": "2bd6efa4a1fb55cd",
   "lastOpenFiles": [
-    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/Untitled.canvas",
-    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-01-20.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-01-19.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 16.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md",
