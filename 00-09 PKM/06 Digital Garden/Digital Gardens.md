@@ -1,5 +1,4 @@
 
--   [Bryan Jenks](https://publish.obsidian.md/bryan-jenks) on ADHD and IT
 -   [Obsidian Hub](https://publish.obsidian.md/hub) on everything Obsidian
 -   [Data Engineering Wiki](https://dataengineering.wiki/) on Data Modeling and Processing
 -   [lkadre’s brain](https://brain.lkadre.com/) on Law
