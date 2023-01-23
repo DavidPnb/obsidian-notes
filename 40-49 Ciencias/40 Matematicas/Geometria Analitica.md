@@ -69,9 +69,9 @@ Se dice que un vector $\overrightarrow{C}$ es una **combinación lineal** de $\o
 > Cualquier vector $\overrightarrow{C}$ puede ser escrito como una combinación lineal de dos vectores no nulos y no paralelos $\overrightarrow{A}$ y $\overrightarrow{B}$ que esten el mismo plano
 
 > [!teorema] Teorema de la Base (**b**)
-> Cualquier vector $\overrightarrow{D}$ en el espacio tridimensional puede ser escrito como combinación linear de tres vectores no nulos y no paralelos $\overrightarrow{A}$ , $\overrightarrow{B}$ y $\overrightarrow{C}$
+> Cualquier vector $\overrightarrow{D}$ en el espacio tridimensional puede ser escrito como combinación linear de tres vectores no nulos, no paralelos al mismo plano y no paralelos entre sí $\overrightarrow{A}$ , $\overrightarrow{B}$ y $\overrightarrow{C}$
 
-La **dimensión** de una base es el número de vectores que pertenecen a la base
+La **dimensión** de una base es el número de vectores que pertenecen a la base, y es igual al número de dimensiones involucradas en el espacio.
 
 - Vectores
 	- Son elementos de un conjunto llamado **espacio vectorial**

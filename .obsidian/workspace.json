@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2023-W03.md",
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2023-W03.md",
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2023-W03.md",
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2023-W03.md"
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md"
               }
             }
           },
@@ -310,20 +310,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "3c1ef65f7d43f9eb",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-23.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-22.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2023-W03.md",
     "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/02 Theory/02.01 Ciencias de la Informacion.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Refraction Thinking.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Recognize there is a problem and seek solutions..md",
     "00-09 PKM/00 Atlas/00.02 Cards/Publish your own stuff with Obsidian Publish.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Progressive Ideation.md",
-    "40-49 Ciencias/41 CS/Programacion Declarativa e Imperativa.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Priming.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Preparing for the next day is an important habit.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Practical Tactics for Finding Flow.md"
+    "40-49 Ciencias/41 CS/Programacion Declarativa e Imperativa.md"
   ]
 }
