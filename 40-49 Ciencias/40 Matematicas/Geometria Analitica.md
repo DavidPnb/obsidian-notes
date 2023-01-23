@@ -39,8 +39,14 @@ La suma geométrica de vectores se realiza usando la **regla del paralelogramo**
 	- Monotonía de la igualdad vectorial respecto a la suma de vectores
 		- $\overrightarrow{A}=\overrightarrow{B}, \overrightarrow{C}=\overrightarrow{D}\implies\overrightarrow{A}+\overrightarrow{C}=\overrightarrow{B}+\overrightarrow{D}$
 
+El **módulo de la suma de vectores** es $$
+|\overrightarrow{A}+\overrightarrow{B}|^{2}=|\overrightarrow{A}|^{2}+|\overrightarrow{B}|^{2}-2|\overrightarrow{A}||\overrightarrow{B}|\cos \theta
+$$ por la ley de cosenos; [[40.06 Trigonometria]]. $\theta$ es el ángulo entre los dos vectores
+
 ### Resta de Vectores
 Geométricamente, $\overrightarrow{A}-\overrightarrow{B}$ es el vector que al sumarse con $\overrightarrow{B}$ resulta en el vector $\overrightarrow{A}$ . Este vector tiene como origen el extremo de $\overrightarrow{B}$ y como extremo el extremo de $\overrightarrow{A}$ . Se calcula como $\overrightarrow{A}-\overrightarrow{B}=\overrightarrow{A}+(-\overrightarrow{B})$ , donde $-\overrightarrow{B}$ es el opuesto de $\overrightarrow{B}$.
+
+El **módulo de la resta de vectores** es igual al módulo de la suma de vectores.
 
 ### Producto entre un Vector y un Escalar
 Produce un vector proporcional al vector original cuyo sentido depende del signo del escalar.
