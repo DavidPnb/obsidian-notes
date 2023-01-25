@@ -79,50 +79,9 @@ Se dice que un vector $\overrightarrow{C}$ es una **combinación lineal** de $\o
 
 La **dimensión** de una base es el número de vectores que pertenecen a la base, y es igual al número de dimensiones involucradas en el espacio.
 
-- Vectores
-	- Son elementos de un conjunto llamado **espacio vectorial**
-		- Vectores Equipolentes
-			- Vectores que poseen las mismas características
-		- Vectores Libres
-			- Vectores que cumplen una relación de equivalencia
-				- $\overrightarrow{a}\approx\overrightarrow{b}$
-					- $|\overrightarrow{a}|=|\overrightarrow{b}|$
-					- $\text{Dirección de } \overrightarrow{a} = \text{Dirección de } \overrightarrow{b}$
-					- $\text{Sentido de } \overrightarrow{a} = \text{Sentido de } \overrightarrow{b}$
-					- Vectores Fijos
-						- $\text{Origen de } \overrightarrow{a} = \text{Origen de } \overrightarrow{b}$
-		- Vectores de Posición
-			- Vectores cuyo origen es el sistema de coordenadas
-		- Vector Unitario
-			- Su módulo es igual a $1$
-		- Vector Nulo
-			- $\overrightarrow{0}$
-				- $\overrightarrow{a}=(0,0,0)$
-		- Vectores Opuestos
-			- Tienen sentidos opuestos
-				- $\overrightarrow{A}+\overrightarrow{B}=\overrightarrow{0}$
-		- Igualdad de Vectores - Dos vectores son iguales si y solo si sus características son iguales
-			- $\overrightarrow{A}=\overrightarrow{B}$
-				- $A_{x}=B_{x}$
-				- $A_{y}=B_{y}$
-				- $A_{z}=B_{z}$
-		- Suma algebraica de vectores - La suma geométrica de vectores se realiza usando la **regla del paralelogramo**, donde un vector se posiciona con su origen en el extremo del vector anterior, y el **vector suma** va desde el origen del primer vector hasta el extremo del último
-			- $\overrightarrow{A}+\overrightarrow{B}$
-				- $(A_{x}+B_{x},A_{y}+B_{y},A_{z}+B_{z})$
-				- Tambien es un vector
-				- Propiedades
-					- Conmutativa
-						- $\overrightarrow{A}+\overrightarrow{B}=\overrightarrow{B}+\overrightarrow{A}$
-					- Asociativa
-						- $(\overrightarrow{A}+\overrightarrow{B})+\overrightarrow{C}=\overrightarrow{A}+(\overrightarrow{B}+\overrightarrow{C})$
-					- Existencia de elementro neutro
-						- $\overrightarrow{A}+\overrightarrow{0}=\overrightarrow{A}$
-					- Existencia de opuesto
-						- $\overrightarrow{A}+\overrightarrow{B}=\overrightarrow{0}$
-					- Monotonía de la igualdad vectorial respecto a la suma de vectores
-						- $\overrightarrow{A}=\overrightarrow{B}, \overrightarrow{C}=\overrightarrow{D}\implies\overrightarrow{A}+\overrightarrow{C}=\overrightarrow{B}+\overrightarrow{D}$
-		- Diferencia de vectores - Geométricamente, $\overrightarrow{A}-\overrightarrow{B}$ es el vector que al sumarse con $\overrightarrow{B}$ resulta en el vector $\overrightarrow{A}$
-			- $\overrightarrow{A}-\overrightarrow{B}=\overrightarrow{A}+(-\overrightarrow{B})$
+En dos dimensiones, es conveniente escojer como base dos vectores unitarios que se ubiquen sobre el eje $X$ y el eje $Y$, de modo que sean perpendiculares. Estos vectores son llamados $\mathbf{i}$ y $\mathbf{j}$ respectivamente.
+
+De este modo, cualquier vector $r$ en dos dimensiones puede representarse como una combinación lineal $r=x\mathbf{i}+y\mathbf{j}$ . Donde $x=|r|\cos \theta$ y $y=|r|\sin \theta$ , y $\theta$ es el ángulo que forma el vector con $\mathbf{i}$ , y por lo tanto, forma tambien con el eje $X$ . Estas definiciones nos permiten representar vectores en el sistema de coordenadas rectangulares en dos dimensiones.
 
 ## Sistemas de Coordenadas
 Los sistemas de coordenadas son los que permiten representar las figuras geométricas de forma analítica y explorar algebraicamente sus propiedades.
