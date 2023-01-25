@@ -102,10 +102,19 @@ Por lo tanto los cosenos directores de los ejes $X$ , $Y$ y $Z$ son $1$ , $0$ , 
 Se desarrollan ideas y fórmulas básicas al proponer y resolver problemas de carácter fundamental usando los conceptos previos.
 
 ### Longitud del Vector entre dos Puntos
+El vector que va desde $P_{1}$ hasta $P_{2}$ es $\overrightarrow{P_{1}P_{2}}=\overrightarrow{P_{2}}-\overrightarrow{P_{1}}$ por suma de vectores, así que las coordenadas del vector entre los dos puntos son $\overrightarrow{P_{1}P_{2}}=(x_{2}-x_{1},y_{2}-y_{1},z_{2}-z_{1})$ 
+
+La **distancia entre dos puntos** es entonces $|\overrightarrow{P_{1}P_{2}|}=\sqrt{ (x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}+(z_{2}-z_{1})^{2}}$ 
 
 ### Punto Medio de un Segmento
 
 ### Ángulo entre dos Rectas
+
+### Producto Escalar
+
+### Producto Vectorial
+
+### Producto Mixto
 
 ## Sistemas de Coordenadas
 Los sistemas de coordenadas son los que permiten representar las figuras geométricas de forma analítica y explorar algebraicamente sus propiedades.
