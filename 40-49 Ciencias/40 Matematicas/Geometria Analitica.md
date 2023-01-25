@@ -79,11 +79,22 @@ Se dice que un vector $\overrightarrow{C}$ es una **combinación lineal** de $\o
 
 La **dimensión** de una base es el número de vectores que pertenecen a la base, y es igual al número de dimensiones involucradas en el espacio.
 
-En dos dimensiones, es conveniente escojer como base dos vectores unitarios que se ubiquen sobre el eje $X$ y el eje $Y$, de modo que sean perpendiculares. Estos vectores son llamados $\mathbf{i}$ y $\mathbf{j}$ respectivamente.
+En dos dimensiones, es conveniente escoger como base dos vectores unitarios que se ubiquen sobre el eje $X$ y el eje $Y$, de modo que sean perpendiculares. Estos vectores son llamados $\mathbf{i}$ y $\mathbf{j}$ respectivamente.
 
 De este modo, cualquier vector $r$ en dos dimensiones puede representarse como una combinación lineal $r=x\mathbf{i}+y\mathbf{j}$ . Donde $x=|r|\cos \theta$ y $y=|r|\sin \theta$ , y $\theta$ es el ángulo que forma el vector con $\mathbf{i}$ , y por lo tanto, forma tambien con el eje $X$ . Estas definiciones nos permiten representar vectores en el sistema de coordenadas rectangulares en dos dimensiones.
 
 El vector $r=\overrightarrow{OP}$ es llamado el **vector de posición** de $P$ , ya que las coordenadas del vector son iguales a las coordenadas rectangulares de su extremo. Además, $(\mathbf{r},\theta)$ donde $\mathbf{r}=|r|$ son las **coordenadas polares** del punto $P$. $\theta=\tan ^{-1}\frac{y}{x}$ y $\mathbf{r}$ al ser una longitud es siempre positivo.
+
+En tres dimensiones, se escogen como base tres vectores unitarios perpendiculares entre sí, de modo que el vector de posición $r$ es igual a $r=x\mathbf{i}+y\mathbf{j}+z\mathbf{k}$ . Los vectores unitarios $\mathbf{i}$ , $\mathbf{j}$ y $\mathbf{k}$ son la **base canónica**. Usando el teorema de Pitágoras se puede concluir que $|r|=\sqrt{ x^{2}+y^{2}+z^{2} }$
+
+Los ángulos $\alpha$ , $\beta$ y $\rho$ que un vector forma con los ejes de coordenadas son llamados los **ángulos directores** del vector. Usando trigonometría se obtiene que
+$$\cos(\alpha)=\frac{A_{x}}{|\overrightarrow{A}|}$$
+
+$$\cos(\beta)=\frac{A_{y}}{|\overrightarrow{A}|}$$
+
+$$\cos(\rho)=\frac{A_{z}}{|\overrightarrow{A}|}$$
+
+$$\cos ^{2} (\alpha)+\cos ^{2}(\beta)+\cos ^{2}(\rho)=1$$
 
 ## Sistemas de Coordenadas
 Los sistemas de coordenadas son los que permiten representar las figuras geométricas de forma analítica y explorar algebraicamente sus propiedades.
