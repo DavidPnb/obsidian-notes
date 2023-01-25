@@ -83,6 +83,8 @@ En dos dimensiones, es conveniente escojer como base dos vectores unitarios que 
 
 De este modo, cualquier vector $r$ en dos dimensiones puede representarse como una combinación lineal $r=x\mathbf{i}+y\mathbf{j}$ . Donde $x=|r|\cos \theta$ y $y=|r|\sin \theta$ , y $\theta$ es el ángulo que forma el vector con $\mathbf{i}$ , y por lo tanto, forma tambien con el eje $X$ . Estas definiciones nos permiten representar vectores en el sistema de coordenadas rectangulares en dos dimensiones.
 
+El vector $r=\overrightarrow{OP}$ es llamado el **vector de posición** de $P$ , ya que las coordenadas del vector son iguales a las coordenadas rectangulares de su extremo. Además, $(\mathbf{r},\theta)$ donde $\mathbf{r}=|r|$ son las **coordenadas polares** del punto $P$. $\theta=\tan ^{-1}\frac{y}{x}$ y $\mathbf{r}$ al ser una longitud es siempre positivo.
+
 ## Sistemas de Coordenadas
 Los sistemas de coordenadas son los que permiten representar las figuras geométricas de forma analítica y explorar algebraicamente sus propiedades.
 
