@@ -96,6 +96,17 @@ $$\cos(\rho)=\frac{A_{z}}{|\overrightarrow{A}|}$$
 
 $$\cos ^{2} (\alpha)+\cos ^{2}(\beta)+\cos ^{2}(\rho)=1$$
 
+Por lo tanto los cosenos directores de los ejes $X$ , $Y$ y $Z$ son $1$ , $0$ , $0$ **;** $0$ , $1$ , $0$ y $0$ , $0$ , $1$ respectivamente.
+
+## Conceptos Básicos de la Geometría Analítica
+Se desarrollan ideas y fórmulas básicas al proponer y resolver problemas de carácter fundamental usando los conceptos previos.
+
+### Longitud del Vector entre dos Puntos
+
+### Punto Medio de un Segmento
+
+### Ángulo entre dos Rectas
+
 ## Sistemas de Coordenadas
 Los sistemas de coordenadas son los que permiten representar las figuras geométricas de forma analítica y explorar algebraicamente sus propiedades.
 
