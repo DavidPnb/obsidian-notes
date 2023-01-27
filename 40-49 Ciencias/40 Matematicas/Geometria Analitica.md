@@ -107,6 +107,7 @@ El vector que va desde $P_{1}$ hasta $P_{2}$ es $\overrightarrow{P_{1}P_{2}}=\ov
 La **distancia entre dos puntos** es entonces $|\overrightarrow{P_{1}P_{2}|}=\sqrt{ (x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}+(z_{2}-z_{1})^{2}}$ 
 
 ### Punto Medio de un Segmento
+$\overrightarrow{P_{1}M}$ es $\frac{1}{2}\overrightarrow{P_{1}P_{2}}$ porque tiene la mitad de su longitud y la misma dirección y sentido, donde $\overrightarrow{P_{1}P_{2}}$ es el segmento formado por dos puntos y $M$ es el punto medio del segmento, entonces $M=\frac{1}{2}\overrightarrow{P_{1}P_{2}}+\overrightarrow{P_{1}}=\frac{1}{2}(\overrightarrow{P_{1}}+\overrightarrow{P_{2}})$ . En general, para encontrar un punto que divide a un segmento en una razón determinada se debe tomar en cuenta que el vector que va desde el origen del segmento hasta el punto es igual al vector del segmento multiplicado por un escalar que depende de la razón dada.
 
 ### Ángulo entre dos Rectas
 
