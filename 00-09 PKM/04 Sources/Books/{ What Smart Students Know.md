@@ -231,6 +231,7 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 			- Formato
 ### Como los Buenos Estudiantes lo Juntan Todo
 
+
 ## Puntos Clave
 
 ## Contexto
