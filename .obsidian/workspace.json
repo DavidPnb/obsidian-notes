@@ -39,8 +39,13 @@
             "id": "7ecb7bb7781d2abb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2023-W04.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -57,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -204,6 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +245,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md"
+              }
             }
           },
           {
@@ -314,20 +323,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7ecb7bb7781d2abb",
+  "active": "02104e66188c6851",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2023-W04.md",
+    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Shadow Clone.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Set Up Your Home Note.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Sense-making sessions.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Sense of Control.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Selfish Gene.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Seasons.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Rubik's Cube.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Resiliency Routines help regain a sense of control.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Reps.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Regla de Ruffini.md"
+    "00-09 PKM/00 Atlas/00.02 Cards/Rubik's Cube.md"
   ]
 }

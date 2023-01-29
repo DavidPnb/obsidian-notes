@@ -1,6 +1,4 @@
 
--   [Obsidian Hub](https://publish.obsidian.md/hub) on everything Obsidian
--   [Data Engineering Wiki](https://dataengineering.wiki/) on Data Modeling and Processing
 -   [lkadre’s brain](https://brain.lkadre.com/) on Law
 -   [nitinpai’s notes](https://notes.nitinpai.in/) on Philosophy, Tech, Teaching and Policies
 -   [mister chad](https://mister-chad.com/) on Art, Design and Creativity

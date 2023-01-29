@@ -79,8 +79,8 @@ Introduce un método socrático en el que el estudiante se hace preguntas y las 
 		1. ¿Cuál es la definición?
 		2. ¿Cuales son los ejemplos?
 		3. ¿Cuales son los distintos tipos?
-		4. ¿A que se relaciona?
-		5. ¿Con que se compara?
+		4. ¿A que se relaciona? (¿Porqué?')
+		5. ¿Con que se compara? (¿Cómo?)
 6. ¿Qué interrogantes me genera esta información?
 	1. Implicaciones
 	2. Asunciones
