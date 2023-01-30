@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+                "file": "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.02 Weekly/2023-W04.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-01-28.md"
               }
             }
           },
@@ -302,7 +302,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -323,21 +324,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "02104e66188c6851",
+  "active": "7ecb7bb7781d2abb",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-01-28.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2023-W04.md",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Shadow Clone.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Set Up Your Home Note.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Sense-making sessions.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Sense of Control.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Selfish Gene.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Seasons.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Rubik's Cube.md"
+    "00-09 PKM/00 Atlas/00.02 Cards/Set Up Your Home Note.md"
   ]
 }
