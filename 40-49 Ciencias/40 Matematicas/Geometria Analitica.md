@@ -111,21 +111,16 @@ $\overrightarrow{P_{1}M}$ es $\frac{1}{2}\overrightarrow{P_{1}P_{2}}$ porque tie
 
 ### Producto Escalar
 El **Producto Escalar** o **producto punto** de $\overrightarrow{A}$ y $\overrightarrow{B}$ , denotado por $\overrightarrow{A}\cdot\overrightarrow{B}$ es $A_{x}B_{x}+A_{y}B_{y}+A_{z}B_{z}$ y recibe ese nombre debido a que el resultado de la operación es escalar.
- El resultado es escalar
-			- $A_{x}B_{x}+A_{y}B_{y}+A_{z}B_{z}$
-			- $\overrightarrow{A}*\overrightarrow{B}=|\overrightarrow{A}||\overrightarrow{B}|\cos \theta$
-				- $\theta$ es el angulo entre los vectores
-				- $\cos \theta=\overrightarrow{\mu}_{A}*\overrightarrow{\mu_{B}}$
-			- Propiedades
-				- $\overrightarrow{A}*\overrightarrow{B}$
-				- $\lambda(\overrightarrow{A}*\overrightarrow{B})=(\lambda\overrightarrow{A})*\overrightarrow{B}=\overrightarrow{A}*(\lambda\overrightarrow{B})$
-				- $\overrightarrow{A}*\overrightarrow{A}=|\overrightarrow{A}|^{2}$
-				- $\overrightarrow{A}(\overrightarrow{B}*\overrightarrow{C})=\overrightarrow{A}*\overrightarrow{B}+\overrightarrow{A}*\overrightarrow{C}$
-			- Condición de perpendicularidad
-				- $\overrightarrow{A}\perp\overrightarrow{B}\iff\overrightarrow{A}*\overrightarrow{B}=0$
+- Propiedades
+	- $\overrightarrow{A}\cdot\overrightarrow{B}=|\overrightarrow{A}| |\overrightarrow{B}|\cos \theta$
+	- $\lambda(\overrightarrow{A}\cdot\overrightarrow{B})=(\lambda\overrightarrow{A})\cdot\overrightarrow{B}=\overrightarrow{A}\cdot(\lambda\overrightarrow{B})$
+	- $\overrightarrow{A}\cdot\overrightarrow{A}=|\overrightarrow{A}|^{2}$
+	- $\overrightarrow{A} \cdot(\overrightarrow{B}+\overrightarrow{C})=\overrightarrow{A}\cdot\overrightarrow{B}+\overrightarrow{A}\cdot\overrightarrow{C}$
 
 ### Ángulo entre dos Rectas
-Esto puede resolverse al conseguir el ángulo entre vectores en las rectas, lo que permite encontrar el ángulo entre entre rectas que no se intersectan. Para esto, se trasladan los dos vectores hasta el origen, convirtiendolos en vectores de posición.
+Esto puede resolverse al conseguir el ángulo entre vectores en las rectas, lo que permite encontrar el ángulo entre entre rectas que no se intersectan. Para esto, se trasladan los dos vectores hasta el origen, convirtiendolos en vectores de posición. A partir de aquí, se puede usar la ley de cosenos y despejar para obtener $$\cos \theta=\overrightarrow{\mu}_{A}\cdot\overrightarrow{\mu_{B}}=\frac{\overrightarrow{A}\cdot\overrightarrow{B}}{|\overrightarrow{A}| |\overrightarrow{B}|}$$
+- **Condición de perpendicularidad**
+	- $\overrightarrow{A}\perp\overrightarrow{B}\iff\overrightarrow{A}\cdot\overrightarrow{B}=0$
 
 ### Producto Vectorial
 
