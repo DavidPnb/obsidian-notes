@@ -109,9 +109,23 @@ La **distancia entre dos puntos** es entonces $|\overrightarrow{P_{1}P_{2}|}=\sq
 ### Punto Medio de un Segmento
 $\overrightarrow{P_{1}M}$ es $\frac{1}{2}\overrightarrow{P_{1}P_{2}}$ porque tiene la mitad de su longitud y la misma dirección y sentido, donde $\overrightarrow{P_{1}P_{2}}$ es el segmento formado por dos puntos y $M$ es el punto medio del segmento, entonces $M=\frac{1}{2}\overrightarrow{P_{1}P_{2}}+\overrightarrow{P_{1}}=\frac{1}{2}(\overrightarrow{P_{1}}+\overrightarrow{P_{2}})$ . En general, para encontrar un punto que divide a un segmento en una razón determinada se debe tomar en cuenta que el vector que va desde el origen del segmento hasta el punto es igual al vector del segmento multiplicado por un escalar que depende de la razón dada.
 
-### Ángulo entre dos Rectas
-
 ### Producto Escalar
+El **Producto Escalar** o **producto punto** de $\overrightarrow{A}$ y $\overrightarrow{B}$ , denotado por $\overrightarrow{A}\cdot\overrightarrow{B}$ es $A_{x}B_{x}+A_{y}B_{y}+A_{z}B_{z}$ y recibe ese nombre debido a que el resultado de la operación es escalar.
+ El resultado es escalar
+			- $A_{x}B_{x}+A_{y}B_{y}+A_{z}B_{z}$
+			- $\overrightarrow{A}*\overrightarrow{B}=|\overrightarrow{A}||\overrightarrow{B}|\cos \theta$
+				- $\theta$ es el angulo entre los vectores
+				- $\cos \theta=\overrightarrow{\mu}_{A}*\overrightarrow{\mu_{B}}$
+			- Propiedades
+				- $\overrightarrow{A}*\overrightarrow{B}$
+				- $\lambda(\overrightarrow{A}*\overrightarrow{B})=(\lambda\overrightarrow{A})*\overrightarrow{B}=\overrightarrow{A}*(\lambda\overrightarrow{B})$
+				- $\overrightarrow{A}*\overrightarrow{A}=|\overrightarrow{A}|^{2}$
+				- $\overrightarrow{A}(\overrightarrow{B}*\overrightarrow{C})=\overrightarrow{A}*\overrightarrow{B}+\overrightarrow{A}*\overrightarrow{C}$
+			- Condición de perpendicularidad
+				- $\overrightarrow{A}\perp\overrightarrow{B}\iff\overrightarrow{A}*\overrightarrow{B}=0$
+
+### Ángulo entre dos Rectas
+Esto puede resolverse al conseguir el ángulo entre vectores en las rectas, lo que permite encontrar el ángulo entre entre rectas que no se intersectan. Para esto, se trasladan los dos vectores hasta el origen, convirtiendolos en vectores de posición.
 
 ### Producto Vectorial
 
