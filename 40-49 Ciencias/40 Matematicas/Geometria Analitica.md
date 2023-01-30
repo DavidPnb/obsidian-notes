@@ -123,8 +123,42 @@ Esto puede resolverse al conseguir el ángulo entre vectores en las rectas, lo q
 	- $\overrightarrow{A}\perp\overrightarrow{B}\iff\overrightarrow{A}\cdot\overrightarrow{B}=0$
 
 ### Producto Vectorial
+El **Producto Vectorial** de  $\overrightarrow A$ y $\overrightarrow B$ , representado por $\overrightarrow A\times \overrightarrow B$, resulta en un vector perpendicular a $\overrightarrow A$ y $\overrightarrow B$. Se calcula como $$
+\begin{vmatrix}
+\mathbf{i} & \mathbf{j} & \mathbf{k} \\
+A_{x} & A_{y} & A_{z} \\
+B_{x} & B_{y} & B_{z}
+\end{vmatrix}
+$$
+
+- Propiedades
+	- $\overrightarrow A\times \overrightarrow B=(-1)\overrightarrow B\times \overrightarrow A$
+	- $\overrightarrow A \times(\overrightarrow B+\overrightarrow C)=\overrightarrow A \times \overrightarrow B+\overrightarrow A\times \overrightarrow C$
+	- $\lambda (\overrightarrow A\times \overrightarrow B)=\lambda \overrightarrow A\times \overrightarrow B=\overrightarrow A\times \lambda \overrightarrow B$
+	- $\overrightarrow A \times(\overrightarrow B\times \overrightarrow C)$ es perpendicular al plano donde se encuentran $\overrightarrow B$ y $\overrightarrow C$
+	- $|\overrightarrow A \times \overrightarrow B|=|\overrightarrow A| |\overrightarrow B| \sin(\theta)$
+- $A_{\text{Paralelogramo}}=|\overrightarrow A \times \overrightarrow B|$
+	- $\overrightarrow A$ y $\overrightarrow B$ son lados con un mismo vértice
+- $\tan(\theta)=\frac{|\overrightarrow A \times \overrightarrow B|}{\overrightarrow A \cdot \overrightarrow B}$
+- Condición de Parelismo
+	- $|\overrightarrow A \times \overrightarrow B|=0$
 
 ### Producto Mixto
+El producto mixto de $\overrightarrow A$ , $\overrightarrow B$ y $\overrightarrow C$ , representado por $(\overrightarrow A\times \overrightarrow B)\cdot \overrightarrow C$ se calcula como $$
+\begin{vmatrix}
+A_{x} & A_{y} & A_{z} \\
+B_{x} & B_{y} & B_{z} \\
+C_{x} & C_{y} & C_{z}
+\end{vmatrix}
+$$
+
+- Propiedades
+	- $(\overrightarrow A\times \overrightarrow B)\cdot \overrightarrow C=\overrightarrow A\cdot (\overrightarrow B\times \overrightarrow C)$
+	- $\lambda[(\overrightarrow A\times \overrightarrow B)\cdot \overrightarrow C]=(\lambda \overrightarrow A\times \overrightarrow B)\cdot \overrightarrow C=(\overrightarrow A\times \lambda \overrightarrow B)\cdot \overrightarrow C=(\overrightarrow A\times \overrightarrow B)\cdot \lambda \overrightarrow C$
+	- $V_{\text{Paralelepipedo}}=(\overrightarrow A\times \overrightarrow B)\cdot \overrightarrow C$
+		- $\overrightarrow A$ , $\overrightarrow B$ y $\overrightarrow C$ son aristas con un mismo vértice
+- Condición de coplanaridad
+	- $(\overrightarrow A\times \overrightarrow B)\cdot \overrightarrow C=0$
 
 ## Sistemas de Coordenadas
 Los sistemas de coordenadas son los que permiten representar las figuras geométricas de forma analítica y explorar algebraicamente sus propiedades.
