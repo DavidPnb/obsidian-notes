@@ -1,6 +1,6 @@
 Status:
 Tags: 
-Links: [[Vectores]], parent:[[Geometria Analitica]]
+Links: [[Vectores Geometricos]], parent:[[Geometria Analitica]]
 Referencias:
 Creado el: 2022-04-07 17:25
 ___

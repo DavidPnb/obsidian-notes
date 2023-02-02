@@ -28,7 +28,7 @@ Los tipos en un lenguaje de programación le dicen a este la forma en que debe i
 	- **float** - representa [[Numeros Reales]]
 	- **bool** - representa valores booleanos
 	- **None** - es un tipo especial de dato que indica que la expresión no devuelve ningun valor
-- **No Escalares** - Al igual que con los [[Vectores]], son multidimensionales y estan asociados a mas de un valor
+- **No Escalares** - Al igual que con los [[Vectores Geometricos]], son multidimensionales y estan asociados a mas de un valor
 
 ## Operaciones
 Las operaciones fundamentales de un lenguaje de programación son:
