@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-03.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "b6db9d4a53a6b1e2",
+            "id": "058e34c447f83f4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-02.md",
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-02.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-03.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-02.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-02.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-03.md"
               }
             }
           },
@@ -310,20 +310,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b6db9d4a53a6b1e2",
+  "active": "02104e66188c6851",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-02.md",
-    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/MA1B02.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
-    "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
-    "40-49 Ciencias/40 Matematicas/Producto Escalar.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-03.md",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-02.md",
+    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
+    "00-09 PKM/04 Sources/Books/{ How to Take Smart Notes.md",
+    "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md"
   ]
 }
