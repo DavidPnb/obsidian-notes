@@ -78,6 +78,11 @@ finished::
 3. **Tablas de Progresiones y Metas de Entrenamiento**
 	1. Tablas de Progresiones y como Usarlas
 		1. Las progresiones son listas con ejercicios que tienen atributos relacionadas y que estan ordenadas de menor a mayor dificultad
+	2. Sistema de Niveles
+		1. Principiante - 1-5
+		2. Intermedio - 6-9
+		3. Avanzado - 10-13
+		4. Elite - 14-16
 ### Construir una Rutina
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa

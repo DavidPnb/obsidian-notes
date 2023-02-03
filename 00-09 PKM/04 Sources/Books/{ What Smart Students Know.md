@@ -230,6 +230,17 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 			- Estilo
 			- Formato
 ### Como los Buenos Estudiantes lo Juntan Todo
+- Manejo del Tiempo
+	- Usar tareas diarias, calendario semanal y calendario del semestre
+	- Saber priorizar lo más importante y tener cierto grado de flexibilidad y tiempo libre
+	- Antes de cada clase, repasar las notas de la clase anterior y la lectura asignada
+	- Despues de cada clase, combinar las notas de la clase con las notas de la lectura
+	- Una vez a la semana, consolidar las notas y actualizar el resumen (paso 10)
+	- En las primeras semanas
+		- Preparar las preguntas de experticia
+		- Encontrar al menos una fuente de información suplementaria
+		- Tener el temario del curso
+		- Pensar en las asignaturas que se pueden retirar
 
 
 ## Puntos Clave
