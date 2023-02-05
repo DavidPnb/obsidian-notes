@@ -8,13 +8,13 @@ tags:: #source/book📚
 
 writer:: [[Adam Robinson]]
 
-status:: To Do
+status:: S
 
 subject:: [[Tecnicas de Estudio]]
 
 started:: 2022-11-13 17:48
 
-finished::
+finished:: 2023-02-03 18:50
 
 ## 🔍 Como lo Descubri
 Amazon Reviews (Make It Stick)
@@ -241,6 +241,10 @@ Dependiendo del contexto, algunas preguntas pueden ser más importantes que otra
 		- Encontrar al menos una fuente de información suplementaria
 		- Tener el temario del curso
 		- Pensar en las asignaturas que se pueden retirar
+- Escoger Cursos
+	- Naturaleza del Profesor
+	- Cantidad de Clases
+	- Horarios
 
 
 ## Puntos Clave

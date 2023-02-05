@@ -83,6 +83,26 @@ finished::
 		2. Intermedio - 6-9
 		3. Avanzado - 10-13
 		4. Elite - 14-16
+	3. Clasificación de Diferencias en el Sistema de Niveles - Esta se basa en la habilidad para realizar ejercicios
+		1. Principiantes sin Entrenamiento
+			1. Practicar ejercicios fundamentales
+			2. Utilizar mayor número de repeticiones
+			3. Enfocarse en debilidades individuales
+			4. Empezar una rutina balanceada y generalizada
+		2. Principiantes con Entrenamiento
+			1. Enfatizar consistencia
+			2. Entrenar entre 5-15 repeticiones
+			3. Balancear los ejercicios de push/pull
+			4. Añadir ejercicios para mantener balance estructural si empiezan a aparecer desbalances
+			5. Dejar que el cuerpo se adapte al entrenamiento
+		3. Intermedios
+			1. Diversificar el entrenamiento de acuerdo a las metas
+			2. Adaptar frecuencia, volumen e intensidad para mantener el progreso
+		4. Avanzados
+			1. Entrenamiento específico
+			2. Trabajar los puntos débiles
+			3. Considerar el sueño, la nutrición y el estrés
+			4. Entender como el cuerpo responde al entrenamiento
 ### Construir una Rutina
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa

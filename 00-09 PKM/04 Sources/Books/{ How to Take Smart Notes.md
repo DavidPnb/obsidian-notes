@@ -124,6 +124,7 @@ La estructura del sistema otorga un grado de flexibilidad que permite conectar l
 - **Comparar, Corregir y Diferenciar** - Solemos sobreestimar la importancia de la información que esta disponible más facilmente, y por esto, nos enfocamos en las ideas más recientes. El sistema evita que esto suceda al externalizar la información, lo que le da disponibilidad a información más antigua, la cual puede extender o confrontar a la que es más reciente. Esto tambien nos permite comparar la información de manera objetiva para encontrar similitudes y diferencias, o para buscar contradicciones
 - **Crear Herramientas para el Pensamiento** - El mero uso del sistema nos obliga a usar los métodos comprobados para un aprendizaje ideal como el espaciado, la elaboración, variación y recall.
 - **Usar la Slip-Box como Maquina para la Creatividad** - La creatividad se produce al transformar un conjunto de ideas ya existentes y aplicarlas a nuevos contextos. La novedad en estas ideas viene de la capacidad para apreciar detalles y diferencias mediante el proceso de comparación
+- **Facilitar la Creatividad a través de Restricciones** - Las restricciones en el formato de las notas permiten formar una estructura estandar, lo que nos da la facilidad para comparar ideas y explorar conceptos, evitando la *Paradoja de Elección*
 
 ## Puntos Clave
 
