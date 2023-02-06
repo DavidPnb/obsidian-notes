@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-06.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md"
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md"
               }
             }
           },
@@ -310,14 +310,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "02104e66188c6851",
+  "active": "44f1a57488b38a3f",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-02-06.md",
+    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-02-05.md",
     "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-02-04.md",
