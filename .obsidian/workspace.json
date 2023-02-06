@@ -39,9 +39,12 @@
             "id": "0a9d5a962a47ada3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "00-09 PKM/03 Extras/Media/Trabajo DH2B02 Leccion 17.png"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-06.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -87,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/03 Extras/Media/Trabajo DH2B02 Leccion 17.png",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-06.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -207,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/03 Extras/Media/Trabajo DH2B02 Leccion 17.png",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/03 Extras/Media/Trabajo DH2B02 Leccion 17.png"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-06.md"
               }
             }
           },
@@ -320,12 +323,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "0a9d5a962a47ada3",
   "lastOpenFiles": [
+    "00-09 PKM/03 Extras/Media/Trabajo DH2B02 Leccion 17.png",
     "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 17.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-02-06.md",
@@ -334,7 +337,6 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2023-02-05.md",
     "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-02-04.md",
-    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-03.md"
+    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md"
   ]
 }
