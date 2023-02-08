@@ -5,44 +5,37 @@ tags:: #Mathematics
 up:: [[40.05 Geometria]]
 Links: 
 # Rectas
-## Rectas en el Espacio
 Cuando Euclides formalizó la geometría por primera vez en los Elementos, definió una línea general (recta o curva) como "sin anchura" y una línea recta como una línea "que se encuentra uniformemente con los puntos sobre sí misma". Estas definiciones sirven de poco, ya que utilizan términos que no están definidos por sí mismos. De hecho, el mismo Euclides no usó estas definiciones en este trabajo, y probablemente las incluyó solo para dejarle claro al lector lo que se estaba discutiendo. En la geometría moderna, una línea se toma simplemente como un objeto indefinido con propiedades dadas por axiomas, pero a veces se define como un conjunto de puntos que obedecen a una relación lineal cuando se deja sin definir algún otro concepto fundamental.
 
+## Rectas en el Espacio
+La recta se construye a través de un punto y un vector que le da dirección, llamado **vector director** de la recta. Para que un punto pertenezca a la recta, el vector que va desde un punto de la recta a esta punto debe ser paralelo al vector director de la recta.
+
 ### Ecuacion Vectorial Parametrica
-$l:\overrightarrow{OP}=\overrightarrow{OP_0}+\lambda \overrightarrow{L}$, donde $\lambda \in \mathbb{R}$, $\overrightarrow{P_0} \in l$, y $\overrightarrow{L}$ es el vector director de la recta
+$L:\overrightarrow{P}=\overrightarrow{P_1}+\lambda \overrightarrow{L}$, donde $\lambda \in \mathbb{R}$, $\overrightarrow{P_0} \in l$, y $\overrightarrow{L}$ es el vector director de la recta. Se obtiene a partir de la condición original
 
-### Ecuacion Parametrica Cartesiana
-Tiene la forma $\begin{align*}x=p_x+\lambda l_x \\ y=p_y+\lambda l_y \\ z=p_z+\lambda l_z \end{align*}\; , \lambda \in \mathbb{R}$ y se obtiene al separar la Ecuacion Vectorial Parametrica en una ecuacion para cada componente.
+### Ecuacion Parametrica
+Tiene la forma $\begin{align*}x=p_x+\lambda l_x \\ y=p_y+\lambda l_y \\ z=p_z+\lambda l_z \end{align*}\; , \lambda \in \mathbb{R}$ y se obtiene conociendo los valores de $P_{1}$ y $\overrightarrow L$ en la ecuación vectorial paramétrica.
 
-> [!note]+ Nota
-> 
-Esta ecuacion se usa para encontrar la interseccion de la recta con un plano u otra recta
-
-### Ecuacion Continua
-Se toma la Ecuacion Parametrica Cartesiana y se despeja el valor de $\lambda$ y luego se igualan las ecuaciones resultantes
+### Ecuacion Simétrica
+Se toma la ecuación paramétrica y se despeja el valor de $\lambda$ y luego se igualan las ecuaciones resultantes
 
 $\begin{align*} \lambda =\frac{x-p_x}{l_x} \\ \lambda =\frac{y-p_y}{l_y} \\ \lambda =\frac{z-p_z}{l_z} \\ \frac{x-p_x}{l_x}=\frac{y-p_y}{l_y}=\frac{z-p_z}{l_z} \end{align*}$
-
-> [!note]+ Nota
-> 
-Esta ecuacion se usa para determinar si un punto pertenece a la recta.
-
 ### Recta como Interseccion de dos Planos
 $$l: \begin{align*}
 \pi_1 :A_1x+B_1y+C_1z+D_1=0 \\ \pi_2: A_2x+B_2y+C_2z+D_2=0
 \end{align*}$$
 
-Cualquier punto cuyas coordenadas satisfagan ambas ecuaciones del sistema pertenece a $l$
+Esta ecuación se obtiene al desarrollar la ecuación simétrica .Cualquier punto cuyas coordenadas satisfagan ambas ecuaciones del sistema pertenece a $l$
 
 ### Planos Proyectantes
 Estos son los planos que pasan por $l$ y son perpendiculares a los planos coordenados. Para obtener un plano proyectante determinado de la recta, se expresa la recta como la interseccion de dos planos y se multiplica uno de las ecuaciones de los planos por un escalar y se añade a la otra, de modo que se elimine una de las variables de las ecuaciones
 
-### Distancia entre una Recta y un Plano
-En caso de que la recta este incluida en el plano o que la recta corte al plano, la distancia entre los dos es igual a cero. En caso de que sean paralelos y la recta no pertenezca al plano basta con hallar la distancia de cualquier punto $P_0$ de $l$ al plano $\pi$
+### Distancia entre un punto y una recta
+$$d=\frac{|\overrightarrow{P_{1}Q}\times \overrightarrow{L}|}{|\overrightarrow L|}$$
+Se obtiene usando proyección perpendicular y simplificando.
 
-> [!note]+ Nota
-> 
-Se puede usar la formula: $d=\frac{|Ax_0+By_0+Cz_0+D|}{|\overrightarrow{N}|}$
+### Distancia entre una Recta y un Plano
+En caso de que la recta este incluida en el plano o que la recta corte al plano, la distancia entre los dos es igual a cero. 
 
 ### Distancia entre dos Rectas que se cruzan
 Para encontrar al vector distancia entre las rectas se calcula un vector $\overrightarrow{N}= \overrightarrow{L_1} \times \overrightarrow{L_2}$ perpendicular a ambos vectores, luego se toma un vector que vaya desde un punto de una recta a un punto en la otra recta, y finalmente, este ultimo vector se [[Producto Escalar#Proyeccion de un Vector sobre otro | Proyecta]] sobre el vector $\overrightarrow{N}$
