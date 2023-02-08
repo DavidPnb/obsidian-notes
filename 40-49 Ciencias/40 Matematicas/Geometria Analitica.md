@@ -14,6 +14,7 @@ La geometría analítica es el estudio de la [[40.05 Geometria|Geometría]] util
 
 ## Rectas
 ### Lugar Geométrico
+Un **lugar geométrico** es el conjunto de todos los puntos que cumplen determinada condición geométrica, generalmente expresada a través de una ecuación.
 
 ### Recta en Tres Dimensiones
 [[Rectas]]

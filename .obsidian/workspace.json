@@ -28,20 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-07.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "118d64098db995ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-49 Ciencias/42 Fisica/Teoria Cuantica.md",
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/Teoria Cuantica.md",
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -210,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/Teoria Cuantica.md",
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/Teoria Cuantica.md"
+                "file": "40-49 Ciencias/40 Matematicas/Geometria Analitica.md"
               }
             }
           },
@@ -326,17 +313,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "118d64098db995ca",
+  "active": "0a9d5a962a47ada3",
   "lastOpenFiles": [
     "00-09 PKM/01 Calendar/01.01 Daily/2023-02-07.md",
-    "40-49 Ciencias/42 Fisica/Teoria Cuantica.md",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
+    "40-49 Ciencias/43 Quimica/Mecanica Cuantica.md",
+    "40-49 Ciencias/42 Fisica/Teoria Cuantica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-02-06.md",
     "00-09 PKM/03 Extras/Media/Trabajo DH2B02 Leccion 17.png",
     "00-09 PKM/05 Spaces/05.02 Universidad/Trabajo DH2B02 Leccion 17.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/DH2B02.md",
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-05.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-05.md"
   ]
 }
