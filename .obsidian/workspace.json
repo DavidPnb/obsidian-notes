@@ -28,14 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Cuadraticas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Cuadraticas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -183,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Cuadraticas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md"
+                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Cuadraticas.md"
               }
             }
           },
@@ -296,12 +297,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d125d9b7f09f7f5b",
+  "active": "44f1a57488b38a3f",
   "lastOpenFiles": [
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
     "40-49 Ciencias/40 Matematicas/Rectas.md",
     "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
@@ -310,7 +311,6 @@
     "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
     "40-49 Ciencias/43 Quimica/Mecanica Cuantica.md",
     "40-49 Ciencias/42 Fisica/Teoria Cuantica.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-06.md",
-    "00-09 PKM/03 Extras/Media/Trabajo DH2B02 Leccion 17.png"
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-06.md"
   ]
 }
