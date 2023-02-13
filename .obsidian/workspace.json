@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Cuadraticas.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-10.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "793b8134ddf75aea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Cuadraticas.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Cuadraticas.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Cuadraticas.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-02-10.md"
               }
             }
           },
@@ -302,15 +315,15 @@
   },
   "active": "44f1a57488b38a3f",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-10.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-09.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-08.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-07.md",
+    "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Cuadraticas.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
     "40-49 Ciencias/40 Matematicas/Rectas.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-07.md",
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
-    "40-49 Ciencias/43 Quimica/Mecanica Cuantica.md",
-    "40-49 Ciencias/42 Fisica/Teoria Cuantica.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-06.md"
+    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md"
   ]
 }
