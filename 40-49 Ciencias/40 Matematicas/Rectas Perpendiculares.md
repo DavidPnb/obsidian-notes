@@ -1,9 +1,9 @@
 tags:: #Mathematics 
-up:: [[Rectas]]
+up:: [[Rectas en el Espacio]]
 Links: 
 # Rectas Perpendiculares
 > [!definicion] Definición
-> Las **rectas perpendiculares** son [[Rectas]] que se cruzan formando [[Angulos]] adyacentes congruentes. Dos rectas perpendiculares $m$ y $p$ se representan como $m \perp p$
+> Las **rectas perpendiculares** son [[Rectas en el Espacio]] que se cruzan formando [[Angulos]] adyacentes congruentes. Dos rectas perpendiculares $m$ y $p$ se representan como $m \perp p$
 
 Dos rectas no necesitan ser horizontales y verticales para ser perpendiculares
 

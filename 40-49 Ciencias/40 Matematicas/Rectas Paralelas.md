@@ -4,7 +4,7 @@ references:
 created: 2022-07-27 12:45
 ---
 tags:: #Mathematics 
-up:: [[Rectas]]
+up:: [[Rectas en el Espacio]]
 Links: 
 # Rectas Paralelas
 > [!definicion]

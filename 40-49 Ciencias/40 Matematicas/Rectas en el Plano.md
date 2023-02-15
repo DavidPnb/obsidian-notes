@@ -2,7 +2,7 @@
 created: 2022-08-22 10:15
 ---
 tags:: #Mathematics 
-up:: [[Rectas]]
+up:: [[Rectas en el Espacio]]
 Links: 
 # Rectas en el Plano
 ## Pendiente de una Recta

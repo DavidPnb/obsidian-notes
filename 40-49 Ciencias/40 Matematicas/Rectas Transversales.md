@@ -5,7 +5,7 @@ references:
 created: 2022-07-27 13:13
 ---
 tags:: #Mathematics 
-up:: [[Rectas]]
+up:: [[Rectas en el Espacio]]
 Links: 
 # Rectas Transversales
 Una recta transversal es una recta que intersecta a dos o más rectas en puntos distintos; todas estas rectas yacen en el mismo plano.
