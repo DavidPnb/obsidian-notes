@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
+                "file": "40-49 Ciencias/40 Matematicas/Superficies Esfericas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+                "file": "40-49 Ciencias/40 Matematicas/Superficies Esfericas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+                "file": "40-49 Ciencias/40 Matematicas/Superficies Esfericas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md"
+                "file": "40-49 Ciencias/40 Matematicas/Superficies Esfericas.md"
               }
             }
           },
@@ -310,21 +310,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "531551c40669c77c",
+  "active": "44f1a57488b38a3f",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Geometria Analitica en el Espacio.md",
+    "40-49 Ciencias/40 Matematicas/Superficies Esfericas.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-02-17.md",
+    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-02-16.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-02-15.md",
-    "40-49 Ciencias/43 Quimica/43.00 Quimica MOC.md",
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-14.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-02-13.md",
-    "40-49 Ciencias/40 Matematicas/Rectas en el Espacio.md"
+    "00-09 PKM/05 Spaces/05.02 Universidad/QM1B01.md"
   ]
 }

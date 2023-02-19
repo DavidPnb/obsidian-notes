@@ -1,48 +1,37 @@
 ---
-status:
-tags: 
-references:
 created: 2022-05-17 21:35
 ---
-Links: [[]]
+tags:: #Mathematics 
+up:: [[Geometria Analitica]]
 # Superficies Esfericas
-La superficie esferica es el lugar geometrico descrito por un punto que se mueve en $\mathbb{R}3$ de tal forma que siempre su distancia a un punto fijo llamado **centro** es igual a una constante llamada **radio**
+La superficie esferica es el lugar geometrico descrito por un punto que se mueve en el espacio de tal forma que siempre su distancia a un punto fijo llamado **centro** es igual a una constante llamada **radio**.
 
+## Ecuaciones
 ### Ecuacion Vectorial Parametrica
-$SE: \overrightarrow{OP}=(h,k,l)+r(\lambda_1,\lambda_2,\sqrt{1- {\lambda_1}^2-{\lambda_2}^2})$
+A partir de la condición original tenemos que $$
+SE:\overrightarrow P=\overrightarrow C+r\overrightarrow{\mu _{r}}
+$$
+Donde $P$ es un punto cualquiera de la SE, $C(h,k,l)$ es el centro de la SE y $\overrightarrow{r}$ es un vector cuyo módulo es igual al radio $r$ .
 
-> [!info]+ Origen de la Ecuacion Vectorial Parametrica
-> 
-Usando una malla de vectores, tenemos $\overrightarrow{OC} + \overrightarrow{R} - \overrightarrow{OP}=\overrightarrow{0}$, donde $\overrightarrow{OC}$ es un vector que va desde el origen al centro, $\overrightarrow{R}$ es un vector que va desde el centro hasta un punto generico en la SE, y $\overrightarrow{OP}$ es el vector desde el origen hasta el punto generico
-$\overrightarrow{OP}= \overrightarrow{OC}+ \overrightarrow{R}$
-$\overrightarrow{R}=|\overrightarrow{R}| \overrightarrow{\mu}_R$, donde $|\overrightarrow{R}| =r$, y $\overrightarrow{\mu}_R=(cos{\alpha},cos{\beta},cos{\delta})$
-$cos{\delta}=\sqrt{1-cos^2{\alpha}-cos^2{\delta}}$
-$\overrightarrow{\mu}_R=(cos{\alpha},cos{\beta},\sqrt{1-cos^2{\alpha}+cos^2{\beta}})$
-$\begin{align*} \lambda_1=cos{\alpha} \\ \lambda_2=cos{\beta} \end{align*}\; \lambda_1, \lambda_2 \in[-1,1]$
-$\overrightarrow{\mu}_R=(\lambda_1, \lambda_2, \sqrt{1 - {\lambda_1}^2-{\lambda_2}^2})$
-$SE:\overrightarrow{OP}=(h,k,l)+r(\lambda_1, \lambda_2, \sqrt{1 - {\lambda_1}^2-{\lambda_2}^2})$
+### Ecuación Escalar
+$$
+|\overrightarrow{P}-\overrightarrow{C}|=r
+$$
+se obtiene al despejar la ecuación vectorial paramétrica.
 
 ### Ecuacion Ordinaria
-$SE:(x-h)^2+(y-k)^2+(z-l)^2=r^2$
+$$SE:(x-h)^2+(y-k)^2+(z-l)^2=r^2$$
+se obtiene elevando al cuadrado ambos miembros de la ecuación escalar.
 
-> [!info]+ Origen de la Ecuacion Ordinaria
->
-Si $SE: \overrightarrow{OP}=(h,k,l)+r\overrightarrow{\mu}_R$
-$\overrightarrow{R}=(x,y,z)-(h,k,l)=(x-h,y-k,z-l)$
-$|\overrightarrow{R}|=|(x-h,y-k,z-l)|$
-$r= \sqrt{(x-h)^2+(y-k)^2+(z-l)^2}$
-$r^2= (x-h)^2+(y-k)^2+(z-l)^2$
+A partir de esto se sabe que $x^{2}+y^{2}+z^{2}=r^{2}$ es la ecuación de la superficie esferica cuyo centro es el origen de coordenadas, y por lo tanto, es simétrica respecto a este.
 
 ### Ecuacion General
-$SE:x^2+y^2+z^2+A+B+C+D=0$
-
-> [!info]- Origen de la Ecuacion General
->
-Partiendo de $SE:(x-h)^2+(y-k)^2+(z-l)^2=r^2$
-$x^2-2hx+h^2+y^2-2ky+k^2+Z^2-2lz+l^2=r^2$
-$x^2+y^2+z^2-2hx-2ky-2lz+h^2+k^2+l^2-r^2=0$
-$\begin{align*} A= -2hx \\ B= -2ky \\ C= -2lz \\ D=h^2+k^2+l^2-r^2 \end{align*}$
-$SE:x^2+y^2+z^2+A+B+C+D=0$
+$$SE:x^2+y^2+z^2+Dx+Ey+Fz+G=0$$
+donde $$C\left( \frac{D}{-2}, \frac{E}{-2}, \frac{F}{-2} \right)$$
+$$
+r=\frac{1}{2}\sqrt{ D^{2}+E^{2}+F^{2}-4G }
+$$
+por esta razón se necesitan cuatro puntos no coplanares para determinar una SE.
 
 ### Posiciones Relativas entre SE y Plano
 1. Si $d>r$, entonces $\pi$ y SE no se tocan
