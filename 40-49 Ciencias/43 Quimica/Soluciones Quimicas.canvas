@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"dbd5fdb15d98b927","x":-164,"y":-302,"width":250,"height":63,"color":"6","type":"text","text":"## [[Materia]]"},
+		{"id":"02245305d398e736","x":0,"y":133,"width":318,"height":50,"color":"4","type":"text","text":"**Concentración**"},
+		{"id":"2b157f91846f9121","x":38,"y":246,"width":280,"height":105,"color":"4","type":"text","text":"**Preparación de Soluciones**"},
+		{"id":"5e16b52ecd72a103","x":385,"y":123,"width":288,"height":99,"color":"4","type":"text","text":"**Estequiometría de Soluciones**"},
+		{"id":"b1ec3e8e261a7092","x":-39,"y":-164,"width":326,"height":109,"color":"1","type":"text","text":"# ***Soluciones***"},
+		{"id":"3cf7923fac548364","x":-688,"y":-55,"width":250,"height":60,"color":"5","type":"text","text":"**Electrolitos**"},
+		{"id":"d7395e7ee14a3621","x":-362,"y":-31,"width":250,"height":72,"color":"4","type":"text","text":"**Soluciones Acuosas**"},
+		{"id":"5b085e2d4a081dd0","x":429,"y":-239,"width":488,"height":120,"color":"6","type":"text","text":"## [[Relaciones de Masa en Quimica]]"}
+	],
+	"edges":[
+		{"id":"09da66989ad55716","fromNode":"d7395e7ee14a3621","fromSide":"left","toNode":"3cf7923fac548364","toSide":"right"},
+		{"id":"f81bb34ba309a4fe","fromNode":"b1ec3e8e261a7092","fromSide":"left","toNode":"d7395e7ee14a3621","toSide":"top"},
+		{"id":"058da0a4b2b48a36","fromNode":"b1ec3e8e261a7092","fromSide":"bottom","toNode":"02245305d398e736","toSide":"top"},
+		{"id":"d271f377a15e160f","fromNode":"02245305d398e736","fromSide":"left","toNode":"d7395e7ee14a3621","toSide":"right"},
+		{"id":"7855a297b65e3ea3","fromNode":"dbd5fdb15d98b927","fromSide":"bottom","toNode":"b1ec3e8e261a7092","toSide":"top"},
+		{"id":"ec628a32faa2e2db","fromNode":"02245305d398e736","fromSide":"bottom","toNode":"2b157f91846f9121","toSide":"top"},
+		{"id":"7e4b0811459f3dc1","fromNode":"02245305d398e736","fromSide":"right","toNode":"5e16b52ecd72a103","toSide":"left"},
+		{"id":"b1dd80cc5f0b37af","fromNode":"5b085e2d4a081dd0","fromSide":"bottom","toNode":"5e16b52ecd72a103","toSide":"top"},
+		{"id":"c45a0eb25828cebf","fromNode":"b1ec3e8e261a7092","fromSide":"right","toNode":"5e16b52ecd72a103","toSide":"top"}
+	]
+}
