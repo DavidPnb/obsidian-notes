@@ -2,7 +2,7 @@
 created: 2022-11-28 11:52
 ---
 tags:: #chemistry 
-up:: [[43.00 Quimica MOC]]
+up:: [[43.00 Quimica]]
 # Fórmulas Químicas
 Expresan la composición de [[Moleculas]] y [[Iones|Compuestos Iónicos]] a través de simbolos y subíndices que indican la relación entre los elementos.
 

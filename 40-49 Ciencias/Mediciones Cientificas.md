@@ -2,7 +2,7 @@
 created: 2022-10-26 10:58
 ---
 tags:: #on/science 
-up:: [[42.00 Fisica MOC]], [[43.00 Quimica MOC]]
+up:: [[42.00 Fisica MOC]], [[43.00 Quimica]]
 # Mediciones Científicas
 Los científicos usan instrumentos para medir las propiedades de una sustancia. Estan propiedades son **macroscópicas** si pueden medirse directamente, y **microscópicas** si involucran particulas invisibles y deben medirse de forma indirecta.
 

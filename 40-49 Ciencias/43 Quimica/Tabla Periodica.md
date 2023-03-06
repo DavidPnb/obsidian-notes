@@ -2,7 +2,7 @@
 created: 2022-11-28 11:45
 ---
 tags:: #chemistry 
-up:: [[43.00 Quimica MOC]]
+up:: [[43.00 Quimica]]
 # Tabla Periodica
 La mayoría de los elementos químicos se descubrieron entre el siglo XIX y el siglo XX. En ese tiempo, se observó que las propiedades de los elementos se presentan de forma periódica.
 

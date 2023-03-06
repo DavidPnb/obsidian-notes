@@ -2,7 +2,7 @@
 created: 2022-10-17 17:55
 ---
 tags:: #chemistry 
-up:: [[43.00 Quimica MOC]]
+up:: [[43.00 Quimica]]
 # Átomos
 Los únicos elementos que se presentan en la naturaleza como [[Atomos]] son los gases nobles y por esta razón se conocen como **gases monoatómicos**. La mayor parte de la materia esta compuesta por [[Moleculas]] o [[Iones]]
 

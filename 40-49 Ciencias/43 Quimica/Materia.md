@@ -2,7 +2,7 @@
 created: 2022-10-26 11:57
 ---
 tags:: #chemistry 
-up:: [[43.00 Quimica MOC]]
+up:: [[43.00 Quimica]]
 # Materia
 La materia es todo lo que tiene **masa** y ocupa un lugar en el espacio. Esta materia puede clasificarse en base a su composición y propiedades.
 
@@ -18,4 +18,6 @@ Si un sólido se calienta lo suficiente, se convierte en líquido por el proceso
 
 ## Propiedades de la materia
 Las **propiedades físicas** de una sustancia pueden ser observadas sin modificar la sustancia, mientras que las **propiedades químicas** no pueden ser observadas sin modificarla. Las propiedades de la materia tambien pueden ser **extensivas**, si aumentan de forma aditiva con la cantidad de materia de la sustancia, o **intensivas** si no dependen de la cantidad de materia.
+
+Las propiedades físicas estan estrechamente ligadas al tamaño del átomo en cuestión
 ___

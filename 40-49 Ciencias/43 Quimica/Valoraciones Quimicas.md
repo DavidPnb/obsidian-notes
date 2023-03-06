@@ -2,7 +2,7 @@
 created: 2023-01-29 12:51
 ---
 tags:: #chemistry 
-up:: [[43.00 Quimica MOC|Quimica]]
+up:: [[43.00 Quimica|Quimica]]
 # Valoraciones Quimicas
 ## Valoraciones Ácido-Base
 Son cálculos analíticos que se realizan para determinar los moles de un reactivo en una reacción ácido-base.
