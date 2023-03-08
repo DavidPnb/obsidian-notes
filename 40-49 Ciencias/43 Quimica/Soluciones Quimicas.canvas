@@ -1,13 +1,20 @@
 {
 	"nodes":[
-		{"id":"dbd5fdb15d98b927","x":-164,"y":-302,"width":250,"height":63,"color":"6","type":"text","text":"## [[Materia]]"},
-		{"id":"02245305d398e736","x":0,"y":133,"width":318,"height":50,"color":"4","type":"text","text":"**Concentración**"},
-		{"id":"2b157f91846f9121","x":38,"y":246,"width":280,"height":105,"color":"4","type":"text","text":"**Preparación de Soluciones**"},
 		{"id":"5e16b52ecd72a103","x":385,"y":123,"width":288,"height":99,"color":"4","type":"text","text":"**Estequiometría de Soluciones**"},
-		{"id":"b1ec3e8e261a7092","x":-39,"y":-164,"width":326,"height":109,"color":"1","type":"text","text":"# ***Soluciones***"},
-		{"id":"3cf7923fac548364","x":-688,"y":-55,"width":250,"height":60,"color":"5","type":"text","text":"**Electrolitos**"},
-		{"id":"d7395e7ee14a3621","x":-362,"y":-31,"width":250,"height":72,"color":"4","type":"text","text":"**Soluciones Acuosas**"},
-		{"id":"5b085e2d4a081dd0","x":429,"y":-239,"width":488,"height":120,"color":"6","type":"text","text":"## [[Relaciones de Masa en Quimica]]"}
+		{"id":"5b085e2d4a081dd0","x":429,"y":-239,"width":488,"height":120,"color":"6","type":"text","text":"## [[Relaciones de Masa en Quimica]]"},
+		{"id":"a599aba71f3b2076","x":444,"y":-420,"width":250,"height":60,"color":"5","type":"text","text":"**Coloides**"},
+		{"id":"3cf7923fac548364","x":-938,"y":-85,"width":250,"height":60,"color":"5","type":"text","text":"**Electrolitos**"},
+		{"id":"f7921659a2d39116","x":-983,"y":113,"width":250,"height":60,"color":"5","type":"text","text":"**Osmosis**"},
+		{"id":"dbd5fdb15d98b927","x":-39,"y":-469,"width":378,"height":99,"color":"6","type":"text","text":"## [[Materia]]"},
+		{"id":"2b157f91846f9121","x":199,"y":422,"width":280,"height":105,"color":"4","type":"text","text":"**Preparación de Soluciones**"},
+		{"id":"4513e68d700ddd57","x":-357,"y":361,"width":356,"height":123,"color":"4","type":"text","text":"**Proceso Molecular de Disolución**"},
+		{"id":"1f97966e8c221d49","x":-332,"y":670,"width":331,"height":132,"color":"6","type":"text","text":"## [[Enlaces Quimicos]]"},
+		{"id":"b1ec3e8e261a7092","x":36,"y":-151,"width":326,"height":109,"color":"1","type":"text","text":"# ***Soluciones***"},
+		{"id":"a61d62b6d4942ab3","x":-706,"y":-413,"width":293,"height":93,"color":"6","type":"text","text":"**Propiedades Físicas**"},
+		{"id":"a8d0d874a0f905e5","x":-288,"y":-279,"width":250,"height":81,"color":"4","type":"text","text":"**Soluciones Gaseosas**"},
+		{"id":"d7395e7ee14a3621","x":-639,"y":-61,"width":250,"height":72,"color":"4","type":"text","text":"**Soluciones Acuosas**"},
+		{"id":"02245305d398e736","x":-73,"y":143,"width":318,"height":89,"color":"4","type":"text","text":"**Concentración**"},
+		{"id":"b39015309407c38e","x":-639,"y":99,"width":299,"height":88,"color":"5","type":"text","text":"**Propiedades Coligativas**"}
 	],
 	"edges":[
 		{"id":"09da66989ad55716","fromNode":"d7395e7ee14a3621","fromSide":"left","toNode":"3cf7923fac548364","toSide":"right"},
@@ -15,9 +22,20 @@
 		{"id":"058da0a4b2b48a36","fromNode":"b1ec3e8e261a7092","fromSide":"bottom","toNode":"02245305d398e736","toSide":"top"},
 		{"id":"d271f377a15e160f","fromNode":"02245305d398e736","fromSide":"left","toNode":"d7395e7ee14a3621","toSide":"right"},
 		{"id":"7855a297b65e3ea3","fromNode":"dbd5fdb15d98b927","fromSide":"bottom","toNode":"b1ec3e8e261a7092","toSide":"top"},
-		{"id":"ec628a32faa2e2db","fromNode":"02245305d398e736","fromSide":"bottom","toNode":"2b157f91846f9121","toSide":"top"},
+		{"id":"ec628a32faa2e2db","fromNode":"02245305d398e736","fromSide":"right","toNode":"2b157f91846f9121","toSide":"top"},
 		{"id":"7e4b0811459f3dc1","fromNode":"02245305d398e736","fromSide":"right","toNode":"5e16b52ecd72a103","toSide":"left"},
 		{"id":"b1dd80cc5f0b37af","fromNode":"5b085e2d4a081dd0","fromSide":"bottom","toNode":"5e16b52ecd72a103","toSide":"top"},
-		{"id":"c45a0eb25828cebf","fromNode":"b1ec3e8e261a7092","fromSide":"right","toNode":"5e16b52ecd72a103","toSide":"top"}
+		{"id":"c45a0eb25828cebf","fromNode":"b1ec3e8e261a7092","fromSide":"right","toNode":"5e16b52ecd72a103","toSide":"top"},
+		{"id":"3e7b80fb94328c48","fromNode":"1f97966e8c221d49","fromSide":"top","toNode":"4513e68d700ddd57","toSide":"bottom"},
+		{"id":"39c25bb30fea927b","fromNode":"dbd5fdb15d98b927","fromSide":"bottom","toNode":"b1ec3e8e261a7092","toSide":"top"},
+		{"id":"d242ff07f3019948","fromNode":"dbd5fdb15d98b927","fromSide":"left","toNode":"a61d62b6d4942ab3","toSide":"right"},
+		{"id":"c76eca7b3d7b42e2","fromNode":"a61d62b6d4942ab3","fromSide":"bottom","toNode":"02245305d398e736","toSide":"top","label":"Temperatura"},
+		{"id":"0d8948d8c4af0f39","fromNode":"b1ec3e8e261a7092","fromSide":"left","toNode":"a8d0d874a0f905e5","toSide":"right"},
+		{"id":"f0fe71236189bdcd","fromNode":"b1ec3e8e261a7092","fromSide":"left","toNode":"4513e68d700ddd57","toSide":"top"},
+		{"id":"7561427d6ff0f129","fromNode":"a61d62b6d4942ab3","fromSide":"bottom","toNode":"a8d0d874a0f905e5","toSide":"top","label":"Presión"},
+		{"id":"0deafe680f1b895e","fromNode":"02245305d398e736","fromSide":"left","toNode":"b39015309407c38e","toSide":"right"},
+		{"id":"9aa516a732244b21","fromNode":"b39015309407c38e","fromSide":"left","toNode":"f7921659a2d39116","toSide":"right"},
+		{"id":"7a70fda9fc1f4569","fromNode":"b1ec3e8e261a7092","fromSide":"right","toNode":"a599aba71f3b2076","toSide":"left"},
+		{"id":"f99bd0a1f0b0563d","fromNode":"4513e68d700ddd57","fromSide":"right","toNode":"02245305d398e736","toSide":"bottom"}
 	]
 }

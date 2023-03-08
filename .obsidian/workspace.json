@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/43 Quimica/Soluciones Quimicas.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-03-06.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-03-06.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-03-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-03-06.md"
               }
             }
           },
@@ -310,18 +310,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "793b8134ddf75aea",
+  "active": "a618ca985da02be6",
   "lastOpenFiles": [
     "40-49 Ciencias/43 Quimica/Soluciones Quimicas.md",
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
     "40-49 Ciencias/43 Quimica/Soluciones Quimicas.canvas",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+    "40-49 Ciencias/43 Quimica/Materia.md",
     "40-49 Ciencias/43 Quimica/Relaciones de Masa en Quimica.md",
     "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
-    "40-49 Ciencias/43 Quimica/Materia.md",
     "40-49 Ciencias/43 Quimica/43.00 Quimica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-03-06.md",
     "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
