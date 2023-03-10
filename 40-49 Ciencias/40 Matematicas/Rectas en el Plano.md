@@ -5,6 +5,7 @@ tags:: #Mathematics
 up:: [[Rectas en el Espacio]]
 Links: 
 # Rectas en el Plano
+![[Rectas en el Plano.canvas]]
 ## Pendiente de una Recta
 La ecuación $ax+by=c$ , donde $a$ y $b$ no son ambos cero y $a$ , $b$ y $c$ son [[Numeros Reales]], es la forma estandar de la ecuación de la recta.
 

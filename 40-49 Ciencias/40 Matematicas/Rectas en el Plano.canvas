@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"e8313dbfa43258e7","x":-124,"y":-227,"width":368,"height":119,"color":"1","type":"text","text":"# ***Rectas en el Plano***"},
+		{"id":"d7f49c5098f8c171","x":-74,"y":30,"width":292,"height":72,"color":"4","type":"text","text":"**Propiedades**"},
+		{"id":"2c44f695d80bb26f","x":-573,"y":-108,"width":335,"height":272,"color":"6","type":"text","text":"## [[Geometria Analitica#Lugar Geométrico]]"},
+		{"id":"32e002e94c87e047","x":-59,"y":259,"width":329,"height":56,"color":"4","type":"text","text":"**Pendiente Constante**"},
+		{"id":"fb6124975c9e9bd1","x":-178,"y":394,"width":250,"height":60,"color":"4","type":"text","text":"**Punto**"},
+		{"id":"322751d622ede6c1","x":119,"y":391,"width":250,"height":60,"color":"4","type":"text","text":"**Dirección**"},
+		{"id":"22a0ab5df1ff5c07","x":3,"y":606,"width":300,"height":94,"color":"4","type":"text","text":"**Punto-Pendiente**"},
+		{"id":"f3c3a1d566662d4d","x":369,"y":164,"width":281,"height":85,"color":"4","type":"text","text":"**Pendiente**"},
+		{"id":"7279eb03471d4f75","x":179,"y":814,"width":250,"height":60,"color":"4","type":"text","text":"**Dos Puntos**"},
+		{"id":"d84df286731dc006","x":525,"y":945,"width":318,"height":87,"color":"4","type":"text","text":"**Intersecciones con los Ejes**"},
+		{"id":"93840453cca31003","x":962,"y":964,"width":250,"height":60,"color":"4","type":"text","text":"**Simétrica**"},
+		{"id":"b40b4cc04f4e365e","x":-622,"y":511,"width":346,"height":142,"color":"6","type":"text","text":"## [[Vectores Geometricos]]"},
+		{"id":"237049f64540ae87","x":434,"y":516,"width":250,"height":60,"color":"4","type":"text","text":"**Paralela a Y**"},
+		{"id":"7a618f94e33bb95b","x":1212,"y":421,"width":250,"height":60,"color":"4","type":"text","text":"**Ecuaciones**"}
+	],
+	"edges":[
+		{"id":"ca7fbef9059cd9fd","fromNode":"e8313dbfa43258e7","fromSide":"bottom","toNode":"d7f49c5098f8c171","toSide":"top"},
+		{"id":"6ddf9c9406538ae5","fromNode":"2c44f695d80bb26f","fromSide":"right","toNode":"e8313dbfa43258e7","toSide":"left"},
+		{"id":"ba333690c0c9513d","fromNode":"2c44f695d80bb26f","fromSide":"right","toNode":"d7f49c5098f8c171","toSide":"left"},
+		{"id":"74041af945127604","fromNode":"d7f49c5098f8c171","fromSide":"bottom","toNode":"32e002e94c87e047","toSide":"top"},
+		{"id":"355bb3ce1f828677","fromNode":"f3c3a1d566662d4d","fromSide":"bottom","toNode":"32e002e94c87e047","toSide":"right"},
+		{"id":"e187ead27e768305","fromNode":"32e002e94c87e047","fromSide":"bottom","toNode":"fb6124975c9e9bd1","toSide":"top"},
+		{"id":"2d3a782af1427e82","fromNode":"32e002e94c87e047","fromSide":"bottom","toNode":"322751d622ede6c1","toSide":"top"},
+		{"id":"6f73a45f86a5f8d2","fromNode":"d7f49c5098f8c171","fromSide":"right","toNode":"7a618f94e33bb95b","toSide":"top"},
+		{"id":"9eb674f35134e5b9","fromNode":"7a618f94e33bb95b","fromSide":"bottom","toNode":"22a0ab5df1ff5c07","toSide":"right"},
+		{"id":"6df43b290070c963","fromNode":"322751d622ede6c1","fromSide":"bottom","toNode":"22a0ab5df1ff5c07","toSide":"top"},
+		{"id":"e7e1b07b313dd594","fromNode":"fb6124975c9e9bd1","fromSide":"bottom","toNode":"22a0ab5df1ff5c07","toSide":"top"},
+		{"id":"5b40a0963c264588","fromNode":"d7f49c5098f8c171","fromSide":"right","toNode":"f3c3a1d566662d4d","toSide":"left"},
+		{"id":"1f974fdb54c1e062","fromNode":"7a618f94e33bb95b","fromSide":"left","toNode":"237049f64540ae87","toSide":"right"},
+		{"id":"0fb10f80af8535bc","fromNode":"f3c3a1d566662d4d","fromSide":"bottom","toNode":"237049f64540ae87","toSide":"top","label":"Indefinida"},
+		{"id":"fdc36718141461c9","fromNode":"22a0ab5df1ff5c07","fromSide":"bottom","toNode":"7279eb03471d4f75","toSide":"top"},
+		{"id":"483c2a090d46d2f0","fromNode":"7279eb03471d4f75","fromSide":"bottom","toNode":"d84df286731dc006","toSide":"top"},
+		{"id":"1af78b92c3ec04c5","fromNode":"7a618f94e33bb95b","fromSide":"bottom","toNode":"7279eb03471d4f75","toSide":"right"},
+		{"id":"87eee12c018539f4","fromNode":"7a618f94e33bb95b","fromSide":"bottom","toNode":"d84df286731dc006","toSide":"top"},
+		{"id":"713237eabdc5a940","fromNode":"d84df286731dc006","fromSide":"right","toNode":"93840453cca31003","toSide":"left"},
+		{"id":"002e4a6de2e738ff","fromNode":"7a618f94e33bb95b","fromSide":"bottom","toNode":"93840453cca31003","toSide":"top"},
+		{"id":"838da444d4325cab","fromNode":"b40b4cc04f4e365e","fromSide":"right","toNode":"22a0ab5df1ff5c07","toSide":"left"}
+	]
+}
