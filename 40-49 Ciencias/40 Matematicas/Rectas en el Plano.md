@@ -52,6 +52,19 @@ que se simplifica a $bx + ay = ab$ . Si $a$ y $b$ son diferentes de cero tenemos
 ### Recta Paralela al Eje Y
 $x=k$ , donde $k$ es una constante, es la ecuación de una **recta vertical** cuya pendiente no esta definida, debido a que todos los valores de $x$ son iguales y la división entre cero no esta definida. 
 
+### Forma General
+Toda recta puede representarse por una ecuación de la forma $$
+Ax+By+C=0
+$$ donde $A$ y $B$ no pueden ser igual a cero al mismo tiempo. Esto significa que todas las rectas pueden representarse por una ecuación de primer grado, y reciprocamente.
+
+Esta ecuación puede ser convertida a la forma pendiente-intercepto, que permite conocer la pendiente de la recta y su intercepto con $Y$ .
+
+### Forma Normal
+$$
+x\cos(\omega)+y\sin(\omega)-h=0
+$$
+donde $\omega$ es el ángulo de inclinación de recta perpendicular y $h$ es la distancia desde la recta al origen. Esta ecuación puede obtenerse al despejar la fórmula de la distancia al origen.
+
 ## Ángulo entre Rectas
 El **ángulo entre dos rectas** viene dado por la formula $$
 \tan(\theta)=\frac{m_{2}-m_{1}}{1+m_{1}m_{2}}
@@ -62,4 +75,18 @@ Dos rectas no verticales son **paralelas** si y solo si sus pendientes son igual
 
 Dos rectas no verticales son **perpendiculares** si y solo si el producto de sus pendientes es igual a $-1$ .
 
+## Posiciones Relativas
+### Entre Rectas
+Si dos rectas son **paralelas** entonces $$A_{1}B_{2}-A_{2}B_{1}=0$$, si las rectas no son paralelas entonces se intersectan en un punto.
+
+Si dos rectas son **perpendiculares** entonces $$
+A_{1}A_{2}+B_{1}B_{2}=0
+$$
+Si dos rectas son **coincidentes**, sus coeficientes son proporcionales.
+
+## Distancias
+### Distancia al Origen
+Se obtiene al proyectar el vector de posición de la recta sobre un vector perpendicular a esta y obtener la longitud, lo que se expresa como $$
+h=\overrightarrow P \cdot \overrightarrow{\mu_{N}}
+$$
 ___

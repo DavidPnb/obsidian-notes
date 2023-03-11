@@ -43,9 +43,9 @@
               "state": {
                 "file": "40-49 Ciencias/40 Matematicas/Rectas en el Plano.canvas",
                 "viewState": {
-                  "x": 746.897902137956,
-                  "y": 432.58801457757636,
-                  "zoom": -1.111111043294271,
+                  "x": 743.9710039119922,
+                  "y": 546.6815791997309,
+                  "zoom": -1.2222223917643236,
                   "snapToGrid": false
                 }
               }
@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
+                "file": "40-49 Ciencias/40 Matematicas/Rectas en el Plano.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
+                "file": "40-49 Ciencias/40 Matematicas/Rectas en el Plano.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md"
+                "file": "40-49 Ciencias/40 Matematicas/Rectas en el Plano.canvas"
               }
             }
           },
@@ -330,17 +330,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a618ca985da02be6",
+  "active": "ca11b069012c8359",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "40-49 Ciencias/40 Matematicas/Rectas en el Plano.canvas",
     "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
+    "40-49 Ciencias/40 Matematicas/Rectas en el Plano.canvas",
     "40-49 Ciencias/40 Matematicas/Rectas en el Espacio.md",
+    "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md",
+    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+    "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
     "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-03-10.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-03-09.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-03-08.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md"
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-03-09.md"
   ]
 }
