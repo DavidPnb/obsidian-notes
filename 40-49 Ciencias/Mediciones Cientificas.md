@@ -10,7 +10,9 @@ Los científicos usan instrumentos para medir las propiedades de una sustancia. 
 En las mediciones científicas se hace una distinción entre estos dos conceptos. La **exactitud** representa que tan cerca esta el valor de la medición del valor real y la **precisión** representa  que tan cercanos entre sí son los valores de las mediciones. Mediciones exactas generalmente conllevan a mediciones precisas, pero mayor precisión en las mediciones no implica una mayor exactitud.
 
 ## Análisis Dimensional
-Para expresar las cantidades obtenidas en las mediciones se usan los **factores de conversión**. Un factor de conversión es una fracción cuyo valor es igual a uno y que contiene las unidad de la medición original en el denominador y la unidad buscadas en el númerador, de este modo la unidad original se cancela con la del denominador y el resultado se expresa en la unidad buscada.$$
+Para expresar las cantidades obtenidas en las mediciones se usan los **factores de conversión**. Un factor de conversión es una fracción cuyo valor es igual a uno y que contiene las unidad de la medición original en el denominador y la unidad buscadas en el númerador, de este modo la unidad original se cancela con la del denominador y el resultado se expresa en la unidad buscada.
+
+$$
 \frac{\cancel{\text{Unidad Original}}*\text{Unidad Buscada}}{\cancel{\text{Unidad Original}}}=\text{Unidad Buscada}
 $$
 
@@ -35,5 +37,16 @@ Es una unidad derivada de la longitud, que se expresa en **metros** (m), y es eq
 La densidad es igual a masa sobre volumen, y se expresa en **kilogramos por metro cuadrado**. Esta es una propiedad intensiva, ya que la masa aumenta conforme que aumenta el volumen.
 
 ### Escalas de Temperatura
-Actualmente se usan tres escalas de temperatura: **grados Fahrenheit** (°F), **grados Celsius** (°C) y **kelvin** (K). En la escala Fahrenheit, los puntos de congelación y ebullición del agua son 32°F y 212°F respectivamente, en Celsius, estos son 0°C y 100°. Un grado Fahrenheit es equivalente a cinco cuartos de un grado Celsius, por lo que $?°C=(°F-32°F)\frac{5°C}{9°F}$ . El kelvin es la unidad del SI y es una medida absoluta, donde 0 K es el cero absoluto (-273.16°C), mientras que el Fahrenheit y el Celsius son relativos al agua. Un grado Celsius es equivalente en magnitud a un kelvin.
+Actualmente se usan tres escalas de temperatura: **grados Fahrenheit** (°F), **grados Celsius** (°C) y **kelvin** (K). 
+
+En la escala Fahrenheit, los puntos de congelación y ebullición del agua son 32°F y 212°F respectivamente, en Celsius, estos son 0°C y 100°. Un grado Fahrenheit es equivalente a cinco cuartos de un grado Celsius, por lo que $?°C=(°F-32°F)\frac{5°C}{9°F}$ . 
+
+El kelvin es la unidad del SI y es una medida absoluta, donde 0 K es el cero absoluto (-273.16°C), mientras que el Fahrenheit y el Celsius son relativos al agua. Un grado Celsius es equivalente en magnitud a un kelvin.
+
+### Presión
+La **presión** es una medidad de la fuerza ejercida sobre un area determinada.
+
+La **presión atmosférica** es la presión ejercida por una columna de aire, y al ser afectada por la gravedad, esta varia dependiendo de la altitud. Esta se mide usando un barómetro.
+
+La presión de un gas suele expresarse en **atmósfera** (atm), que es aproximadamente igual a la presión atmosférica necesaria para sostener 760mm de Hg en un barómetro a 0°C. Esto es igual a 101.325 KPa.
 ___

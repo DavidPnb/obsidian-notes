@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d14fcbbe90e2ffdc","x":-122,"y":-200,"width":319,"height":116,"color":"1","type":"text","text":"**Sistemas de Coordenadas**"},
+		{"id":"127a5be95aec60f3","x":-507,"y":-172,"width":250,"height":88,"color":"4","type":"text","text":"**Segmento Dirigido**"},
+		{"id":"558059dcea52f6b2","x":-266,"y":24,"width":250,"height":60,"color":"4","type":"text","text":"**Lineal**"},
+		{"id":"be938ed9044bafea","x":118,"y":50,"width":250,"height":80,"color":"4","type":"text","text":"**Rectangular**"},
+		{"id":"67d874508aa8004d","x":368,"y":375,"width":288,"height":87,"color":"4","type":"text","text":"**Dos Dimensiones**"},
+		{"id":"167f5ea8d8bbd0de","x":812,"y":38,"width":314,"height":105,"color":"4","type":"text","text":"**Tres Dimensiones**"},
+		{"id":"9938cb2a0e4dcda0","x":368,"y":-257,"width":250,"height":85,"color":"4","type":"text","text":"**Proyecciones**"}
+	],
+	"edges":[
+		{"id":"896ec8d79a6aafe6","fromNode":"127a5be95aec60f3","fromSide":"right","toNode":"d14fcbbe90e2ffdc","toSide":"left"},
+		{"id":"d22c7bd634b2e211","fromNode":"d14fcbbe90e2ffdc","fromSide":"bottom","toNode":"558059dcea52f6b2","toSide":"top"},
+		{"id":"b32174b5b37c3f2d","fromNode":"558059dcea52f6b2","fromSide":"right","toNode":"be938ed9044bafea","toSide":"left"},
+		{"id":"e9ad51d3e378ca7a","fromNode":"d14fcbbe90e2ffdc","fromSide":"bottom","toNode":"be938ed9044bafea","toSide":"top"},
+		{"id":"ceca03b6d3a88477","fromNode":"be938ed9044bafea","fromSide":"right","toNode":"67d874508aa8004d","toSide":"top"},
+		{"id":"aa62245ded1dcb40","fromNode":"67d874508aa8004d","fromSide":"right","toNode":"167f5ea8d8bbd0de","toSide":"bottom"},
+		{"id":"180a2e04c43abab4","fromNode":"be938ed9044bafea","fromSide":"right","toNode":"167f5ea8d8bbd0de","toSide":"left"},
+		{"id":"7cd5cfcb3ec9673d","fromNode":"9938cb2a0e4dcda0","fromSide":"bottom","toNode":"be938ed9044bafea","toSide":"top"}
+	]
+}

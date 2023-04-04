@@ -1,6 +1,4 @@
 
--   [lkadre’s brain](https://brain.lkadre.com/) on Law
--   [nitinpai’s notes](https://notes.nitinpai.in/) on Philosophy, Tech, Teaching and Policies
 -   [mister chad](https://mister-chad.com/) on Art, Design and Creativity
 -   [The Quantum Well](https://publish.obsidian.md/myquantumwell/) on Physics and Mathematics
 -   [qwxlea’ Logseq page](https://qwxlea.github.io/#/page/Start%20here) on PKM and Psychology

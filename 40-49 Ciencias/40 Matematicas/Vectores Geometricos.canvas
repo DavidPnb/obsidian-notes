@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"98205f09cb831df3","x":703,"y":-222,"width":250,"height":60,"color":"4","type":"text","text":"**Igualdad**"},
+		{"id":"0d7e3c1b85b73cf1","x":261,"y":179,"width":250,"height":84,"color":"4","type":"text","text":"**Producto Vectorial**"},
+		{"id":"3fbc846168786f26","x":114,"y":425,"width":272,"height":104,"color":"4","type":"text","text":"**Producto Mixto**"},
+		{"id":"2975a7bc1b330b82","x":679,"y":191,"width":290,"height":72,"color":"4","type":"text","text":"**Producto por un Escalar**"},
+		{"id":"8f1ff67a46298bb7","x":719,"y":-115,"width":250,"height":60,"color":"4","type":"text","text":"**Suma**"},
+		{"id":"2cfe6e6183a066ad","x":988,"y":18,"width":250,"height":60,"color":"4","type":"text","text":"**Resta**"},
+		{"id":"9917e05b98e5162f","x":1175,"y":263,"width":269,"height":86,"color":"4","type":"text","text":"**Vector Unitario**"},
+		{"id":"3ff2f85e4b9d90d6","x":1238,"y":-115,"width":271,"height":80,"color":"4","type":"text","text":"**Base Vectorial**"},
+		{"id":"dd808d1981de79e6","x":53,"y":632,"width":286,"height":112,"color":"4","type":"text","text":"**Volumen de Paralelepípedo**"},
+		{"id":"d9690eb00278b8b3","x":719,"y":477,"width":296,"height":96,"color":"4","type":"text","text":"**Area de Paralelogramo**"},
+		{"id":"2de42c91e817a2c6","x":-110,"y":-232,"width":295,"height":73,"color":"1","type":"text","text":"**Vectores Geométricos**"},
+		{"id":"b9bda7940c6dc14b","x":-91,"y":-64,"width":276,"height":79,"color":"4","type":"text","text":"**Características**"},
+		{"id":"f214e71a541eccb0","x":325,"y":-42,"width":250,"height":60,"color":"4","type":"text","text":"**Operaciones**"},
+		{"id":"02b5b75ad7f255a3","x":-50,"y":166,"width":274,"height":97,"color":"4","type":"text","text":"**Producto Escalar**"},
+		{"id":"41762fa8f28b403a","x":-198,"y":-488,"width":383,"height":109,"color":"6","type":"text","text":"## [[Sistemas de Coordenadas]]"},
+		{"id":"06ea6eb0cc12bd58","x":-590,"y":104,"width":288,"height":105,"color":"4","type":"text","text":"**Ángulo entre Vectores**"},
+		{"id":"f6236a38be7aa77c","x":-590,"y":399,"width":250,"height":78,"color":"4","type":"text","text":"**Cosenos Directores**"},
+		{"id":"69af95b76ee1dcf4","x":1575,"y":286,"width":301,"height":92,"color":"4","type":"text","text":"**Proyección de un Vector sobre Otro**"}
+	],
+	"edges":[
+		{"id":"3937bea5d935c334","fromNode":"2de42c91e817a2c6","fromSide":"bottom","toNode":"b9bda7940c6dc14b","toSide":"top"},
+		{"id":"522b532019b7b721","fromNode":"b9bda7940c6dc14b","fromSide":"right","toNode":"f214e71a541eccb0","toSide":"left"},
+		{"id":"b1136bc1666999f0","fromNode":"f214e71a541eccb0","fromSide":"right","toNode":"98205f09cb831df3","toSide":"left"},
+		{"id":"fde0255bfbbb2dd5","fromNode":"f214e71a541eccb0","fromSide":"right","toNode":"8f1ff67a46298bb7","toSide":"left"},
+		{"id":"9330278b23ed4c2c","fromNode":"f214e71a541eccb0","fromSide":"right","toNode":"2975a7bc1b330b82","toSide":"left"},
+		{"id":"2d267da68b465747","fromNode":"b9bda7940c6dc14b","fromSide":"bottom","toNode":"02b5b75ad7f255a3","toSide":"top"},
+		{"id":"ceb4c4bb54ebca75","fromNode":"b9bda7940c6dc14b","fromSide":"bottom","toNode":"0d7e3c1b85b73cf1","toSide":"top"},
+		{"id":"a9f198c3f14421ab","fromNode":"02b5b75ad7f255a3","fromSide":"bottom","toNode":"3fbc846168786f26","toSide":"top"},
+		{"id":"dc8488ac51659c9c","fromNode":"0d7e3c1b85b73cf1","fromSide":"bottom","toNode":"3fbc846168786f26","toSide":"top"},
+		{"id":"8883a09d431df8f4","fromNode":"41762fa8f28b403a","fromSide":"bottom","toNode":"2de42c91e817a2c6","toSide":"top"},
+		{"id":"6262d3ee04c424ea","fromNode":"2975a7bc1b330b82","fromSide":"right","toNode":"9917e05b98e5162f","toSide":"left"},
+		{"id":"dea5f01fcd5ef2ed","fromNode":"8f1ff67a46298bb7","fromSide":"right","toNode":"3ff2f85e4b9d90d6","toSide":"left"},
+		{"id":"56c907332fa1c154","fromNode":"2cfe6e6183a066ad","fromSide":"right","toNode":"3ff2f85e4b9d90d6","toSide":"bottom"},
+		{"id":"8f8a36ad214ccfe0","fromNode":"8f1ff67a46298bb7","fromSide":"bottom","toNode":"2cfe6e6183a066ad","toSide":"left"},
+		{"id":"6d52c6cacb703f67","fromNode":"02b5b75ad7f255a3","fromSide":"left","toNode":"06ea6eb0cc12bd58","toSide":"right"},
+		{"id":"b7f66388839a2f39","fromNode":"3fbc846168786f26","fromSide":"bottom","toNode":"dd808d1981de79e6","toSide":"top"},
+		{"id":"9f64050946723e36","fromNode":"0d7e3c1b85b73cf1","fromSide":"bottom","toNode":"d9690eb00278b8b3","toSide":"left"},
+		{"id":"b7151fdd80aebc1c","fromNode":"06ea6eb0cc12bd58","fromSide":"bottom","toNode":"f6236a38be7aa77c","toSide":"top"},
+		{"id":"fc276e8ed60dee4f","fromNode":"9917e05b98e5162f","fromSide":"right","toNode":"69af95b76ee1dcf4","toSide":"left"}
+	]
+}

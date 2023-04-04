@@ -4,6 +4,8 @@ created: 2023-02-02 13:03
 tags:: #Mathematics 
 up:: [[Geometria Analitica]]
 # Vectores Geométricos
+![[Vectores Geometricos.canvas]]
+
 En el enfoque vectorial, varios conceptos de vectores son fundamentales, como el producto punto y el producto cruz. En este contexto, los vectores pueden ser considerados una representación analítica de un segmento dirigido. A esto se le llama comunmente **vector geométrico**. Este concepto se usa mucho en la física, en donde un vector se usa para representar magnitudes que se comprenden mejor al pensar en ellas como una flecha con un origen y un extremo.
 
 ## Características de un Vector
@@ -46,7 +48,7 @@ Geométricamente, $\overrightarrow{A}-\overrightarrow{B}$ es el vector que al su
 El **módulo de la resta de vectores** es igual al módulo de la suma de vectores.
 
 ## Producto entre un Vector y un Escalar
-Produce un vector proporcional al vector original cuyo sentido depende del signo del escalar.
+Produce un vector proporcional al vector original cuyo sentido depende del signo del escalar y cuyo módulo es $\lambda$ veces mayor.
 
 - **Propiedades**
 	- Distributiva respecto a la suma de vectores
@@ -65,6 +67,12 @@ Produce un vector proporcional al vector original cuyo sentido depende del signo
 ## Vectores Unitarios
 Son vectores cuyo modulo es igual a uno, y por lo tanto estan caracterizados por su dirección y sentido. El vector unitario en la dirección de $\overrightarrow{A}$ , denotado como $\overrightarrow{\mu}_{A}$ , se calcula como $\frac{\overrightarrow{A}}{|\overrightarrow{A}|}$.
 
+### Proyección de un Vector sobre Otro
+$$
+(\overrightarrow A \cdot \overrightarrow{\mu_{B}})\cdot\overrightarrow{\mu_{B}}
+$$
+donde $\overrightarrow A$ es el vector a proyectar.
+
 ## Base de Vectores
 Se dice que un vector $\overrightarrow{C}$ es una **combinación lineal** de $\overrightarrow{A}$ y $\overrightarrow{B}$ si $\overrightarrow{C}=\lambda_{1}\overrightarrow{A}+\lambda_{2}\overrightarrow{B}$ .
 
@@ -76,6 +84,7 @@ Se dice que un vector $\overrightarrow{C}$ es una **combinación lineal** de $\o
 
 La **dimensión** de una base es el número de vectores que pertenecen a la base, y es igual al número de dimensiones involucradas en el espacio.
 
+### Base Canónica
 En dos dimensiones, es conveniente escoger como base dos vectores unitarios que se ubiquen sobre el eje $X$ y el eje $Y$, de modo que sean perpendiculares. Estos vectores son llamados $\mathbf{i}$ y $\mathbf{j}$ respectivamente.
 
 De este modo, cualquier vector $r$ en dos dimensiones puede representarse como una combinación lineal $r=x\mathbf{i}+y\mathbf{j}$ . Donde $x=|r|\cos \theta$ y $y=|r|\sin \theta$ , y $\theta$ es el ángulo que forma el vector con $\mathbf{i}$ , y por lo tanto, forma tambien con el eje $X$ . Estas definiciones nos permiten representar vectores en el sistema de coordenadas rectangulares en dos dimensiones.
@@ -84,6 +93,7 @@ El vector $r=\overrightarrow{OP}$ es llamado el **vector de posición** de $P$ ,
 
 En tres dimensiones, se escogen como base tres vectores unitarios perpendiculares entre sí, de modo que el vector de posición $r$ es igual a $r=x\mathbf{i}+y\mathbf{j}+z\mathbf{k}$ . Los vectores unitarios $\mathbf{i}$ , $\mathbf{j}$ y $\mathbf{k}$ son la **base canónica**. Usando el teorema de Pitágoras se puede concluir que $|r|=\sqrt{ x^{2}+y^{2}+z^{2} }$
 
+### Cosenos Directores
 Los ángulos $\alpha$ , $\beta$ y $\rho$ que un vector forma con los ejes de coordenadas son llamados los **ángulos directores** del vector. Usando trigonometría se obtiene que
 $$\cos(\alpha)=\frac{A_{x}}{|\overrightarrow{A}|}$$
 
@@ -137,7 +147,7 @@ $$
 - $A_{\text{Paralelogramo}}=|\overrightarrow A \times \overrightarrow B|$
 	- $\overrightarrow A$ y $\overrightarrow B$ son lados con un mismo vértice
 - $\tan(\theta)=\frac{|\overrightarrow A \times \overrightarrow B|}{\overrightarrow A \cdot \overrightarrow B}$
-- Condición de Parelismo
+- Condición de Paralelismo
 	- $|\overrightarrow A \times \overrightarrow B|=0$
 
 ### Producto Mixto
@@ -148,7 +158,7 @@ B_{x} & B_{y} & B_{z} \\
 C_{x} & C_{y} & C_{z}
 \end{vmatrix}
 $$
-
+ 
 - Propiedades
 	- $(\overrightarrow A\times \overrightarrow B)\cdot \overrightarrow C=\overrightarrow A\cdot (\overrightarrow B\times \overrightarrow C)$
 	- $\lambda[(\overrightarrow A\times \overrightarrow B)\cdot \overrightarrow C]=(\lambda \overrightarrow A\times \overrightarrow B)\cdot \overrightarrow C=(\overrightarrow A\times \lambda \overrightarrow B)\cdot \overrightarrow C=(\overrightarrow A\times \overrightarrow B)\cdot \lambda \overrightarrow C$

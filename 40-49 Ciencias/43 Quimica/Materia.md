@@ -12,9 +12,22 @@ Las **sustancias** tienen composición y propiedades fijas y uniformes, lo que s
 Las **mezclas** estan formadas por sustancias de composición variable, que conservan sus propiedades y pueden separarse por cambios físicos. Se dividen en **homogéneas**, que tienen propiedades uniformes, y en **heterogéneas** sin propiedades uniformes.
 
 ## Tres Estados de la Materia
-En principio, la materia puede presentarse en tres estados: **sólido**, **líquido** y **gaseoso**. En los solidos, las [[moleculas]] estan juntas en forma rígida y sin libertad de movimiento, en los líquidos las [[moleculas]] siguen estando cerca unas de otras, pero con la capacidad de moverse libremente. Los gases tienen sus [[moleculas]] separadas por una gran distancia con respecto a su tamaño.
-
 Si un sólido se calienta lo suficiente, se convierte en líquido por el proceso de **fusión**, y si se sigue calentando acabará como gas por el proceso de **ebullición**. Esto tambien puede darse a la inversa, con un gas que se enfría y se transforma en líquido por la **condensación**, y que despues se convierte en solido por la **congelación**.
+
+### Gaseoso
+Los gases tienen sus moléculas separadas por una gran distancia con respecto a su tamaño, debido a la poca atracción que existe entre ellas. Esta distancia les permite moverse libremente y hace que el gas sea menos denso y fácil de comprimir.
+
+Por estas razones los gases pueden adoptar el volumen y la forma de su contenedor.
+
+### Líquido
+Las moléculas de un líquido se atraen entre sí, pero mantienen la capacidad de moverse libremente, deslizándose una sobre otra. Esto hace que los líquidos pueden adoptar la forma de su contenedor pese a tener un volumen fijo y ser poco compresibles.
+
+Los líquidos son mucho más densos que los gases.
+
+### Sólido
+Las moléculas de un sólido se atraen fuertemente y se mantienen juntas en forma rígida, con una posición fija y sin libertad de movimiento. Por lo tanto, los sólidos tienen una forma y volumen fijos y son prácticamente incompresibles.
+
+Debido a su limitada capacidad de movimiento, las moléculas de un sólido no se mueven, sino que vibran en su posición.
 
 ## Propiedades de la materia
 Las **propiedades físicas** de una sustancia pueden ser observadas sin modificar la sustancia, mientras que las **propiedades químicas** no pueden ser observadas sin modificarla. Las propiedades de la materia tambien pueden ser **extensivas**, si aumentan de forma aditiva con la cantidad de materia de la sustancia, o **intensivas** si no dependen de la cantidad de materia.

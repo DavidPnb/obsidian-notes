@@ -25,6 +25,9 @@ Un **lugar geométrico** es el conjunto de todos los puntos que cumplen determin
 ### Recta en Dos Dimensiones
 [[Rectas en el Plano]]
 
+## Circunferencias
+[[Circunferencias en el Plano]]
+
 ## Superficies
 Una **superficie** es un conjunto de puntos cuyas coordenadas satisfacen una sola ecuación de la forma $$
 F(x,y,z)=0

@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"text","text":"**Circunferencia en el Plano**","id":"9e68b968c70db171","x":-37,"y":-163,"width":316,"height":116,"color":"1"},
+		{"type":"text","text":"**Propiedades**","id":"42425ce973c76f68","x":-7,"y":95,"width":254,"height":90,"color":"4"},
+		{"type":"text","text":"**Ecuaciones**","id":"1e8475148d280bbf","x":79,"y":460,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"**Ordinaria**","id":"48a532c87a472101","x":-192,"y":682,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"**General**","id":"9ed2a6c527929f68","x":58,"y":851,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"**Forma Determinante**","id":"71fdab972d17db24","x":428,"y":970,"width":309,"height":97,"color":"4"},
+		{"type":"text","text":"## [[Vectores Geometricos]]","id":"dfea782b396c6e8d","x":-594,"y":95,"width":324,"height":105,"color":"6"},
+		{"id":"a90a0d584e3bf295","x":-120,"y":1065,"width":324,"height":115,"color":"4","type":"text","text":"**Familia de CIrcunferencias**"}
+	],
+	"edges":[
+		{"id":"8bad2ab72dd70586","fromNode":"9e68b968c70db171","fromSide":"bottom","toNode":"42425ce973c76f68","toSide":"top"},
+		{"id":"315720995c2f98e4","fromNode":"42425ce973c76f68","fromSide":"bottom","toNode":"1e8475148d280bbf","toSide":"top"},
+		{"id":"74f2b2dcc1f302f6","fromNode":"1e8475148d280bbf","fromSide":"bottom","toNode":"48a532c87a472101","toSide":"top"},
+		{"id":"992d536016e805d0","fromNode":"48a532c87a472101","fromSide":"bottom","toNode":"9ed2a6c527929f68","toSide":"left"},
+		{"id":"4d7b2d89324c2200","fromNode":"1e8475148d280bbf","fromSide":"bottom","toNode":"9ed2a6c527929f68","toSide":"top"},
+		{"id":"25e0b2eb547bb925","fromNode":"9ed2a6c527929f68","fromSide":"bottom","toNode":"71fdab972d17db24","toSide":"left"},
+		{"id":"95466b2784555cca","fromNode":"1e8475148d280bbf","fromSide":"bottom","toNode":"71fdab972d17db24","toSide":"top"},
+		{"id":"f629e9f787b30188","fromNode":"dfea782b396c6e8d","fromSide":"right","toNode":"42425ce973c76f68","toSide":"left"},
+		{"id":"b6895c030e833076","fromNode":"9ed2a6c527929f68","fromSide":"bottom","toNode":"a90a0d584e3bf295","toSide":"top"}
+	]
+}

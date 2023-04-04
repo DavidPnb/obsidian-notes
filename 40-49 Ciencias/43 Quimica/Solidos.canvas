@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"441f927cdc137594","x":-154,"y":-256,"width":250,"height":60,"color":"1","type":"text","text":"**Sólidos**"},
+		{"id":"c82ae338582f1762","x":-1352,"y":235,"width":250,"height":50,"color":"4","type":"text","text":"**Amorfos**"},
+		{"id":"14a0986dde85cf29","x":-752,"y":-135,"width":250,"height":60,"color":"4","type":"text","text":"**Tipos**"},
+		{"id":"f9cc69373039637d","x":-187,"y":-581,"width":283,"height":73,"color":"4","type":"text","text":"**Características**"},
+		{"id":"4860e7dbb4540187","x":-215,"y":-918,"width":339,"height":138,"color":"6","type":"text","text":"## Teoría Cinética Molecular"},
+		{"id":"924b47a49e021b92","x":-1166,"y":-918,"width":414,"height":129,"color":"6","type":"text","text":"## Fuerzas Intermoleculares"},
+		{"id":"74093afb3a41fe22","x":-1477,"y":-196,"width":250,"height":60,"color":"4","type":"text","text":"**Cristalinos**"},
+		{"id":"71954de1dc3cd39e","x":-1084,"y":-509,"width":250,"height":60,"color":"4","type":"text","text":"**Moleculares**"},
+		{"id":"6e8890b4c1890409","x":-752,"y":-508,"width":250,"height":60,"color":"4","type":"text","text":"**Metálicos**"},
+		{"id":"5869c6f332918246","x":-1929,"y":-174,"width":250,"height":60,"color":"4","type":"text","text":"**Estructuras**"},
+		{"id":"ac5557609df5dac8","x":-1457,"y":-479,"width":250,"height":61,"color":"4","type":"text","text":"**Iónicos**"},
+		{"id":"054217bef7049c93","x":-1823,"y":-478,"width":250,"height":60,"color":"4","type":"text","text":"**Covalentes**"},
+		{"id":"ed8d0ba97ebd0a41","x":-2313,"y":-507,"width":292,"height":91,"color":"4","type":"text","text":"**Semiconductores**"},
+		{"id":"fb6652a5570548c4","x":-2443,"y":-708,"width":250,"height":60,"color":"4","type":"text","text":"**Tipo p**"},
+		{"id":"92967cec73edc44c","x":-2157,"y":-697,"width":250,"height":60,"color":"4","type":"text","text":"**Tipo n**"}
+	],
+	"edges":[
+		{"id":"20baf3f5a45aaa04","fromNode":"441f927cdc137594","fromSide":"left","toNode":"14a0986dde85cf29","toSide":"right"},
+		{"id":"d8529b3d9e689ab1","fromNode":"14a0986dde85cf29","fromSide":"left","toNode":"74093afb3a41fe22","toSide":"right"},
+		{"id":"b88d6b6c8a0b0f1d","fromNode":"c82ae338582f1762","fromSide":"top","toNode":"74093afb3a41fe22","toSide":"bottom","label":"Orden/Desorden"},
+		{"id":"bfc293e0ed5f851f","fromNode":"14a0986dde85cf29","fromSide":"bottom","toNode":"c82ae338582f1762","toSide":"right"},
+		{"id":"5ad765e49341c3eb","fromNode":"14a0986dde85cf29","fromSide":"top","toNode":"f9cc69373039637d","toSide":"left"},
+		{"id":"7b8808fdd944d682","fromNode":"74093afb3a41fe22","fromSide":"top","toNode":"ac5557609df5dac8","toSide":"bottom"},
+		{"id":"d6b17598c42665cd","fromNode":"441f927cdc137594","fromSide":"top","toNode":"f9cc69373039637d","toSide":"bottom"},
+		{"id":"16992616cb42b573","fromNode":"4860e7dbb4540187","fromSide":"bottom","toNode":"f9cc69373039637d","toSide":"top"},
+		{"id":"02d11e49450ae4fc","fromNode":"74093afb3a41fe22","fromSide":"top","toNode":"054217bef7049c93","toSide":"bottom"},
+		{"id":"8dfb8115ed4f0031","fromNode":"924b47a49e021b92","fromSide":"right","toNode":"4860e7dbb4540187","toSide":"left"},
+		{"id":"cd1b2f0316ee1187","fromNode":"924b47a49e021b92","fromSide":"left","toNode":"ac5557609df5dac8","toSide":"top"},
+		{"id":"c3eebded1dc6ce13","fromNode":"924b47a49e021b92","fromSide":"left","toNode":"054217bef7049c93","toSide":"top"},
+		{"id":"e588e4e8eea67913","fromNode":"74093afb3a41fe22","fromSide":"top","toNode":"71954de1dc3cd39e","toSide":"bottom"},
+		{"id":"8a05508a50fb9ad6","fromNode":"924b47a49e021b92","fromSide":"bottom","toNode":"71954de1dc3cd39e","toSide":"top"},
+		{"id":"78ebd94182844cdd","fromNode":"74093afb3a41fe22","fromSide":"top","toNode":"6e8890b4c1890409","toSide":"bottom"},
+		{"id":"df112be7a9ff445a","fromNode":"924b47a49e021b92","fromSide":"bottom","toNode":"6e8890b4c1890409","toSide":"top"},
+		{"id":"4f4a92fef2859957","fromNode":"74093afb3a41fe22","fromSide":"left","toNode":"5869c6f332918246","toSide":"right"},
+		{"id":"0b7f3c73fbd1317c","fromNode":"054217bef7049c93","fromSide":"left","toNode":"ed8d0ba97ebd0a41","toSide":"right"},
+		{"id":"89241def48a2a7a3","fromNode":"ed8d0ba97ebd0a41","fromSide":"top","toNode":"fb6652a5570548c4","toSide":"bottom"},
+		{"id":"116ab780113c0fde","fromNode":"ed8d0ba97ebd0a41","fromSide":"top","toNode":"92967cec73edc44c","toSide":"bottom"},
+		{"id":"f73b8418d07b85ca","fromNode":"74093afb3a41fe22","fromSide":"bottom","toNode":"c82ae338582f1762","toSide":"top"}
+	]
+}

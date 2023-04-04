@@ -65,6 +65,16 @@ x\cos(\omega)+y\sin(\omega)-h=0
 $$
 donde $\omega$ es el ángulo de inclinación de recta perpendicular y $h$ es la distancia desde la recta al origen. Esta ecuación puede obtenerse al despejar la fórmula de la distancia al origen.
 
+### Forma Determinante
+$$
+\begin{vmatrix}
+x & y & 1 \\
+x_{1} & y_{1} & 1 \\
+x_{2} & y_{2} & 1
+\end{vmatrix}=0
+$$
+Se obtiene usando sistema de ecuaciones en donde las incognitas son los coeficientes de la ecuación general.
+
 ## Ángulo entre Rectas
 El **ángulo entre dos rectas** viene dado por la formula $$
 \tan(\theta)=\frac{m_{2}-m_{1}}{1+m_{1}m_{2}}
@@ -88,5 +98,25 @@ Si dos rectas son **coincidentes**, sus coeficientes son proporcionales.
 ### Distancia al Origen
 Se obtiene al proyectar el vector de posición de la recta sobre un vector perpendicular a esta y obtener la longitud, lo que se expresa como $$
 h=\overrightarrow P \cdot \overrightarrow{\mu_{N}}
+$$
+### Distancia a un Punto
+$$
+d=\frac{|Ax+By+C|}{\sqrt{ A^{2}+B^{2} }}
+$$
+
+## Familia de Rectas
+Conjunto de rectas que satisfacen una única condición geométrica.
+
+### Familia de Rectas Paralelas
+$$y=mx+k$$
+
+### Familia de Rectas que Pasan por un Punto
+$$
+y-y_{1}=k(x-x_{1})
+$$
+
+### Familia de Rectas que Pasan por la Intersección de Dos Rectas
+$$
+A_{1}x+B_{1}y+C_{1}+k(A_{2}x+B_{2}Y+C_{2})=0
 $$
 ___

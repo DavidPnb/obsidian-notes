@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"9040099f60f429ba","x":-226,"y":-294,"width":250,"height":60,"color":"1","type":"text","text":"**Gases**"},
+		{"id":"f16862f6fa99a42d","x":-228,"y":-129,"width":276,"height":94,"color":"4","type":"text","text":"**Características**"},
+		{"id":"badcfddd8c63f43b","x":-232,"y":-449,"width":250,"height":60,"color":"6","type":"text","text":"## [[Materia]]"},
+		{"id":"fa74215ead454c00","x":107,"y":-309,"width":408,"height":90,"color":"6","type":"text","text":"## Fuerzas Intermoleculares"},
+		{"id":"6a58b2e39af93000","x":-210,"y":107,"width":250,"height":60,"color":"4","type":"text","text":"**Propiedades**"},
+		{"id":"1b03e54099c9ffde","x":-228,"y":298,"width":276,"height":72,"color":"4","type":"text","text":"**Leyes de los Gases**"},
+		{"id":"8c00bf24e380e916","x":-204,"y":455,"width":252,"height":125,"color":"4","type":"text","text":"**Ecuación del Gas Ideal**"},
+		{"id":"4cd0f357ce53487f","x":258,"y":520,"width":287,"height":73,"color":"4","type":"text","text":"**Estequiometría de los Gases**"},
+		{"id":"94c5622420f8d6e4","x":245,"y":275,"width":300,"height":118,"color":"6","type":"text","text":"## [[Reacciones Quimicas]]"},
+		{"id":"b88acac195f9b868","x":-264,"y":750,"width":304,"height":133,"color":"4","type":"text","text":"**Ley de Dalton**"}
+	],
+	"edges":[
+		{"id":"187241822fd00d8f","fromNode":"9040099f60f429ba","fromSide":"bottom","toNode":"f16862f6fa99a42d","toSide":"top"},
+		{"id":"ec15ff16b71c6652","fromNode":"badcfddd8c63f43b","fromSide":"bottom","toNode":"9040099f60f429ba","toSide":"top"},
+		{"id":"cb7e92f18626afff","fromNode":"fa74215ead454c00","fromSide":"left","toNode":"9040099f60f429ba","toSide":"right"},
+		{"id":"8b0681cc4d588a5b","fromNode":"fa74215ead454c00","fromSide":"bottom","toNode":"f16862f6fa99a42d","toSide":"right"},
+		{"id":"4e1facecdb603045","fromNode":"f16862f6fa99a42d","fromSide":"bottom","toNode":"6a58b2e39af93000","toSide":"top"},
+		{"id":"a80b3928f4a874ae","fromNode":"6a58b2e39af93000","fromSide":"bottom","toNode":"1b03e54099c9ffde","toSide":"top"},
+		{"id":"15f42e182706e4c9","fromNode":"1b03e54099c9ffde","fromSide":"bottom","toNode":"8c00bf24e380e916","toSide":"top"},
+		{"id":"b8d9032898f6316b","fromNode":"8c00bf24e380e916","fromSide":"right","toNode":"4cd0f357ce53487f","toSide":"left"},
+		{"id":"b3f6f4aacbdf03a1","fromNode":"94c5622420f8d6e4","fromSide":"bottom","toNode":"4cd0f357ce53487f","toSide":"top"},
+		{"id":"e97ad92270394801","fromNode":"8c00bf24e380e916","fromSide":"bottom","toNode":"b88acac195f9b868","toSide":"top"}
+	]
+}

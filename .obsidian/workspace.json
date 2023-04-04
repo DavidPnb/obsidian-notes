@@ -23,33 +23,20 @@
             }
           },
           {
-            "id": "a618ca985da02be6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca11b069012c8359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-03-10.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "793b8134ddf75aea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ce343bc7958944d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-03-10.md",
+                "file": "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -210,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-03-10.md",
+                "file": "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-03-10.md"
+                "file": "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md"
               }
             }
           },
@@ -306,7 +293,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.11822509765625
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,17 +314,27 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ca11b069012c8359",
+  "active": "793b8134ddf75aea",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/Rectas en el Plano.canvas",
-    "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
-    "40-49 Ciencias/40 Matematicas/Rectas en el Espacio.md",
-    "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-03.md",
+    "40-49 Ciencias/40 Matematicas/Circunferencias en el Plano.canvas",
     "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
+    "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
+    "40-49 Ciencias/40 Matematicas/Rectas en el Plano.canvas",
     "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
-    "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-03-10.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-03-09.md"
+    "40-49 Ciencias/40 Matematicas/Circunferencias en el Plano.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-02.md",
+    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
+    "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
+    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
+    "80-89 Literatura, Escritura y Ficcion/80 Escritura/80.00 Escritura MOC.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2023-W13.md",
+    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/The Home note vs The MOC Library.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/The forest entrance.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/The 3 Phases of MOCs, a coda.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/The 3 Phases of MOCs.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Teoria del Conocimiento de Tomas de Aquino.md"
   ]
 }

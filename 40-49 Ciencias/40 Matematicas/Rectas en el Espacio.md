@@ -5,6 +5,8 @@ tags:: #Mathematics
 up:: [[40.05 Geometria]]
 Links: 
 # Rectas en el Espacio
+![[Rectas en el Espacio.canvas]]
+
 La recta se construye a través de un punto y un vector que le da dirección, llamado **vector director** de la recta. Para que un punto pertenezca a la recta, el vector que va desde un punto de la recta a esta punto debe ser paralelo al vector director de la recta.
 
 ## Ecuaciones
@@ -26,7 +28,7 @@ $$l: \begin{align*}
 Esta ecuación se obtiene al desarrollar la ecuación simétrica .Cualquier punto cuyas coordenadas satisfagan ambas ecuaciones del sistema pertenece a $l$
 
 ## Planos Proyectantes
-Estos son los planos que pasan por $l$ y son perpendiculares a los planos coordenados. Para obtener un plano proyectante determinado de la recta, se expresa la recta como la interseccion de dos planos y se multiplica uno de las ecuaciones de los planos por un escalar y se añade a la otra, de modo que se elimine una de las variables de las ecuaciones.
+Estos son los planos que pasan por $l$ y son perpendiculares a otro plano.
 
 ## Distancias
 ### Distancia entre un punto y una recta

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"15f1f782b1b03860","x":-191,"y":-161,"width":250,"height":60,"color":"1","type":"text","text":"**Líquidos**"},
+		{"id":"b1b595da86c1582d","x":-226,"y":4,"width":293,"height":101,"color":"4","type":"text","text":"**Características**"},
+		{"id":"d3b767c6a2a14547","x":227,"y":-37,"width":309,"height":142,"color":"6","type":"text","text":"## Teoría Cinética Molecular"},
+		{"id":"1c5bb56b86a6b770","x":227,"y":-364,"width":404,"height":105,"color":"6","type":"text","text":"## Fuerzas Intermoleculares"}
+	],
+	"edges":[
+		{"id":"3555a28bb951e313","fromNode":"1c5bb56b86a6b770","fromSide":"bottom","toNode":"d3b767c6a2a14547","toSide":"top"},
+		{"id":"d23a6c64b254ed35","fromNode":"d3b767c6a2a14547","fromSide":"left","toNode":"b1b595da86c1582d","toSide":"right"},
+		{"id":"e65219145054b24c","fromNode":"15f1f782b1b03860","fromSide":"bottom","toNode":"b1b595da86c1582d","toSide":"top"}
+	]
+}

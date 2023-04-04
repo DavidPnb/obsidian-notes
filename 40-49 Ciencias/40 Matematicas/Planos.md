@@ -4,6 +4,8 @@ created: 2022-05-17 21:34
 tags:: #Mathematics 
 up:: [[Geometria Analitica]]
 # Planos
+![[Planos.canvas]]
+
 En matemáticas, un plano es una superficie bidimensional plana que se extiende indefinidamente. Un plano es el análogo bidimensional de un punto (dimensiones cero), una línea (una dimensión) y un espacio tridimensional.
 
 ## Ecuaciones
@@ -17,7 +19,7 @@ Al conocer los componentes de $P_{1}$ , $\overrightarrow{A}$ y $\overrightarrow{
 x=x_{1}+\lambda_{1}A_{x}+\lambda_{2}B_{x} \\ y=y_{1}+\lambda_{1}A_{y}+\lambda_{2}B_{y} \\ z=z_{1}+\lambda_{1}A_{z}+\lambda_{2}B_{z}
 \end{align}$$
 ### Ecuación Escalar
-$\overrightarrow N\cdot(\overrightarrow P-\overrightarrow{P_{1}})$
+$\overrightarrow N\cdot(\overrightarrow P-\overrightarrow{P_{1}})=0$
 
 Para encontrar a $\overrightarrow N$ se usa el producto vectorial entre dos vectores pertenecientes al plano.
 

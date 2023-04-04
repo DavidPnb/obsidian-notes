@@ -4,6 +4,8 @@ created: 2022-05-17 21:35
 tags:: #Mathematics 
 up:: [[Geometria Analitica]]
 # Superficies Esfericas
+![[Superficies Esfericas.canvas]]
+
 La superficie esferica es el lugar geometrico descrito por un punto que se mueve en el espacio de tal forma que siempre su distancia a un punto fijo llamado **centro** es igual a una constante llamada **radio**.
 
 ## Ecuaciones
@@ -31,25 +33,17 @@ donde $$C\left( \frac{D}{-2}, \frac{E}{-2}, \frac{F}{-2} \right)$$
 $$
 r=\frac{1}{2}\sqrt{ D^{2}+E^{2}+F^{2}-4G }
 $$
-por esta razón se necesitan cuatro puntos no coplanares para determinar una SE.
 
+## Posiciones Relativas
 ### Posiciones Relativas entre SE y Plano
 1. Si $d>r$, entonces $\pi$ y SE no se tocan
 2. Si $d<r$, entonces $\pi$ y SE cortan generando una circunferencia de interseccion
 3. Si $d=r$, entonces $\pi$ es tangente a SE
 
-> [!note]+ Distancia entre plano y SE
->
-$d=\frac{|Ah+Bk+Cl+D|}{\sqrt{A^2+B^2+C^2}}$
-
 ### Posiciones Relativas entre SE y Recta
 1. Si $d>r$, entonces $l$ y SE no se tocan
 2. Si $d=r$, entonces $l$ es tangente a SE
 3. Si $d<r$, entonces $l$ corta a SE
-
-> [!note]+ Distancia entre $l$ y SE
->
-$d=\frac{|\overrightarrow{P_0P_1} \times \overrightarrow{L}|}{|\overrightarrow{L}|};P_1=(h,k,l),P_0 \in l$
 
 ### Posiciones Relativas entre SE
 1. Si $d_1>r_1 \wedge d_2>r_2$ y los signos de $d_1$ y $d_2$ son opuestos, entonces $SE_1$ y $SE_2$ no se tocan exteriormente

@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"94e0edeb577acb40","x":-147,"y":-171,"width":279,"height":102,"color":"1","type":"text","text":"**Rectas en el Espacio**"},
+		{"id":"7c68245440f6f9b3","x":-138,"y":38,"width":250,"height":60,"color":"4","type":"text","text":"**Propiedades**"},
+		{"id":"97e8d5721f2a6446","x":-140,"y":173,"width":252,"height":50,"color":"4","type":"text","text":"**Ecuaciones**"},
+		{"id":"448a6098f44a37a5","x":-138,"y":-373,"width":323,"height":98,"color":"6","type":"text","text":"## [[Vectores Geometricos]]"},
+		{"id":"a6463757c881d32e","x":-144,"y":350,"width":250,"height":60,"color":"4","type":"text","text":"**Paramétrica**"},
+		{"id":"b0a7e1e5f0b37ec4","x":680,"y":404,"width":250,"height":60,"color":"4","type":"text","text":"**General**"},
+		{"id":"62192a89c3bfd712","x":277,"y":404,"width":250,"height":60,"color":"4","type":"text","text":"**Simétrica**"},
+		{"id":"9d1f9b017405ecbf","x":-705,"y":28,"width":309,"height":106,"color":"4","type":"text","text":"**Planos Proyectantes**"},
+		{"id":"58350aed535baa53","x":287,"y":-92,"width":265,"height":90,"color":"4","type":"text","text":"**Posiciones Relativas**"},
+		{"id":"8b0e26e6f6a2b12b","x":-754,"y":269,"width":245,"height":81,"color":"6","type":"text","text":"## [[Planos]]"},
+		{"id":"f4229050e6b0bde5","x":302,"y":68,"width":250,"height":60,"color":"4","type":"text","text":"**Distancias**"}
+	],
+	"edges":[
+		{"id":"28b68b02034eada3","fromNode":"94e0edeb577acb40","fromSide":"bottom","toNode":"7c68245440f6f9b3","toSide":"top"},
+		{"id":"10d1d9019db7b1ff","fromNode":"7c68245440f6f9b3","fromSide":"bottom","toNode":"97e8d5721f2a6446","toSide":"top"},
+		{"id":"82cde73d46b6b4aa","fromNode":"448a6098f44a37a5","fromSide":"bottom","toNode":"94e0edeb577acb40","toSide":"top"},
+		{"id":"a49dacf1e915e5d5","fromNode":"97e8d5721f2a6446","fromSide":"bottom","toNode":"a6463757c881d32e","toSide":"top"},
+		{"id":"59d107b908dc99bd","fromNode":"a6463757c881d32e","fromSide":"right","toNode":"62192a89c3bfd712","toSide":"left"},
+		{"id":"65a95f42b19e8883","fromNode":"97e8d5721f2a6446","fromSide":"bottom","toNode":"62192a89c3bfd712","toSide":"top"},
+		{"id":"e2c8afc9a9691161","fromNode":"62192a89c3bfd712","fromSide":"right","toNode":"b0a7e1e5f0b37ec4","toSide":"left"},
+		{"id":"a72ba73bd3d7a7ec","fromNode":"97e8d5721f2a6446","fromSide":"bottom","toNode":"b0a7e1e5f0b37ec4","toSide":"top"},
+		{"id":"b8b5a5d3c0bde7cd","fromNode":"7c68245440f6f9b3","fromSide":"left","toNode":"9d1f9b017405ecbf","toSide":"right"},
+		{"id":"be18daf035b10d47","fromNode":"7c68245440f6f9b3","fromSide":"right","toNode":"58350aed535baa53","toSide":"left"},
+		{"id":"277ce3f2d31e44a0","fromNode":"7c68245440f6f9b3","fromSide":"right","toNode":"f4229050e6b0bde5","toSide":"left"},
+		{"id":"6302f0e7ddaa2947","fromNode":"8b0e26e6f6a2b12b","fromSide":"top","toNode":"9d1f9b017405ecbf","toSide":"bottom"},
+		{"id":"bba2cc66deec4476","fromNode":"f4229050e6b0bde5","fromSide":"top","toNode":"58350aed535baa53","toSide":"bottom"}
+	]
+}

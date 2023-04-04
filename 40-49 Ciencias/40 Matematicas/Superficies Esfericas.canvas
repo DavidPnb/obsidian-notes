@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"38739dc58a0846d2","x":-97,"y":-179,"width":275,"height":86,"color":"1","type":"text","text":"**Superficies Esféricas**"},
+		{"id":"9dfa98f8b6f1a926","x":-120,"y":20,"width":283,"height":60,"color":"4","type":"text","text":"**Propiedades**"},
+		{"id":"1b02a7ed39e4b412","x":-73,"y":191,"width":250,"height":60,"color":"4","type":"text","text":"**Ecuaciones**"},
+		{"id":"f5310b546295c0a5","x":-151,"y":-411,"width":329,"height":103,"color":"6","type":"text","text":"## [[Vectores Geometricos]]"},
+		{"id":"a040dfeea6e36c80","x":-85,"y":345,"width":263,"height":86,"color":"4","type":"text","text":"**Ecuación Escalar**"},
+		{"id":"8ee79e6aab22c35f","x":256,"y":353,"width":265,"height":78,"color":"4","type":"text","text":"**Ecuación Ordinaria**"},
+		{"id":"f293fa5c0e7d0471","x":595,"y":345,"width":287,"height":86,"color":"4","type":"text","text":"**Ecuación General**"},
+		{"id":"e0f160b71da2e393","x":615,"y":530,"width":267,"height":77,"color":"4","type":"text","text":"**Familia de Esferas**"},
+		{"id":"26025a0154c75dee","x":-577,"y":-13,"width":250,"height":77,"color":"4","type":"text","text":"**Posiciones Relativas**"},
+		{"id":"0c633c13e7e405dd","x":339,"y":-3,"width":250,"height":60,"color":"4","type":"text","text":"**Distancias**"},
+		{"id":"e8d46c8d76f32f52","x":-536,"y":132,"width":272,"height":89,"color":"4","type":"text","text":"**Plano Tangente**"},
+		{"id":"884ca0cf0bec4074","x":998,"y":578,"width":282,"height":81,"color":"4","type":"text","text":"**Plano Radical**"},
+		{"id":"d04fc8662c0176cc","x":-624,"y":-255,"width":360,"height":119,"color":"4","type":"text","text":"**Ángulo de Corte entre SE**"}
+	],
+	"edges":[
+		{"id":"a4e3a5083dcfc219","fromNode":"38739dc58a0846d2","fromSide":"bottom","toNode":"9dfa98f8b6f1a926","toSide":"top"},
+		{"id":"25e43cfc22fceda5","fromNode":"9dfa98f8b6f1a926","fromSide":"bottom","toNode":"1b02a7ed39e4b412","toSide":"top"},
+		{"id":"062be969ae1e53c3","fromNode":"f5310b546295c0a5","fromSide":"bottom","toNode":"38739dc58a0846d2","toSide":"top"},
+		{"id":"edb03fb1328a941f","fromNode":"1b02a7ed39e4b412","fromSide":"bottom","toNode":"a040dfeea6e36c80","toSide":"top"},
+		{"id":"e370cdd003324cd0","fromNode":"a040dfeea6e36c80","fromSide":"right","toNode":"8ee79e6aab22c35f","toSide":"left"},
+		{"id":"4fe5b558837ef10e","fromNode":"1b02a7ed39e4b412","fromSide":"bottom","toNode":"8ee79e6aab22c35f","toSide":"top"},
+		{"id":"1160cb2add8401f0","fromNode":"8ee79e6aab22c35f","fromSide":"right","toNode":"f293fa5c0e7d0471","toSide":"left"},
+		{"id":"16244953b0dc9884","fromNode":"f293fa5c0e7d0471","fromSide":"bottom","toNode":"e0f160b71da2e393","toSide":"top"},
+		{"id":"c0e619ac2caf099d","fromNode":"9dfa98f8b6f1a926","fromSide":"left","toNode":"26025a0154c75dee","toSide":"right"},
+		{"id":"58b138317e292062","fromNode":"9dfa98f8b6f1a926","fromSide":"right","toNode":"0c633c13e7e405dd","toSide":"left"},
+		{"id":"9cb341b299fb114a","fromNode":"9dfa98f8b6f1a926","fromSide":"left","toNode":"e8d46c8d76f32f52","toSide":"right"},
+		{"id":"87121ed298886745","fromNode":"e0f160b71da2e393","fromSide":"right","toNode":"884ca0cf0bec4074","toSide":"left"},
+		{"id":"1b3a70e58a2d965c","fromNode":"9dfa98f8b6f1a926","fromSide":"left","toNode":"d04fc8662c0176cc","toSide":"right"},
+		{"id":"e66516a68c7c3ded","fromNode":"d04fc8662c0176cc","fromSide":"bottom","toNode":"26025a0154c75dee","toSide":"top"}
+	]
+}
