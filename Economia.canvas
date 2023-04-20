@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"**Economía**","id":"4d506a6f090e4508","x":-82,"y":-117,"width":282,"height":77,"color":"1"},
+		{"type":"text","text":"**Escuelas**","id":"b5897bf446414b37","x":-486,"y":-38,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"**Neoclásica**","id":"1576c2e7fb7f8f38","x":-910,"y":-8,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"## Política","id":"483e270adbc2b552","x":428,"y":-116,"width":290,"height":66,"color":"6"},
+		{"type":"text","text":"**Ramas**","id":"6dc68e67d99b5fcd","x":-49,"y":82,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"**Economía Pública**","id":"8ba9862102abccf6","x":-395,"y":240,"width":250,"height":82,"color":"4"},
+		{"type":"text","text":"**Economía Financiera**","id":"4f366531a31bea6b","x":-27,"y":236,"width":307,"height":86,"color":"4"}
+	],
+	"edges":[
+		{"id":"91bc8642aba92d06","fromNode":"4d506a6f090e4508","fromSide":"left","toNode":"b5897bf446414b37","toSide":"right"},
+		{"id":"26669d4fec540fb1","fromNode":"b5897bf446414b37","fromSide":"left","toNode":"1576c2e7fb7f8f38","toSide":"right"},
+		{"id":"5dfcf6aadcdea25c","fromNode":"483e270adbc2b552","fromSide":"left","toNode":"4d506a6f090e4508","toSide":"right"},
+		{"id":"2c9422885bba5c4e","fromNode":"4d506a6f090e4508","fromSide":"bottom","toNode":"6dc68e67d99b5fcd","toSide":"top"},
+		{"id":"95f88d74ee63a5e8","fromNode":"6dc68e67d99b5fcd","fromSide":"bottom","toNode":"8ba9862102abccf6","toSide":"top"},
+		{"id":"607269d8258927cb","fromNode":"6dc68e67d99b5fcd","fromSide":"bottom","toNode":"4f366531a31bea6b","toSide":"top"}
+	]
+}

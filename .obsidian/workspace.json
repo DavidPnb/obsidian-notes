@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "793b8134ddf75aea",
+            "id": "1ce343bc7958944d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,25 @@
             }
           },
           {
-            "id": "1ce343bc7958944d",
+            "id": "7db9a96cbadcc882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-04-20.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e859c415104b8dfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-04-20.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -142,8 +155,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "dee71d77b205e31d",
@@ -180,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5146293640137
+    "width": 420.5146293640137,
+    "collapsed": true
   },
   "right": {
     "id": "6a3a32269de26270",
@@ -197,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-04-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-04-20.md"
               }
             }
           },
@@ -293,7 +306,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 507.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,27 +327,41 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "793b8134ddf75aea",
+  "active": "7db9a96cbadcc882",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-03.md",
-    "40-49 Ciencias/40 Matematicas/Circunferencias en el Plano.canvas",
-    "00-09 PKM/04 Sources/Books/{ What Smart Students Know.md",
-    "40-49 Ciencias/40 Matematicas/Rectas en el Plano.md",
-    "40-49 Ciencias/40 Matematicas/Rectas en el Plano.canvas",
-    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
+    "00-09 PKM/04 Sources/Books/{ Story.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-20.md",
+    "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
+    "00-09 PKM/04 Sources/Books/{ On Writing.md",
+    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "40-49 Ciencias/40 Matematicas/Circunferencias en el Plano.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-02.md",
-    "00-09 PKM/05 Spaces/05.02 Universidad/1.5 Semestre.md",
-    "40-49 Ciencias/42 Fisica/42.00 Fisica MOC.md",
+    "40-49 Ciencias/40 Matematicas/Circunferencias en el Plano.canvas",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-19.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-18.md",
+    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Objetivos de Entrenamiento.md",
+    "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
-    "80-89 Literatura, Escritura y Ficcion/80 Escritura/80.00 Escritura MOC.md",
-    "00-09 PKM/01 Calendar/01.02 Weekly/2023-W13.md",
-    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/The Home note vs The MOC Library.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/The forest entrance.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/The 3 Phases of MOCs, a coda.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/The 3 Phases of MOCs.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Teoria del Conocimiento de Tomas de Aquino.md"
+    "100-109 Historia y Relacionados/100 Historia/Historia de la Vida.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-14.md",
+    "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md",
+    "90-99 Ciencias Sociales/92 Economia/Historia del Capitalismo.canvas",
+    "Historia Humana.canvas",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-13.md",
+    "00-09 PKM/04 Sources/Books/{ Narration.md",
+    "Narrativa.canvas",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-12.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-11.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema Mente-Cuerpo.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema Mente-Cuerpo.canvas",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia de la Mente.md",
+    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/60.00 Fitness.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-10.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-09.md",
+    "00-09 PKM/04 Sources/Books/{ Steal Like an Artist.md",
+    "00-09 PKM/04 Sources/Books/Austin.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-08.md",
+    "Mutaciones.canvas",
+    "Economia.canvas",
+    "40-49 Ciencias/40 Matematicas/Rectas en el Plano.canvas"
   ]
 }

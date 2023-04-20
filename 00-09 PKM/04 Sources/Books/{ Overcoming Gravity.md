@@ -103,6 +103,37 @@ finished::
 			2. Trabajar los puntos débiles
 			3. Considerar el sueño, la nutrición y el estrés
 			4. Entender como el cuerpo responde al entrenamiento
+	4. Establecer y Alcanzar Metas
+		1. Para mejorar en terminos de fuerza se deben priorizar alta intensidad bajas repeticiones. Para mejoraren resistencia se deben usar ejercicios de baja intensidad con alto número de repeticiones
+	5. Seleccionar Metas
+		1. Las metas ayudan a determinar la estructura de un plan de entrenamiento. Las metas deben ser específicas, cuantificables, accionables, realistas y limitadas a un tiempo determinado
+	6. Selección de Metas y Ejercicios
+		1. La manera más eficiente de escoger metas es seleccionar una o dos por cada tipo de ejercicio: push, pull, piernas, core y flexibilidad. Luego se escogen ejercicios presentes en las progresiones que llevan a esas metas
+	7. Perseverancia hacia los Logros
+		1. Escribir nuestras metas es un truco psicológico que hace más probable que nos esforcemos en conseguirlas
+4. **Consideración sobre el Balance Estructural**
+	1. Una rutina asimétrica respecto a los ejercicios de push y pull puede generan desbalances, los cuales aumentan el riesgo de lesiones y pueden disminuir la fuerza
+	2. Recomendaciones
+		1. Progresion L-Sit + Handstand
+		2. SP Handstand
+5. **Introducción a la Programación**
+	1. Para entrenar de manera eficiente se debe seguir el principio de sobrecarga progresiva, lo que implica aumentar la intensidad o el volumen de los ejercicios. Por medio de la **progresión lineal**, se aumenta la cantidad de sets o el número de repeticiones de los ejercicios
+	2. La **recuperación** depende de un balance entre el sistema nervioso simpático, que lidia con situaciones de estres, y el parasimpático que funciona en los tiempos de descanso y hace posible el sueño y la digestión. Luego de recibir una cantidad adecuada de descanso despues de un entrenamiento, el cuerpo **sobrecompensa** a fatiga con un aumento en la fuerza y la hipertrofia. El sistema nervioso necesita más descanso que los musculos
+	3. La **periodización** alterna progresivamente varios atributos de entrenamiento, como el volumen, la intensidad o la frecuencia. Un **microciclo** tiene una duración de una semana, un **mesociclo** abarca 4-8 microciclos dependiendo de la cantidad de fatiga que se experimenta durante las rutinas, y suele estar acompañado de una semana de descanso.
+	4. Cada microciclo se enfoca en un atributo específico. Existen diferentes maneras de clasificar los atributos, pero en general se incluye fuerza, hipertrofia, cardio, resistencia, mobilidad, flexibilidad. La fuerza y la hipertrofia son los enfoques principales de entrenamiento, y en principio se entrenan 2-4 días a la semana. Los atributos secundarios de intensidad baja o moderada pueden entrenarse todos los días, o en los días libres si estos pueden afectar a la rutina.
+	5. Categorias de Entrenamiento
+		1. Calentamiento y Mobilidad
+		2. Habilidades
+		3. Fuerza
+		4. Resistencia
+		5. Prehabilitación y Flexibilidad
+6. **Consideraciones de Población**
+	1. Sedentario-Activo
+	2. Joven-Viejo
+	3. Deportivo-Recreacional
+	4. Lesionado-Sin Lesión
+
+
 ### Construir una Rutina
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa

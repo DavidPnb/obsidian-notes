@@ -7,7 +7,8 @@
 		{"type":"text","text":"**General**","id":"9ed2a6c527929f68","x":58,"y":851,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"**Forma Determinante**","id":"71fdab972d17db24","x":428,"y":970,"width":309,"height":97,"color":"4"},
 		{"type":"text","text":"## [[Vectores Geometricos]]","id":"dfea782b396c6e8d","x":-594,"y":95,"width":324,"height":105,"color":"6"},
-		{"id":"a90a0d584e3bf295","x":-120,"y":1065,"width":324,"height":115,"color":"4","type":"text","text":"**Familia de CIrcunferencias**"}
+		{"type":"text","text":"**Familia de CIrcunferencias**","id":"a90a0d584e3bf295","x":-120,"y":1065,"width":324,"height":115,"color":"4"},
+		{"id":"4901af221622b3ab","x":-77,"y":1330,"width":281,"height":110,"color":"4","type":"text","text":"**Eje Radical**"}
 	],
 	"edges":[
 		{"id":"8bad2ab72dd70586","fromNode":"9e68b968c70db171","fromSide":"bottom","toNode":"42425ce973c76f68","toSide":"top"},
@@ -18,6 +19,7 @@
 		{"id":"25e0b2eb547bb925","fromNode":"9ed2a6c527929f68","fromSide":"bottom","toNode":"71fdab972d17db24","toSide":"left"},
 		{"id":"95466b2784555cca","fromNode":"1e8475148d280bbf","fromSide":"bottom","toNode":"71fdab972d17db24","toSide":"top"},
 		{"id":"f629e9f787b30188","fromNode":"dfea782b396c6e8d","fromSide":"right","toNode":"42425ce973c76f68","toSide":"left"},
-		{"id":"b6895c030e833076","fromNode":"9ed2a6c527929f68","fromSide":"bottom","toNode":"a90a0d584e3bf295","toSide":"top"}
+		{"id":"b6895c030e833076","fromNode":"9ed2a6c527929f68","fromSide":"bottom","toNode":"a90a0d584e3bf295","toSide":"top"},
+		{"id":"864a10a573d722c5","fromNode":"a90a0d584e3bf295","fromSide":"bottom","toNode":"4901af221622b3ab","toSide":"top"}
 	]
 }

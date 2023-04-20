@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"a3c2717aec50bedc","x":-89,"y":-125,"width":274,"height":94,"color":"1","type":"text","text":"**Narrativa**\n"},
+		{"id":"a6724bf29e71db7e","x":-201,"y":-275,"width":249,"height":58,"color":"6","type":"text","text":"**Historia**"},
+		{"id":"94daaf06c3c782b4","x":150,"y":-269,"width":212,"height":43,"color":"6","type":"text","text":"**Trama**"},
+		{"id":"057a244ae4116d5d","x":-79,"y":68,"width":335,"height":92,"color":"4","type":"text","text":"**Representación**"},
+		{"id":"ccc53102f7256d95","x":-560,"y":-131,"width":287,"height":53,"color":"6","type":"text","text":"**Ontogenia**"},
+		{"id":"76f4e9714b19fba6","x":-567,"y":3,"width":287,"height":55,"color":"6","type":"text","text":"**Filogenia**"}
+	],
+	"edges":[
+		{"id":"2cea146cc417c34f","fromNode":"a6724bf29e71db7e","fromSide":"bottom","toNode":"a3c2717aec50bedc","toSide":"top"},
+		{"id":"50f252b580f383d5","fromNode":"94daaf06c3c782b4","fromSide":"bottom","toNode":"a3c2717aec50bedc","toSide":"top"},
+		{"id":"4ac7a27ffe1dbef1","fromNode":"a3c2717aec50bedc","fromSide":"bottom","toNode":"057a244ae4116d5d","toSide":"top"},
+		{"id":"e1b3338242b470f7","fromNode":"ccc53102f7256d95","fromSide":"right","toNode":"a3c2717aec50bedc","toSide":"left"},
+		{"id":"66115577d1dc9704","fromNode":"76f4e9714b19fba6","fromSide":"right","toNode":"a3c2717aec50bedc","toSide":"left"}
+	]
+}

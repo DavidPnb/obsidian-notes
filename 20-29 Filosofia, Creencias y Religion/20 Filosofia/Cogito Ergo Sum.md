@@ -29,3 +29,23 @@ En la segunda de las *Meditaciones*, Descartes argumenta lo siguiente
 	- El ser esta caracterizado por el pensamiento
 
 Descartes se dio cuenta de que si dudaba, estaba pensando, y si pensaba, con toda certeza el deberia existir, al menos como un ser pensante. Este es el origen del *Cogito Ergo Sum* o *Pienso, luego existo*.
+
+## Racionalismo Cartesiano
+Descartes adjudica la veracidad del cogito a su naturaleza como una idea *clara y distinguida*. Las ideas mencionadas son de naturaleza lógica e intuitiva y Descartes fundamenta al conocimiento en base a estas. De esta manera, Descartes da origen al **Racionalismo Cartesiano** en el que el conocimiento sobre el mundo puede ser adquirido antes que la experiencia, a esto se le denomina *a priori*.
+
+### Argumento de la Estampa
+- Poseo una idea de perfección
+- Esta idea debe tener una causa perfecta
+- Esta causa perfecta es Dios
+
+Descartes usa este argumento para dejar a un lado el escepticismo, ya que un ser perfecto no debe ser capaz de permitir que nuestros sentidos sean engañados
+
+#### Asunciones
+- El hombre puede tener un concepto de perfección
+- Las causas pueden traspasar características a los efectos que estas ocasionan
+
+#### Objeciones
+- Las asunciones de Descartes estan basadas en ideas filosóficas de la época, las cuales pueden parecer obsoletas en estos tiempos
+
+### Círculo de Descartes
+Para demostrar la existencia de Dios, Descartes necesita ideas *claras y distinguidas* (lógicas), y para respaldar su teoría epistemológica racionalista, Descartes necesita la idea de Dios. La única forma de evitar caer en un razonamiento circular es que Descartes sostenga una de estas dos ideas como un dogma, lo que evita que pueda dejar a un lado el escepticismo por motivos racionales.

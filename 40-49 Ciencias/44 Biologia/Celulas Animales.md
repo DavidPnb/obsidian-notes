@@ -33,7 +33,7 @@ Es la forma en que la sustancias entran y salen de la membrana celular.
 	- *Transporte Vesicular* - Transporta sustancias usando vesiculas en un proceso llamado **citosis**
 
 ## Reproducción Celular
-Todas las células provienen de otras células, así que para dar lugar a una célula una célula preexistente duplica su información genética y se divide en dos, lo que se conoce como **ciclo celular**.
+Todas las células provienen de otras células, así que para dar lugar a una célula, otra célula preexistente duplica su información genética y se divide en dos, lo que se conoce como **ciclo celular**.
 
 ![[Celulas Animales-1.png]]
 
@@ -44,5 +44,8 @@ Es similar al proceso de [[Transcripcion y Translacion del ADN]], pero en lugar 
 [[Mitosis]]
 
 ### Citocinesis
-La célula se divide en dos por un anillo en el centro, dando lugar a dos células idénticas.
+La célula es dividida en dos por un anillo en el centro, dando lugar a dos células idénticas.
+
+## Células Madre
+Son **células no diferenciadas**, es decir, que no tienen las características de un tipo de célula en particular, lo que les permite reponer las células ne otros tejidos al replicarse. El **potencial de diferenciación** determina en cuantos tipos de célula una célula madre puede diferenciarse.
 ___

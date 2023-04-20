@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"728b6136e039021a","x":-100,"y":-140,"width":280,"height":102,"color":"1","type":"text","text":"**Mutaciones**"},
+		{"id":"150aea184a30d48c","x":-60,"y":-336,"width":300,"height":76,"color":"6","type":"text","text":"## [[ADN]]"},
+		{"id":"27ce0921d26bdd41","x":-88,"y":64,"width":250,"height":60,"color":"4","type":"text","text":"**Causas**"},
+		{"id":"c6896d38b94a9cd6","x":-234,"y":205,"width":250,"height":60,"color":"4","type":"text","text":"**Internas**"},
+		{"id":"14c45a76f81c3645","x":46,"y":215,"width":250,"height":60,"color":"4","type":"text","text":"**Externas**"},
+		{"id":"7b0fb08ab581bd57","x":-511,"y":324,"width":277,"height":71,"color":"4","type":"text","text":"**Replicación**"},
+		{"id":"7cfe459973d37872","x":-200,"y":324,"width":290,"height":71,"color":"4","type":"text","text":"**Metabolismo**"},
+		{"id":"ff0466fb49b82651","x":475,"y":95,"width":250,"height":60,"color":"4","type":"text","text":"**Biológicas**"},
+		{"id":"c6cde78677562655","x":461,"y":219,"width":250,"height":60,"color":"4","type":"text","text":"**Químicas**"},
+		{"id":"064ac710a9eeec65","x":471,"y":319,"width":250,"height":60,"color":"4","type":"text","text":"**Físicas**"}
+	],
+	"edges":[
+		{"id":"8f84c55e556b3029","fromNode":"150aea184a30d48c","fromSide":"bottom","toNode":"728b6136e039021a","toSide":"top"},
+		{"id":"629c434b16e4fb68","fromNode":"728b6136e039021a","fromSide":"bottom","toNode":"27ce0921d26bdd41","toSide":"top"},
+		{"id":"0d977ac067f2238e","fromNode":"27ce0921d26bdd41","fromSide":"bottom","toNode":"c6896d38b94a9cd6","toSide":"top"},
+		{"id":"b7834102b4304855","fromNode":"27ce0921d26bdd41","fromSide":"bottom","toNode":"14c45a76f81c3645","toSide":"top"},
+		{"id":"ab450200452b12a7","fromNode":"c6896d38b94a9cd6","fromSide":"left","toNode":"7b0fb08ab581bd57","toSide":"top"},
+		{"id":"cd817df5b6f38da2","fromNode":"c6896d38b94a9cd6","fromSide":"bottom","toNode":"7cfe459973d37872","toSide":"top"},
+		{"id":"a301fac89f1dabfa","fromNode":"14c45a76f81c3645","fromSide":"right","toNode":"ff0466fb49b82651","toSide":"left"},
+		{"id":"811fb0664ccf4976","fromNode":"14c45a76f81c3645","fromSide":"right","toNode":"c6cde78677562655","toSide":"left"},
+		{"id":"e552d01c0892bbf0","fromNode":"14c45a76f81c3645","fromSide":"right","toNode":"064ac710a9eeec65","toSide":"left"}
+	]
+}

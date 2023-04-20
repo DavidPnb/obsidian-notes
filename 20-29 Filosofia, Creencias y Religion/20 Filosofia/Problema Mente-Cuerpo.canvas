@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"59c8b24cc0536cbf","x":-91,"y":-149,"width":371,"height":109,"color":"1","type":"text","text":"**Problema Mente-Cuerpo**"},
+		{"id":"63d0b9ded1d92767","x":-560,"y":14,"width":300,"height":86,"color":"4","type":"text","text":"**Sustancialismo**"},
+		{"id":"a09fefce663f8952","x":-980,"y":-87,"width":335,"height":101,"color":"4","type":"text","text":"**Posibilidades Metafísicas**"},
+		{"id":"b772ca1ccd94c53a","x":-980,"y":105,"width":333,"height":95,"color":"4","type":"text","text":"**Posibilidades Epistemológicas**"},
+		{"id":"25e31cca05ee8244","x":-1380,"y":-186,"width":305,"height":66,"color":"4","type":"text","text":"**Ocasionalismo**"},
+		{"id":"c0185af2a81fba38","x":-1380,"y":-65,"width":294,"height":79,"color":"4","type":"text","text":"**Behaviorismo Racional**"},
+		{"id":"8c0e258c641bb7d0","x":-1420,"y":116,"width":344,"height":84,"color":"4","type":"text","text":"**Epifenomenalismo**"},
+		{"id":"e3c3de2b3805bd5c","x":-1800,"y":-54,"width":310,"height":50,"color":"4","type":"text","text":"**Funcionalismo**"},
+		{"id":"d482a140cd1795e4","x":-33,"y":47,"width":250,"height":69,"color":"4","type":"text","text":"**Fisicalismo**"},
+		{"id":"28109709d0320a94","x":-35,"y":203,"width":315,"height":157,"color":"4","type":"text","text":"**Teoría de Identidad Psicofísica**"},
+		{"id":"c4355c0fa6e26437","x":-7,"y":465,"width":287,"height":95,"color":"4","type":"text","text":"**Espectro Invertido**"},
+		{"id":"978e227588ea5d03","x":404,"y":-92,"width":316,"height":106,"color":"4","type":"text","text":"**Misterianismo**"}
+	],
+	"edges":[
+		{"id":"18c48bc6b60142e9","fromNode":"59c8b24cc0536cbf","fromSide":"left","toNode":"63d0b9ded1d92767","toSide":"right"},
+		{"id":"e2a6a9a7fa5c4592","fromNode":"63d0b9ded1d92767","fromSide":"left","toNode":"a09fefce663f8952","toSide":"right"},
+		{"id":"3972e0bbe242178e","fromNode":"63d0b9ded1d92767","fromSide":"left","toNode":"b772ca1ccd94c53a","toSide":"right"},
+		{"id":"fa68eb403bff826b","fromNode":"a09fefce663f8952","fromSide":"left","toNode":"25e31cca05ee8244","toSide":"right"},
+		{"id":"661fd16a53e0c267","fromNode":"a09fefce663f8952","fromSide":"left","toNode":"c0185af2a81fba38","toSide":"right"},
+		{"id":"16e246cd7717b6e0","fromNode":"b772ca1ccd94c53a","fromSide":"left","toNode":"8c0e258c641bb7d0","toSide":"right"},
+		{"id":"42750d0b22117a58","fromNode":"c0185af2a81fba38","fromSide":"left","toNode":"e3c3de2b3805bd5c","toSide":"right"},
+		{"id":"edd2f19cf74a30b2","fromNode":"59c8b24cc0536cbf","fromSide":"bottom","toNode":"d482a140cd1795e4","toSide":"top"},
+		{"id":"e5bbd1f5b700d9c5","fromNode":"d482a140cd1795e4","fromSide":"bottom","toNode":"28109709d0320a94","toSide":"top"},
+		{"id":"db69c16e7e3e6a36","fromNode":"28109709d0320a94","fromSide":"bottom","toNode":"c4355c0fa6e26437","toSide":"top"},
+		{"id":"d9c7f104771eb456","fromNode":"59c8b24cc0536cbf","fromSide":"right","toNode":"978e227588ea5d03","toSide":"left"}
+	]
+}

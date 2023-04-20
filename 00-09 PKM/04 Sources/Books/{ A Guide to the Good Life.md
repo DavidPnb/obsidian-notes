@@ -32,6 +32,8 @@ finished::
 5. **Meditación** - Implica analizar de forma crítica los eventos que experimentamos y nuestras acciones con respecto a estos. Examinar los eventos de manera objetiva nos permite aprender de nuestros errores y los de los demás. Tambien debemos tomar en cuenta que el progreso no se realiza de forma lineal, y que no debemos rendirnos al experimentar tropiezos en nuestra vida
 ### Consejos Estoicos
 1. **Deber** - Los estoicos proponen que es nuestro deber amar a la humanidad, ya que cooperar con los demás concuerda con nuestras funciones sociales y biológicas y esto nos hace más propensos a alcanzar la tranquilidad
+2. **Relaciones Sociales** - Los estoicos argumentan que debemos buscar relacionarnos con personas que compartan nuestros valores, ya que nuestras amistades pueden afectar bastante nuestro comportamiento. Tambien buscan fomentar la castidad, el matrimonio y la procreación.
+3. **Insultos** - Los insultos deben ser recibidos de manera racional, reflexionando sobre la naturaleza del insulto y del que lo expresa, y deben ser respondidos con humor o indiferencia
 ### Estoicismo para Vidas Modernas
 
 ## Puntos Clave

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"**Historia del Capitalismo**","id":"9f4b1ac545a976e7","x":-152,"y":-172,"width":341,"height":132,"color":"1"},
+		{"type":"text","text":"**Proteccionismo**","id":"ef75590d19989146","x":441,"y":-172,"width":319,"height":75,"color":"6"},
+		{"id":"cc7ed0ea11d5ab4c","x":-122,"y":97,"width":311,"height":103,"color":"4","type":"text","text":"**Revolución Científica**"},
+		{"id":"8a22ba1343c80fb2","x":-122,"y":335,"width":311,"height":105,"color":"4","type":"text","text":"**Industria y Corporación**"},
+		{"id":"a62f4623a1e8d004","x":-122,"y":533,"width":270,"height":107,"color":"4","type":"text","text":"**Revolución Industrial**"},
+		{"id":"6ca9c007c7e382e9","x":479,"y":193,"width":304,"height":90,"color":"6","type":"text","text":"**Colonialismo**"}
+	],
+	"edges":[
+		{"id":"33001e15ebbe3d6a","fromNode":"ef75590d19989146","fromSide":"left","toNode":"9f4b1ac545a976e7","toSide":"right"},
+		{"id":"88ac598c87cc21e6","fromNode":"9f4b1ac545a976e7","fromSide":"bottom","toNode":"cc7ed0ea11d5ab4c","toSide":"top"},
+		{"id":"a5f13f6e745677bb","fromNode":"cc7ed0ea11d5ab4c","fromSide":"bottom","toNode":"8a22ba1343c80fb2","toSide":"top"},
+		{"id":"f3faac6585edd079","fromNode":"8a22ba1343c80fb2","fromSide":"bottom","toNode":"a62f4623a1e8d004","toSide":"top"},
+		{"id":"93404e9042a6ed92","fromNode":"6ca9c007c7e382e9","fromSide":"left","toNode":"cc7ed0ea11d5ab4c","toSide":"right"},
+		{"id":"31c3521f3fbd66b7","fromNode":"6ca9c007c7e382e9","fromSide":"left","toNode":"8a22ba1343c80fb2","toSide":"right"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"**Humanidad**","id":"d01c327468681007","x":-65,"y":-124,"width":265,"height":84,"color":"1"},
+		{"type":"text","text":"**Revolución Cognitiva**","id":"49ae152f915c9341","x":-67,"y":97,"width":307,"height":83,"color":"4"},
+		{"type":"text","text":"**Revolución Agrícola**","id":"a09b874f65aad8ce","x":-59,"y":292,"width":299,"height":88,"color":"4"},
+		{"type":"text","text":"**Revolución Científica**","id":"5109c856ac9dab33","x":-59,"y":478,"width":282,"height":82,"color":"4"},
+		{"type":"text","text":"## [[100.01 Gran Historia]]","id":"edeca8c5d70f00d2","x":-45,"y":-400,"width":325,"height":160,"color":"6"}
+	],
+	"edges":[
+		{"id":"1db5f3bfd65572c2","fromNode":"d01c327468681007","fromSide":"bottom","toNode":"49ae152f915c9341","toSide":"top"},
+		{"id":"83a7cca23447e926","fromNode":"49ae152f915c9341","fromSide":"bottom","toNode":"a09b874f65aad8ce","toSide":"top"},
+		{"id":"42df460377be91e9","fromNode":"a09b874f65aad8ce","fromSide":"bottom","toNode":"5109c856ac9dab33","toSide":"top"},
+		{"id":"6cb79f38d3930851","fromNode":"edeca8c5d70f00d2","fromSide":"bottom","toNode":"d01c327468681007","toSide":"top"}
+	]
+}

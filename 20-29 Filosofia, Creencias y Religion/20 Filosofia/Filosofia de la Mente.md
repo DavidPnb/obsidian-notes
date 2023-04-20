@@ -8,4 +8,9 @@ up:: [[20.00 Filosofia MOC]]
 Links: 
 # Filosofia de la Mente
 Es una rama de la [[20.00 Filosofia MOC|Filosofia]] que estudia el problema de la consciencia y su relacion con el cerebro.
+
+## Problema Mente-Cuerpo
+[[Problema Mente-Cuerpo]]
+
+
 ___
