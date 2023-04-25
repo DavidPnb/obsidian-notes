@@ -34,6 +34,8 @@ finished::
 1. **Deber** - Los estoicos proponen que es nuestro deber amar a la humanidad, ya que cooperar con los demás concuerda con nuestras funciones sociales y biológicas y esto nos hace más propensos a alcanzar la tranquilidad
 2. **Relaciones Sociales** - Los estoicos argumentan que debemos buscar relacionarnos con personas que compartan nuestros valores, ya que nuestras amistades pueden afectar bastante nuestro comportamiento. Tambien buscan fomentar la castidad, el matrimonio y la procreación.
 3. **Insultos** - Los insultos deben ser recibidos de manera racional, reflexionando sobre la naturaleza del insulto y del que lo expresa, y deben ser respondidos con humor o indiferencia
+4. **Aflicción** - Racionalizar la tristeza puede ayudarnos a estar afligidos lo menos posible
+5. **Enojo** - Para evitar sentir enoj, tambien debemos evitar pensar mal sobre las otras personas y reflexionar sobre como nuestras emociones negativas pueden empeorar cualquier situación
 ### Estoicismo para Vidas Modernas
 
 ## Puntos Clave

@@ -133,8 +133,20 @@ finished::
 	3. Deportivo-Recreacional
 	4. Lesionado-Sin Lesión
 
-
 ### Construir una Rutina
+1. **Construir la Rutina de Entrenamiento**
+	1. **Full Body** -  Se basa en ejercicios compuestos. Son las más efectivas en principiantes e intermedios
+	2. **Split** - Aplica ejercicios de aislación. Son efectivas en individuos lesionados y tambien en deportistas y atletas avanzados
+		1. Push/Pull
+		2. SA/BA - Evita rutinas repetitivas
+		3. Upper/Lower - Para deportes que involucran las piernas
+		4. Push/Pull/Leg - Progreso Lento
+2. **Calentamiento y Habilidades**
+	1. Calentamiento
+		1. Ejercicios que mejoren la circulación
+		2. Ejercicios de mobilidad
+		3. Ejercicios posicionales (estabilidad)
+		4. Ejercicios y habilidades de bajo nivel (-2)
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa
 ### Recursos de Prehabilitación, Lesiones y Ejercicios

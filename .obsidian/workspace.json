@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-04-20.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "e859c415104b8dfc",
+            "id": "2eecc6a266c0abeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-04-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-04-20.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-04-23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-04-20.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-04-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-04-20.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-04-23.md"
               }
             }
           },
@@ -327,13 +327,19 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7db9a96cbadcc882",
+  "active": "2eecc6a266c0abeb",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ Story.md",
+    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-23.md",
+    "00-09 PKM/07 Inbox/+ Unsorted/Fuerza de Voluntad.md",
+    "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-22.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-21.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-04-20.md",
     "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
+    "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/04 Sources/Books/{ On Writing.md",
-    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "40-49 Ciencias/40 Matematicas/Circunferencias en el Plano.md",
     "40-49 Ciencias/40 Matematicas/Circunferencias en el Plano.canvas",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-04-19.md",
@@ -354,12 +360,6 @@
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema Mente-Cuerpo.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema Mente-Cuerpo.canvas",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia de la Mente.md",
-    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/60.00 Fitness.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-10.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-09.md",
-    "00-09 PKM/04 Sources/Books/{ Steal Like an Artist.md",
-    "00-09 PKM/04 Sources/Books/Austin.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-04-08.md",
     "Mutaciones.canvas",
     "Economia.canvas",
     "40-49 Ciencias/40 Matematicas/Rectas en el Plano.canvas"
