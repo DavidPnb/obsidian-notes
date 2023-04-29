@@ -60,6 +60,8 @@ La **trama** es la forma en la que se elige estructurar la historia.
 
 (***Triangulo de la trama***)
 
+![[Plot.png]]
+
 La **minitrama** y la **antitrama** son suversiones de una trama tradicional, y por esto requieren el dominio del diseño clásico.
 
 ## Puntos Clave
