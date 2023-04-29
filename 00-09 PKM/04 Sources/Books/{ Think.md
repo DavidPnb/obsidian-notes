@@ -27,8 +27,11 @@ finished::
 ### Conocimiento
 [[Cogito Ergo Sum]]
 ### Mente
+[[Problema Mente-Cuerpo]]
 ### Libre Albedrío
+[[Libre Albedrio]]
 ### Ser
+[[Identidad Personal]]
 ### Dios
 ### Razonamiento
 ### El Mundo

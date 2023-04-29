@@ -36,6 +36,32 @@ Las historias son importantes para el desarrollo cultural de una sociedad, ya qu
 
 Una causa probable de esta decadencia es una falta de aprecio por el arte que se hace presente en la nueva generación de escritores. Los nuevos escritores suelen empezar luego de haberse expuesto a un aprendizaje pasivo, en lugar de instrucción formal o educación autodidacta y rigurosa. Otra posible causa es el cambio en las corrientes morales que la sociedad ha experimentado en los últimos años. Para retomar de manera correcta el arte de la escritura, se debe hacer una reflexión profunda sobre las implicaciones de estos cambios y plasmar estas conclusiones dentro de las historias.
 
+Las historias no solo necesitan talento para ser contadas. El talento tambien debe estar acompañado de la técnica que le permita al autor analizar y editar su historia. Muchas de las historias que reciben una pesima crítica entran en las siguientes categorias: Una historia que explica en gran detalle acontecimientos en la vida de un personaje (*slice of life*) o una historia que solo esta motivada por el espectaculo y es considerada entretenimiento vacío. Las capacidades descriptivas e imaginativas son fundamentales, pero estas no pueden sostener una historia por separado ya que se complementan unas a otras. Las otras capacidades que son vitales para la escritura creativa son la capacidad literaria, y sobre todo la capacidad narrativa.
+
+### Elementos de la Historia
+#### Espectro de la Estructura
+- **Terminología**
+	- **Estructura**
+		- Conjunto de eventos ordenados en una secuencia determinada para evocar emociones en el espectador
+	- **Eventos**
+		- Suceso que involucra un *cambio* en la historia a través de los *personajes*, se expresa a traves de *valores* (dualidad) e involucran conflicto
+	- **Escenas**
+		- Narraciones en tiempo continuo que, idealmente, relatan un *evento* y revelan *exposición*.
+	- **Beats**
+		- Son las acciones y reacciones que determinan el resultado de una escena
+	- **Secuencia**
+		- Serie de eventos (2-5) que culmina con un mayor impacto
+	- **Acto**
+		- Serie de secuencias que culmina con un cambio significativo en la historia
+	- **Historia**
+		- Serie de actos que acaba con un climax que trae consigo un cambio irreversible
+
+La **trama** es la forma en la que se elige estructurar la historia.
+
+(***Triangulo de la trama***)
+
+La **minitrama** y la **antitrama** son suversiones de una trama tradicional, y por esto requieren el dominio del diseño clásico.
+
 ## Puntos Clave
 
 ## Contexto

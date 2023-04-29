@@ -14,7 +14,7 @@ subject:: [[80.00 Escritura MOC]]
 
 started:: 2023-04-13 10:14
 
-finished::
+finished:: 2023-04-26 16:49
 
 
 ## 📚 Libros Relacionados

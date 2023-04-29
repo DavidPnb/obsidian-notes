@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e924591a5b4c9609","x":-105,"y":-101,"width":256,"height":77,"color":"1","type":"text","text":"**Identidad Personal**"},
+		{"id":"bb09c74f3220c58d","x":-380,"y":42,"width":283,"height":98,"color":"4","type":"text","text":"**Propiedades**"},
+		{"id":"ed849250fb62c571","x":100,"y":42,"width":250,"height":60,"color":"4","type":"text","text":"**Teorías**"}
+	],
+	"edges":[
+		{"id":"882abaeae106760b","fromNode":"e924591a5b4c9609","fromSide":"bottom","toNode":"bb09c74f3220c58d","toSide":"top"},
+		{"id":"d1b602a25a435883","fromNode":"e924591a5b4c9609","fromSide":"bottom","toNode":"ed849250fb62c571","toSide":"top"}
+	]
+}
