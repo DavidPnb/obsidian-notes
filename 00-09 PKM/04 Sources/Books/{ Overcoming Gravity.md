@@ -147,6 +147,17 @@ finished::
 		2. Ejercicios de mobilidad
 		3. Ejercicios posicionales (estabilidad)
 		4. Ejercicios y habilidades de bajo nivel (-2)
+3. **Fuerza**
+	1. 2 push-up, 2 pull-up, 2 leg
+	2. Tipos de ejercicios
+		1. **Concéntricos** - Rango completo de movimiento. Requieren más fuerza
+		2. **Isométricos** - Mantienen una posición estatica con el músculo extendido. Requieren menos fuerza que los concéntricos. Se mide el tiempo que se mantiene en la posición
+		3. **Eccéntricos** - Se extiende el músculo a lo largo del movimiento. Suelen ser ejercicios asistidos y requieren menos fuerza que los isométricos. Se miden las repeticiones y el tiempo de cada repetición
+	3. Las cantidad óptima de repeticiones en un set de ejercicios concéntricos es una repetición antes del fallo muscular, con fallo muscular en el último set. Cada ejercicio debe tener un minimo de 3 sets y 15 repeticiones totales. Si el fallo muscular se encuentra en menos de cuatro repeticiones se debe buscar un total de 4-10 reps y reforzar con otros ejercicios. 10 sets por categoria de ejercicio es la cantidad óptima para hipertrofia en principiantes
+	4. Los ejercicios concéntricos asistidos pueden realizarse en caso de llegar al fallo antes de las 4 repeticiones con rango completo
+	5. Los ejercicios isométricos pueden estructurarse de la misma manera que los concéntricos si se toma a una repetición concéntrica como dos segundos de isométricos
+	6. 3s de un ejercicio eccént
+	7. Las repeticiones totales por categoria deben ser 25-50 para fuerza y 40-75+ por hipertrofia 
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa
 ### Recursos de Prehabilitación, Lesiones y Ejercicios

@@ -22,6 +22,7 @@ finished::
 ### Hábitos de Negocios
 1. [[Keystone Habits]]
 2. [[Fuerza de Voluntad]]
+3. Los **hábitos organizacionales** son las rutinas que hacen más eficientes las actividades realizadas por miembros de una organización. Si estos no surgen por medio de acciones deliberadas, inevitablemente se produciran de forma inconciente. Una vez que se han establecido, los hábitos organizacionales son resistentes al cambio. Por esto, los tiempos de crisis son momentos ideales para cambiar la cultura de una organización
 
 ### Hábitos de Sociedades
 
