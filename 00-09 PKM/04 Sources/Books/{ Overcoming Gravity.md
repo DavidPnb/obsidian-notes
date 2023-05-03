@@ -156,7 +156,7 @@ finished::
 	3. Las cantidad óptima de repeticiones en un set de ejercicios concéntricos es una repetición antes del fallo muscular, con fallo muscular en el último set. Cada ejercicio debe tener un minimo de 3 sets y 15 repeticiones totales. Si el fallo muscular se encuentra en menos de cuatro repeticiones se debe buscar un total de 4-10 reps y reforzar con otros ejercicios. 10 sets por categoria de ejercicio es la cantidad óptima para hipertrofia en principiantes
 	4. Los ejercicios concéntricos asistidos pueden realizarse en caso de llegar al fallo antes de las 4 repeticiones con rango completo
 	5. Los ejercicios isométricos pueden estructurarse de la misma manera que los concéntricos si se toma a una repetición concéntrica como dos segundos de isométricos
-	6. 3s de un ejercicio eccént
+	6. 3s de un ejercicio eccéntrico equivale a una repetición concéntrica. Se empieza con 2-3 sets de 2-3 reps de 3-5 s con 3 min de descanso y se progresa a 7-10s y 0 min descanso. En caso de necesitar más volumen se pasa a 3-5 sets y 3-5 reps 
 	7. Las repeticiones totales por categoria deben ser 25-50 para fuerza y 40-75+ por hipertrofia 
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa
