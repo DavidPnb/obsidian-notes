@@ -26,14 +26,12 @@
             "id": "f1dc42ea9dc462ea",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": 935.6101694915255,
-                  "zoom": -2.5248317467239976
-                }
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-05-06.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -66,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-05-06.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -186,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-05-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-05-06.md"
               }
             }
           },
@@ -282,8 +280,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5,
-    "collapsed": true
+    "width": 507.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,23 +302,23 @@
   },
   "active": "f1dc42ea9dc462ea",
   "lastOpenFiles": [
-    "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.md",
-    "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
-    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
+    "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
+    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-05-06.md",
+    "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
+    "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.md",
+    "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
     "30-39 Lenguajes/30 Linguistica/English Grammar.md",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",
     "30-39 Lenguajes/30 Linguistica/30.05 Gramatica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-05-03.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-04-29.md",
-    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
     "00-09 PKM/07 Inbox/+ Unsorted/Como Crear Nuevos Habitos.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/03 Extras/Media/Plot.png",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-04-26.md",
     "00-09 PKM/04 Sources/Books/{ On Writing.md",
-    "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Identidad Personal.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Identidad Personal.canvas",
     "00-09 PKM/04 Sources/Books/{ Think.md",

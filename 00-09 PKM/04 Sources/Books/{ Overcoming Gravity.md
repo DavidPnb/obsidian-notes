@@ -148,16 +148,20 @@ finished::
 		3. Ejercicios posicionales (estabilidad)
 		4. Ejercicios y habilidades de bajo nivel (-2)
 3. **Fuerza**
-	1. 2 push-up, 2 pull-up, 2 leg
-	2. Tipos de ejercicios
+	1. 2 push-up, 2 pull-up, 2 leg. El orden de los ejercicios depende de las prioridades en las metas de entrenamiento
+	2. Las repeticiones totales por categoria deben ser 25-50 para fuerza y 40-75+ por hipertrofia
+	3. Los tiempos de descanso deben ser: 30-90s resistencia, 60-240s hipertrofia, 180-300s fuerza, 180-240s fuerza+hipertrofia
+	4. El tempo estandar para fuerza e hipertrofia es 10x0, aunque 4141 tambien puede ser usado en caso de lesión.
+	5. Se pueden usar **pares de sets** para reducir el tiempo de las rutinas. Consiste en hacer sets sucesivos de ejercicios que involucran a diferentes grupos musculares para reducir el tiempo de descanso a la mitad. No es ideal para fuerza/hipertrofia
+	6. Tipos de ejercicios
 		1. **Concéntricos** - Rango completo de movimiento. Requieren más fuerza
 		2. **Isométricos** - Mantienen una posición estatica con el músculo extendido. Requieren menos fuerza que los concéntricos. Se mide el tiempo que se mantiene en la posición
 		3. **Eccéntricos** - Se extiende el músculo a lo largo del movimiento. Suelen ser ejercicios asistidos y requieren menos fuerza que los isométricos. Se miden las repeticiones y el tiempo de cada repetición
-	3. Las cantidad óptima de repeticiones en un set de ejercicios concéntricos es una repetición antes del fallo muscular, con fallo muscular en el último set. Cada ejercicio debe tener un minimo de 3 sets y 15 repeticiones totales. Si el fallo muscular se encuentra en menos de cuatro repeticiones se debe buscar un total de 4-10 reps y reforzar con otros ejercicios. 10 sets por categoria de ejercicio es la cantidad óptima para hipertrofia en principiantes
-	4. Los ejercicios concéntricos asistidos pueden realizarse en caso de llegar al fallo antes de las 4 repeticiones con rango completo
-	5. Los ejercicios isométricos pueden estructurarse de la misma manera que los concéntricos si se toma a una repetición concéntrica como dos segundos de isométricos
-	6. 3s de un ejercicio eccéntrico equivale a una repetición concéntrica. Se empieza con 2-3 sets de 2-3 reps de 3-5 s con 3 min de descanso y se progresa a 7-10s y 0 min descanso. En caso de necesitar más volumen se pasa a 3-5 sets y 3-5 reps 
-	7. Las repeticiones totales por categoria deben ser 25-50 para fuerza y 40-75+ por hipertrofia 
+	7. Las cantidad óptima de repeticiones en un set de ejercicios concéntricos es una repetición antes del fallo muscular, con fallo muscular en el último set. Cada ejercicio debe tener un minimo de 3 sets y 15 repeticiones totales para lograr el progreso ideal en fuerza e hipertrofia. Si el fallo muscular se encuentra en menos de cuatro repeticiones se debe buscar un total de 4-10 reps y reforzar con otros ejercicios. 10 sets por categoria de ejercicio es la cantidad óptima para hipertrofia en principiantes
+	8. Los ejercicios concéntricos asistidos pueden realizarse en caso de llegar al fallo antes de las 4 repeticiones con rango completo
+	9. 3s de un ejercicio eccéntrico equivale a una repetición concéntrica. Se empieza con 2-3 sets de 2-3 reps de 3-5 s con 3 min de descanso y se progresa a 7-10s y 0 min descanso. En caso de necesitar más volumen se pasa a 3-5 sets y 3-5 reps
+	10. La rutina general para principiantes es: calentamiento, HS y progresiones de  nivel 5-6 de pull-ups, pushups, rows y dips; y core (L-sit 60s total y 3x10 de compresiones)
+	11. Condiciones para terminar una rutina: estar enfermo, mal sueño por varios días seguidos, ardor muscular
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa
 ### Recursos de Prehabilitación, Lesiones y Ejercicios

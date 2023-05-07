@@ -38,6 +38,7 @@ finished::
 5. **Enojo** - Para evitar sentir enojo, debemos evitar pensar mal sobre las otras personas y reflexionar sobre como nuestras emociones negativas pueden empeorar cualquier situación
 6. **Fama** - No debemos buscar la aprobación de personas que no comparten nuestros valores, ya que al hacerlo, estaremos conformandonos a sus estandares
 7. **Riqueza** - Al igual que con la fama, apegarse a la riqueza puede hacernos infelices, ya que esta puede limitar nuestra capacidad para disfrutar nuestra vida
+8. **Vejez** - La vejez nos motiva a reflexionar sobre la forma en que vivimos y puede hacer que abandonemos nuestros vicios
 ### Estoicismo para Vidas Modernas
 
 ## Puntos Clave
