@@ -280,7 +280,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 507.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,13 +298,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "f1dc42ea9dc462ea",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-05-06.md",
+    "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-05-07.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-05-06.md",
     "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
@@ -314,7 +317,6 @@
     "30-39 Lenguajes/30 Linguistica/30.05 Gramatica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-05-03.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-04-29.md",
-    "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
     "00-09 PKM/07 Inbox/+ Unsorted/Como Crear Nuevos Habitos.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/03 Extras/Media/Plot.png",
