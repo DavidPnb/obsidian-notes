@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cf1d5ac8a252d78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-05-09.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-05-09.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-05-09.md"
+                "file": "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md"
               }
             }
           },
@@ -301,10 +314,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f1dc42ea9dc462ea",
+  "active": "6cf1d5ac8a252d78",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-05-07.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-05-09.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-05-07.md",
     "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-05-06.md",
     "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",

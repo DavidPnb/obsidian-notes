@@ -39,6 +39,8 @@ finished::
 6. **Fama** - No debemos buscar la aprobación de personas que no comparten nuestros valores, ya que al hacerlo, estaremos conformandonos a sus estandares
 7. **Riqueza** - Al igual que con la fama, apegarse a la riqueza puede hacernos infelices, ya que esta puede limitar nuestra capacidad para disfrutar nuestra vida
 8. **Vejez** - La vejez nos motiva a reflexionar sobre la forma en que vivimos y puede hacer que abandonemos nuestros vicios
+9. **Muerte** - Los estoicos afirman que el temor a la muerte suele ser producto de un miedo a haber desperdiciado nuestra vida. Este miedo se evita cuando se encuentran valores a los que valga la pena dedicarnos
+10. **Filosofía de Vida** - El esfuerzo que invertimos en una filosofía de vida es menor al que una persona tendría que aplicar al vivir sin esta
 ### Estoicismo para Vidas Modernas
 
 ## Puntos Clave
