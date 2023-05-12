@@ -26,6 +26,8 @@ finished::
 4. La mayor parte de nuestros hábitos se mantienen constantes, pero eventos importantes en nuestra vida pueden hacer que estos cambien. Para que nuevos hábitos pueden incorporarse de manera efectiva, se les debe agregar un sentido de familiaridad, mezclandolos con los hábitos que ya han sido formados
 
 ### Hábitos de Sociedades
+1. Los **hábitos sociales** se forman en comunidades y son los detonantes principales de los grandes movimientos sociales. Se forman a través de comportamientos que surgen entre grupos de amigos cercanos y conocidos en una comunidad
+
 
 ## Puntos Clave
 - [[Habit Loop]]

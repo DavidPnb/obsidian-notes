@@ -17,13 +17,15 @@ up:: [[60.00 Fitness]]
 - Hombros
 
 ## Ejercicios
-- Frog Stand
-- Diamond PU
-- Tuck BL
-- L-Sit
+- Frog Stand 5s max - 6x4s
+- Diamond PU 10 max - 3x9
+- Pull-ups Eccentrics - 3x(3x3s)
+- OLB L-sit 15s max - 5x10s
+- Cossack Squat 17 max - 3x16
+- Chair Lunge W 15 max - 3x14
+
 
 ## Habilidades
 - Wall HS
 - German Hang
-- Skin the Cat
 ___
