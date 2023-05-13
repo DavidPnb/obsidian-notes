@@ -12,8 +12,7 @@ Blaise Pascal intenta justificar la creencia en Dios desde el punto de vista del
 Esta dice que si la creencia en Dios resulta en recompensa eterna si es correcta, y no ofrece nada si es falsa; y la no creencia en Dios no ofrece nada si es verdadera, y resulta en castigo eterno si es falsa, entonces creer en la existencia de Dios es la mejor opción.
 
 ## Objeciones
-- Es imposible saber de antemano la cantidad de escenarios con respecto a la existencia de Dios;por lo tanto, la apuesta de Pascal es incorrecta en el sentido probabilistico
-- La religión cristiana no es la unica religión posible
+- Es imposible saber de antemano la cantidad de escenarios con respecto a la existencia de Dios. La indeterminada cantidad de escenarios vuelve a la apuesta de Pascal incorrecta en el sentido probabilistico
 - La creencia en Dios si puede ser perjudicial en caso de ser falsa; [[Responsabilidad Epistemica]]
 - El fideismo afirma que la creencia religiosa debe provenir de la fe ciega
 	- Si la fe es la base para cualquier creencia, entonces todas la creencias son igual de validas

@@ -15,12 +15,19 @@ Se diferencia de la Teologia en que la Teologia supone desde un principio la exi
 ## Naturaleza de Dios
 [[Atributos Divinos]]
 
-## Argumentos a Favor de la Existencia de Dios
+## Existencia de Dios
+### A Favor
 - [[Argumento Ontologico]]
 - [[Cinco Vias]]
-- [[Apuesta de Pascal]]
+- [[Diseño Inteligente]]
 
-## Argumentos en Contra de la Existencia de Dios
+### En Contra
 - [[Problema de la Maldad]]
 
+## Creencia en Dios
+### A Favor
+- [[Apuesta de Pascal]]
+
+### En Contra
+- [[Responsabilidad Epistemica]]
 ___

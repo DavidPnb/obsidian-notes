@@ -15,6 +15,7 @@ up:: [[60.00 Fitness]]
 - Rodillas
 - Caderas
 - Hombros
+- Muslos
 
 ## Ejercicios
 - Frog Stand 5s max - 6x4s

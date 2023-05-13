@@ -64,6 +64,11 @@ La **trama** es la forma en la que se elige estructurar la historia.
 
 La **minitrama** y la **antitrama** son suversiones de una trama tradicional, y por esto requieren el dominio del diseño clásico.
 
+#### Estructura y Ambientación
+La **Ambientación** esta compuesta de cuatro dimensiones.
+- **Periodo** - Es la época en la que transcurre la historia
+- **Duración** - El tiempo que dura la historia
+
 ## Puntos Clave
 
 ## Contexto
