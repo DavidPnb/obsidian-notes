@@ -68,6 +68,11 @@ La **minitrama** y la **antitrama** son suversiones de una trama tradicional, y 
 La **Ambientación** esta compuesta de cuatro dimensiones.
 - **Periodo** - Es la época en la que transcurre la historia
 - **Duración** - El tiempo que dura la historia
+- **Alcance** - El rango del conflicto narrativo. Puede ser individual, social, globlal.
+
+La ambientación limita las posibilidades del mundo ficticio y provee una lógica interna que este mundo debe seguir. El grado de rigurosidad de la lógica interna depende del género y determina la estructura narrativa. Suele ser menor en historias realistas y mayor en historias de fantasía.
+
+Las **decisiones creativas** son las elecciones de inclusión y exclusión relacionadas con la historia. Un **Worldbuilding** minimalista lleva a un mundo más detallado, lo que influencia positivamente nuestras decisiones creativas. Los detalles del mundo son inspirados por información que encontramos en nuestra vida, incluyendo recuerdos, imaginación y hechos.
 
 ## Puntos Clave
 

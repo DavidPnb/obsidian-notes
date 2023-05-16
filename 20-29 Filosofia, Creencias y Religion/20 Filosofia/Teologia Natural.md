@@ -10,7 +10,7 @@ Links:
 # Teologia Natural
 Es el estudio de un Ser Maximo, fundamento de todo lo real. Tambien se la conoce como Filosofia de la Religion y es una de las ramas mas vivas de la filosofia actual.
 
-Se diferencia de la Teologia en que la Teologia supone desde un principio la existencia de Dios, mientras que la filosofia no puede basarse en fe y debe estar respaldada con argumentos
+Se diferencia de la Teologia convencional en que la Teologia supone desde un principio la existencia de Dios, mientras que la filosofia no puede basarse en fe y debe estar respaldada con argumentos.
 
 ## Naturaleza de Dios
 [[Atributos Divinos]]
@@ -20,6 +20,7 @@ Se diferencia de la Teologia en que la Teologia supone desde un principio la exi
 - [[Argumento Ontologico]]
 - [[Cinco Vias]]
 - [[Diseño Inteligente]]
+- [[]]
 
 ### En Contra
 - [[Problema de la Maldad]]
