@@ -74,6 +74,8 @@ La ambientación limita las posibilidades del mundo ficticio y provee una lógic
 
 Las **decisiones creativas** son las elecciones de inclusión y exclusión relacionadas con la historia. Un **Worldbuilding** minimalista lleva a un mundo más detallado, lo que influencia positivamente nuestras decisiones creativas. Los detalles del mundo son inspirados por información que encontramos en nuestra vida, incluyendo recuerdos, imaginación y hechos.
 
+Un falta de dominio de la ambientación nos hace propensos a cometer agujeros de guión, y en la mayoría de los casos nos obliga a buscar ideas en historias con ambientación similar. Por esta razón, tener una buena ambientación evita que caigamos en clichés.
+
 ## Puntos Clave
 
 ## Contexto
