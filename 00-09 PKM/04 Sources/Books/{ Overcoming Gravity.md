@@ -162,6 +162,26 @@ finished::
 	9. 3s de un ejercicio eccéntrico equivale a una repetición concéntrica. Se empieza con 2-3 sets de 2-3 reps de 3-5 s con 3 min de descanso y se progresa a 7-10s y 0 min descanso. En caso de necesitar más volumen se pasa a 3-5 sets y 3-5 reps
 	10. La rutina general para principiantes es: calentamiento, HS y progresiones de  nivel 5-6 de pull-ups, pushups, rows y dips; y core (L-sit 60s total y 3x10 de compresiones)
 	11. Condiciones para terminar una rutina: estar enfermo, mal sueño por varios días seguidos, ardor muscular
+4. **Métodos de Progresión**
+	1. **Intra-Ejercicio** - Progreso en un ejercicio particular
+		1. **Linear** - Aumento linear en peso
+		2. **Repeticiones Lineares** - Aumento linear en el número de repeticiones
+		3. **Adición de Repeticiones** - Aumento linear de repeticiones set por set. Progreso Lento
+		4. **Fallo en el Último Set** - Un aumento linear en el número de repeticiones en el último set con respecto al primero (2+) lleva a un aumento linear proporcional en el número de repeticiones
+		5. **Set Adicional** - Efectivo en ejercicios pull
+		6. **Pausa de Descanso** - Descanso breve luego de llegar al fallo muscular, lo que permite llegar al objetivo de repeticiones de un set
+		7. **Densidad** - Disminución progresiva del tiempo de descanso
+		8. **Cambio de Tempo** - Aumento lineal en el tempo de una parte del ejercicio, generalmente la parte eccéntrica
+		9. **GTG** - 6-10+ sets subóptimos diarios dispersos a lo largo del día a 60-80% max repeticiones. Implica la eliminación de otros ejercicios que involucran el mismo grupo muscular. No es efectivo para PL
+	2. **Inter-Ejercicio** - Entre un ejercicio y otro en una progresión
+		1. **Peso** - Uso de pesas en el ejercicio previo
+		2. **Asistencia** - Asistencia en el ejercicio posterior
+		3. **Excéntricos** - Ejercicio excéntrico en lugar de un ejercicio concéntrico posterior. 3x10s excéntricos generalmente equivalen a una repetición concéntrica
+		4. **Rango de Movimiento** - Aumentar el rango de movimiento del ejercicio previo
+		5. **Sets Adicionales con Descanso Reducido** - Aumenta el volumen del ejercicio previo
+		6. **Sets Híbridos** - Aumento progresivo de repeticiones del ejercicio posterior + disminución de repeticiones del ejercicio previo 
+		7. **Sets Híbridos con Excéntricos** - Aumento progresivo de repeticiones del ejercicio concéntrico + disminución de repeticiones del ejercicio excéntrico
+		8. **Sets Híbridos Simples** - Separa los sets del ejercicio posterior con los de soporte y aumenta el número de sets con el ejercicio posterior hasta que es posible aumentar el número de repeticiones
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa
 ### Recursos de Prehabilitación, Lesiones y Ejercicios
