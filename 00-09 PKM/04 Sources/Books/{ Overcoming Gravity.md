@@ -177,11 +177,16 @@ finished::
 		1. **Peso** - Uso de pesas en el ejercicio previo
 		2. **Asistencia** - Asistencia en el ejercicio posterior
 		3. **Excéntricos** - Ejercicio excéntrico en lugar de un ejercicio concéntrico posterior. 3x10s excéntricos generalmente equivalen a una repetición concéntrica
-		4. **Rango de Movimiento** - Aumentar el rango de movimiento del ejercicio previo
-		5. **Sets Adicionales con Descanso Reducido** - Aumenta el volumen del ejercicio previo
-		6. **Sets Híbridos** - Aumento progresivo de repeticiones del ejercicio posterior + disminución de repeticiones del ejercicio previo 
-		7. **Sets Híbridos con Excéntricos** - Aumento progresivo de repeticiones del ejercicio concéntrico + disminución de repeticiones del ejercicio excéntrico
-		8. **Sets Híbridos Simples** - Separa los sets del ejercicio posterior con los de soporte y aumenta el número de sets con el ejercicio posterior hasta que es posible aumentar el número de repeticiones
+		4. **Sets Adicionales con Descanso Reducido** - Aumenta el volumen del ejercicio previo
+		5. **Sets Híbridos** - Aumento progresivo de repeticiones del ejercicio posterior + disminución de repeticiones del ejercicio previo 
+		6. **Sets Híbridos con Excéntricos** - Aumento progresivo de repeticiones del ejercicio concéntrico + disminución de repeticiones del ejercicio excéntrico
+		7. **Sets Híbridos Simples** - Separa los sets del ejercicio posterior con los de soporte y aumenta el número de sets con el ejercicio posterior hasta que es posible aumentar el número de repeticiones
+	3. **Periodización**
+		1. **Acumulación e Intensificación** - Semana enfocada en hipertrofia (60-85% 1 RM (4-6)x(8-12) 2-4 min descanso), seguida de semana enfocada en fuerza (80-100% 1 RM (3-8+)x(1-6) 3-5+ min descanso)
+		2. **Light/Heavy** - Día de hipertrofia, día de fuerza.
+		3. **DUP** - Hipertrofia (3x10), Hipertrofia/Fuerza (3x7), Fuerza (5x3). Avanzado
+		4. **Concurrente** - H/M/L, L/H/M, M/L/H
+		5. **Conjugado** - Ejercicio Principal (H Intensidad, H Frecuencia, H Volumen) + Ejercicios Secundarios (L-M Intensidad, L-M Frecuencia, L-M Volumen)
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa
 ### Recursos de Prehabilitación, Lesiones y Ejercicios
