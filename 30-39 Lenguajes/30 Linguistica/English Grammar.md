@@ -114,4 +114,10 @@ The **complement** is the part of the predicate that is not a verb or adverb. If
 To complete their meaning, some action verbs require an additional complement following their objects. This additional complement is called an **objective complement** because it refers to the object; it may be a noun or an adjective. 
 
 Complements that refer to (describe, explain, or identify) the subject are **subject complements**. A **predicate nominative** is a noun or pronoun complement that refers to the same person or thing as the subject of the verb. A **predicate adjective** is an adjective complement that modifies the subject of the verb. The subject complement always follows a linking verb.
+
+## Phrases
+Group of words that together have a meaning beyond the literal sense.
+
+### Prepositional
+**Prepositional phrases** start with a preposition and usually end with a noun or pronoun. They can be used as adjectives or adverbs. These are **adjective phrases** and **adverb phrases** respectively.
 ___

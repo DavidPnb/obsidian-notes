@@ -29,7 +29,4 @@ De aqui derivan las formas *a priori* que son las propiedades del intelecto que 
 
 Es decir, que todo lo que se conoce proviene en parte del objeto conocido, pero al mismo tiempo se alimenta de la estructura de la inteligencia que conoce, relacionando asi las dos corrientes de Descartes y Hume en una sola idea, el criticismo. De aqui que el conocimiento sobre algo es el resultado de lo que ya se sabe sobre ese objeto empleando la razon, y lo que se conoce luego a traves de la experiencia.
 
-## El Conocimiento en Kant
-[[Teoria del Conocimiento de Kant]]
-
 ___

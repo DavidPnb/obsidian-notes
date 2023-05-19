@@ -76,6 +76,12 @@ Las **decisiones creativas** son las elecciones de inclusión y exclusión relac
 
 Un falta de dominio de la ambientación nos hace propensos a cometer agujeros de guión, y en la mayoría de los casos nos obliga a buscar ideas en historias con ambientación similar. Por esta razón, tener una buena ambientación evita que caigamos en clichés.
 
+#### Estructura y Género
+Las historias que son similares pertenecen a un mismo **género**. La audiencia espera familiaridad de un género, pero tambien espera que superen sus espectativas. Los géneros pueden mezclarse y tambien pueden evolucionar con el paso del tiempo debido a cambios en la sociedad.
+
+
+
+
 ## Puntos Clave
 
 ## Contexto
