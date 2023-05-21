@@ -190,7 +190,11 @@ finished::
 5. **Prehabilitación, Aislamiento y Flexibilidad**
 	1. La **prehabilitación** son ejercicios enfocados en la prevención de lesiones. La **rehabilitación** esta enfocada en la recuperación despues de una lesión
 	2. El **aislamiento** de un músculo puede enfocarse en la prehabilitación, fuerza o la hipertrofia
-	3. La **flexibilidad** se enfoca en aumentar el rango de movimiento de una articulación
+	3. La **flexibilidad** se enfoca en aumentar el rango de movimiento de una articulación. Requiere de relajación y depende de una incomodidad en lugar de dolor en la articulación
+		1. **Estatico** - 3x30-60s
+	4. La **mobilidad** es actividad física en el rango de movimiento existente
+6. **Planeación de Mesociclo**
+	1. 
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa
 ### Recursos de Prehabilitación, Lesiones y Ejercicios
