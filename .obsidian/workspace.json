@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md"
               }
             }
           },
@@ -306,11 +306,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "a3c2026c27844224",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Story.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.05 Epistemologia.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Criticismo.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Empirismo.md",
@@ -335,7 +337,6 @@
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.01 Logica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Induccion.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Razonamiento Deductivo.md",
-    "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-05-15.md",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",

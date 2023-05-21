@@ -187,6 +187,7 @@ finished::
 		3. **DUP** - Hipertrofia (3x10), Hipertrofia/Fuerza (3x7), Fuerza (5x3). Avanzado
 		4. **Concurrente** - H/M/L, L/H/M, M/L/H
 		5. **Conjugado** - Ejercicio Principal (H Intensidad, H Frecuencia, H Volumen) + Ejercicios Secundarios (L-M Intensidad, L-M Frecuencia, L-M Volumen)
+5. **Prehabilitación, Aislamiento y Flexibilidad**
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa
 ### Recursos de Prehabilitación, Lesiones y Ejercicios

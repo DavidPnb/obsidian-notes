@@ -79,8 +79,36 @@ Un falta de dominio de la ambientación nos hace propensos a cometer agujeros de
 #### Estructura y Género
 Las historias que son similares pertenecen a un mismo **género**. La audiencia espera familiaridad de un género, pero tambien espera que superen sus espectativas. Los géneros pueden mezclarse y tambien pueden evolucionar con el paso del tiempo debido a cambios en la sociedad.
 
+- **Categorias Prácticas**
+	- **Géneros**
+		- **Romance-Bromance**
+		- **Horror**
+		- **Épica Moderna**
+		- **Western**
+		- **Guerra**
+		- **Madurez**
+		- **Redención**
+		- **Punitivo**
+		- **Perseverancia**
+		- **Reflexión**
+		- **Desilusión**
+	- **Mega-géneros**
+		- **Comedia**
+		- **Crimen**
+		- **Drama Social**
+		- **Acción/Aventura**
+	- **Supra-géneros**
+		- **Drama Historico**
+		- **Biografía**
+		- **Docu-drama**
+		- **Falso Documental**
+		- **Musical**
+		- **Ciencia Ficción**
+		- **Deportes**
+		- **Fantasía**
+		- **Art**
 
-
+Las **convenciones de género** son ambientaciones, valores, roles y eventos que definen a un género determinado. Las convenciones son las que definen las limitaciones creativas de un género, y su estudio lleva al dominio de ese género particular.
 
 ## Puntos Clave
 
