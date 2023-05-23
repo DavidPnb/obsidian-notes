@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Objetivos de Entrenamiento.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Objetivos de Entrenamiento.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Objetivos de Entrenamiento.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md"
               }
             }
           },
@@ -301,8 +301,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5,
-    "collapsed": true
+    "width": 507.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,12 +318,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "359cde9fd4c23dd9",
+  "active": "a3c2026c27844224",
   "lastOpenFiles": [
+    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Objetivos de Entrenamiento.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Abduccion.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
@@ -336,7 +335,6 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2023-05-18.md",
     "30-39 Lenguajes/30 Linguistica/English Grammar.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-05-17.md",
-    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Objetivos de Entrenamiento.md",
     "00-09 PKM/04 Sources/Books/{ The Power of Habit.md",
     "40-49 Ciencias/40 Matematicas/40.01 Logica Matematica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-05-16.md",

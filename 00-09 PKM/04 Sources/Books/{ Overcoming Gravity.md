@@ -194,7 +194,15 @@ finished::
 		1. **Estatico** - 3x30-60s
 	4. La **mobilidad** es actividad física en el rango de movimiento existente
 6. **Planeación de Mesociclo**
-	1. 
+	1. **Intra-mesociclo**
+		1. **Principiantes** - 15-20 reps - Repeticiones Lineares, Progresiones Lineares ->Progresiones Simples - Una semana sin progresión, Dolor en las articulaciones
+		2. **Intermedio** - Extra Workout - Acumulación e Intensificación, Light/Heavy - 4 semanas sin progresión, Dolor en las articulaciones
+		3. **Avanzado** - Extra Workout - DUP, Set híbridos, Aumentar dificultad cada dos semanas - 4 semanas sin progresión, Dolor en las articulaciones
+	2. **Inter-mesociclo**
+		1. **Deload** - Reducir frecuencia, volumen, intensidad
+			1. 1 o 2 días de entrenamiento, un ejercicio por grupo muscular, 3 sets, fallo en el último set
+		2. **Prueba de Fuerza Máxima** - 2 días antes del siguiente ciclo: Calentamiento con progresiones inferiores del ejercicio -> Calentamiento con bajas repeticiones del ejercicio -> 3-5 min descanso -> Prueba máxima
+		3. 
 ### Factores que Influencian el Entrenamiento
 ### Implementación de Programa
 ### Recursos de Prehabilitación, Lesiones y Ejercicios
