@@ -204,6 +204,8 @@ finished::
 		2. **Prueba de Fuerza Máxima** - 2 días antes del siguiente ciclo: Calentamiento con progresiones inferiores del ejercicio -> Calentamiento con bajas repeticiones del ejercicio -> 3-5 min descanso -> Prueba máxima
 		3. 
 ### Factores que Influencian el Entrenamiento
+1. **Cardio y Resistencia**
+	1. La **resistencia** es un término que engloba los ejercicios realizados en altas repeticiones. Puede usarse para mejorar la eficiencia con la que el cuerpo provee a los músculos de energía
 ### Implementación de Programa
 ### Recursos de Prehabilitación, Lesiones y Ejercicios
 
