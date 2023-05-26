@@ -206,6 +206,15 @@ finished::
 ### Factores que Influencian el Entrenamiento
 1. **Cardio y Resistencia**
 	1. La **resistencia** es un término que engloba los ejercicios realizados en altas repeticiones. Puede usarse para mejorar la eficiencia con la que el cuerpo provee a los músculos de energía
+2. **Sobreentramiento**
+	1. La fatiga que se acumula en el sistema nervioso central puede provocar un estancamiento en el progreso en las rutinas. Una fatiga prolongada acaba resultando en una regresión en nuestras habilidades, que esta acompañada por otros sintomas perjudiciales para la salud
+	2. El **REP** (*tasa de esfuerzo percibido*) es una escala de 1 a 10 que evalua la intensidad de cada ejercicio y es usada para emplear progresiones y descansos de manera más adecuada
+3. **Salud y Recuperación**
+	1. El **ardor** en el músculo es provocado por una acumulación de *ácido láctico* debido al consumo de oxígeno. El **dolor** es una señal neurológica que suele indicar problemas en nuestro cuerpo
+	2. Factores que influencian el desarrollo de lesiones
+		1. **Postura**
+		2. **Biomecánica**
+		3. **Mobilidad**
 ### Implementación de Programa
 ### Recursos de Prehabilitación, Lesiones y Ejercicios
 
