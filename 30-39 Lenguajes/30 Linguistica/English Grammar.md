@@ -120,4 +120,11 @@ Group of words that together have a meaning beyond the literal sense.
 
 ### Prepositional
 **Prepositional phrases** start with a preposition and usually end with a noun or pronoun. They can be used as adjectives or adverbs. These are **adjective phrases** and **adverb phrases** respectively.
+
+### Verbal
+**Verbals** are verbs used as a different part of speech inside a sentence.
+
+**Infinitives** are verbals preceded by the helping verb *to* and can be used as several parts of speech. **Gerunds** are verbals that end with *-ing* and are used as nouns. **Participial** are verbals used as adjectives.
+
+**Verbal phrases** start with a verbal.
 ___
