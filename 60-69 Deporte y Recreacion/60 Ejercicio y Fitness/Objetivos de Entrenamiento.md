@@ -9,6 +9,16 @@ up:: [[60.00 Fitness]]
 - Core - Free HS - Wall Str Press Ecc 15
 - Leg - 1.2X BW Pistol 15 - SL Lunge 15
 
+## Calentamiento
+10-20 Burpees
+15 Wrist Circles, Shoulder Circles, Bodyweight Squats
+60s Support
+5 Skin the Cat
+30-60s Plank, Side Plank, Reverse Plank
+
+## Skills
+5-10 min HS
+
 ## Prehab
 - Postura
 - Muñecas
@@ -19,12 +29,12 @@ up:: [[60.00 Fitness]]
 - Columna
 
 ## Ejercicios
-- Frog Stand 5s max - 6x4s
-- Diamond PU 10 max - 3x9
+- Frog Stand 5s max - 6x4s->30s
+- Diamond PU 10 max - 3x9->20
 - Pull-ups Eccentrics - 3x(3x3s)
-- OLB L-sit 15s max - 5x10s
-- Cossack Squat 17 max - 3x16
-- Chair Lunge W 15 max - 3x14
+- OLB L-sit 15s max - 5x10s->30s
+- Cossack Squat 17 max - 3x16->20
+- Chair Lunge W 15 max - 3x14->20
 
 
 ## Habilidades

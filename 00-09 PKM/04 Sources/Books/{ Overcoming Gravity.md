@@ -216,6 +216,8 @@ finished::
 		2. **Biomecánica**
 		3. **Mobilidad**
 	3. Las lesiones que no son críticas pueden ser rehabilitadas usando ejercicios de baja intensidad en altas repeticiones. Entrenar normalmente las zonas que no son afectadas por la lesión contribuye a la salud de todo el cuerpo
+4. **Estilo de Vida**
+	1. 1.5g de proteina por kilogramo de peso corporal
 ### Implementación de Programa
 ### Recursos de Prehabilitación, Lesiones y Ejercicios
 
