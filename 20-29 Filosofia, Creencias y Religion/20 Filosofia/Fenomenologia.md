@@ -4,7 +4,7 @@ references:
 created: 2022-08-03 12:50
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 Links: 
 # Fenomenologia
 Es un movimiento filosofico del siglo XX desarrollado por Edmund Husserl, que describe la experiencia tal como se presenta a la conciencia, sin recurrir a teoría o conocimientos previos.

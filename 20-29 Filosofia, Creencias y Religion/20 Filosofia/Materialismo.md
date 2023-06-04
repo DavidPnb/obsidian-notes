@@ -4,7 +4,7 @@ references:
 created: 2022-07-27 16:58
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 Links: 
 # Materialismo
 El materialismo es una teoria epistemologica opuesta al [[Idealismo]]. Esta afirma que todo, incluyendo los procesos mentales, puede ser explicado por fenomenos materiales.

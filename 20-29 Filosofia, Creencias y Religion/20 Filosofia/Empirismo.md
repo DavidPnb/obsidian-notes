@@ -4,7 +4,7 @@ references:
 created: 2022-07-12 16:02
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 # Empirismo
 Una corriente que surge en respuesta al [[Racionalismo]] es el Empirismo. Uno de sus mayores exponentes fue John Locke, filosofo del siglo XX que pensaba que el ser humano nace sin conocimiento, y en su lugar todo nuestro conocimiento viene de datos sensibles.
 

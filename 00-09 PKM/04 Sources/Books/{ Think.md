@@ -14,7 +14,7 @@ subject:: [[20.00 Filosofia MOC]]
 
 started:: 2022-12-21 10:52
 
-finished::
+finished:: 2023-6-3
 
 ## 🔍 Como lo Descubri
 [[Susan Rigetti]] https://www.susanrigetti.com/philosophy
@@ -33,9 +33,13 @@ finished::
 ### Ser
 [[Identidad Personal]]
 ### Dios
+[[Teologia Natural]]
 ### Razonamiento
+[[Logica]]
 ### El Mundo
+[[Epistemologia]]
 ### Que Hacer
+[[20.04 Etica|Etica]]
 
 ## Puntos Clave
 

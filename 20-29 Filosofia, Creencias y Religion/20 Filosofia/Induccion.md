@@ -1,5 +1,5 @@
 tags:: #on/philosophy 
-up:: [[20.01 Logica]]
+up:: [[Logica]]
 # Induccion
 Consiste en usar las experiencias pasadas para hacer predicciones futuras. 
 

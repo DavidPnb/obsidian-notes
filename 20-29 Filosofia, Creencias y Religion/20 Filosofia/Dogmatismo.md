@@ -4,7 +4,7 @@ references:
 created: 2022-05-28 18:56
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 # Dogmatismo
 Segun Fraille (1976), para esta corriente resulta comprensible que el sujeto aprenda su objeto, se fundamenta en una confianza en la razon humana que no es debilitada por la duda. El Dogmatismo supone absolutamente la posibilidad y realidad del contacto entre el sujeto y el objeto. Para Kant, el Dogmatismo es la actitud de quien estudia la [[20.06 Metafisica]] sin conocer el alcance de la razon humana para tal estudio.
 

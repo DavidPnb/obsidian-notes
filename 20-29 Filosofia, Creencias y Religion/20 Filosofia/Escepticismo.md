@@ -4,7 +4,7 @@ references:
 created: 2022-05-31 18:49
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 Links: 
 # Escepticismo
 Segun Urdanoz (1991), escepticismo en griego significa examinar, en la filosofia occidental se entiende como una doctrina que niega la capacidad de obtener conocimiento de la realidad, como es en si misma, fuera de la percepcion humana. Por extension gradual del significado, escepticismo tambien significa dudar de lo que es generalmente aceptado como verdad.

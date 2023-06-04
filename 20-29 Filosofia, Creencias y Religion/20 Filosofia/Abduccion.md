@@ -2,7 +2,7 @@
 created: 2022-09-24 10:45
 ---
 tags:: #on/philosophy 
-up:: [[20.01 Logica]]
+up:: [[Logica]]
 # Abducción
 Consiste en sacar conclusiones basadas en la mejor explicación para la evidencia disponible. Este tipo de razonamiento esta basado en probabilidad y estadistica.
 

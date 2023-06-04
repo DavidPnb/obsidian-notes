@@ -127,4 +127,15 @@ Group of words that together have a meaning beyond the literal sense.
 **Infinitives** are verbals preceded by the helping verb *to* and can be used as several parts of speech. **Gerunds** are verbals that end with *-ing* and are used as nouns. **Participial** are verbals used as adjectives.
 
 **Verbal phrases** start with a verbal.
+
+## Clauses
+Groups of words containing a subject and a predicate and used as a part of speech.
+
+###  Independent
+**Independent clauses** make sense without the context of their sentence.
+
+### Subordinate
+**Subordinate clauses** cannot stand alone as sentences. Depending on their function, they are classified as **adjective clauses, **noun clauses**, and **adverb clauses**.
+
+**Relative pronouns** are pronouns that begin subordinate clauses. They are **definite pronouns** if they refer to a previously used noun, otherwise, they are **indefinite pronouns**.
 ___

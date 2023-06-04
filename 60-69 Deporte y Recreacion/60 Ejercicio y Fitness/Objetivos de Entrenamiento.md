@@ -29,11 +29,11 @@ up:: [[60.00 Fitness]]
 - Columna
 
 ## Ejercicios
-- Frog Stand 5s max - 6x8s->30s
-- Diamond PU 10 max - 3x11->20
-- Pull-ups Eccentrics - 3x(3x6s)
-- OLB L-sit 15s max - 5x12s->30s
-- Cossack Squat 17 max - 3x17->20
-- Chair Lunge W 15 max - 3x15->20
+- Frog Stand 5s max - 6x10s->30s
+- Diamond PU 10 max - 3x12->20
+- Pull-ups Eccentrics - 3x(3x6s) 1 min
+- OLB L-sit 15s max - 5x14s->30s
+- Cossack Squat 17 max - 3x18->20
+- Chair Lunge W 15 max - 3x16->20
 
 ___

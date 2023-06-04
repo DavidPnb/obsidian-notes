@@ -4,7 +4,7 @@ references:
 created: 2022-06-15 18:21
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 Links: 
 # Criticismo
 Existe una tercera postura que resolveria la antitesis [[Dogmatismo]] - [[Escepticismo]] en una sintesis. Esta postura intermedia recibe el nombre de criticismo. al igual que el [[Dogmatismo]], el criticismo admite una confianza fundamental en la razon humana. El criticismo esta convencido de que es posible el [[Conocimiento]]. Pero mientras que tal confianza conduce al [[Dogmatismo]], el criticismo pone, junto a la confianza general en el conocimiento humano, una desconfianza hacia cada conocimiento particular, acercandose por esto al [[Escepticismo]]. 

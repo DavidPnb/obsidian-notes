@@ -1,5 +1,5 @@
 tags:: #on/philosophy 
-up:: [[20.01 Logica]]
+up:: [[Logica]]
 # Razonamiento Deductivo
 ## Terminología
 -  Un argumento es **válido** solo si la veracidad de las premisas garantizan la veracidad de la conclusión

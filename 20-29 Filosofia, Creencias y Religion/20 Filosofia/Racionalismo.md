@@ -4,7 +4,7 @@ references:
 created: 2022-07-08 17:56
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 Links: 
 # Racionalismo
 Es una teoria epistemologica que afirma que el conocimiento se origina en la razon humana. Platon sostuvo esta idea, al describir al conocimiento verdadero como algo universal y separado de lo material; [[Teoria del Conocimiento de Platon]]. Sin embargo, el Racionalismo generalmente se asocia con Rene Descartes, filosofo y matematico frances, que sostenia que mediante la razon se podian obtener verdades universales de las que derivaban todas las ciencias.

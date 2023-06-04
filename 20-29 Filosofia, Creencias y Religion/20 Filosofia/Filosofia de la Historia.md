@@ -10,6 +10,6 @@ Links:
 Es una rama de la [[20.00 Filosofia MOC|Filosofia]]. Esta consiste de dos dimensiones diferentes
 - La dimension [[20.06 Metafisica]]
 	- Estudia la temporalidad y el comportamiento general de la historia
-- La dimension Epistemologica; [[20.05 Epistemologia]]
+- La dimension Epistemologica; [[Epistemologia]]
 	- Estudia la relacion que tiene la Historia con el conocimiento humano; [[Conocimiento]]
 ___

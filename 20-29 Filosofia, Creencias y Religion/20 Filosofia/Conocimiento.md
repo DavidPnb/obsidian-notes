@@ -4,7 +4,7 @@ references:
 created: 2022-04-29 16:48
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 Links: [[{ Teoria del Conocimiento]]
 # Conocimiento
 He aqui uno de los mas grandes temas de la filosofia de todos los tiempos: aclarar en que consiste el acto de conocer, cual es la esencia del conocimiento; cual es la relacion cognoscitiva entre el hombre y las cosas que lo rodean. A pesar de que es una operacion cotidiana no hay un acuerdo acerca de lo que sucede cuando se conoce algo. La definicion mas sencilla es que ***conocer consiste en obtener informacion acerca de un objeto***.
@@ -25,7 +25,7 @@ La definicion clasica de saber es la de una creencia verdadera justificada. En e
 	- En segundo lugar se tiene el conocimiento conceptual, que consiste en representaciones invisibles, inmateriales, pero universales y esenciales.
 		- La principal diferencia entre el nivel sensible y el conceptual reside en la individualidad y universalidad que caracteriza, respectivamente, a estos dos tipos de conocimiento
 	- Este conocimiento conceptual es simbolico y discursivo, el conocer se expresa en simbolos mentales verbales escritos o pensados. Todo conocer es discursivo, aun el sensible, pues este inmediatamente se expresa en simbolos para poder comunicarse
-		- Es aqui cuando se habla de conocimiento objetivo, cuando se llega a la consistencia verbal. El sujeto ha conocido al objeto y se expresa en [[lenguaje]] compartible con los demas. Orientado por la razon, la [[20.01 Logica]] humana y el sentido comun
+		- Es aqui cuando se habla de conocimiento objetivo, cuando se llega a la consistencia verbal. El sujeto ha conocido al objeto y se expresa en [[lenguaje]] compartible con los demas. Orientado por la razon, la [[Logica]] humana y el sentido comun
 - Tambien se tiene, segun Morin (2008), el conocimiento holistico. La palabra holistico se refiere a la totalidad percibida en el momento de la intuicion. La principal diferencia entre el conocimiento holistico y conceptual reside en las estructuras. El primero carece de estructuras, o por lo menos, tiende a prescindir de ellas. El concepto en cambio es un conocimiento estructurado. Debido a esto, lo percibido a nivel intuitivo no se puede definir, se capta como un elemento de una totalidad, se tiene una vivencia de una presencia, pero sin poder expresarla adecuadamente.
 
 

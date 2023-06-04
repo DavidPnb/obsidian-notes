@@ -4,7 +4,7 @@ references:
 created: 2022-05-04 08:49
 ---
 tags:: #concept  #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 # Verdad
 ## La Verdad como Correspondencia o Adecuacion
 Este planteamiento tiene su origen en Aristoteles, para quien la verdad se da cuando hay una correspondencia entre un objeto y lo que el sujeto dice de el. El sujeto tiene una representacion del objeto que tiene en frente de el. La verdad se dara cuando coincida la representacion con lo que es ese objeto en realidad. Tomas de Aquino, filosofo del siglo XIII DEC, expresa esta misma idea con esta frase: "verdad es adecuacion entre el entendimiento y la cosa".

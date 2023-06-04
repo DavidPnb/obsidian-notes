@@ -2,7 +2,7 @@
 created: 2022-08-10 11:55
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 Links: 
 # Hermeneutica
 La hermeneutica es una corriente filosofica que toma elementos de la [[Fenomenologia]] y pretende explicar la realidad desde un punto de vista literario, basandose en la correcta interpretación del [[Lenguaje]] y los simbolos.

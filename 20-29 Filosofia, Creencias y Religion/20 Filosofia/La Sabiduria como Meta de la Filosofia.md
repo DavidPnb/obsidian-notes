@@ -6,7 +6,7 @@ created: 2022-04-23 10:45
 tags:: #on/philosophy
 up:: [[20.00 Filosofia MOC]]
 # La Sabiduria como Meta de la Filosofia
-Etimologicamente, filosofia significa amor a la sabiduria. Busca explicar y busca dar repuesta definitiva a las interrogantes del universo mediante el uso de la [[20.01 Logica]] y la razon.
+Etimologicamente, filosofia significa amor a la sabiduria. Busca explicar y busca dar repuesta definitiva a las interrogantes del universo mediante el uso de la [[Logica]] y la razon.
 
 > La filosofia se plantea la sabiduria esencial del hombre, como consecuencia de un trabajo constante y perenne en busca de la verdad, con actitud de investigador constante. Barbera (1999)
 

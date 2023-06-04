@@ -4,7 +4,7 @@ references:
 created: 2022-06-22 18:59
 ---
 tags::
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 Links: 
 # Positivismo
 Segun Fraille (1976), el termino positivismo fue usado por primera vez por el filosofo y matematico frances del siglo XIX Auguste Comte, pero algunos de los conceptos positivistas se remontan al filoso britanico David Hume, al frances Saint-Simmon, e Immanuel Kant. El positivismo es una parte integrante del movimiento romantico del siglo XIX.
@@ -26,7 +26,7 @@ Para dar una respuesta a la evolución política, científica e industrial de su
 - **Estado Positivo** - Es real y definitivo. La imaginación queda subordinada a la observación. El positivismo busca solo hechos y sus leyes. No causas, ni principios, ni sustancias. Ya que todo esto es inaccesible.
 
 ### John Stewart Mill
-Para su positivismo, el recurso a los hechos es incesante, y no es posible ninguna dogmatizacion de los resultados de la ciencia. La [[20.01 Logica]] tiene como fin principal abrir brecha en todo absolutismo de la creencia y preferir toda verdad, principio o demostración, a la validez de sus bases empíricas
+Para su positivismo, el recurso a los hechos es incesante, y no es posible ninguna dogmatizacion de los resultados de la ciencia. La [[Logica]] tiene como fin principal abrir brecha en todo absolutismo de la creencia y preferir toda verdad, principio o demostración, a la validez de sus bases empíricas
 
 ### Herbert Spencer
 Ofrece una visión evolucionista de la realidad que, como la ley de los tres estados, tiene tambien consecuencias politicas y sociales. A pesar de sus protestas, Spencer no deja de ser positivista, pues basa el conocimiento en el desarrollo intelectual de la humanidad, busca construir la ciencia y la filosofía sobre una base empírica, rechaza la metafísica y ofrece las ciencias sociales como unico vehiculo para estudiar a la sociedad.

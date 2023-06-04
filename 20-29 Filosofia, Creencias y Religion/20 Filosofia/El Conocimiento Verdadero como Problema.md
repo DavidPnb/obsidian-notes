@@ -4,14 +4,14 @@ references:
 created: 2022-05-27 10:35
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 Links: 
 # El Conocimiento Verdadero como Problema
 El hombre es un ser en el mundo como lo afirma Heidegger en "El ser y el tiempo" (1927). Esto significa tener que realizar la propia existencia en un espacio y un tiempo, es decir, en condiciones historicas, sociales y culturales. La compresion vital es el primer paso de la vida cognoscitiva. Aunque Descartes sostenia que si no se piensa no se existe. Esa compresion sensible es la comprension de hechos y fenomenos a traves de la percepcion (Vivo, luego existo).
 
 Surge en un segundo grado, el conocimiento simbolico, que no surge de un individuo, sino de una sociedad y una cultura, que representa y codifica la realidad en simbolos a traves del [[30.00 Linguistica MOC|Lenguaje]] para interpretarla por medio de el. Surge la [[Comunicacion]] a traves de estos simbolos, y asi surge el conocimiento objetivo, que es exigencia misma de la comunicacion para poder expresar la realidad.
 
-Cuando el hombre occidental empieza a buscar la verdad por los caminos de la [[20.01 Logica]] Racional, esta se convierte en un problema y aparecen las teorias del conocimiento primeramente en Grecia (600 AC), a traves de la reflexion filosofica occidental, con los filosofos de la naturaleza (Tales, Anaximandro, Anaximenes, Democrito, Empedocles, Heraclito) que sustituyen la explicacion mitica por la racional. [[Tipos de Mentalidad]]; luego se profundiza el problema al intentar construir sistemas estructurados racionalmente, que expliquen la realidad, que partan desde el hombre como centro de reflexion; esto sucede a partir de Socrates, Platon y Aristoteles. Desde aqui ya no todo conocimiento es valido, si no es racionalmente estructurado y explicable.
+Cuando el hombre occidental empieza a buscar la verdad por los caminos de la [[Logica]] Racional, esta se convierte en un problema y aparecen las teorias del conocimiento primeramente en Grecia (600 AC), a traves de la reflexion filosofica occidental, con los filosofos de la naturaleza (Tales, Anaximandro, Anaximenes, Democrito, Empedocles, Heraclito) que sustituyen la explicacion mitica por la racional. [[Tipos de Mentalidad]]; luego se profundiza el problema al intentar construir sistemas estructurados racionalmente, que expliquen la realidad, que partan desde el hombre como centro de reflexion; esto sucede a partir de Socrates, Platon y Aristoteles. Desde aqui ya no todo conocimiento es valido, si no es racionalmente estructurado y explicable.
 
 Primero se considero el conocer intuitivo como una actividad del cuerpo, investigando el conocer como una funcion organica. Luego se aspiro a un conocimiento mas alla de lo sensible; surge el mito, en donde solo participa el alma, pues el cuerpo era visto como una carcel en la que el alma esta presa.
 

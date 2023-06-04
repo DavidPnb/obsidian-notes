@@ -4,7 +4,7 @@ references:
 created: 2022-07-20 21:08
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 Links: 
 # Responsabilidad Epistemica
 La responsabilidad epistemica es la responsabilidad moral que tenemos con respecto a nuestras propias creencias.

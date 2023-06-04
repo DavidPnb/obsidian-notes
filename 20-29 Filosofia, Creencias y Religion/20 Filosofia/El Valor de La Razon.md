@@ -1,5 +1,5 @@
 tags:: #on/philosophy 
-up:: [[20.01 Logica]]
+up:: [[Logica]]
 # El Valor de la Razon
 Platon creia en que los mejores seres humanos se caracterizaban por su capacidad de pensar racionalmente, ya que el pensamiento racional controla las partes apetitiva y espiritual del alma, segun la creencia del alma tripartita.
 

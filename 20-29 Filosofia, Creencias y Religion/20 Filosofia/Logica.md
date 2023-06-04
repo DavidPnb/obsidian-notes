@@ -1,6 +1,4 @@
 ---
-status:
-references:
 created: 2022-04-23 14:07
 ---
 tags:: #on/philosophy 

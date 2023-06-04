@@ -4,7 +4,7 @@ references:
 created: 2022-07-20 17:44
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 Links: 
 # Idealismo
 El idealismo es una teoria del conocimiento a la que se le asocian varios significados a través del tiempo. En su sentido más radical y menos aceptado, esta seria equivalente al [[Solipsismo]], y en general, es una teoria que le da mucho importancia a la mente al momento de la percepción de la realidad, siendo más similar a la [[Ley de la Atraccion]].

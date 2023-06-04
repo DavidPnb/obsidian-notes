@@ -1,7 +1,4 @@
 ---
-alias: [Teoria del Conocimiento]
-status:
-references:
 created: 2022-04-23 14:14
 ---
 tags:: #on/philosophy 

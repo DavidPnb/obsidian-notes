@@ -4,7 +4,7 @@ references:
 created: 2022-06-08 09:27
 ---
 tags:: #on/philosophy 
-up:: [[20.05 Epistemologia]]
+up:: [[Epistemologia]]
 Links: [[Verdad]]
 # Relativismo
 El [[Escepticismo]] de los tiempos modernos ha resultado constructivo. Culmina con el [[Criticismo]] de Kant, en la teoria positiva de las Ciencias; [[Positivismo]], y en saludable racionalismo critico. Ya no se discute la posibilidad de la verdad, aunque se afirma su caracter provisional, al estar sujeta a periodos historicos, sociales y culturales.
