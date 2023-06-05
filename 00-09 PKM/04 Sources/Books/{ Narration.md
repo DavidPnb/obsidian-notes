@@ -28,6 +28,9 @@ La **representación** que otorga la narrativa es una secuencia de signos que so
 
 Existe dos enfoques diferentes para describir la narrativa: el **ontogénico**, en el que se indaga en la psicología humana y el desarrollo cognitivo; y el **filogénico**, que busca respuestas en el desarrollo sociológico y cultural que acompaña a la evolución de nuestra sociedad.
 
+### Narrativa Temprana
+El uso principal de la narrativa y la historia antigua es transmitir la cultura y los valores de un pueblo, creando así una identidad compartida. La cultura occidental debe su identidad cultural a las raíces helenísticas, provenientes de las obras griegas canonizadas, y las raíces hebreicas provenientes del Antiguo Testamento.
+
 ## Puntos Clave
 
 ## Contexto

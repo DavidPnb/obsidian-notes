@@ -122,6 +122,15 @@ De esta manera, la historia es la expresión creativa de una verdad humana, que 
 
 Las **progresiones** se construyen al mover la historia entre los valores positivos y negativos de los conceptos involucrados en la narrativa. La temática puede llevar a un resultado **idealista** (+), **pesimista** (-) o **ironista** (+ -). Estos últimos suelen ser más complejos, mostrando un constraste entre los deseos y las necesidades de un individuo.
 
+
+### Principios del Diseño de la Historia
+#### Sustancia de la Historia
+El elemento más esencial de la historia es el conflicto, que provoca acción y reacción y une a lo subjetivo con lo objetivo. El protagonista es el principal encargado de mover la trama. Este puede ser **singular**, **plural** (mismos objetivos) o **múltiple** (diferentes objetivos).
+
+El protagonista de la historia debe tener la *capacidad*, *voluntad* y *oportunidad* para alcanzar su objetivo, llegando hasta el límite de sus capacidades. Este objetivo principal puede ser conciente, o uno inconciente que hace contraste con el conciente, dependiendo de la complejidad del personaje. El valor de este objetivo depende de los riesgos que el protagonista este dispuesto a tomar para conseguirlo.Para mantener el lazo con la audiencia, el protagonista debe ser **empatético**, permitiendo que la audiencia perciba en ellos rasgos de su persona.
+
+La credibilidad de una obra tambien depende de las decisiones tomadas por los personaje, que desde su perspectiva, son acciones eficientes y conservadoras que los acercan a sus objetivos. Este acciones se encuentran con antagonismo, que puede ser interno, personal o social; lo que incita a los personajes a tomar riesgos cada vez mayores, generando una progresión.
+
 ## Puntos Clave
 
 ## Contexto
