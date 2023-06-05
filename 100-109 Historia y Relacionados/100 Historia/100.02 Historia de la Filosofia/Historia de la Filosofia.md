@@ -6,7 +6,12 @@ up:: [[100.00 Historia MOC]]
 Links: 
 # Historia de la Filosofia
 1. [[Origenes de la Filosofia]]
-2. [[Origen del Estoicismo]]
-3. [[Origen del Pensamiento Abstracto-Racional]]
-4. [[Auge del Paradigma Positivista]]
+2. [[Socrates]]
+3. [[Platon]]
+4. [[Aristoteles]]
+5. [[Escepticismo]]
+6. [[Epicuro]]
+7. [[Origen del Estoicismo]]
+8. [[Origen del Pensamiento Abstracto-Racional]]
+9. [[Auge del Paradigma Positivista]]
 ___

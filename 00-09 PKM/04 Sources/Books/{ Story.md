@@ -115,6 +115,13 @@ La estructura de una obra da lugar a una serie de eventos que incitan a los pers
 
 La **caracterización** es el conjunto de todos los detalles acerca de un personaje que son revelados a través de la estructura. El **caracter** de un personaje es revelado por las decisiones más importantes que toma y ,en personajes profundos, genera un contraste con la caracterización original. Un **arco de personaje** produce un cambio en este caracter.
 
+#### Estructura y Significado
+La **emoción estética** se presenta en el arte y combina sentimientos e ideas para proveer al espectador de experiencias inmediatamente significativas. Una historia tiene dos ideas principales: una **premisa**, interrogante encargada de darle comienzo a la historia; y **temática**, idea que regula la historia y provoca un cambio, que lleva a un climax con un resultado y su respectiva causa.
+
+De esta manera, la historia es la expresión creativa de una verdad humana, que se percibe a través de la estructura en lugar de ser narrada o contada por los personajes. Para expresar esta verdad de manera correcta, la historia debe tener una dimensión dialéctica, presentando con fidelidad una tesis y antítesis que llevan a una síntesis conclusiva.
+
+Las **progresiones** se construyen al mover la historia entre los valores positivos y negativos de los conceptos involucrados en la narrativa. La temática puede llevar a un resultado **idealista** (+), **pesimista** (-) o **ironista** (+ -). Estos últimos suelen ser más complejos, mostrando un constraste entre los deseos y las necesidades de un individuo.
+
 ## Puntos Clave
 
 ## Contexto

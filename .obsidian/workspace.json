@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Story.md"
               }
             }
           },
@@ -319,20 +319,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "79425b63bcd65fed",
   "lastOpenFiles": [
+    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
+    "00-09 PKM/04 Sources/Books/{ Story.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-04.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-03.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
     "00-09 PKM/04 Sources/Books/{ Think.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
     "30-39 Lenguajes/30 Linguistica/English Grammar.md",
-    "00-09 PKM/04 Sources/Books/{ Story.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "40-49 Ciencias/40 Matematicas/Triangulos.md",
     "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
@@ -350,7 +350,6 @@
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Objetivos de Entrenamiento.md",
-    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",
     "00-09 PKM/03 Extras/Media/Plot.png",
