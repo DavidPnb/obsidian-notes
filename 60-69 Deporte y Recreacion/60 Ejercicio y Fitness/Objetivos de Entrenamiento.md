@@ -23,17 +23,17 @@ up:: [[60.00 Fitness]]
 - Postura
 - Muñecas
 - Rodillas
-- Caderas
+- Caderas (x)
 - Hombros
-- Muslos
+- Muslos 
 - Columna
 
 ## Ejercicios
-- Frog Stand 5s max - 6x10s->30s
-- Diamond PU 10 max - 3x12->20
-- Pull-ups Eccentrics - 3x(3x6s) 1 min
-- OLB L-sit 15s max - 5x14s->30s
-- Cossack Squat 17 max - 3x18->20
-- Chair Lunge W 15 max - 3x16->20
+- Frog Stand 5s max - 6x12s->30s
+- OLB L-sit 15s max - 5x16s->30s
+- Diamond PU 10 max - 3x13->20
+- Pull-ups Eccentrics - 3x(3x6s) 0 min
+- Cossack Squat 17 max - 3x19->20
+- Chair Lunge W 15 max - 3x17->20
 
 ___
