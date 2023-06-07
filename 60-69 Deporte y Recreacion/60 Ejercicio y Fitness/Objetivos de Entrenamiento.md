@@ -36,4 +36,5 @@ up:: [[60.00 Fitness]]
 - Cossack Squat 17 max - 3x19->20
 - Chair Lunge W 15 max - 3x17->20
 
+Semana: 2-1
 ___
