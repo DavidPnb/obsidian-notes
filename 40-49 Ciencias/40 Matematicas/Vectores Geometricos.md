@@ -105,6 +105,32 @@ $$\cos ^{2} (\alpha)+\cos ^{2}(\beta)+\cos ^{2}(\rho)=1$$
 
 Por lo tanto los cosenos directores de los ejes $X$ , $Y$ y $Z$ son $1$ , $0$ , $0$ **;** $0$ , $1$ , $0$ y $0$ , $0$ , $1$ respectivamente.
 
+## Espacios Vectoriales
+Este concepto permite abstraer las propiedades de los vectores sin tener que recurrir a un sistema geométrico. Un **espacio vectorial** es un conjunto con elementos llamados **vectores**, los cuales satisfacen ciertos postulados y pueden efectuar en ellos dos operaciones:
+
+### Operaciones
+1. **Suma** - Dos vectores pueden combinarse produciendo como resultado otro vector perteneciente al espacio vectorial
+2. **Multiplicación Escalar** - Un vector puede multiplicarse por un número real cualquiera, resultando en otro vector perteneciente al EV
+
+### Postulados
+1. $x+y=y+x$
+2. $x+(y+z)=(x+y)+z$
+3. Existe un vector único en EV llamado vector nulo $O$ tal que $x+O=x$ para todo $x$ en EV
+4. Para todo elemento existe un único inverso $-x$ tal que $x+(-x)=O$
+5. $a(x+y)=ax+ay$
+6. $(a+b)x=ax+bx$
+7. $a(bx)=(ab)x$
+8. $1\cdot x=x$
+9. $O\cdot x=O$
+
+### Teoremas
+1. $-1\cdot x=-x$
+2. $aO=O$
+3. $x+y=x+z\implies y=z$
+4. $ax=ay,a\neq0\implies x=y$
+5. $ax=bx,x\neq O\implies a=b$
+6. Si $S$ es un subconjunto de un EV donde se cumple que $x+y$ y $ax$ pertenecen a $S$ si $x$ y $y$ pertenecen a $S$
+
 ## Álgebra de Vectores
 Se desarrollan ideas y fórmulas básicas al proponer y resolver problemas de carácter fundamental usando los conceptos previos.
 

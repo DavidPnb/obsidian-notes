@@ -148,7 +148,7 @@ finished::
 		3. Ejercicios posicionales (estabilidad)
 		4. Ejercicios y habilidades de bajo nivel (-2)
 3. **Fuerza**
-	1. 2 push-up, 2 pull-up, 2 leg. El orden de los ejercicios depende de las prioridades en las metas de entrenamiento
+	1. 2 push, 2 pull, 2 leg. El orden de los ejercicios depende de las prioridades en las metas de entrenamiento
 	2. Las repeticiones totales por categoria deben ser 25-50 para fuerza y 40-75+ por hipertrofia
 	3. Los tiempos de descanso deben ser: 30-90s resistencia, 60-240s hipertrofia, 180-300s fuerza, 180-240s fuerza+hipertrofia
 	4. El tempo estandar para fuerza e hipertrofia es 10x0, aunque 4141 tambien puede ser usado en caso de lesión.
@@ -219,6 +219,8 @@ finished::
 4. **Estilo de Vida**
 	1. 1.5g de proteina por kilogramo de peso corporal
 ### Implementación de Programa
+1. **Principiante** - Altas repeticiones
+	1. Repeticiones Lineares - Adición de Repeticiones
 ### Recursos de Prehabilitación, Lesiones y Ejercicios
 
 ## Puntos Clave
