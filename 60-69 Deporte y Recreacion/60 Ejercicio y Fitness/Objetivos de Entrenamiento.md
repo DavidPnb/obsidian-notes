@@ -29,7 +29,7 @@ up:: [[60.00 Fitness]]
 - Columna
 
 ## Ejercicios
-- Frog Stand 5s max - 6x24s->30s 2
+- Frog Stand 5s max - 6x24s->30s
 - OLB L-sit 15s max - 5x30s->30s
 - Diamond PU 10 max - 3x13->20
 - Pull-ups Eccentrics - 3x(3x6s) 0 min
