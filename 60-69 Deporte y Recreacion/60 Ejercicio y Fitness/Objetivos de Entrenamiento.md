@@ -13,7 +13,6 @@ up:: [[60.00 Fitness]]
 10-20 Burpees
 15 Wrist Circles, Shoulder Circles, Bodyweight Squats
 60s Support
-5 Skin the Cat
 30-60s Plank, Side Plank, Reverse Plank
 
 ## Skills
@@ -29,12 +28,12 @@ up:: [[60.00 Fitness]]
 - Columna
 
 ## Ejercicios
-- Frog Stand 5s max - 6x24s->30s
-- OLB L-sit 15s max - 5x30s->30s
-- Diamond PU 10 max - 3x13->20
-- Pull-ups Eccentrics - 3x(3x6s) 0 min
-- Cossack Squat 17 max - 3x19->20
-- Chair Lunge W 15 max - 3x17->20
+- SA Frog Stand 5s max - 6x5s->30s
+- Diamond PU Chest 20 max - 3x20->20 
+- Pull-ups Eccentrics - 3x(7x6s) 3 min
+- Pistol Squat 7 max - 3x7->20
+- Chair Lunge  20 1b max - 3x20 1b->3b
+- Compression - L-sit - 2x10s/3x5s->30s
 
-Semana: 2-2
+Semana: 1-1
 ___

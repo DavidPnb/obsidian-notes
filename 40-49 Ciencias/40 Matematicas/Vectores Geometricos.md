@@ -131,6 +131,18 @@ Este concepto permite abstraer las propiedades de los vectores sin tener que rec
 5. $ax=bx,x\neq O\implies a=b$
 6. Si $S$ es un subconjunto de un EV donde se cumple que $x+y$ y $ax$ pertenecen a $S$ si $x$ y $y$ pertenecen a $S$
 
+Se dice que $n$ vectores son **linearmente dependientes** si $a_{1}x_{1}+a_{2}x_{2}+\dots+a_{n}x_{n}=0$ , de lo contrario, se les considera **linearmente independientes**.
+
+Si $S$ contiene un conjunto de $n$ vectores linealmente independientes, y todo conjunto de $n+1$ vectores en $S$ es linearmente independientede, se dice que $S$ es de **dimensión finita** y su **dimensión** es $n$ . Si $S$ no es de dimensión finita, se dice que es de **dimensión infinita**.
+
+Un conjunto de $n$ **vectores** forman una **base** en el espacio vectorial $S$ al que pertenecen. Cualquier vector en $S$ puede ser representado como una combinación lineal de cierta base de $S$.
+
+### Propiedades del Módulo
+1. $|x+y|\leq|x|+|y|$
+2. $|ax|=|a||x|$
+3. $|x|\geq0$
+4. $x\neq O\implies|x|\neq0$
+
 ## Álgebra de Vectores
 Se desarrollan ideas y fórmulas básicas al proponer y resolver problemas de carácter fundamental usando los conceptos previos.
 

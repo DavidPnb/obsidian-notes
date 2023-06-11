@@ -135,7 +135,14 @@ Groups of words containing a subject and a predicate and used as a part of speec
 **Independent clauses** make sense without the context of their sentence.
 
 ### Subordinate
-**Subordinate clauses** cannot stand alone as sentences. Depending on their function, they are classified as **adjective clauses, **noun clauses**, and **adverb clauses**.
+**Subordinate clauses** cannot stand alone as sentences. Depending on their function, they are classified as **adjective clauses**, **noun clauses**, and **adverb clauses**.
 
-**Relative pronouns** are pronouns that begin subordinate clauses. They are **definite pronouns** if they refer to a previously used noun, otherwise, they are **indefinite pronouns**.
+**Relative pronouns** are pronouns that begin subordinate clauses. They are **definite pronouns** if they refer to a previously used noun, otherwise, they are **indefinite pronouns**. A conjunction that begins an adverb clause is a **subordinating conjunction**.
+
+## Sentences
+### Structure
+**Simple sentences** have an independent clause. **Compound sentences** have two or more independent clauses joined by **coordinating conjunctions**. **Complex sentences** have one or more subordinate clauses. **Compound-Complex sentences** have two or more independent clauses and one or more subordinate clauses.
+
+### Porpuse
+**Declarative sentences** are statements. An **imperative sentence** gives commands. **Interrogative sentences** ask questions. **Exclamatory sentences** express strong feelings.
 ___
