@@ -131,6 +131,30 @@ El protagonista de la historia debe tener la *capacidad*, *voluntad* y *oportuni
 
 La credibilidad de una obra tambien depende de las decisiones tomadas por los personaje, que desde su perspectiva, son acciones eficientes y conservadoras que los acercan a sus objetivos. Este acciones se encuentran con antagonismo, que puede ser interno, personal o social; lo que incita a los personajes a tomar riesgos cada vez mayores, generando una progresión.
 
+#### Incidente Incitante
+- **Elementos de Worldbuilding**
+	- Trabajo y Economia
+	- Política y Relación
+	- Moral
+	- Cultura
+	- Género narrativo
+	- Biografías de personajes
+	- Trasfondo de personajes
+	- Roles de personajes
+
+El dominio de estos elementos en el mundo narrativo le da al escritor más control sobre su historia y transmite una sensación de autenticidad.
+
+El control del mundo narrativo facilita la creatividad para la construcción los eventos principales de una historia. El primero de los eventos es el **incidente incitante**, que cambia radicalmente el balance en la vida del protagonista. El protagonista reacciona a este evento, y por esto desarrolla un deseo (conciente/inconciente) para restaurar el balance. El deseo del protagonista propulsa la historia y se convierte en el esqueleto de la progresión narrativa.
+
+#### Diseño de Actos
+Las **complicaciones progresivas** conforman la mayor parte de la obra y se componen de fuerzas de antagonismo cada vez mayores, que resultan en **puntos de no retorno**. A partir de aquí, las acciones posteriores deben tener mayor magnitud que las anteriores.
+
+De esta manera, el conflicto es la fuerza que hace que la historia progrese. Un conflicto puede ser meramente complicado (un nivel) o puede ser complejo. La simpleza de conflicto es característica del género acción/aventura y las telenovelas.
+
+La cantidad de actos presentes en una historia suele ser proporcional a su extensión. El estándar es una historia compuesta de primer y tercer acto, en los que se divide la mitad de la obra; y un segundo acto que ocupa el resto de su extensión.
+
+Para llenar el espacio del segundo acto, es común el uso de subtramas y tramas múltiples, que cuentan con su propia estructura. Una subtrama puede ser usada para contradecir la 
+
 ## Puntos Clave
 
 ## Contexto

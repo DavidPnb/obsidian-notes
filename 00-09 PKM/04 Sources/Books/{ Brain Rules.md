@@ -25,6 +25,9 @@ Thomas Frank
 ### Ejercicio
 El cerebro esta adaptado a la actividad física, y por esto, el ejercicio aumenta nuestra longevidad y capacidad cognitiva.
 
+### Supervivencia
+El cerebro no se adapto evolutivamente a un entorno en específico, sino que esta preparado  para adaptarse a cambios constantes. Este hecho, sumado a nuestra capacidad social y razonamiento abstracto, a impulsado a nuestra especie a proliferar por todo el planeta.
+
 ## Puntos Clave
 
 ## Contexto
