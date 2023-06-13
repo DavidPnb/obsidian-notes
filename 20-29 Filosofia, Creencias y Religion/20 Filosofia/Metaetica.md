@@ -23,7 +23,8 @@ Afirma que más de una postura puede estar en lo correcto respecto a un asunto m
 Es la creencia de que no existen hechos morales objetivos. Su principal corriente es el **subjetivismo moral**, que sostiene que las respuestas correctas con respecto a la moral dependen de las actitudes de las personas hacia esta.
 
 ## Teorías Éticas
-Son sistemas que intentan dar respuestas consistentes a las preguntas morales. Estan basados en asunciones que deben ser aceptadas para que se sostenga el resto de la teoría, y principios morales que pueden ser compartidos con otras teorías.
+Son sistemas que intentan dar respuestas consistentes a las preguntas morales. Estan basados en asunciones que deben ser aceptadas para que se sostenga el resto de la teoría.
 1. [[Teoria del Mandamiento Divino]]
 2. [[Teoria de la Ley Natural]]
+3. [[Utilitarianismo]]
 ___

@@ -151,9 +151,12 @@ Las **complicaciones progresivas** conforman la mayor parte de la obra y se comp
 
 De esta manera, el conflicto es la fuerza que hace que la historia progrese. Un conflicto puede ser meramente complicado (un nivel) o puede ser complejo. La simpleza de conflicto es característica del género acción/aventura y las telenovelas.
 
-La cantidad de actos presentes en una historia suele ser proporcional a su extensión. El estándar es una historia compuesta de primer y tercer acto, en los que se divide la mitad de la obra; y un segundo acto que ocupa el resto de su extensión.
+La cantidad de actos presentes en una historia suele ser proporcional a su extensión. El estándar es una historia compuesta de primer y tercer acto, en los que se divide la mitad de la obra; y un segundo acto que ocupa el resto de su extensión. Un exceso de actos puede provocar clichés y reducir el impacto de cada uno de ellos.
 
-Para llenar el espacio del segundo acto, es común el uso de subtramas y tramas múltiples, que cuentan con su propia estructura. Una subtrama puede ser usada para contradecir la 
+Para llenar el espacio del segundo acto, es común el uso de subtramas y tramas múltiples, que cuentan con su propia estructura. Una subtrama puede ser usada para contradecir el tema (ironía), ofrecer variaciones de este, introducir el incidente incitante o complicar la trama principal.
+
+Penúltimo acto de una historia debe generar contraste con el último. Por esto, ambos no pueden terminar positiva o negativamente.
+
 
 ## Puntos Clave
 

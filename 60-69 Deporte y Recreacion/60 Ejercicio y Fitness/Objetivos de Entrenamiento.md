@@ -13,13 +13,13 @@ up:: [[60.00 Fitness]]
 10-20 Burpees
 15 Wrist Circles, Shoulder Circles, Bodyweight Squats
 60s Support
-30-60s Plank, Side Plank, Reverse Plank
+30-60s Plank
 
 ## Skills
 5-10 min HS
 
 ## Prehab
-- Postura
+- Postura (x)
 - Muñecas
 - Rodillas
 - Caderas (x)
@@ -28,12 +28,13 @@ up:: [[60.00 Fitness]]
 - Columna
 
 ## Ejercicios
-- SA Frog Stand 5s max - 6x5s->30s
-- Diamond PU Chest 20 max - 3x20->20 
-- Pull-ups Eccentrics - 3x(7x6s) 3 min
-- Pistol Squat 7 max - 3x7->20
-- Chair Lunge  20 1b max - 3x20 1b->3b
-- Compression - L-sit - 2x10s/3x5s->30s
+- SA Frog Stand 5s max - 6x7s->30s 
+- Diamond PU Arm 20 max - 3x20->20
+- Pull-ups Eccentrics - 4x(7x6s) 3 min
+- Pistol Squat 7 max - 3x8->20
+- Chair Lunge  20 1b max - 3x20 2b->3b
+- Compression - L-sit - 3x10s/2x5s->30s
+- Bicep Curls - 3x15 2b->3b
 
 Semana: 1-1
 ___
