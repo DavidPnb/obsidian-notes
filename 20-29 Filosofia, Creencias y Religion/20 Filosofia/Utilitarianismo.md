@@ -4,7 +4,7 @@ created: 2023-06-11 21:43
 tags:: #on/philosophy 
 up:: [[Metaetica]]
 # Utilitarianismo
-Es el sistema ética que se fundamenta en el deseo humano de aumentar la felicidad y disminuir el sufrimiento.
+Es el sistema ético que se fundamenta en el deseo humano de aumentar la felicidad y disminuir el sufrimiento.
 
 ## Objeciones
 ### Derechos  Individuales
