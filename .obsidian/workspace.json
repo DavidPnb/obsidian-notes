@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-06-17.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-06-17.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-06-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-06-17.md"
               }
             }
           },
@@ -310,6 +310,8 @@
   },
   "active": "c19f72cc2bdf3a74",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Determinantes.md",
+    "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.canvas",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-17.md",
@@ -319,7 +321,6 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-14.md",
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-13.md",
-    "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-12.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Utilitarianismo.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
@@ -345,7 +346,6 @@
     "Historia Humana.canvas",
     "Narrativa.canvas",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema Mente-Cuerpo.canvas",
-    "Mutaciones.canvas",
-    "Economia.canvas"
+    "Mutaciones.canvas"
   ]
 }
