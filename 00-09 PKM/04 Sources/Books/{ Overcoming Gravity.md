@@ -221,6 +221,8 @@ finished::
 ### Implementación de Programa
 1. **Principiante** - Altas repeticiones
 	1. Repeticiones Lineares - Adición de Repeticiones
+2. **Principiante-Intermedio** - 3-12 Repeticiones
+	1. Adición de Set - Fallo en el Último Set
 ### Recursos de Prehabilitación, Lesiones y Ejercicios
 
 ## Puntos Clave

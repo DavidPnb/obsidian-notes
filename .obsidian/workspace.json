@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-06-14.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-06-14.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-06-14.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-06-14.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md"
               }
             }
           },
@@ -303,13 +303,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "c19f72cc2bdf3a74",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-14.md",
+    "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-13.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-12.md",
