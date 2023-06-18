@@ -223,6 +223,9 @@ finished::
 	1. Repeticiones Lineares - Adición de Repeticiones
 2. **Principiante-Intermedio** - 3-12 Repeticiones
 	1. Adición de Set - Fallo en el Último Set
+3. **Intermedio** - Entrenamiento específico para fuerza, hipertrofia o resistencia
+	1. Progresiones Simples -> Acumulación/Intensificación, Light/Heavy,DUP
+	2. Rutinas Split
 ### Recursos de Prehabilitación, Lesiones y Ejercicios
 
 ## Puntos Clave

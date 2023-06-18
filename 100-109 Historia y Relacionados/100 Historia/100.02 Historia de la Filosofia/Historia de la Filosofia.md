@@ -19,6 +19,10 @@ Links:
 12. [[Machiavelli]]
 13. [[Thomas Hobbes]]
 14. [[Rene Descartes]]
-15. [[Origen del Pensamiento Abstracto-Racional]]
-16. [[Auge del Paradigma Positivista]]
+15. [[Blaise Pascal]]
+16. [[Baruch Spinoza]]
+17. [[John Locke]]
+18. [[George Berkeley]]
+19. [[Origen del Pensamiento Abstracto-Racional]]
+20. [[Auge del Paradigma Positivista]]
 ___

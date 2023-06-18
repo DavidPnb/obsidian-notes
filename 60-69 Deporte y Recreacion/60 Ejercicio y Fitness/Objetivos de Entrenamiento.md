@@ -37,6 +37,6 @@ up:: [[60.00 Fitness]]
 - Bicep Curls - 3x15 3b->3b
 - Compressed Pike/Straddle 30s
 
-Semana: 1-2
+Semana: 1-1
 ___
  

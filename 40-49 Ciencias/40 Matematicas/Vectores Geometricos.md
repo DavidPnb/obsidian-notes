@@ -143,6 +143,16 @@ Un conjunto de $n$ **vectores** forman una **base** en el espacio vectorial $S$ 
 3. $|x|\geq0$
 4. $x\neq O\implies|x|\neq0$
 
+### Distancia
+En cualquier conjunto $S$, una expresión de la forma $d(x,y)$ es una **función distancia** sí
+1. $d(x,y)=d(y,x)$
+2. $d(x,z)\leq d(x,y)+d(x,z)$
+3. $d(x,y)=0 \iff x=y$
+4. $d(x,y)\geq0$
+
+Un conjunto $S$ con estas características es llamado **espacio métrico**. Un espacio métrico donde $d(x,y)=|x-y|$ es un **espacio vectorial con norma**.
+
+
 ## Álgebra de Vectores
 Se desarrollan ideas y fórmulas básicas al proponer y resolver problemas de carácter fundamental usando los conceptos previos.
 
