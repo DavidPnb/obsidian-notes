@@ -21,12 +21,25 @@
             }
           },
           {
+            "id": "168eacaed882359c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30-39 Lenguajes/30 Linguistica/English Grammar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c19f72cc2bdf3a74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Grammar.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -190,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Grammar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md"
+                "file": "30-39 Lenguajes/30 Linguistica/English Grammar.md"
               }
             }
           },
@@ -305,18 +318,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c19f72cc2bdf3a74",
+  "active": "168eacaed882359c",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libertarianismo.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
+    "00-09 PKM/04 Sources/Books/{ Story.md",
+    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-17.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-16.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "40-49 Ciencias/40 Matematicas/Determinantes.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.canvas",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-15.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-14.md",
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
@@ -324,7 +341,6 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-12.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Utilitarianismo.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
-    "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/04 Sources/Books/{ Narration.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-11.md",
     "30-39 Lenguajes/30 Linguistica/English Grammar.md",
@@ -332,11 +348,9 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-08.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-09.md",
     "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
-    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-07.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-06.md",
     "40-49 Ciencias/40 Matematicas/Geometria Analitica.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-05.md",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",
     "00-09 PKM/03 Extras/Media/Plot.png",

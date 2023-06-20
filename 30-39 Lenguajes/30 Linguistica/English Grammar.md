@@ -145,4 +145,5 @@ Groups of words containing a subject and a predicate and used as a part of speec
 
 ### Porpuse
 **Declarative sentences** are statements. An **imperative sentence** gives commands. **Interrogative sentences** ask questions. **Exclamatory sentences** express strong feelings.
+
 ___
