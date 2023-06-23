@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
+                "file": "40-49 Ciencias/40 Matematicas/Postulados Iniciales en Geometria.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
+                "file": "40-49 Ciencias/40 Matematicas/Postulados Iniciales en Geometria.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
+                "file": "40-49 Ciencias/40 Matematicas/Postulados Iniciales en Geometria.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md"
+                "file": "40-49 Ciencias/40 Matematicas/Postulados Iniciales en Geometria.md"
               }
             }
           },
@@ -299,7 +299,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 507.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,6 +323,12 @@
   },
   "active": "168eacaed882359c",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
+    "40-49 Ciencias/40 Matematicas/40.05 Geometria.md",
+    "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
+    "40-49 Ciencias/40 Matematicas/Triangulos Isosceles.md",
+    "40-49 Ciencias/40 Matematicas/Triangulos.md",
+    "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-20.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-19.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-18.md",
@@ -330,7 +337,6 @@
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
-    "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-17.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-16.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
@@ -344,11 +350,6 @@
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Utilitarianismo.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
     "00-09 PKM/04 Sources/Books/{ Narration.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-11.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-10.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-08.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-09.md",
-    "00-09 PKM/04 Sources/Books/{ A Guide to the Good Life.md",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",
     "00-09 PKM/03 Extras/Media/Plot.png",
