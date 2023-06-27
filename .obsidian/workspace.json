@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Postulados Iniciales en Geometria.md",
+                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Postulados Iniciales en Geometria.md",
+                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -181,12 +181,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 420.5146293640137,
-    "collapsed": true
+    "width": 420.5146293640137
   },
   "right": {
     "id": "6a3a32269de26270",
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Postulados Iniciales en Geometria.md",
+                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Postulados Iniciales en Geometria.md"
+                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md"
               }
             }
           },
@@ -317,12 +317,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "168eacaed882359c",
   "lastOpenFiles": [
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-22.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Thought Collisions.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/The truest habit metaphors are additive - v1.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/The truest habit metaphors are additive.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/The Riddle of Two Paths (Kit).md",
+    "00-09 PKM/00 Atlas/00.02 Cards/The Riddle IS the Answer (Kit).md",
+    "00-09 PKM/00 Atlas/00.02 Cards/The neural formation of habits is additive - v1.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/The neural formation of habits is additive.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/The mechanism for breaking through development plateaus.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/The Id.md",
+    "00-09 PKM/01 Calendar/01.02 Weekly/2023-W25.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-21.md",
+    "40-49 Ciencias/40 Matematicas/Postulados Iniciales en Geometria.md",
     "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
     "40-49 Ciencias/40 Matematicas/40.05 Geometria.md",
     "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
@@ -336,20 +348,7 @@
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libertarianismo.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
-    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-17.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-16.md",
-    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
-    "40-49 Ciencias/40 Matematicas/Determinantes.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.canvas",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-15.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-14.md",
-    "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-13.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-12.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Utilitarianismo.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
-    "00-09 PKM/04 Sources/Books/{ Narration.md",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",
     "00-09 PKM/03 Extras/Media/Plot.png",

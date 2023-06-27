@@ -1,5 +1,4 @@
 
--   [mister chad](https://mister-chad.com/) on Art, Design and Creativity
 -   [The Quantum Well](https://publish.obsidian.md/myquantumwell/) on Physics and Mathematics
 -   [qwxlea’ Logseq page](https://qwxlea.github.io/#/page/Start%20here) on PKM and Psychology
 -   [Alexis Rondeau](https://publish.obsidian.md/alexisrondeau/) on Developing and Business
