@@ -31,6 +31,9 @@ El cerebro no se adapto evolutivamente a un entorno en específico, sino que est
 ### Cableado
 El proceso de aprendizaje reestructura las conexiones neuronales en nuestro cerebro. Este hecho provoca que el cerebro de cada persona sea diferente en los aspectos más específicos. Por lo tanto, las capacidades cognitivas varian bastante entre individuos de diferentes edades y culturas. La Teoría de Inteligencias Múltiples intenta lidiar con las implicaciones que esto tiene en campos como la Educación.
 
+### Atención
+El nivel de atención afecta directamente a cualquier tipo de aprendizaje. La atención es mermada por las distracciones, y complementada por la emoción y significado en la información; requiere de descansos para mantener la capacidad de procesamiento en estado óptimo.
+
 ## Puntos Clave
 
 ## Contexto

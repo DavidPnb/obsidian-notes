@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5146293640137
+    "width": 420.5146293640137,
+    "collapsed": true
   },
   "right": {
     "id": "6a3a32269de26270",
@@ -203,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Brain Rules.md"
               }
             }
           },
@@ -299,8 +300,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5,
-    "collapsed": true
+    "width": 507.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,11 +317,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "168eacaed882359c",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Steal Like an Artist.md",
+    "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-27.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-26.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-25.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-24.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-23.md",
+    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-22.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Thought Collisions.md",
     "00-09 PKM/00 Atlas/00.02 Cards/The truest habit metaphors are additive - v1.md",
@@ -340,14 +349,6 @@
     "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
     "40-49 Ciencias/40 Matematicas/Triangulos Isosceles.md",
     "40-49 Ciencias/40 Matematicas/Triangulos.md",
-    "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-20.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-19.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-18.md",
-    "30-39 Lenguajes/30 Linguistica/English Grammar.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libertarianismo.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
-    "00-09 PKM/04 Sources/Books/{ Story.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.canvas",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",
