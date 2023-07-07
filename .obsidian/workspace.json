@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Brain Rules.md"
+                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md"
               }
             }
           },
@@ -300,7 +300,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 507.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,14 +318,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "168eacaed882359c",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ Steal Like an Artist.md",
+    "30-39 Lenguajes/30 Linguistica/English Grammar.md",
+    "30-39 Lenguajes/30 Linguistica/English Usage.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-01.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-30.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-29.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-28.md",
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
+    "00-09 PKM/04 Sources/Books/{ Steal Like an Artist.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-27.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-26.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-25.md",
@@ -343,12 +349,6 @@
     "00-09 PKM/00 Atlas/00.02 Cards/The Id.md",
     "00-09 PKM/01 Calendar/01.02 Weekly/2023-W25.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-21.md",
-    "40-49 Ciencias/40 Matematicas/Postulados Iniciales en Geometria.md",
-    "40-49 Ciencias/40 Matematicas/Geometria Euclideana.md",
-    "40-49 Ciencias/40 Matematicas/40.05 Geometria.md",
-    "40-49 Ciencias/40 Matematicas/Triangulos Congruentes.md",
-    "40-49 Ciencias/40 Matematicas/Triangulos Isosceles.md",
-    "40-49 Ciencias/40 Matematicas/Triangulos.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.canvas",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",
