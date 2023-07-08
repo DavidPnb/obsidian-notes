@@ -34,6 +34,9 @@ El proceso de aprendizaje reestructura las conexiones neuronales en nuestro cere
 ### Atención
 El nivel de atención afecta directamente a cualquier tipo de aprendizaje. La atención es mermada por las distracciones, y complementada por la emoción y significado en la información; requiere de descansos para mantener la capacidad de procesamiento en estado óptimo.
 
+### Memoria a Corto Plazo
+La memoria puede dividirse en dos tipos: declarativa y no declarativa. La **memoria declarativa** se procesa de forma conciente a través de los siguientes pasos: *encoding*, *storing*, *retrieving*, *forgetting*. El **encoding** organiza la información, y es el evento más influyente en la memoria a largo plazo; la complejidad con la que se organiza inicialmente la información determina la calidad del aprendizaje.
+
 ## Puntos Clave
 
 ## Contexto
