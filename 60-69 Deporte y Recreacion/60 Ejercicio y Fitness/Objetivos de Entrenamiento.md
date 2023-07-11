@@ -28,15 +28,15 @@ up:: [[60.00 Fitness]]
 - Columna
 
 ## Ejercicios
-- SA Frog Stand 5s max - 6x15s->20s
-- Diamond PU Chest 20 max - 18x18x17->20
-- Pull-ups Eccentrics - 4x(3x9s) 3 min
-- Pistol Squat 7 max - 3x10->12
-- Skater Squats 3x10->12
+- SA Frog Stand 5s max - 6x17s->20s
+- Diamond PU Chest 20 max - 18x18x18->20
+- Pull-ups Eccentrics - 5x(3x9s) 3 min
+- Pistol Squat 7 max - 3x11->12
+- Skater Squats 3x11->12
 - Compression - L-sit - 2x10s/1x5s->30s
 - Bicep Curls - 3x15 3b->3b
 - Compressed Pike/Straddle 30s
 
-Semana: 1-3
+Semana: 2-1
 ___
  

@@ -176,6 +176,7 @@ Pasos para analizar una escena:
 4. Identificar el valor final, asegurando que este se oponga al valor inicial
 5. Ubicar el punto de quiebre
 
+
 ## Puntos Clave
 
 ## Contexto
