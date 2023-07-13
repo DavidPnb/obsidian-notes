@@ -37,6 +37,9 @@ El nivel de atención afecta directamente a cualquier tipo de aprendizaje. La at
 ### Memoria a Corto Plazo
 La memoria puede dividirse en dos tipos: declarativa y no declarativa. La **memoria declarativa** se procesa de forma conciente a través de los siguientes pasos: *encoding*, *storing*, *retrieving*, *forgetting*. El **encoding** organiza la información, y es el evento más influyente en la memoria a largo plazo; la complejidad con la que se organiza inicialmente la información determina la calidad del aprendizaje.
 
+### Memoria a Largo Plazo
+La memoria a corto plazo tiene capacidad limitada y almacenamiento temporal; para que las memorias se vuelvan estables, estas se transfieren al almacenamiento a largo plazo en un proceso llamado **consolidación**. Cada vez que una memoria es recordada, esta se transfiere a la memoria a corto plazo lo que permite que sea modificada de nuevo. La calidad de un recuerdo se reduce exponencialmente con el paso del tiempo. La elaboración y la repetición disminuyen esta perdida de memoria.
+
 ## Puntos Clave
 
 ## Contexto
