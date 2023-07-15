@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-07-12.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-07-12.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-07-12.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-07-12.md"
+                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md"
               }
             }
           },
@@ -272,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 507.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,17 +296,17 @@
   },
   "active": "359cde9fd4c23dd9",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-07.md",
+    "30-39 Lenguajes/30 Linguistica/English Grammar.md",
+    "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-12.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-07.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-04.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-03.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
-    "00-09 PKM/04 Sources/Books/{ Story.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-08.md",
     "30-39 Lenguajes/30 Linguistica/English Usage.md",
-    "30-39 Lenguajes/30 Linguistica/English Grammar.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-01.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-30.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-29.md",

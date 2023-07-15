@@ -177,6 +177,23 @@ Pasos para analizar una escena:
 5. Ubicar el punto de quiebre
 
 
+#### Composición
+La **composición** es el ordenamiento y las transiciones entre escenas. Estas transiciones pueden hacerse por medio del contraste o la similitud.
+
+El incidente incitante debe estar conectado lógicamente con el climax; al mismo tiempo, deb haber variedad en los tonos presentes a lo largo de la historia.
+
+Existe gran variedad de técnicas respecto al colocamiento de escenas. El **pacing** es el balance entre tensión y relajación que hay en estas, el **ritmo** es la variación en la duración de escenas y el **tempo** es la variación en su actividad.
+
+Para que una historia progrese, el impacto social y/o personal debe ser cada vez mayor; al igual que la carga simbólica y/o irónica.
+
+
+#### Crisis, Climax, Resolución
+Estos son los tres eventos finales de la historia.
+
+La **crisis** es el dilema que lleva a la decisión más importante del protagonista al enfrentar las fuerza de antagonismo. El **climax** es la manifestación de la decisión del protagonista y trae un cambio irreversible. La **resolución** es el resultado de esta acción y el evento final.
+
+### Técnicas de Escrituras
+
 ## Puntos Clave
 
 ## Contexto
