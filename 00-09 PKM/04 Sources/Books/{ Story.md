@@ -158,7 +158,7 @@ Para llenar el espacio del segundo acto, es común el uso de subtramas y tramas 
 El penúltimo acto de una historia debe generar contraste con el último. Por esto, ambos no pueden terminar positiva o negativamente.
 
 #### Diseño de Escenas
-Una escena, al igual que con la historia como conjunto, debe progresar por medio de conflicto; y para que sea dinamica, debe cambiar de un estado positivo a uno negativo o viceversa. El momento de la escena donde se produce este cambio se llama **punto de quiebre**.
+Una escena, al igual que con la historia como conjunto, debe progresar por medio de conflicto; y para que sea dinamica, debe cambiar de un estado positivo a uno negativo o viceversa.
 
 Cada escena puede darle un giro a la información en escenas precedentes, y al mismo tiempo, presentar información usada en escenas posteriores. Este proceso le da múltiples capas a la historia. La información presentada debe ser más que mera exposición, produciendo en el espectador una sensación de aprendizaje al descifrar las implicaciones de una escena.
 
@@ -192,7 +192,15 @@ Estos son los tres eventos finales de la historia.
 
 La **crisis** es el dilema que lleva a la decisión más importante del protagonista al enfrentar las fuerza de antagonismo. El **climax** es la manifestación de la decisión del protagonista y trae un cambio irreversible. La **resolución** es el resultado de esta acción y el evento final.
 
-### Técnicas de Escrituras
+### Técnicas de Escritura
+#### Principio de Antagonismo
+El protagonista de una historia es tan emocional e intelectualmente interesante como las fuerzas de antagonismo a las que se enfrenta, las cuales deben llevarlo al límite de la experiencia humana. 
+
+#### Exposición
+La **exposición** es toda la información relevante para comprender los eventos de la historia. Esta información debe ser suministrada gradualmente por medio de las escenas. La mejor manera de presentar la exposición es *dramatizandola*, es decir, haciendola parte de la historia para generar conflicto. Los eventos significativos en la vida de un personaje pueden usarse como revelación para darle un giro a una escena.
+
+#### Problemas Narrativos (y sus soluciones)
+
 
 ## Puntos Clave
 

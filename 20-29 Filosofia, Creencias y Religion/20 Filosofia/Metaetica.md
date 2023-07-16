@@ -28,4 +28,5 @@ Son sistemas que intentan dar respuestas consistentes a las preguntas morales. E
 2. [[Teoria de la Ley Natural]]
 3. [[Utilitarianismo]]
 4. [[Libertarianismo]]
+5. [[Etica Kantiana]]
 ___
