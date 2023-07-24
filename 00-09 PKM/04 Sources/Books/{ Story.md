@@ -200,7 +200,11 @@ El protagonista de una historia es tan emocional e intelectualmente interesante 
 La **exposición** es toda la información relevante para comprender los eventos de la historia. Esta información debe ser suministrada gradualmente por medio de las escenas. La mejor manera de presentar la exposición es *dramatizandola*, es decir, haciendola parte de la historia para generar conflicto. Los eventos significativos en la vida de un personaje pueden usarse como revelación para darle un giro a una escena.
 
 #### Problemas Narrativos (y sus soluciones)
-
+- **Interés** - La audiencia puede sentir interés intelectual (curiosidad) y emocional (preocupación) por una obra.
+	- *Misterio* - La audiencia sabe menos que los personajes. Genera curiosidad
+	- *Suspenso* - La audiencia sabe lo mismo que los personajes (Estándar)
+	- *Ironía Dramática* - La audiencia sabe más que los personajes. Genera empatía
+- 
 
 ## Puntos Clave
 

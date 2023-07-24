@@ -168,7 +168,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -310,9 +311,12 @@
   },
   "active": "5c5a5d6e4d634f6e",
   "lastOpenFiles": [
+    "90-99 Ciencias Sociales/95 Derecho/95.00 Derecho.md",
+    "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md",
+    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Objetivos de Entrenamiento.md",
+    "00-09 PKM/04 Sources/Books/{ Story.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica Kantiana.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
-    "00-09 PKM/04 Sources/Books/{ Story.md",
     "30-39 Lenguajes/30 Linguistica/English Usage.md",
     "30-39 Lenguajes/30 Linguistica/English Grammar.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-12.md",
@@ -333,9 +337,6 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-24.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-23.md",
     "00-09 PKM/06 Digital Garden/Digital Gardens.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-22.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Thought Collisions.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/The truest habit metaphors are additive - v1.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.canvas",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",
