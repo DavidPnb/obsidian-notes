@@ -40,6 +40,9 @@ La memoria puede dividirse en dos tipos: declarativa y no declarativa. La **memo
 ### Memoria a Largo Plazo
 La memoria a corto plazo tiene capacidad limitada y almacenamiento temporal; para que las memorias se vuelvan estables, estas se transfieren al almacenamiento a largo plazo en un proceso llamado **consolidación**. Cada vez que una memoria es recordada, esta se transfiere a la memoria a corto plazo lo que permite que sea modificada de nuevo. La calidad de un recuerdo se reduce exponencialmente con el paso del tiempo. La elaboración y la repetición disminuyen esta perdida de memoria.
 
+### Sueño
+El sueño es regulado por dos procesos opuestos que regulan nuestra capacidad para mantenernos depiertos. Este ayuda a conservar las habilidades cognitivas y es vital para la salud mental.
+
 ## Puntos Clave
 
 ## Contexto

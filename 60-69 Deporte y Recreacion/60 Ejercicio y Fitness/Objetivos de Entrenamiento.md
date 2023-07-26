@@ -12,8 +12,7 @@ up:: [[60.00 Fitness]]
 ## Calentamiento
 10-20 Burpees
 15 Wrist Circles, Shoulder Circles, Bodyweight Squats
-60s Support
-30-60s Plank
+Flat Knee Raises 1x10
 
 ## Skills
 5-10 min HS
@@ -28,15 +27,13 @@ up:: [[60.00 Fitness]]
 - Columna
 
 ## Ejercicio
-- Diamond PU Chest 20 max - 20x20x20->20
-- Frog Stand - 12s->1min
-- Half Pull-ups 5 max - 2x6->15
-- 1/2 Pistol Squats 3x5->20
-- Uneven Squats - 3x10->20
+- Wall PU 1x11->50
+- Shoulderstand Squats 1x10->50
+- Vertical Pulls - 1x11->40
 - Compression - 2x10s
 - Bicep Curls - 3x15 3b->3b
 - Compressed Pike/Straddle 30s
 
-Semana: 3-1
+Semana: 1-2
 ___
  
