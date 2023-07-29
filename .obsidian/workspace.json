@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica Aplicada.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,15 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-07-26.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-07-26.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica Aplicada.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -204,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-07-26.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica Aplicada.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-07-26.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica Aplicada.md"
               }
             }
           },
@@ -300,7 +299,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 507.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,37 +317,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0218fc0333ba1cad",
+  "active": "359cde9fd4c23dd9",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-25.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica Aplicada.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Teoria de la Justicia de Rawls.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Politica.md",
+    "00-09 PKM/04 Sources/Books/{ Story.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-29.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-28.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-27.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-26.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-25.md",
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-24.md",
-    "00-09 PKM/04 Sources/Books/{ Story.md",
     "90-99 Ciencias Sociales/95 Derecho/95.00 Derecho.md",
     "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Objetivos de Entrenamiento.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica Kantiana.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
     "30-39 Lenguajes/30 Linguistica/English Usage.md",
     "30-39 Lenguajes/30 Linguistica/English Grammar.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-12.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-07.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-04.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-03.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-08.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-01.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-30.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-29.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-28.md",
-    "00-09 PKM/04 Sources/Books/{ Steal Like an Artist.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-27.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-26.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-25.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.canvas",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",
