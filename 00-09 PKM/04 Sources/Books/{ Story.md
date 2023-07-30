@@ -14,7 +14,7 @@ subject:: [[80.00 Escritura MOC]]
 
 started:: 2023-04-20 12:01
 
-finished::
+finished:: 2023-07-29 20:01
 
 ## 📚 Libros Relacionados
 
@@ -211,6 +211,14 @@ La **exposición** es toda la información relevante para comprender los eventos
 - **Adaptación** - Para adaptar una obra, esta debe reinventarse bajo las convenciones del medio. La prosa dramatiza mejor el conflicto interno, el teatro hace mejor los conflictos personales y la pantalla los interpersonales. Entre más puro sea el conflicto de una obra, más dificil sera adaptarla a otro medio
 - **Melodrama** - Las acusaciones de melodrama surgen por motivaciones insuficientes para las acciones realizadas por los personajes
 - **Plot Holes** - En caso de que la audiencia puede notar un agujeros de guión, este se puede intentar racionalizar para conseguir que la audiencia le encuentre sentido
+
+#### Personaje
+Las **dimensiones** de un personaje vienen de las contradicciones que se presentan en este. La variedad de dimensiones de un personaje hace que la audiencia empatice con este, por esto, el protagonista debe ser el personaje con más dimensiones, mientras que el resto del elenco cumple la función de resaltarlas.
+
+#### Texto
+El dialogo de una obra no solo esta caracterizado por su contenido; el **subtexto** es lo que trata de expresarse con el dialogo, el cual debe tener un propósito narrativo para la escena y la historia en general.
+
+La descripción debe ser expresiva y debe seleccionar los elementos que mejor comuniquen la escena o produzcan un significado narrativo
 
 ## Puntos Clave
 

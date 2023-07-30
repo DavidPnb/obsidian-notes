@@ -9,5 +9,6 @@ Consiste en otorgar más oportunidades a individuos pertenecientes a grupos que 
 
 ### Justificaciones
 - **Corección** - El uso de esta medida puede ayudar a corregir sesgos en los procesos de selección
-- **
+- **Compensación** - Se hace para enmendar acciones en contra de minorías oprimidas en el pasado. Depende de una responsabilidad moral colectiva
+- **Diversidad** - Se promueve la diversidad para aumentar la representación social de ciertos grupos. Esto tiene objeciones teóricas y prácticas
 ___
