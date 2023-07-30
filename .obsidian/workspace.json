@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-07-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-07-29.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-07-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-07-29.md"
               }
             }
           },
@@ -299,8 +299,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5,
-    "collapsed": true
+    "width": 507.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,18 +316,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "359cde9fd4c23dd9",
   "lastOpenFiles": [
+    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica Aplicada.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica de la Virtud.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
+    "00-09 PKM/04 Sources/Books/{ Story.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Teoria de la Justicia de Rawls.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Politica.md",
-    "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-29.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-28.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-27.md",
@@ -347,8 +347,6 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-04.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-03.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-08.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-01.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-30.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.canvas",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",
