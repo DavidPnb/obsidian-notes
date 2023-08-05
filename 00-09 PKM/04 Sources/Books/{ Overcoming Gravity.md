@@ -14,7 +14,7 @@ subject:: [[60.00 Fitness]]
 
 started:: 2022-12-19 20:52
 
-finished::
+finished:: 2023-7-19 20:52
 
 ## 📚 Libros Relacionados
 
