@@ -45,6 +45,24 @@ finished::
 - Fatiga
 - Factores bioenergéticos de desempeño
 
+### Respuestas Endocrinas al Entrenamiento de Resistencia
+- Endocrinología
+- Hormonas Anabólicas
+- Respuesta hormonal al entrenamiento de resistencia
+
+### Adaptaciones al Entrenamiento Anaeróbico
+
+### Adaptaciones al Entrenamiento Aeróbico
+
+### Diferencias de Edad y Sexo
+
+### Psicología de Preparación y Desempeño Atlético
+
+### Factores Básicos de Nutrición
+
+### Estrategias de Nutrición
+
+
 ## Relevancia
 
 ## Anexos
