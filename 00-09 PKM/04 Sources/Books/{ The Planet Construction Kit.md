@@ -24,6 +24,20 @@ Worldbuilding StackExchange
 ## Citas
 
 ## Notas
+### Fantasía
+- Gobierno
+- Economía
+- Clima
+- Ejercito
+- Educación
+- Tecnología
+- Religión
+
+### Historia
+Evitar la sobreexposición:
+- Evitar explicar aspectos del mundo a través de los personajes
+- Ajustar la trama para mostrar aspectos interesantes del mundo
+- Usar una minima cantidad de detalles
 
 ## Puntos Clave
 

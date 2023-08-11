@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md"
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md"
               }
             }
           },
@@ -321,10 +321,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6c0c13a972dda5be",
+  "active": "3486d79f7e3c00ed",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
+    "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica Aplicada.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-30.md",
