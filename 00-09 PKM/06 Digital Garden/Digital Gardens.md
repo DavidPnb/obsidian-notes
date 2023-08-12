@@ -1,5 +1,4 @@
 
--   [The Quantum Well](https://publish.obsidian.md/myquantumwell/) on Physics and Mathematics
 -   [qwxlea’ Logseq page](https://qwxlea.github.io/#/page/Start%20here) on PKM and Psychology
 -   [Alexis Rondeau](https://publish.obsidian.md/alexisrondeau/) on Developing and Business
 -   [Anne-Laure Le Cunff’s Mental Nodes](https://www.mentalnodes.com/) on Metacognition and Networked Thinking
