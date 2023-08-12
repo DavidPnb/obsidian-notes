@@ -24,8 +24,7 @@ finished::
 
 ## Notas
 ### Estructura y Función de los Sistemas del Cuerpo
-- Macroestructura y microestructura de músculo y hueso
-- Teoría de contracción muscular
+[[Sistema Esqueletomuscular]]
 - Morfología y características de los tipos de fibras musculares
 - Características anatómicas y fisiológicas del sistema cardiovascular y respiratorio
 
