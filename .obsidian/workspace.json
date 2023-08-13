@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md"
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md"
               }
             }
           },
@@ -321,8 +321,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6c0c13a972dda5be",
+  "active": "3486d79f7e3c00ed",
   "lastOpenFiles": [
+    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
     "40-49 Ciencias/43 Quimica/Reacciones Acido-Base.md",
     "40-49 Ciencias/43 Quimica/43.00 Quimica.md",
     "40-49 Ciencias/43 Quimica/Atomos.md",
@@ -330,7 +331,6 @@
     "40-49 Ciencias/43 Quimica/Moleculas.md",
     "40-49 Ciencias/43 Quimica/Reacciones Quimicas.md",
     "40-49 Ciencias/43 Quimica/Materia.md",
-    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",

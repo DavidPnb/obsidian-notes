@@ -33,11 +33,33 @@ Worldbuilding StackExchange
 - Tecnología
 - Religión
 
-### Historia
+### Narrativa
 Evitar la sobreexposición:
 - Evitar explicar aspectos del mundo a través de los personajes
 - Ajustar la trama para mostrar aspectos interesantes del mundo
 - Usar una minima cantidad de detalles
+
+### Astronomia y Geología
+- Clasificación estelar
+	- Zona habitable
+	- Rotación y Traslación
+- Placas tectónicas
+- Zonas climáticas
+- Atmósfera
+- Corrientes
+- Ríos
+
+### Biología
+- **Razas de Fantasía**
+	- Inspiración mitológica/literaria
+	- Diferenciables de un humano
+	- Plausibilidad ecológica y cultural
+- **Aliens**
+	- Requisitos para la inteligencia
+	- Plausibilidad biológica
+- **Robots**
+	- Plausibilidad práctica y tecnológica
+- **Agricultura**
 
 ## Puntos Clave
 
