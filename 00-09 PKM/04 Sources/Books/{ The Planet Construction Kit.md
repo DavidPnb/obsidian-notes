@@ -61,6 +61,12 @@ Evitar la sobreexposición:
 	- Plausibilidad práctica y tecnológica
 - **Agricultura**
 
+### Historia
+- Desarrollo iterativo
+	- Mapas
+	- Graficos
+	- Tablas
+
 ## Puntos Clave
 
 ## Contexto
