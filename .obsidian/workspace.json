@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9625e5a20db9b233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
+                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -199,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5146293640137
+    "width": 420.5146293640137,
+    "collapsed": true
   },
   "right": {
     "id": "6a3a32269de26270",
@@ -216,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
+                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md"
+                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md"
               }
             }
           },
@@ -333,19 +321,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "531551c40669c77c",
+  "active": "6c0c13a972dda5be",
   "lastOpenFiles": [
+    "40-49 Ciencias/43 Quimica/Reacciones Acido-Base.md",
+    "40-49 Ciencias/43 Quimica/43.00 Quimica.md",
+    "40-49 Ciencias/43 Quimica/Atomos.md",
+    "40-49 Ciencias/43 Quimica/Iones.md",
+    "40-49 Ciencias/43 Quimica/Moleculas.md",
+    "40-49 Ciencias/43 Quimica/Reacciones Quimicas.md",
+    "40-49 Ciencias/43 Quimica/Materia.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
+    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
+    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",
     "00-09 PKM/03 Extras/Media/Sarcomero.png",
     "00-09 PKM/03 Extras/Media/Fibra Muscular.png",
     "00-09 PKM/03 Extras/Media/Unidad Motora.png",
     "00-09 PKM/03 Extras/Media/Musculo.png",
-    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "00-09 PKM/03 Extras/Media/Musculatura.png",
     "00-09 PKM/03 Extras/Media/Esqueleto.png",
     "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
-    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica Aplicada.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-07-30.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-06-04.md",
@@ -360,13 +356,6 @@
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Teoria de la Justicia de Rawls.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Politica.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-28.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-27.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-26.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-25.md",
-    "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-24.md",
-    "90-99 Ciencias Sociales/95 Derecho/95.00 Derecho.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.canvas",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",

@@ -21,13 +21,25 @@ La **columna vertebral** esta hecha de huesos (vértebras) separados por discos 
 ## Musculatura
 ![[Musculatura.png]]
 
+El **epimisio** es tejido conectivo que recubre el músculo esquelético. El **tendón** se encuentra en los extremos del músculo y se conecta al hueso a través de tejido conectivo especial.
+
+Las **fibras musculares** son células cilindricas que se juntan en grupos llamados **facículos** dentro del epimisio. Cada facículo esta recubierto por un **perimisio**, cada fibra esta recubierta por un **endomisio**; ambos son tejido conectivo y se conectan directamente al tendón. La membrana de la fibra se llama **sarcolema**.
+
 ![[Musculo.png]]
+
+Las **motoneuronas** (neuronas motoras) se conectan a grupos de fibras en **uniones neuromusculares**. El conjunto de la motoneurona y las fibras a las que se conecta es llamado **unidad motora**, ya que las fibras se contraen en conjunto.
 
 ![[Unidad Motora.png]]
 
+El **sarcoplasma** (citoplasma de una célula muscular) contiene **miofibrilas**, que son unidades de contracción. Las miofibrilas contienen **miosinas** y **actinas** que se organizan formando **sarcómeros** (unidad más pequeña de contracción muscular).
+
 ![[Fibra Muscular.png]]
 
+Las miosinas estan ancladas a la **línea M**, mientras que las actinas estan ancladas a la **línea Z**. La **banda I** presenta solo filamentos de actina, la **zona H** solo presenta filamentos de miosina y la **banda A** contiene ambos filamentos.
+
 ![[Sarcomero.png]]
+
+El **retículo sarcoplasmatico** rodea cada miofibrila y acumula $\ce{ C+ }$, que genera la contracción muscular al liberarse por un impulso nervioso.
 
 ![[Contraccion Muscular.png]]
 ___
