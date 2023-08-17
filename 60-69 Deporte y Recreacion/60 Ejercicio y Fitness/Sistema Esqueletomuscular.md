@@ -41,5 +41,8 @@ Las miosinas estan ancladas a la **línea M**, mientras que las actinas estan an
 
 El **retículo sarcoplasmatico** rodea cada miofibrila y acumula $\ce{ C+ }$, que genera la contracción muscular al liberarse por un impulso nervioso.
 
+### Contracción Muscular
+La actina se desliza sobre los filamentos de miosina, acortando al músculo. El número de conexiones entre la miosina y la actina determina la producción de fuerza de un músculo.
+
 ![[Contraccion Muscular.png]]
 ___
