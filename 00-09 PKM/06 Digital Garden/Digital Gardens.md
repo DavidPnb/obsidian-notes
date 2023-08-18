@@ -1,6 +1,4 @@
 
--   [qwxlea’ Logseq page](https://qwxlea.github.io/#/page/Start%20here) on PKM and Psychology
--   [Alexis Rondeau](https://publish.obsidian.md/alexisrondeau/) on Developing and Business
 -   [Anne-Laure Le Cunff’s Mental Nodes](https://www.mentalnodes.com/) on Metacognition and Networked Thinking
 -   [Walk in the Forest](https://walkintheforest.com/) on Python and Bioengineering
 -   [chromatically](https://publish.obsidian.md/chromatically) on Nursing and Medicine
