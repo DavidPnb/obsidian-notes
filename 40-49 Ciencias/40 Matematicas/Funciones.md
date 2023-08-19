@@ -43,4 +43,7 @@ Son funciones que estan definidas por diferentes formulas en distintas partes de
 
 ## Funciones Inyectivas
 Una función es **inyectiva** si y solo si $f(x_{1})=f(x_{2})$ únicamente cuando $x_{1}=x_{2}$ .
+
+## Funciones Inversas
+[[Funciones Inversas]]
 ___

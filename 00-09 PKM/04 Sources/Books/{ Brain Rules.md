@@ -43,6 +43,14 @@ La memoria a corto plazo tiene capacidad limitada y almacenamiento temporal; par
 ### Sueño
 El sueño es regulado por dos procesos opuestos que regulan nuestra capacidad para mantenernos depiertos. Este ayuda a conservar las habilidades cognitivas y es vital para la salud mental.
 
+### Estrés
+El estrés se produce al cumplirse las siguientes condiciones
+- Estado psicológico de alerta
+- Aversión a la situación que provoca este estado
+- Falta de control sobre la situación
+
+El estrés es una adaptación evolutiva para responder a amenazas a corto plazo. Por esta razón el cuerpo no suele responder bien ante exposiciones prolongadas al estrés, provocando una dismininución en la capacidad cognitiva, daños al sistema inmune y daños al sistema cardiovascular.
+
 ## Puntos Clave
 
 ## Contexto

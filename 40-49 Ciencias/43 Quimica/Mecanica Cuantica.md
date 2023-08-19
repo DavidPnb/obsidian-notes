@@ -2,7 +2,7 @@
 created: 2023-02-08 12:05
 ---
 tags:: #on/physics #chemistry 
-up:: [[42.00 Fisica MOC|Fisica]], [[43.00 Quimica|Quimica]]
+up:: [[42.00 Fisica|Fisica]], [[43.00 Quimica|Quimica]]
 # Mecanica Cuantica
 ## Principio de Incertidumbre de Heisenberg
 $\Delta x\Delta P\geq \frac{h}{4\pi}$

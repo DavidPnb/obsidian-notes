@@ -2,7 +2,7 @@
 created: 2023-02-08 09:23
 ---
 tags:: #chemistry #on/physics 
-up:: [[42.00 Fisica MOC|Fisica]], [[43.00 Quimica|Quimica]]
+up:: [[42.00 Fisica|Fisica]], [[43.00 Quimica|Quimica]]
 # Teoría Cuántica
 Lo que impulso el salto de la mecánica clásica a la cuántica fue comprender que los átomos y moléculas no son gobernados por las mismas leyes que los fenomenos macroscópicos.
 

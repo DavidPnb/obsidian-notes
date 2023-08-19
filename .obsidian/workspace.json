@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5146293640137
+    "width": 420.5146293640137,
+    "collapsed": true
   },
   "right": {
     "id": "6a3a32269de26270",
@@ -203,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md"
+                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica.md"
               }
             }
           },
@@ -304,7 +305,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-metatable:Metatable": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
@@ -317,15 +317,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "ef735d50924e4f57",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
+    "00-09 PKM/04 Sources/Books/{ Story.md",
+    "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
+    "40-49 Ciencias/40 Matematicas/Funciones Inversas.md",
+    "40-49 Ciencias/40 Matematicas/Funciones.md",
+    "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
+    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/00 Atlas/00.02 Cards/What are higher-order notes.md",
     "00-09 PKM/00 Atlas/00.02 Cards/We chronically underestimate how long something takes.md",
-    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Vulnerability.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Valor Relativo de un Numero.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Using the thesaurus to generate ideas.md",
@@ -333,7 +339,6 @@
     "00-09 PKM/00 Atlas/00.02 Cards/Understanding the habit cycle and habitual cues.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Trust the process (Kit).md",
     "00-09 PKM/00 Atlas/00.02 Cards/Truffle hunters need to keep perspective, so do parachutists.md",
-    "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
     "40-49 Ciencias/43 Quimica/Reacciones Acido-Base.md",
     "40-49 Ciencias/43 Quimica/43.00 Quimica.md",
@@ -351,11 +356,6 @@
     "00-09 PKM/03 Extras/Media/Musculo.png",
     "00-09 PKM/03 Extras/Media/Musculatura.png",
     "00-09 PKM/03 Extras/Media/Esqueleto.png",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica Aplicada.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-07-30.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-04.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-11.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-06-18.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.canvas",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",

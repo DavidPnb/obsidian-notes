@@ -67,6 +67,10 @@ Evitar la sobreexposición:
 	- Graficos
 	- Tablas
 
+### Cultura
+- Política
+- Economía
+- Vida Diaría
 ## Puntos Clave
 
 ## Contexto
