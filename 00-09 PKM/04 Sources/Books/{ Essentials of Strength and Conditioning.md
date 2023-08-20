@@ -25,7 +25,7 @@ finished::
 ## Notas
 ### Estructura y Función de los Sistemas del Cuerpo
 [[Sistema Esqueletomuscular]]
-- Morfología y características de los tipos de fibras musculares
+[[Sistema Neuromuscular]]
 - Características anatómicas y fisiológicas del sistema cardiovascular y respiratorio
 
 ### Biomécanica del Ejercicio de Resistencia
