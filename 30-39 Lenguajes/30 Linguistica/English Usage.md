@@ -27,4 +27,16 @@ Some indefinite pronouns are treated as singular, some as plural, and others cha
 
 ### Antecedent-Pronoun
 The **antecedent** is the subject to which the pronoun refers. Pronoun and antecedent agree in person, number, and gender. Singular antecedents joined by *and* are refered to by plural pronouns. Singular antecedents joined by *or* are refered to by singular pronouns.
+## Verbs
+### Regularity
+Regular verbs end with *-d/ed*
+### Principal Parts
+Every verb form is derived one of these principal forms
+- **Present** - V(inf)
+- **Present Participle** - aux + V(ing)
+- **Past** - V(past)
+- **Past Participle** - aux + V(part)
+
+### Kinds of Verbs
+**Action verbs** assign an action to a subject; **linking verbs** assign a quality.
 ___

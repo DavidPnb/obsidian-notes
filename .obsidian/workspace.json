@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "6c0c13a972dda5be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef735d50924e4f57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -204,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md"
               }
             }
           },
@@ -321,14 +308,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6c0c13a972dda5be",
+  "active": "ef735d50924e4f57",
   "lastOpenFiles": [
+    "30-39 Lenguajes/30 Linguistica/English Usage.md",
+    "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
+    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
-    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
-    "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
     "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
