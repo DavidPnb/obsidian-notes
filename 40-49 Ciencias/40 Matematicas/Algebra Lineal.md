@@ -5,4 +5,5 @@ tags:: #Mathematics
 up:: [[40.02 Algebra|Algebra]]
 # Algebra Lineal
 ## Matrices y Eliminación Gaussiana
+
 ___
