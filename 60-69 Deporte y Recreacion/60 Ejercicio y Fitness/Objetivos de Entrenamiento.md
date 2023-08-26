@@ -12,7 +12,7 @@ up:: [[60.00 Fitness]]
 ## Calentamiento
 10-20 Burpees
 15 Wrist Circles, Shoulder Circles, Bodyweight Squats
-Knee Tucks 2x23->40
+Knee Tucks 2x24->40
 
 ## Skills
 5-10 min HS
@@ -27,9 +27,9 @@ Knee Tucks 2x23->40
 - Columna
 
 ## Ejercicio
-- Wall PU 2x23->50
-- Shoulderstand Squats 2x23->50
-- Vertical Pulls - 3x23->40
+- Wall PU 2x24->50
+- Shoulderstand Squats 2x24->50
+- Vertical Pulls - 3x24->40
 - Compression - 2x10s
 - Bicep Curls - 3x15 3b->3b
 - Compressed Pike/Straddle 30s

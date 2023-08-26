@@ -51,6 +51,9 @@ El estrés se produce al cumplirse las siguientes condiciones
 
 El estrés es una adaptación evolutiva para responder a amenazas a corto plazo. Por esta razón el cuerpo no suele responder bien ante exposiciones prolongadas al estrés, provocando una dismininución en la capacidad cognitiva, daños al sistema inmune y daños al sistema cardiovascular.
 
+### Integración Sensorial
+El cerebro percibe el mundo a través de los diferentes sentidos, que convierten señales eléctricas y las reparten a lo largo de la corteza para ser posteriormente unificadas en una percepción. Este proceso de unificación es determinado por la memoria, haciendo que la misma experiencia sea diferente para cada persona.
+
 ## Puntos Clave
 
 ## Contexto
