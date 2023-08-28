@@ -71,6 +71,16 @@ Evitar la sobreexposición:
 - Política
 - Economía
 - Vida Diaría
+### Religión
+- Estructura Social
+- Rituales
+- Leyes
+- Prácticas
+- Cosmología
+- Metafísica
+### Magia
+- Soft
+- Hard
 ## Puntos Clave
 
 ## Contexto

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md"
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md"
               }
             }
           },
@@ -305,19 +305,18 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "ef735d50924e4f57",
   "lastOpenFiles": [
+    "30-39 Lenguajes/30 Linguistica/English Usage.md",
     "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md",
     "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
     "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
     "40-49 Ciencias/40 Matematicas/Ecuaciones Lineares.md",
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
-    "30-39 Lenguajes/30 Linguistica/English Usage.md",
     "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
