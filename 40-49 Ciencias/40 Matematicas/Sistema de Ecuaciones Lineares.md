@@ -29,7 +29,11 @@ Es un método usado para resolver matrices $n\times m$ .
 
 Al terminarse este proceso se lleva a cabo un proceso de sustitución empezando por la última ecuación.
 
-El primer coeficiente de cada ecuación del sistema triangular es llamado **pivot**.
+El primer coeficiente de cada ecuación del sistema triangular es llamado **pivot**. Si uno de los pivots es igual a cero, el sistema no tiene solución o tiene soluciones infinitas.
+
+La eliminación gaussiana tiene un costo computacional de $\frac{1}{3}n^{3}$ operaciones y la sustitución de $\frac{n^{2}}{2}$ aproximadamente.
+
+
 ## Determinantes
 [[Determinantes]]
 ___

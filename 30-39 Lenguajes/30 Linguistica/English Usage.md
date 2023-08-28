@@ -39,4 +39,8 @@ Every verb form is derived one of these principal forms
 
 ### Kinds of Verbs
 **Action verbs** assign an action to a subject; **linking verbs** assign a quality.
+### Tense
+The **verb tenses** are: past, present, and future. If a verb is in perfect tense, it has the helping verb *have*. A verb in progressive tense ends in *-ing*.
+
+Present perfect tense is used to indicate an action in the indefinite past. Past and future perfect tense are to express action completed before another action.
 ___
