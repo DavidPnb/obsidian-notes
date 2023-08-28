@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
+                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
+                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
+                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Algebra Lineal.md"
+                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md"
               }
             }
           },
@@ -310,6 +310,8 @@
   },
   "active": "ef735d50924e4f57",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
+    "40-49 Ciencias/40 Matematicas/Ecuaciones Lineares.md",
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "30-39 Lenguajes/30 Linguistica/English Usage.md",
@@ -323,7 +325,6 @@
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "40-49 Ciencias/40 Matematicas/Funciones Inversas.md",
     "40-49 Ciencias/40 Matematicas/Funciones.md",
-    "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
     "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/00 Atlas/00.02 Cards/What are higher-order notes.md",
     "00-09 PKM/00 Atlas/00.02 Cards/We chronically underestimate how long something takes.md",
@@ -337,7 +338,6 @@
     "40-49 Ciencias/43 Quimica/Reacciones Acido-Base.md",
     "40-49 Ciencias/43 Quimica/43.00 Quimica.md",
     "40-49 Ciencias/43 Quimica/Atomos.md",
-    "40-49 Ciencias/43 Quimica/Iones.md",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",
     "00-09 PKM/03 Extras/Media/Sarcomero.png",
     "00-09 PKM/03 Extras/Media/Fibra Muscular.png",

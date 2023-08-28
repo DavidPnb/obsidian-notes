@@ -21,6 +21,15 @@ Un **sistema de ecuaciones lineales con tres incognitas** se resuelve al elimina
 Estas ecuaciones tienen la forma $ax + by + cz = d$ , donde donde $a, b, c, d$ pertenecen a los [[Numeros Reales]] y no son todos cero. Si consideramos tres ecuaciones: $$\begin{array}{lcl} a_1x+b_1y+c_1z & = & d_1 \\ a_2x+b_2y+c_2z & = & d_2 \\ a_3x+b_3y+c_3z & = & d_3 \end{array}$$
 y encontramos un valor $(x, y, z)$ que satisfaga todas, se dice que tenemos una **solución simultanea** para el sistema de ecuaciones
 
+## Eliminación Gaussiana
+Es un método usado para resolver matrices $n\times m$ .
+1. Se toman múltiplos de la primera ecuación y se suman a las demás ecuaciones de modo que se elimine la primera variable
+2. Se pasa a la segunda ecuación y la segunda incognita y se repite el proceso
+3. Se continua hasta que se obtiene un **sistema triangular** en el cual cada ecuación tiene una incognita menos que su ecuación precedente (a excepción de la primera)
+
+Al terminarse este proceso se lleva a cabo un proceso de sustitución empezando por la última ecuación.
+
+El primer coeficiente de cada ecuación del sistema triangular es llamado **pivot**.
 ## Determinantes
 [[Determinantes]]
 ___
