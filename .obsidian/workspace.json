@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md"
+                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md"
               }
             }
           },
@@ -305,12 +305,17 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "ef735d50924e4f57",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
+    "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
+    "00-09 PKM/04 Sources/Books/{ Drawing on the Right Side of the Brain.md",
+    "00-09 PKM/04 Sources/Books/{ The Princeton Companion to Mathematics.md",
+    "30-39 Lenguajes/30 Linguistica/English Usage.md",
+    "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
     "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/06 Digital Garden/Digital Gardens.md",
@@ -324,10 +329,7 @@
     "00-09 PKM/00 Atlas/00.02 Cards/What is a note.md",
     "00-09 PKM/00 Atlas/00.02 Cards/What does X mean in metadata.md",
     "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
-    "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
-    "30-39 Lenguajes/30 Linguistica/English Usage.md",
     "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md",
-    "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
     "40-49 Ciencias/40 Matematicas/Ecuaciones Lineares.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
@@ -336,9 +338,6 @@
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
-    "40-49 Ciencias/40 Matematicas/Funciones Inversas.md",
-    "40-49 Ciencias/40 Matematicas/Funciones.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/What are higher-order notes.md",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",
     "00-09 PKM/03 Extras/Media/Sarcomero.png",
     "00-09 PKM/03 Extras/Media/Fibra Muscular.png",

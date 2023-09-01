@@ -14,7 +14,7 @@ subject:: [[Worldbuilding]]
 
 started:: 2023-07-30 11:42
 
-finished::
+finished:: 2023-09-01 12:38
 
 ## 🔍 Como lo Descubri
 Worldbuilding StackExchange
@@ -81,6 +81,16 @@ Evitar la sobreexposición:
 ### Magia
 - Soft
 - Hard
+
+### Tecnología
+- Coherencia historica
+
+### Guerra
+- Cultura
+- Tecnología
+- Logística
+- Geografía
+- Comunicaciones
 ## Puntos Clave
 
 ## Contexto

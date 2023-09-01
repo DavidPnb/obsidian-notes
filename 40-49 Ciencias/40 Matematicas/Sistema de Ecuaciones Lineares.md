@@ -35,6 +35,16 @@ La eliminación gaussiana tiene un costo computacional de $\frac{1}{3}n^{3}$ ope
 
 ## Matrices
 Un sistema de ecuaciones puede representarse a través de una **matriz** de modo que las filas representen ecuaciones y las columnas representen variables. En este sentido un vector puede ser considerado una matriz de $n$ dimensiones.
+
+### Operaciones
+La suma se puede realizar en matrices con las mismas dimensiones y los índices de la matriz resultante son igual a la suma de los índices correspondientes de los operandos.
+
+La multiplicación se realiza con una matriz con $m\times n$ dimensiones y una matriz de $n\times p$ dimensiones, lo que resulta en una matriz de $m\times p$ dimensiones. El índice $a_{ij}$ de la matriz resultante es igual al producto punto entre la fila $i$ de la primera matriz y la columna $j$ de la segunda matriz.
+
+### Propiedades
+1. Las operaciones con matrices son distributibas
+2. Las operaciones con matrices son asociativas
+3. La multiplicación de matrices no es conmutativa
 ## Determinantes
 [[Determinantes]]
 ___

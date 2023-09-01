@@ -44,4 +44,13 @@ The **verb tenses** are: past, present, and future. If a verb is in perfect tens
 
 Present perfect tense is used to indicate an action in the indefinite past. Past and future perfect tense are to express action completed before another action.
 
+Present infinitive is used to express action following another verb. Perfect infinitive is used to express action happening before the preceding verb.
+
+### Active and Passive Voice
+**Passive voice** is constructed with *to be* accompanied by a verb in past participle; it expresses action performed upon a subject. **Active voice** expresses action performed by a subject and is always stronger than passive voice.
+
+The passive voice tends to be used when the object performing the action is not mentioned.
+
+### Subjunctive Mood
+**Subjunctive mood** (*be/were*) is used to express condition contrary to fact and desirative language; in modern english, its usage is reserved for formal writing.
 ___
