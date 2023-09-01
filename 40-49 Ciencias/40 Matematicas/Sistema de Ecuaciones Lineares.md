@@ -33,7 +33,8 @@ El primer coeficiente de cada ecuación del sistema triangular es llamado **pivo
 
 La eliminación gaussiana tiene un costo computacional de $\frac{1}{3}n^{3}$ operaciones y la sustitución de $\frac{n^{2}}{2}$ aproximadamente.
 
-
+## Matrices
+Un sistema de ecuaciones puede representarse a través de una **matriz** de modo que las filas representen ecuaciones y las columnas representen variables. En este sentido un vector puede ser considerado una matriz de $n$ dimensiones.
 ## Determinantes
 [[Determinantes]]
 ___

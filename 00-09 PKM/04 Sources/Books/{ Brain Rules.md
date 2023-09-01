@@ -54,6 +54,8 @@ El estrés es una adaptación evolutiva para responder a amenazas a corto plazo.
 ### Integración Sensorial
 El cerebro percibe el mundo a través de los diferentes sentidos, que convierten señales eléctricas y las reparten a lo largo de la corteza para ser posteriormente unificadas en una percepción. Este proceso de unificación es determinado por la memoria, haciendo que la misma experiencia sea diferente para cada persona.
 
+### Visión
+La evidencia empírica sugiere que la visión es el sentido con mayor predominancia tiene gran capacidad para influenciar lo que perciben los otros. La visión comienza cuando la luz impacta la retina, la cual produce grupos de información acerca de la imagen; estos grupos son divididos en información cada vez más especifica que luego se vuelve a unificar en una imagen compleja.
 ## Puntos Clave
 
 ## Contexto
