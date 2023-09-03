@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Argumento Ontologico.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Argumento Ontologico.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Argumento Ontologico.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Argumento Ontologico.md"
               }
             }
           },
@@ -310,8 +310,9 @@
   },
   "active": "ef735d50924e4f57",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Teologia Natural.md",
     "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
+    "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
     "00-09 PKM/04 Sources/Books/{ Drawing on the Right Side of the Brain.md",
     "00-09 PKM/04 Sources/Books/{ The Princeton Companion to Mathematics.md",
     "30-39 Lenguajes/30 Linguistica/English Usage.md",
@@ -337,7 +338,6 @@
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
-    "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",
     "00-09 PKM/03 Extras/Media/Sarcomero.png",
     "00-09 PKM/03 Extras/Media/Fibra Muscular.png",
