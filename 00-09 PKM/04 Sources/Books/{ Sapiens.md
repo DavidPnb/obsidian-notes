@@ -55,6 +55,8 @@ Las características que podemos asumir son:
 2. Práctica del animismo
 3. Estructura social poco jerarquizada
 
+### El Diluvio
+Los datos arqueológicos indican que hace aproximadamente 45 000 años el ser humano dejo Eurasia por primera vez, y luego de un periodo de 30 000, colonizó todos los demás continentes. En el proceso, desequilibró en gran medida los ecosistemas y extinguió a la mitad de los animales grandes que habitaron la tierra.
 ## Puntos Clave
 
 ## Contexto
