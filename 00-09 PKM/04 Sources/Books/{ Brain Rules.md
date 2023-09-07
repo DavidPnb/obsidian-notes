@@ -14,7 +14,7 @@ subject:: [[Neurociencia MOC]]
 
 started:: 2023-05-30 19:39
 
-finished::
+finished:: 2023-09-07 
 
 ## 🔍 Como lo Descubri
 Thomas Frank
@@ -56,6 +56,12 @@ El cerebro percibe el mundo a través de los diferentes sentidos, que convierten
 
 ### Visión
 La evidencia empírica sugiere que la visión es el sentido con mayor predominancia tiene gran capacidad para influenciar lo que perciben los otros. La visión comienza cuando la luz impacta la retina, la cual produce grupos de información acerca de la imagen; estos grupos son divididos en información cada vez más especifica que luego se vuelve a unificar en una imagen compleja.
+
+### Género
+La estructura del cerebro varía dependiendo del sexo de una persona, pero aún no se conocen las implicaciones de este hecho. Estadísticamente, los hombres y mujeres difieren en sus habilidades verbales y su forma de socializar. Las mujeres suelen recordar los detalles emocionales mientras que los hombres recuerdan la esencia.
+
+### Exploración
+El cerebro esta configurado desde el nacimiento para buscar información empírica sobre el mundo. Esto nos permite formular y evaluar una hipótesis de manera intuitiva y cambiar nuestro comportamiento en base a los resultados. Tambien poseemos neuronas espejo que nos permiten reconocer e imitar comportamientos. Las partes de nuestro cerebro involucradas en el aprendizaje se mantienen maleables por toda nuestra vida.
 ## Puntos Clave
 
 ## Contexto
