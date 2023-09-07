@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Brain Rules.md"
+                "file": "30-39 Lenguajes/30 Linguistica/English Usage.md"
               }
             }
           },
@@ -291,11 +291,16 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "359cde9fd4c23dd9",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
+    "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
+    "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
+    "00-09 PKM/05 Spaces/05.02 Programacion/Alien Invasion.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-09-04.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
@@ -308,9 +313,6 @@
     "00-09 PKM/04 Sources/Books/{ Drawing on the Right Side of the Brain.md",
     "00-09 PKM/04 Sources/Books/{ The Princeton Companion to Mathematics.md",
     "30-39 Lenguajes/30 Linguistica/English Usage.md",
-    "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
-    "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
-    "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Why Categories for Your Notes are a Good Idea.md",
     "00-09 PKM/00 Atlas/00.02 Cards/When Naming Notes, What UID should I use.md",
@@ -321,7 +323,6 @@
     "00-09 PKM/00 Atlas/00.02 Cards/What does X mean in metadata.md",
     "40-49 Ciencias/40 Matematicas/40.06 Trigonometria.md",
     "40-49 Ciencias/40 Matematicas/Ecuaciones Lineares.md",
-    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",

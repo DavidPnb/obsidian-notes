@@ -42,9 +42,13 @@ La suma se puede realizar en matrices con las mismas dimensiones y los índices 
 La multiplicación se realiza con una matriz con $m\times n$ dimensiones y una matriz de $n\times p$ dimensiones, lo que resulta en una matriz de $m\times p$ dimensiones. El índice $a_{ij}$ de la matriz resultante es igual al producto punto entre la fila $i$ de la primera matriz y la columna $j$ de la segunda matriz.
 
 ### Propiedades
-1. Las operaciones con matrices son distributibas
+1. Las operaciones con matrices son distributivas
 2. Las operaciones con matrices son asociativas
 3. La multiplicación de matrices no es conmutativa
+
+### Factorización
+Una matriz $Ax=b$ puede convertirse en una matriz $Ux=c$ , donde $U$ es una **matriz triángular superior** por medio de un proceso de eliminación. $A=LU$ con $L$ como la **matriz triángular inferior** que revierte la eliminación. Una matriz tambien puede resolverse como $A=LDU$ donde $D$ contiene los pivotes del $U$ original y la diagonal de $U$ esta formada por $1$.
+
 ## Determinantes
 [[Determinantes]]
 ___
