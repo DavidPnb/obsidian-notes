@@ -1,7 +1,6 @@
 ---
-alias: ["Filosofia de la Religion"]
-status:
-references:
+aliases:
+  - Filosofia de la Religion
 created: 2022-04-23 12:14
 ---
 tags:: #on/philosophy 
@@ -20,7 +19,6 @@ Se diferencia de la Teologia convencional en que la Teologia supone desde un pri
 - [[Argumento Ontologico]]
 - [[Cinco Vias]]
 - [[Diseño Inteligente]]
-- [[]]
 
 ### En Contra
 - [[Problema de la Maldad]]
