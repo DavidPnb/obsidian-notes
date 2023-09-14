@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cinco Vias.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cinco Vias.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cinco Vias.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cinco Vias.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md"
               }
             }
           },
@@ -323,8 +323,14 @@
   },
   "active": "bf7cd47a050d763f",
   "lastOpenFiles": [
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Argumento Ontologico.md",
+    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cinco Vias.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/You are what you eat.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Yin and Yang.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Wu wei.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Writing down daily goals in the morning is an important habit.md",
+    "00-09 PKM/00 Atlas/00.02 Cards/Words I've used to describe important habits.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Argumento Ontologico.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Teologia Natural.md",
     "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
     "40-49 Ciencias/42 Fisica/Mecanica Clasica.md",
@@ -343,12 +349,6 @@
     "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
     "00-09 PKM/04 Sources/Books/{ Drawing on the Right Side of the Brain.md",
     "00-09 PKM/04 Sources/Books/{ The Princeton Companion to Mathematics.md",
-    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/Why Categories for Your Notes are a Good Idea.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/When Naming Notes, What UID should I use.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/What would it take to get to self-driving cars to collectively communicate.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/What is an MOC - Various Answers.md",
-    "00-09 PKM/00 Atlas/00.02 Cards/What is a Zettelkasten - Various Answers.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",

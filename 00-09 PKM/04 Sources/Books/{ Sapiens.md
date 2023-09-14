@@ -57,6 +57,9 @@ Las características que podemos asumir son:
 
 ### El Diluvio
 Los datos arqueológicos indican que hace aproximadamente 45 000 años el ser humano dejo Eurasia por primera vez, y luego de un periodo de 30 000, colonizó todos los demás continentes. En el proceso, desequilibró en gran medida los ecosistemas y extinguió a la mitad de los animales grandes que habitaron la tierra.
+
+### El Mayor Fraude de la Historia
+El ser humano desarrolló la agricultura alrededor de 10 000 BCE de manera independiente en las regiones que presentaban especies domesticables. La transición fue gradual, pero una vez que las sociedades adoptaban la agricultura estas obtenian una ventaja numérica respecto a las demás. La revolución agricultural redujo la calidad de vida de los miembros individuales de las especies involucradas, pero aumentó exponencialmente el exito evolutivo de las especies como conjunto.
 ## Puntos Clave
 
 ## Contexto
