@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md"
               }
             }
           },
@@ -323,6 +323,9 @@
   },
   "active": "bf7cd47a050d763f",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
+    "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
+    "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cinco Vias.md",
     "00-09 PKM/00 Atlas/00.02 Cards/You are what you eat.md",
@@ -338,12 +341,9 @@
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "30-39 Lenguajes/30 Linguistica/English Usage.md",
-    "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
-    "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
     "00-09 PKM/05 Spaces/05.02 Programacion/Alien Invasion.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-09-04.md",
-    "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
     "00-09 PKM/04 Sources/Books/{ The Planet Construction Kit.md",
     "00-09 PKM/04 Sources/Books/{ De la Brevedad de la Vida.md",
