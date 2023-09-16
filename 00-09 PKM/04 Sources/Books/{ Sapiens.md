@@ -60,6 +60,12 @@ Los datos arqueológicos indican que hace aproximadamente 45 000 años el ser hu
 
 ### El Mayor Fraude de la Historia
 El ser humano desarrolló la agricultura alrededor de 10 000 BCE de manera independiente en las regiones que presentaban especies domesticables. La transición fue gradual, pero una vez que las sociedades adoptaban la agricultura estas obtenian una ventaja numérica respecto a las demás. La revolución agricultural redujo la calidad de vida de los miembros individuales de las especies involucradas, pero aumentó exponencialmente el exito evolutivo de las especies como conjunto.
+
+### Construyendo Pirámides
+La naturaleza de las cosechas en la agricultura lleva a la acumulación original de capital como reserva para tiempos dificiles. Esta plusvalía en capital es posteriormente explotada por las elites para sostener la estructura de una sociedad. Las sociedades con muchos individuos solo se sostenien a través de la imaginación colectiva (*cultura*) por tres motivos principales.
+1. Las ideologías influencian el entorno material de las sociedades que las implementan
+2. Las ideologías influencian la psicología de las personas en estas sociedades
+3. Las ideologías son fenómenos intersubjetivos que involucran a gran cantidad de personas. Para cambiar una ideología se requiere un movimiento masivo de individuos con los mismos objetivos, efectivamente creando otra ideología
 ## Puntos Clave
 
 ## Contexto
