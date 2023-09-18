@@ -328,13 +328,18 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "da9aa353eb2121d4",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Modos de Pensamiento.md",
     "00-09 PKM/04 Sources/Books/{ A Mind for Numbers.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Procrastinacion.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Ilusiones de Competencia.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Chunking.md",
+    "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
     "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
@@ -355,10 +360,6 @@
     "00-09 PKM/00 Atlas/00.02 Cards/Writing down daily goals in the morning is an important habit.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Words I've used to describe important habits.md",
     "40-49 Ciencias/42 Fisica/Mecanica Clasica.md",
-    "00-09 PKM/04 Sources/Books/Introduccion a la Escritura.md",
-    "00-09 PKM/04 Sources/Books/{ Story.md",
-    "30-39 Lenguajes/30 Linguistica/English Usage.md",
-    "00-09 PKM/05 Spaces/05.02 Programacion/Alien Invasion.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",

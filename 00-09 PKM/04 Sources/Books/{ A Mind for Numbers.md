@@ -19,8 +19,10 @@ finished::
 ## 📚 Libros Relacionados
 [[{ What Smart Students Know]]
 
+## Modos de Pensamiento
 [[Modos de Pensamiento]]
 
+## Chunking e Ilusiones de Competencia
 [[Chunking]]
 
 [[Ilusiones de Competencia]]
