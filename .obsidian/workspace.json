@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "da9aa353eb2121d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ A Mind for Numbers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "68bc526e5c71a823",
             "type": "leaf",
             "state": {
@@ -32,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bf7cd47a050d763f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A Mind for Numbers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A Mind for Numbers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md"
+                "file": "00-09 PKM/04 Sources/Books/{ A Mind for Numbers.md"
               }
             }
           },
@@ -328,15 +328,17 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "bf7cd47a050d763f",
+  "active": "da9aa353eb2121d4",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
+    "00-09 PKM/04 Sources/Books/{ A Mind for Numbers.md",
+    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
+    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
-    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/80.00 Escritura MOC.md",
@@ -346,7 +348,6 @@
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Argumento Ontologico.md",
     "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
     "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
-    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cinco Vias.md",
     "00-09 PKM/00 Atlas/00.02 Cards/You are what you eat.md",
     "00-09 PKM/00 Atlas/00.02 Cards/Yin and Yang.md",
@@ -355,11 +356,9 @@
     "00-09 PKM/00 Atlas/00.02 Cards/Words I've used to describe important habits.md",
     "40-49 Ciencias/42 Fisica/Mecanica Clasica.md",
     "00-09 PKM/04 Sources/Books/Introduccion a la Escritura.md",
-    "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "30-39 Lenguajes/30 Linguistica/English Usage.md",
     "00-09 PKM/05 Spaces/05.02 Programacion/Alien Invasion.md",
-    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",
