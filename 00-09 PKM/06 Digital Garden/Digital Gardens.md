@@ -1,5 +1,4 @@
 
--   [chromatically](https://publish.obsidian.md/chromatically) on Nursing and Medicine
 -   [Santi Younger](https://publish.obsidian.md/santi) on Books
 -   [SlRvb](https://publish.obsidian.md/slrvb) on CSS, Writing and TTRPG
 -   [Linking Your Thinking](https://notes.linkingyourthinking.com/) on Personal Knowledge Management
