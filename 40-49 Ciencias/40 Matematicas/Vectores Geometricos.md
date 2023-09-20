@@ -26,18 +26,6 @@ Dos vectores son iguales si y solo si sus características son iguales.
 ## Suma de Vectores
 La suma geométrica de vectores se realiza usando la **regla del paralelogramo**, donde un vector se posiciona con su origen en el extremo del vector anterior, y el **vector suma** va desde el origen del primer vector hasta el extremo del último.
 
-- **Propiedades**
-	- Conmutativa
-		- $\overrightarrow{A}+\overrightarrow{B}=\overrightarrow{B}+\overrightarrow{A}$
-	- Asociativa
-		- $(\overrightarrow{A}+\overrightarrow{B})+\overrightarrow{C}=\overrightarrow{A}+(\overrightarrow{B}+\overrightarrow{C})$
-	- Existencia de elementro neutro
-		- $\overrightarrow{A}+\overrightarrow{0}=\overrightarrow{A}$
-	- Existencia de opuesto
-		- $\overrightarrow{A}+\overrightarrow{B}=\overrightarrow{0}$
-	- Monotonía de la igualdad vectorial respecto a la suma de vectores
-		- $\overrightarrow{A}=\overrightarrow{B}, \overrightarrow{C}=\overrightarrow{D}\implies\overrightarrow{A}+\overrightarrow{C}=\overrightarrow{B}+\overrightarrow{D}$
-
 El **módulo de la suma de vectores** es $$
 |\overrightarrow{A}+\overrightarrow{B}|^{2}=|\overrightarrow{A}|^{2}+|\overrightarrow{B}|^{2}-2|\overrightarrow{A}||\overrightarrow{B}|\cos \theta
 $$ por la ley de cosenos; [[40.06 Trigonometria]]. $\theta$ es el ángulo entre los dos vectores
@@ -45,25 +33,18 @@ $$ por la ley de cosenos; [[40.06 Trigonometria]]. $\theta$ es el ángulo entre 
 ## Resta de Vectores
 Geométricamente, $\overrightarrow{A}-\overrightarrow{B}$ es el vector que al sumarse con $\overrightarrow{B}$ resulta en el vector $\overrightarrow{A}$ . Este vector tiene como origen el extremo de $\overrightarrow{B}$ y como extremo el extremo de $\overrightarrow{A}$ . Se calcula como $\overrightarrow{A}-\overrightarrow{B}=\overrightarrow{A}+(-\overrightarrow{B})$ , donde $-\overrightarrow{B}$ es el opuesto de $\overrightarrow{B}$.
 
-El **módulo de la resta de vectores** es igual al módulo de la suma de vectores.
-
 ## Producto entre un Vector y un Escalar
 Produce un vector proporcional al vector original cuyo sentido depende del signo del escalar y cuyo módulo es $\lambda$ veces mayor.
 
-- **Propiedades**
-	- Distributiva respecto a la suma de vectores
-		- $\lambda(\overrightarrow{A}+\overrightarrow{B})=\lambda\overrightarrow{A}+\lambda\overrightarrow{B}$
-	- Distributiva respecto a la suma escalar
-		- $(\alpha+\beta)\overrightarrow{A}=\alpha\overrightarrow{A}+\beta\overrightarrow{A}$
-	- Monotonía de la igualda vectorial respecto al producto de un escalar por un vector
-		- $\overrightarrow{A}=\overrightarrow{B},\lambda=\alpha\implies \lambda\overrightarrow{A}=\alpha\overrightarrow{B}$
-		- $\overrightarrow{A}=\lambda\overrightarrow{C},\alpha\overrightarrow{B}=\overrightarrow{D}\implies \overrightarrow{A}+\alpha \overrightarrow{B}=\lambda\overrightarrow{C}+\overrightarrow{D}$
-	- Asociativa respecto al producto de un escalar por un vector
-		- $(\alpha \beta)\overrightarrow{A}=\alpha(\beta\overrightarrow{A})=\beta(\alpha\overrightarrow{A})$
-	- $\pm1*\overrightarrow{A}=\pm\overrightarrow{A}$
-	- $0*\overrightarrow{A}=\overrightarrow{0}$
-	- $\lambda\overrightarrow{A}=\overrightarrow{A}\lambda$
-
+## Propiedades Algebraicas
+1. $u+v=v+u$
+2. $(u+v)+w=u+(v+w)$
+3. $u+0=0$
+4. $u+(-u)=0$
+5. $c(u+v)=cu+cv$
+6. $u(a+b)=au+bu$
+7. $c(du)=cdu$
+8. $1u=u$
 ## Vectores Unitarios
 Son vectores cuyo modulo es igual a uno, y por lo tanto estan caracterizados por su dirección y sentido. El vector unitario en la dirección de $\overrightarrow{A}$ , denotado como $\overrightarrow{\mu}_{A}$ , se calcula como $\frac{\overrightarrow{A}}{|\overrightarrow{A}|}$.
 
