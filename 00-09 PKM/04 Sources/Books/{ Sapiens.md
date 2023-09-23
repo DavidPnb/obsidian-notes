@@ -66,6 +66,9 @@ La naturaleza de las cosechas en la agricultura lleva a la acumulación original
 1. Las ideologías influencian el entorno material de las sociedades que las implementan
 2. Las ideologías influencian la psicología de las personas en estas sociedades
 3. Las ideologías son fenómenos intersubjetivos que involucran a gran cantidad de personas. Para cambiar una ideología se requiere un movimiento masivo de individuos con los mismos objetivos, efectivamente creando otra ideología
+
+### Sobrecarga de Memoria
+La enorme cantidad de información necesaria para manejar una sociedad a gran escala obligó a los sumerios a crear la escritura en 3000 BCE. Esta escritura original no era capaz de representar todo el lenguaje verbal y estaba limitada a documentos mercantiles. Con esta nueva manera de organizar la información surgió la necesidad de organizarla, lo que produjo sistemas de almacenamiento de información y de educación civil en los imperios que implementaron la escritura. Los sistemas de escritura no solo funcionan como herramienta, sino que tambien modifican nuestra manera de pensar.
 ## Puntos Clave
 
 ## Contexto
