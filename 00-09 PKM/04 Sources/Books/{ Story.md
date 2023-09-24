@@ -110,12 +110,7 @@ Las **progresiones** se construyen al mover la historia entre los valores positi
 
 
 ### Principios del Diseño de la Historia
-#### Sustancia de la Historia
-El elemento más esencial de la historia es el conflicto, que provoca acción y reacción y une a lo subjetivo con lo objetivo. El protagonista es el principal encargado de mover la trama. Este puede ser **singular**, **plural** (mismos objetivos) o **múltiple** (diferentes objetivos).
-
-El protagonista de la historia debe tener la *capacidad*, *voluntad* y *oportunidad* para alcanzar su objetivo, llegando hasta el límite de sus capacidades. Este objetivo principal puede ser conciente, o uno inconciente que hace contraste con el conciente, dependiendo de la complejidad del personaje. El valor de este objetivo depende de los riesgos que el protagonista este dispuesto a tomar para conseguirlo.Para mantener el lazo con la audiencia, el protagonista debe ser **empatético**, permitiendo que la audiencia perciba en ellos rasgos de su persona.
-
-La credibilidad de una obra tambien depende de las decisiones tomadas por los personaje, que desde su perspectiva, son acciones eficientes y conservadoras que los acercan a sus objetivos. Este acciones se encuentran con antagonismo, que puede ser interno, personal o social; lo que incita a los personajes a tomar riesgos cada vez mayores, generando una progresión.
+[[Sustancia de una Historia]]
 
 #### Incidente Incitante
 - **Elementos de Worldbuilding**
@@ -179,6 +174,8 @@ Estos son los tres eventos finales de la historia.
 La **crisis** es el dilema que lleva a la decisión más importante del protagonista al enfrentar las fuerza de antagonismo. El **climax** es la manifestación de la decisión del protagonista y trae un cambio irreversible. La **resolución** es el resultado de esta acción y el evento final.
 
 ### Técnicas de Escritura
+#### Sustancia de una Historia
+[[Sustancia de una Historia]]
 #### Principio de Antagonismo
 El protagonista de una historia es tan emocional e intelectualmente interesante como las fuerzas de antagonismo a las que se enfrenta, las cuales deben llevarlo al límite de la experiencia humana. 
 
