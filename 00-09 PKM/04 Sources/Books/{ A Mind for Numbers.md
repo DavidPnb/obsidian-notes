@@ -27,6 +27,8 @@ finished::
 
 [[Ilusiones de Competencia]]
 
+## Práctica Deliberada
+[[Practica Deliberada]]
 ## Hábitos y Procrastinación
 [[Procrastinacion]]
 
