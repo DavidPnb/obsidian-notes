@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-09-26.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-09-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-09-26.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-09-27.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-09-26.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-09-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-09-26.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-09-27.md"
               }
             }
           },
@@ -314,13 +314,15 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "da9aa353eb2121d4",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-09-25.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-09-26.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-09-27.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-09-25.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Practica Deliberada.md",
     "00-09 PKM/04 Sources/Books/{ A Mind for Numbers.md",
@@ -344,7 +346,6 @@
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Argumento Ontologico.md",
     "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
     "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cinco Vias.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",
