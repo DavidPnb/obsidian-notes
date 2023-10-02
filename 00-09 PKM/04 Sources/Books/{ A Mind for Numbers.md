@@ -14,7 +14,7 @@ subject:: [[10 Aprendizaje y Educacion MOC]]
 
 started:: 2023-09-18 09:36
 
-finished::
+finished:: 2023-09-25
 
 ## 📚 Libros Relacionados
 [[{ What Smart Students Know]]
