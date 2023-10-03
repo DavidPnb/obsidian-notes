@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-03.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -61,7 +61,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-03.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-02.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-03.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-03.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-02.md"
               }
             }
           },
@@ -319,8 +319,8 @@
   },
   "active": "359cde9fd4c23dd9",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-10-02.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-03.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-10-02.md",
     "00-09 PKM/04 Sources/Books/{ A Mind for Numbers.md",
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-09-27.md",
