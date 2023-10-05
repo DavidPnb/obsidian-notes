@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-04.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da9aa353eb2121d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-09-27.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-06.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -61,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-04.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-06.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -190,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-04.md",
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-04.md"
+                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-06.md"
               }
             }
           },
@@ -296,7 +283,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 507.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,9 +307,10 @@
   },
   "active": "359cde9fd4c23dd9",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-10-03.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-05.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-10-06.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-04.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-10-03.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-02.md",
     "00-09 PKM/04 Sources/Books/{ A Mind for Numbers.md",
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
@@ -344,7 +333,6 @@
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/80.00 Escritura MOC.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Diseño Inteligente.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",
