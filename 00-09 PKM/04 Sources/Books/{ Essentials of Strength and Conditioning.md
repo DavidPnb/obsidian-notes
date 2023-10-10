@@ -26,7 +26,6 @@ finished::
 ### Estructura y Función de los Sistemas del Cuerpo
 [[Sistema Esqueletomuscular]]
 [[Sistema Neuromuscular]]
-- Características anatómicas y fisiológicas del sistema cardiovascular y respiratorio
 
 ### Biomécanica del Ejercicio de Resistencia
 - Músculo esquelético

@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-06.md",
+                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "064e5dcaad2dd5b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Cardiovascular.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-06.md",
+                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Cardiovascular.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -177,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-06.md",
+                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Cardiovascular.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/01 Calendar/01.01 Daily/2023-10-06.md"
+                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Cardiovascular.md"
               }
             }
           },
@@ -305,10 +319,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "359cde9fd4c23dd9",
+  "active": "064e5dcaad2dd5b3",
   "lastOpenFiles": [
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-10-05.md",
+    "00-09 PKM/03 Extras/Media/ECG.png",
+    "00-09 PKM/03 Extras/Media/Sistema de Conduccion.png",
+    "00-09 PKM/03 Extras/Media/Corazon.png",
+    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
+    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Cardiovascular.md",
+    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-06.md",
+    "00-09 PKM/01 Calendar/01.01 Daily/2023-10-05.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-04.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-03.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-02.md",
@@ -321,7 +341,6 @@
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Practica Deliberada.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Sustancia de una Historia.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
-    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Chunking.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Modos de Pensamiento.md",
@@ -329,10 +348,7 @@
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Ilusiones de Competencia.md",
     "00-09 PKM/06 Digital Garden/Digital Gardens.md",
     "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
-    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Esqueletomuscular.md",
-    "80-89 Literatura, Escritura y Ficcion/80 Escritura/80.00 Escritura MOC.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",
@@ -341,11 +357,9 @@
     "00-09 PKM/03 Extras/Media/Unidad Motora.png",
     "00-09 PKM/03 Extras/Media/Musculo.png",
     "00-09 PKM/03 Extras/Media/Musculatura.png",
-    "00-09 PKM/03 Extras/Media/Esqueleto.png",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.canvas",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",
-    "00-09 PKM/03 Extras/Media/Plot.png",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Identidad Personal.canvas",
     "40-49 Ciencias/40 Matematicas/Circunferencias en el Plano.canvas",
     "90-99 Ciencias Sociales/92 Economia/Historia del Capitalismo.canvas",
