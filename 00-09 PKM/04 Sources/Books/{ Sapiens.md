@@ -69,6 +69,9 @@ La naturaleza de las cosechas en la agricultura lleva a la acumulación original
 
 ### Sobrecarga de Memoria
 La enorme cantidad de información necesaria para manejar una sociedad a gran escala obligó a los sumerios a crear la escritura en 3000 BCE. Esta escritura original no era capaz de representar todo el lenguaje verbal y estaba limitada a documentos mercantiles. Con esta nueva manera de organizar la información surgió la necesidad de organizarla, lo que produjo sistemas de almacenamiento de información y de educación civil en los imperios que implementaron la escritura. Los sistemas de escritura no solo funcionan como herramienta, sino que tambien modifican nuestra manera de pensar.
+
+### No Hay Justicia en la Historia
+Siempre que un orden social se afianza en una cultura, se crean mitos que justifican su existencia a partir del orden natural.
 ## Puntos Clave
 
 ## Contexto
