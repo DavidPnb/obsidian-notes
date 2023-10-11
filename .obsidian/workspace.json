@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Composition.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Composition.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
+                "file": "30-39 Lenguajes/30 Linguistica/English Composition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md"
+                "file": "30-39 Lenguajes/30 Linguistica/English Composition.md"
               }
             }
           },
@@ -321,6 +321,9 @@
   },
   "active": "064e5dcaad2dd5b3",
   "lastOpenFiles": [
+    "30-39 Lenguajes/30 Linguistica/English Grammar.md",
+    "30-39 Lenguajes/30 Linguistica/English Composition.md",
+    "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
     "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Cardiovascular.md",
@@ -343,13 +346,10 @@
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Practica Deliberada.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Sustancia de una Historia.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
-    "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Chunking.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Modos de Pensamiento.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Procrastinacion.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Ilusiones de Competencia.md",
-    "00-09 PKM/06 Digital Garden/Digital Gardens.md",
-    "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",

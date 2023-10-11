@@ -148,4 +148,7 @@ Groups of words containing a subject and a predicate and used as a part of speec
 
 ## Usage
 [[English Usage]]
+
+## Composition
+[[English Composition]]
 ___
