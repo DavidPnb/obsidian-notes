@@ -45,6 +45,17 @@ Produce un vector proporcional al vector original cuyo sentido depende del signo
 6. $u(a+b)=au+bu$
 7. $c(du)=cdu$
 8. $1u=u$
+
+## Inecuaciones
+### Cauchy-Schwartz
+$$
+|u\cdot v|\leq|u||v|
+$$
+
+### Inecuación Triangular
+$$
+|u+v|\leq|u|+|v|
+$$
 ## Vectores Unitarios
 Son vectores cuyo modulo es igual a uno, y por lo tanto estan caracterizados por su dirección y sentido. El vector unitario en la dirección de $\overrightarrow{A}$ , denotado como $\overrightarrow{\mu}_{A}$ , se calcula como $\frac{\overrightarrow{A}}{|\overrightarrow{A}|}$.
 
