@@ -26,7 +26,8 @@ finished::
 ### Estructura y Función de los Sistemas del Cuerpo
 [[Sistema Esqueletomuscular]]
 [[Sistema Neuromuscular]]
-
+[[Sistema Cardiovascular]]
+[[Sistema Respiratorio]]
 ### Biomécanica del Ejercicio de Resistencia
 - Músculo esquelético
 	- Componentes
