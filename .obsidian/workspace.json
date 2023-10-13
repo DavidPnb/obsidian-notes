@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/Sistema Respiratorio.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/Sistema Respiratorio.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/Sistema Respiratorio.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/Sistema Respiratorio.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md"
               }
             }
           },
@@ -321,9 +321,14 @@
   },
   "active": "064e5dcaad2dd5b3",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Story.md",
+    "00-09 PKM/04 Sources/Books/Escenas.md",
+    "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
+    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Prestar mas Atención en Clase.md",
+    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
+    "00-09 PKM/04 Sources/Books/Sistema Respiratorio.md",
     "00-09 PKM/03 Extras/Media/Sistema Respiratorio.png",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
-    "00-09 PKM/04 Sources/Books/Sistema Respiratorio.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Cardiovascular.md",
     "30-39 Lenguajes/30 Linguistica/English Composition.md",
@@ -334,7 +339,6 @@
     "00-09 PKM/03 Extras/Media/ECG.png",
     "00-09 PKM/03 Extras/Media/Sistema de Conduccion.png",
     "00-09 PKM/03 Extras/Media/Corazon.png",
-    "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-06.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-05.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-04.md",
@@ -347,16 +351,12 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2023-09-25.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Practica Deliberada.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Sustancia de una Historia.md",
-    "00-09 PKM/04 Sources/Books/{ Story.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Chunking.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/Modos de Pensamiento.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",
     "00-09 PKM/03 Extras/Media/Sarcomero.png",
     "00-09 PKM/03 Extras/Media/Fibra Muscular.png",
     "00-09 PKM/03 Extras/Media/Unidad Motora.png",
-    "00-09 PKM/03 Extras/Media/Musculo.png",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.canvas",
     "40-49 Ciencias/40 Matematicas/Sistemas de Coordenadas.canvas",
     "30-39 Lenguajes/30 Linguistica/Parts of Speech.canvas",

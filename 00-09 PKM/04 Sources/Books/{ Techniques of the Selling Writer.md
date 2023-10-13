@@ -28,5 +28,14 @@ Debe comunicar ideas concretas usando palabras específicas.
 El lenguaje debe comunicar imagenes sensoriales por sobre las imagenes abstractas
 ### Claridad
 Las ideas deben comunicarse al lector de manera clara, tomando en cuenta el léxico del público objetivo
+
+## 3
+[[Sustancia de una Historia]]
+
+## 4
+[[Escenas]]
+
+## 5
+El interés de la audiencia se mantiene al contruir tensión, que debe ser aliviada de forma lógica y significativa para obtener un final satisfactorio.
 ___
 
