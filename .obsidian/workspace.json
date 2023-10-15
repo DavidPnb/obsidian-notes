@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md"
               }
             }
           },
@@ -321,9 +321,9 @@
   },
   "active": "064e5dcaad2dd5b3",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/04 Sources/Books/Escenas.md",
-    "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Prestar mas Atención en Clase.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
     "00-09 PKM/04 Sources/Books/Sistema Respiratorio.md",
