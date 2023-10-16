@@ -1,5 +1,4 @@
 
--   [Santi Younger](https://publish.obsidian.md/santi) on Books
 -   [SlRvb](https://publish.obsidian.md/slrvb) on CSS, Writing and TTRPG
 -   [Linking Your Thinking](https://notes.linkingyourthinking.com/) on Personal Knowledge Management
 -   [JT’s Digital Garden](https://notes.gnotract.com/) on Gastroenterology, Chronobiology and Statistics

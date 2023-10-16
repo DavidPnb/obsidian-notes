@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
+                "file": "00-09 PKM/06 Digital Garden/Digital Gardens.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5146293640137,
-    "collapsed": true
+    "width": 420.5146293640137
   },
   "right": {
     "id": "6a3a32269de26270",
@@ -191,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Story.md"
               }
             }
           },
@@ -315,12 +314,12 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "064e5dcaad2dd5b3",
+  "active": "531551c40669c77c",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
     "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/04 Sources/Books/Escenas.md",
@@ -350,7 +349,6 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2023-09-26.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-09-25.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Practica Deliberada.md",
-    "80-89 Literatura, Escritura y Ficcion/80 Escritura/Sustancia de una Historia.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",
