@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{  Judgement Under Uncertainty.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6dae95d68b609f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/Diseño de una Historia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{  Judgement Under Uncertainty.md",
+                "file": "00-09 PKM/04 Sources/Books/Diseño de una Historia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -177,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{  Judgement Under Uncertainty.md",
+                "file": "00-09 PKM/04 Sources/Books/Diseño de una Historia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{  Judgement Under Uncertainty.md"
+                "file": "00-09 PKM/04 Sources/Books/Diseño de una Historia.md"
               }
             }
           },
@@ -305,22 +319,24 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "359cde9fd4c23dd9",
+  "active": "c6dae95d68b609f4",
   "lastOpenFiles": [
     "00-09 PKM/04 Sources/Books/{ Story.md",
-    "00-09 PKM/04 Sources/Books/{  Judgement Under Uncertainty.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
+    "00-09 PKM/04 Sources/Books/Diseño de una Historia.md",
     "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
+    "00-09 PKM/04 Sources/Books/{ Sapiens.md",
+    "30-39 Lenguajes/30 Linguistica/English Composition.md",
+    "30-39 Lenguajes/30 Linguistica/English Grammar.md",
+    "00-09 PKM/04 Sources/Books/{  Judgement Under Uncertainty.md",
+    "30-39 Lenguajes/30 Linguistica/English Usage.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
     "00-09 PKM/04 Sources/Books/Escenas.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Prestar mas Atención en Clase.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
     "00-09 PKM/04 Sources/Books/Sistema Respiratorio.md",
     "00-09 PKM/03 Extras/Media/Sistema Respiratorio.png",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
-    "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Cardiovascular.md",
-    "30-39 Lenguajes/30 Linguistica/English Composition.md",
-    "30-39 Lenguajes/30 Linguistica/English Grammar.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
     "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
@@ -335,8 +351,6 @@
     "00-09 PKM/04 Sources/Books/{ A Mind for Numbers.md",
     "00-09 PKM/04 Sources/Books/{ Brain Rules.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-09-27.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-09-26.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-09-25.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",

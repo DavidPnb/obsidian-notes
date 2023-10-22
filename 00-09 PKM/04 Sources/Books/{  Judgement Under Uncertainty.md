@@ -4,7 +4,7 @@ created: 2023-10-16 12:46
 ---
 # {  Judgement Under Uncertainty
 ## Información
-tags:: #source/book📚 
+tags:: #source/book📚
 
 writer:: [[Daniel Kahneman]]
 

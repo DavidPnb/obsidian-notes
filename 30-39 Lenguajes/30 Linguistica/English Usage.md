@@ -56,4 +56,6 @@ The passive voice tends to be used when the object performing the action is not 
 
 ## Modifiers
 Adjectives are used to modify nouns. Adverbs are used to modify and action. **Comparation** in short adjectives is expressed using sufixes (*-er*, *-est*),. Comparation in adverbs and longer adjectives is expressed using an adjective (*more*, *most*).
+
+
 ___

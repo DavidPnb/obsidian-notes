@@ -72,6 +72,9 @@ La enorme cantidad de información necesaria para manejar una sociedad a gran es
 
 ### No Hay Justicia en la Historia
 Siempre que un orden social se afianza en una cultura, se crean mitos que justifican su existencia a partir del orden natural.
+
+### La Flecha de la Historia
+A nivel sociológico, las culturas son entes cuyas características varían a lo largo del tiempo por motivos externos e internos. Estas culturas tienden a juntarse formando macroculturas y eventualmente colapsan dividiendose en culturas más pequeñas.
 ## Puntos Clave
 
 ## Contexto
