@@ -34,7 +34,7 @@ De esta manera, el conflicto es la fuerza que hace que la historia progrese. Un 
 
 La cantidad de actos presentes en una historia suele ser proporcional a su extensión. El estándar es una historia compuesta de primer y tercer acto, en los que se divide la mitad de la obra; y un segundo acto que ocupa el resto de su extensión. Un exceso de actos puede provocar clichés y reducir el impacto de cada uno de ellos.
 
-Para llenar el espacio del segundo acto, es común el uso de subtramas y tramas múltiples, que cuentan con su propia estructura. Una subtrama puede ser usada para contradecir el tema (ironía), ofrecer variaciones de este, introducir el incidente incitante o complicar la trama principal.
+Para llenar el espacio del segundo acto, es común el uso de subtramas y tramas múltiples, que cuentan con su propia estructura. Una subtrama puede ser usada para contradecir el tema (ironía), ofrecer variaciones de este, introducir el incidente incitante o complicar la trama principal. La mayor parte de las subtramas deben estar resueltas para el final de la historia.
 
 El penúltimo acto de una historia debe generar contraste con el último. Por esto, ambos no pueden terminar positiva o negativamente.
 
@@ -50,7 +50,6 @@ Para que una historia progrese, el impacto social y/o personal debe ser cada vez
 ## Crisis, Climax, Resolución
 Estos son los tres eventos finales de la historia.
 
-La **crisis** es el dilema que lleva a la decisión más importante del protagonista al enfrentar las fuerza de antagonismo. El **climax** es la manifestación de la decisión del protagonista y trae un cambio irreversible. La **resolución** es el resultado de esta acción y el evento final.
-
+La **crisis** es el dilema que lleva a la decisión más importante del protagonista al enfrentar las fuerza de antagonismo. El **climax** es la manifestación de la decisión del protagonista y trae un cambio irreversible. La **resolución** es el resultado de esta acción y el evento final. La resolución suele venir en la forma de justicia poética respecto a las acciones del protagonista, que tambien depende del público objetivo de la obra.
 
 ___
