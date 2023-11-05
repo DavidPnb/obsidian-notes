@@ -44,4 +44,36 @@ $$
 
 
 La **caída libre** es un caso especial de aceleración constante donde $a_{x}=-g=-9.8m/s^{2}$.
+
+## Movimiento en Multiples Dimensiones
+### Vector Posición y Vector Velocidad
+En multiples dimensiones, la posición de un cuerpo puede ser representada por un vector
+
+$$
+\overrightarrow{r}=(x,y,z)
+$$
+La velocidad tambien es un vector
+$$
+\overrightarrow{v}=(v_{x},v_{y},v_{z})
+$$ y es perpendicular a la trayectoria del cuerpo en el punto
+
+### Vector Aceleración
+El vector aceleración 
+$$
+\overrightarrow{a}=(a_{x},a_{y},a_{z})
+$$
+tiene un componente perpendicular a la velocidad, que modifica su dirección; y un componente perpendicular que modifica su magnitud.
+
+### Movimiento de un Proyectil
+Un **proyectil** es un cuerpo en movimiento sobre el cual solo actua la fuerza de gravedad.
+
+### Movimiento Circular
+$$
+a_{rad}=\frac{v^{2}}{R}=\frac{4\pi^{2}R}{T^{2}}
+$$
+
+### Velocidad Relativa
+$$
+v_{P/A}=v_{P/B}+v_{B/A}
+$$
 ___
