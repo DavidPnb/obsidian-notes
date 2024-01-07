@@ -7,7 +7,7 @@ Links:
 # Relaciones Personales
 ## Recursos
 ### Libros
-- Harville Hendrix & Helen LaKelly Hunt - Getting the Love You Want
 - Deborah Tannen - You Just Don't Understand
-- How to Not Die Alone - Logan Ury
+- Harville Hendrix & Helen LaKelly Hunt - Getting the Love You Want
+- John Gottman - What Makes Love Last
 ___

@@ -7,7 +7,6 @@ Links:
 # 14 Comunicacion y Habilidades Sociales MOC
 ## Recursos
 ### Libros
-Marshall Rosenberg - Nonviolent Communication
 Tynan - Superhuman Social Skills
 Debra Fine - The Fine Art of Small Talk
 Dan Roam - The Back of the Napkin

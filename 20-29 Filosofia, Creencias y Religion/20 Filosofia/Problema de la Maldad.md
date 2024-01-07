@@ -15,4 +15,12 @@ Segun muchas tradiciones teológicas, Dios no evita el sufrimiento porque esto i
 
 Esta respuesta no toma en cuenta el sufrimiento producido por eventos naturales y el que es inducido en los animales, ya que el cristianismo suele afirmar que los animales no tienen libre albedrío.
 
+## Teodicia de Eleanore Stump
+Pretende demostrar que los atributos divinos y los dogmas centrales del cristianismo son internamente consistentes. Este concluye que las desventajas del sufrimiento terrenal no sobrepasan a los beneficios de la salvación; ya que el sufrimiento permite que las personas inclinen su voluntad hacia Dios.
+
+### Presunciones
+1. El infierno no es un lugar de tortura, sino un estado de separación de Dios
+2. El libre albedrío es un requisito para la unión con Dios
+3. La caída de Adán ocasiono un fallo heredable en nuestro libre albedrío
+
 ___
