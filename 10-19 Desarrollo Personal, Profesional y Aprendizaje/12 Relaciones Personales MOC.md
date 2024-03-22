@@ -7,7 +7,13 @@ Links:
 # Relaciones Personales
 ## Recursos
 ### Libros
-- Deborah Tannen - You Just Don't Understand
+- Robert Greene - The Art of Seduction
+- Adelyn Birch - 30 Covert Emotional Manipulation Tactics
+- Chase Amante - How to Make Girls Chase
 - Harville Hendrix & Helen LaKelly Hunt - Getting the Love You Want
 - John Gottman - What Makes Love Last
+- Mark Manson - Models
+- The Manual - W. Anton
+- Mate - Tucker Max
+- Minimal Game - Aaron Sleazy
 ___

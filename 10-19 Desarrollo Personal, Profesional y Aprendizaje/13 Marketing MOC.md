@@ -7,6 +7,5 @@ Links:
 # 13 Marketing MOC
 ## Recursos
 ### Libros
-- Influence: The Psychology of Persuasion by Robert B. Cialdini
-- 
+- Decoded - Phil Barden
 ___

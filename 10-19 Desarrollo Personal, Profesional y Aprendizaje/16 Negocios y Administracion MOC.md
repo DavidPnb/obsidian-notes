@@ -16,4 +16,6 @@ Links:
 - The Millionaire Fastlane - MJ DeMarco
 - Superforecasting - Philip Tetlock
 - Problem Solving 101 - Ken Watanabe
+- The Way of the Wolf - Jordan Belfort
+- Confessions of the Pricing Man - Hermann Simon
 ___
