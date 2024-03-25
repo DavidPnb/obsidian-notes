@@ -12,12 +12,12 @@ Knee Raises 3x35->35
 
 ## Skills
 5-10 min HS
- 
+
 ## Prehab
 
 ## Ejercicio
 - Incline PU 3x40->40
-- Jackknife Squats 2x39->40
+- Jackknife Squats 3x40->40
 - Vertical Pulls - 3x50>40
 
 Semana: 

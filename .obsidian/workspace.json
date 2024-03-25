@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "285a811998ad47ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c6dae95d68b609f4",
             "type": "leaf",
             "state": {
@@ -62,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Infinite Powers.md"
               }
             }
           },
@@ -319,19 +332,20 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c6dae95d68b609f4",
+  "active": "285a811998ad47ca",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
+    "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Teologia Natural.md",
     "40-49 Ciencias/42 Fisica/Mecanica Clasica.md",
     "00-09 PKM/04 Sources/Books/Diseño de una Historia.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
-    "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "30-39 Lenguajes/30 Linguistica/English Composition.md",
     "30-39 Lenguajes/30 Linguistica/English Grammar.md",
     "00-09 PKM/04 Sources/Books/{  Judgement Under Uncertainty.md",
     "30-39 Lenguajes/30 Linguistica/English Usage.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
     "00-09 PKM/04 Sources/Books/Escenas.md",
     "10-19 Desarrollo Personal, Profesional y Aprendizaje/Como Prestar mas Atención en Clase.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Neuromuscular.md",
@@ -350,7 +364,6 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-04.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-03.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-02.md",
-    "00-09 PKM/04 Sources/Books/{ A Mind for Numbers.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",
