@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
+                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
+                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
+                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Infinite Powers.md"
+                "file": "40-49 Ciencias/43 Quimica/43.00 Quimica.md"
               }
             }
           },
@@ -328,17 +328,18 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "285a811998ad47ca",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
     "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
+    "40-49 Ciencias/42 Fisica/Mecanica Clasica.md",
+    "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
+    "40-49 Ciencias/40 Matematicas/Fisica.md",
+    "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Teologia Natural.md",
-    "40-49 Ciencias/42 Fisica/Mecanica Clasica.md",
     "00-09 PKM/04 Sources/Books/Diseño de una Historia.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
@@ -362,8 +363,6 @@
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-06.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-05.md",
     "00-09 PKM/01 Calendar/01.01 Daily/2023-10-04.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-10-03.md",
-    "00-09 PKM/01 Calendar/01.01 Daily/2023-10-02.md",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210450.png",
     "00-09 PKM/03 Extras/Media/Pasted image 20230818210319.png",
     "00-09 PKM/03 Extras/Media/Contraccion Muscular.png",
