@@ -21,5 +21,11 @@ Freud hace referencia a una sensación de pertenencia con el universo presente e
 
 ## II
 Freud inspecciona la relación entre el hombre común y la religión, a la que él describe como una de las tantas maneras en las que las personas lidian con su incapacidad de alcanzar un estado de felicidad no pasajero. 
+
+## III
+Freud define a la cultura como el conjunto de herramientas que utiliza el ser humano para hacerle frente a la naturaleza. Tiene una dimensión utilitaria, estética y social; y requiere la sublimación de los instintos de los individuo a cambio de protección
+
+## IV
+La cultura se origina en la familia tradicional que se sostiene por medio de los instintos reproductivos. Esta familia
 ___
 
