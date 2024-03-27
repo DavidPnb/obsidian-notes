@@ -26,6 +26,8 @@ Freud inspecciona la relación entre el hombre común y la religión, a la que �
 Freud define a la cultura como el conjunto de herramientas que utiliza el ser humano para hacerle frente a la naturaleza. Tiene una dimensión utilitaria, estética y social; y requiere la sublimación de los instintos de los individuo a cambio de protección
 
 ## IV
-La cultura se origina en la familia tradicional que se sostiene por medio de los instintos reproductivos. Esta familia
+La cultura se origina en la familia primitiva, sostenida por medio de los instintos reproductivos. Esta familia se acaba expandiendo para formar una sociedad, en donde el erotismo es reemplazado por lazos de afecto y cooperación. Al final de este proceso, la cultura busca suprimir los instintos que la formaron y fuerza al hombre a dirigir sus impulsos hacia la propia sociedad
+
+
 ___
 

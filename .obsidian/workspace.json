@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "8db89a89d8be9820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ddb5425ac2ea0823",
             "type": "leaf",
             "state": {
@@ -88,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -217,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md"
               }
             }
           },
@@ -344,18 +331,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ddb5425ac2ea0823",
+  "active": "c6dae95d68b609f4",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Teologia Natural.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
     "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md",
+    "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
     "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
     "40-49 Ciencias/43 Quimica/43.00 Quimica.md",
     "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
     "40-49 Ciencias/42 Fisica/Mecanica Clasica.md",
     "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
     "40-49 Ciencias/40 Matematicas/Fisica.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Teologia Natural.md",
     "00-09 PKM/04 Sources/Books/Diseño de una Historia.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
@@ -372,7 +360,6 @@
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Sistema Cardiovascular.md",
     "40-49 Ciencias/40 Matematicas/Vectores Geometricos.md",
     "40-49 Ciencias/40 Matematicas/Algebra Lineal.md",
-    "40-49 Ciencias/40 Matematicas/Sistema de Ecuaciones Lineares.md",
     "00-09 PKM/03 Extras/Media/ECG.png",
     "00-09 PKM/03 Extras/Media/Sistema de Conduccion.png",
     "00-09 PKM/03 Extras/Media/Corazon.png",
