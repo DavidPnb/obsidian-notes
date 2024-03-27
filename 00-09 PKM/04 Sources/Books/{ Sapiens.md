@@ -75,6 +75,9 @@ Siempre que un orden social se afianza en una cultura, se crean mitos que justif
 
 ### La Flecha de la Historia
 A nivel sociológico, las culturas son entes cuyas características varían a lo largo del tiempo por motivos externos e internos. Estas culturas tienden a juntarse formando macroculturas y eventualmente colapsan dividiendose en culturas más pequeñas.
+
+### El Aroma del Dinero
+Previo a la revolución agricultural, las personas obtenian sus bienes a través de trueques en una economia comunal. Con el desarrollo de ciudades y reinos surgió la necesidad de una economia más complejo 
 ## Puntos Clave
 
 ## Contexto
