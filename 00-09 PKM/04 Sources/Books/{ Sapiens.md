@@ -77,7 +77,7 @@ Siempre que un orden social se afianza en una cultura, se crean mitos que justif
 A nivel sociológico, las culturas son entes cuyas características varían a lo largo del tiempo por motivos externos e internos. Estas culturas tienden a juntarse formando macroculturas y eventualmente colapsan dividiendose en culturas más pequeñas.
 
 ### El Aroma del Dinero
-Previo a la revolución agricultural, las personas obtenian sus bienes a través de trueques en una economia comunal. Con el desarrollo de ciudades y reinos surgió la necesidad de una economia más complejo 
+Previo a la revolución agricultural, las personas obtenian sus bienes a través de trueques en una economia comunal. Con el desarrollo de ciudades y reinos surgió una economia más compleja basada en la especialización del trabajo. El dinero tiene como objetivo establecer una tasa de cambio absoluta y universal, y es capaz de expandir y conectar la economia de diferentes culturas de forma eficiente. El valor del dinero proviene de la confianza que le tienen las personas que lo utilizan
 ## Puntos Clave
 
 ## Contexto
