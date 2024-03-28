@@ -6,6 +6,10 @@ up:: [[20.00 Filosofia MOC]]
 # Epistemologia
 La epistemologia es la rama de la [[20.00 Filosofia MOC]] que estudia el conocimiento. Se ocupa de la definicion del saber y de los conceptos relacionados, de las fuentes, los criterios, los tipos de conocimiento posible y el grado con el que cada uno resulta cierto; asi como la relacion exacta entre el que conoce y el objeto conocido.
 
+## Conocimiento
+### Platón
+En los dialogos de Platón, Socrates sañala que las opiniones verdaderas son tan efectivas como el conocimiento en motivarnos a tomar decisiones y a alcanzar ciertos objetivos. Sin embargo, Socrates argumenta que el conocimiento es más valioso que una opinion verdadera; porque las opiniones tienden a *fugarse* mientras que el conocimiento se mantiene anclado (El conocimiento es más estable y más facil de recordar).
+
 ## Conocimiento sobre el Mundo
 ### Descartes-Locke
 Ellos distinguen entre cualidades primarias y secundarias de los objetos.
