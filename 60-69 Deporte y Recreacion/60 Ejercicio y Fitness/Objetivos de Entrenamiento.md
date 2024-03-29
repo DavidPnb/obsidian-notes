@@ -8,7 +8,7 @@ up:: [[60.00 Fitness]]
 ## Calentamiento
 10-20 Burpees
 15 Wrist Circles, Shoulder Circles, Bodyweight Squats
-Knee Raises 3x35->35
+Knee Raises 1x11->30
 
 ## Skills
 5-10 min HS
@@ -16,9 +16,9 @@ Knee Raises 3x35->35
 ## Prehab
 
 ## Ejercicio
-- Incline PU 3x40->40
-- Jackknife Squats 3x40->40
-- Vertical Pulls - 3x50>40
+- Kneeling PU 1x11->30
+- Supported Squats 1x11->30
+- Jackknife Pulls - 1x11>20
 
 Semana: 
 ___
