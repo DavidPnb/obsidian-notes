@@ -23,5 +23,8 @@ Los paises ahora desarrollados insisten en que los paises en desarrollo adopten 
 Durante el siglo XV, el rey Henry VII controlo las importaciones y exportaciones de lana con el objetivo de promover el desarrollo de la industria manufacturera. Esto impulsó la capacidad tecnológica y la economia britanica y puede haber sido uno los factores que puso en marcha la Revolución Industrial.
 
 Las reformas mercantiles de Robert Walpole fueron un paso adelante, incrementando las restricciones en la importación de bienes manufacturados y reduciendo las restricciones en su exportacion; estas políticas se mantuvieron en vigencia hasta finales del siglo XIX.
+
+### Estados Unidos
+Los Estados Unidos aplicaron políticas estrictas de control de tarifas desde su periodo postcolonial hasta finales de la Segunda Guerra Mundial. Esto convierte a los Estados Unidos en el país que historicamente ha hecho mayor uso de las medidas proteccionistas.
 ___
 
