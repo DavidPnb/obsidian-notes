@@ -28,6 +28,7 @@ finished::
 [[Sistema Neuromuscular]]
 [[Sistema Cardiovascular]]
 [[Sistema Respiratorio]]
+
 ### Biomécanica del Ejercicio de Resistencia
 - Músculo esquelético
 	- Componentes

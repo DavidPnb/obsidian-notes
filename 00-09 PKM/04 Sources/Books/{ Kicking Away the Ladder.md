@@ -16,7 +16,7 @@ started:: 2024-03-28 13:17
 
 finished::
 
-Los paises ahora desarrollados insisten en que los paises en desarrollo adopten las políticas de libre mercado como su método principal de crecimienot. Sin embargo, todos los paises desarrollados usaron en algún momento medidas proteccionistas para alcanzar el desarrollo economico que poseen actualmente
+Los paises ahora desarrollados insisten en que los paises en desarrollo adopten las políticas de libre mercado como su método principal de crecimienot. Sin embargo, todos los paises desarrollados usaron en algún momento medidas proteccionistas para alcanzar el desarrollo economico que poseen actualmente.
 
 ## Políticas de Desarrollo Económico
 ### Gran Bretaña
