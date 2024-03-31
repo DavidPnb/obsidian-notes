@@ -37,5 +37,10 @@ Las ideas deben comunicarse al lector de manera clara, tomando en cuenta el léx
 
 ## 5
 El interés de la audiencia se mantiene al contruir tensión, que debe ser aliviada de forma lógica y significativa para obtener un final satisfactorio.
+
+## 6
+[[Diseño de una Historia]]
+
+
 ___
 
