@@ -97,9 +97,7 @@ Las historias que son similares pertenecen a un mismo **género**. La audiencia 
 Las **convenciones de género** son ambientaciones, valores, roles y eventos que definen a un género determinado. Las convenciones son las que definen las limitaciones creativas de un género, y su estudio lleva al dominio de ese género particular.
 
 #### Estructura y Personaje
-La estructura de una obra da lugar a una serie de eventos que incitan a los personajes a tomar decisiones que hacen que la trama avance y se resuelva en el climax. Los personajes deben ser creibles para que estos tomen las decisiones que la trama requiera. Tambien deben ser apropiados para el género en el que se desarrolla la obra.
-
-La **caracterización** es el conjunto de todos los detalles acerca de un personaje que son revelados a través de la estructura. El **caracter** de un personaje es revelado por las decisiones más importantes que toma y ,en personajes profundos, genera un contraste con la caracterización original. Un **arco de personaje** produce un cambio en este caracter.
+[[Personajes de una Historia]]
 
 #### Estructura y Significado
 La **emoción estética** se presenta en el arte y combina sentimientos e ideas para proveer al espectador de experiencias inmediatamente significativas. Una historia tiene dos ideas principales: una **premisa**, interrogante encargada de darle comienzo a la historia; y **temática**, idea que regula la historia y provoca un cambio, que lleva a un climax con un resultado y su respectiva causa.

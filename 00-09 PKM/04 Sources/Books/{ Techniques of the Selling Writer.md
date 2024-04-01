@@ -41,6 +41,7 @@ El interés de la audiencia se mantiene al contruir tensión, que debe ser alivi
 ## 6
 [[Diseño de una Historia]]
 
-
+## 7 
+[[Personajes de una Historia]]
 ___
 
