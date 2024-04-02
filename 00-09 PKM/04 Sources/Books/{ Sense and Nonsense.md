@@ -23,6 +23,9 @@ A pesar de sus similitudes, cada teoría presenta un enfoque o una ideología di
 - **Uso de la Biología Comparativa**
 - **Influencia de la genética y la cultura, el desarrollo humano y los factores ambientales en el comportamiento humano**
 
+## Historia de la Evolución y el Comportamiento Humano
+Desde que Charles Darwin publicó la teoría de la evolución por selección natural, han surgido numerosas hipótesis que pretenden explicar el comportamiento humano por medio de la evolución biológica. 
 
+Las ideas derivadas de Darwin le dan más importancia a la variación dentro de las poblaciones genéticas que a la variación entre estas y resaltan la influencia de la aleatoriedad en la selección rasgos biológicos. Las ideas Lamarckianas conciben a una evolución progresiva y lineal con especios superiores a otras, y a partir de esto justifican toda clase de prejuicios sociales y raciales.
 ___
 
