@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md"
               }
             }
           },
@@ -291,6 +291,7 @@
   },
   "active": "359cde9fd4c23dd9",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
     "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md",
     "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
     "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
@@ -299,7 +300,6 @@
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Personajes de una Historia.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Diseño de una Historia.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Sustancia de una Historia.md",
-    "80-89 Literatura, Escritura y Ficcion/80 Escritura/Escenas.md",
-    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md"
+    "80-89 Literatura, Escritura y Ficcion/80 Escritura/Escenas.md"
   ]
 }

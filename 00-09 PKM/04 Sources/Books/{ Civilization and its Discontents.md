@@ -28,6 +28,10 @@ Freud define a la cultura como el conjunto de herramientas que utiliza el ser hu
 ## IV
 La cultura se origina en la familia primitiva, sostenida por medio de los instintos reproductivos. Esta familia se acaba expandiendo para formar una sociedad, en donde el erotismo es reemplazado por lazos de afecto y cooperación. Al final de este proceso, la cultura busca suprimir los instintos que la formaron y fuerza al hombre a dirigir sus impulsos hacia la propia sociedad
 
+## VI
+Freud afirma que la psicología humana esta determinada por un balance entre los impulsos eróticos relacionados con la vida, y los impulsos destructivos que representan la agresividad innata del hombre.
 
+## VII
+La supresión de los impulsos agresivos proviene de proyectar esa agresividad en contra del propio ego, comenzando en la infancia con el miedo a las repercusiones externas de un acto; al desarrollarse, este se transforma en una internalización de la figura de autoridad que da lugar a la conciencia.
 ___
 
