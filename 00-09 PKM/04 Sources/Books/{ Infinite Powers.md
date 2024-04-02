@@ -19,6 +19,7 @@ finished::
 ## Infinito
 La esencia del cálculo es simplificar problemas complejos a través de un proceso limitante que permite realizar aproximaciones con una exactidud arbitraria, evitando las complicaciones lógicas que resultarían al utilizar a infinito como un número.
 
-
+## 2
+[[Historia del Calculo]]
 ___
 

@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6dae95d68b609f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d04f985e8b198930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/80 Escritura/Personajes de una Historia.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -203,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md"
               }
             }
           },
@@ -317,15 +291,15 @@
   },
   "active": "359cde9fd4c23dd9",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
+    "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
+    "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Personajes de una Historia.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Diseño de una Historia.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Sustancia de una Historia.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Escenas.md",
-    "00-09 PKM/04 Sources/Books/{ Techniques of the Selling Writer.md",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
-    "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Problema de la Maldad.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Teologia Natural.md"
+    "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md"
   ]
 }
