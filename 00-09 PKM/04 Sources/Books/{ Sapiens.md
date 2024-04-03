@@ -77,7 +77,13 @@ Siempre que un orden social se afianza en una cultura, se crean mitos que justif
 A nivel sociológico, las culturas son entes cuyas características varían a lo largo del tiempo por motivos externos e internos. Estas culturas tienden a juntarse formando macroculturas y eventualmente colapsan dividiendose en culturas más pequeñas.
 
 ### El Aroma del Dinero
-Previo a la revolución agricultural, las personas obtenian sus bienes a través de trueques en una economia comunal. Con el desarrollo de ciudades y reinos surgió una economia más compleja basada en la especialización del trabajo. El dinero tiene como objetivo establecer una tasa de cambio absoluta y universal, y es capaz de expandir y conectar la economia de diferentes culturas de forma eficiente. El valor del dinero proviene de la confianza que le tienen las personas que lo utilizan
+Previo a la revolución agricultural, las personas obtenian sus bienes a través de trueques en una economia comunal. Con el desarrollo de ciudades y reinos surgió una economia más compleja basada en la especialización del trabajo. El dinero tiene como objetivo establecer una tasa de cambio absoluta y universal, y es capaz de expandir y conectar la economia de diferentes culturas de forma eficiente. El valor del dinero proviene de la confianza que le tienen las personas que lo utilizan.
+
+### Visiones Imperiales
+Los imperios han sido la forma de gobierno más utilizada en la historia de la humanidad, debido a su capacidad para mantener un dominio estable sobre un territorio y mantener a raya los movimientos rebeldes. Un imperio es un gobierno que engloba a multiples culturas y territorios, y expandirse indefinidadmente. Esto lo hace el método mas importante de expansion y unificacion cultural.
+
+Cuando un imperio subyuga exitosamente a un territorio, sus culturas comienzan a  mezclarse, luego el territorio conquistado incorpora la cultura predominante y demanda ciudadania; al final de este proceso se termina formando una cultura homogénea o se lleva a cabo un proceso de separación interna. La mayoría de culturas actuales se derivan de este proceso de incorporación.
+
 ## Puntos Clave
 
 ## Contexto

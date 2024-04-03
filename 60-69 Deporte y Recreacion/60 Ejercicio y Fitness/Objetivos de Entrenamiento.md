@@ -16,7 +16,7 @@ Knee Raises 1x12->30
 ## Prehab
 
 ## Ejercicio
-- Kneeling PU 1x12->30
+- Kneeling PU 1x13->30
 - Supported Squats 1x12->30
 - Jackknife Pulls - 1x12>20
 
