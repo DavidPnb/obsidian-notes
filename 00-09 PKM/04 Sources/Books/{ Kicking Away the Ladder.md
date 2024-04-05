@@ -26,5 +26,8 @@ Las reformas mercantiles de Robert Walpole fueron un paso adelante, incrementand
 
 ### Estados Unidos
 Los Estados Unidos aplicaron políticas estrictas de control de tarifas desde su periodo postcolonial hasta finales de la Segunda Guerra Mundial. Esto convierte a los Estados Unidos en el país que historicamente ha hecho mayor uso de las medidas proteccionistas.
+
+### Alemania
+Durante el siglo XIX, el Estado Prusiano-Alemán aplicó una protección de tarifas minima si lo comparamos con otros paises economicamente importantes de la época; optando en su lugar por una intervencion directa del Estado en las industrias clave.
 ___
 
