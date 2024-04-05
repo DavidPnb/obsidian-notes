@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe84d32f854ecd75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -177,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sapiens.md"
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md"
               }
             }
           },
@@ -289,8 +303,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "359cde9fd4c23dd9",
+  "active": "fe84d32f854ecd75",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md",
     "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
     "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
@@ -299,7 +314,6 @@
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Personajes de una Historia.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Diseño de una Historia.md",
-    "80-89 Literatura, Escritura y Ficcion/80 Escritura/Sustancia de una Historia.md",
-    "80-89 Literatura, Escritura y Ficcion/80 Escritura/Escenas.md"
+    "80-89 Literatura, Escritura y Ficcion/80 Escritura/Sustancia de una Historia.md"
   ]
 }
