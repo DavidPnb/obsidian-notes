@@ -30,9 +30,7 @@ finished::
 [[Sistema Respiratorio]]
 
 ### Biomécanica del Ejercicio de Resistencia
-- Músculo esquelético
-	- Componentes
-	- Tipos de Palanca
+[[Biomecanica]]
 - Movimientos Anatómicos
 - Poder y Trabajo
 	- Lineal
