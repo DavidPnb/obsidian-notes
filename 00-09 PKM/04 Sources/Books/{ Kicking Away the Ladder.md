@@ -29,5 +29,11 @@ Los Estados Unidos aplicaron políticas estrictas de control de tarifas desde su
 
 ### Alemania
 Durante el siglo XIX, el Estado Prusiano-Alemán aplicó una protección de tarifas minima si lo comparamos con otros paises economicamente importantes de la época; optando en su lugar por una intervencion directa del Estado en las industrias clave.
+
+### Francia
+Pese a la narrativa económica que contrasta a la Gran Bretaña del libre mercado con la Francia protecccionista, la economía francesa se mantuvo con una minima intervención estatal desde la Revolución Francesa hasta finales de la Segunda Guerra Mundial.
+
+### Suecia
+Suecia aplico protección de tarifas durante su periodo de mayor desarrrollo económico, que junto con sus politícas de cooperación con el sector privado llevaron a la industrialización del país.
 ___
 
