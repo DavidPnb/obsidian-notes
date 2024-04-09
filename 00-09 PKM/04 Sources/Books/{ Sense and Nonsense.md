@@ -27,5 +27,17 @@ A pesar de sus similitudes, cada teoría presenta un enfoque o una ideología di
 Desde que Charles Darwin publicó la teoría de la evolución por selección natural, han surgido numerosas hipótesis que pretenden explicar el comportamiento humano por medio de la evolución biológica. 
 
 Las ideas derivadas de Darwin le dan más importancia a la variación dentro de las poblaciones genéticas que a la variación entre estas y resaltan la influencia de la aleatoriedad en la selección rasgos biológicos. Las ideas Lamarckianas conciben a una evolución progresiva y lineal con especios superiores a otras, y a partir de esto justifican toda clase de prejuicios sociales y raciales.
+
+## Sociobiología Humana
+La sociobiologia humana, popularizada por E. O. Wilson en 1975, trata de explicar la función de un comportamiento a través de una perspectiva evolutiva.
+
+### Conceptos Clave
+- **Perspectiva genetica** - Los genes que tienen más probabilidades de proliferarse son los que en promedio mejoran su capacidad de reproduccion. Esta visión fue popularizada por *The Selfish Gene* de Richard Dawkins
+- **Selección por parentesco** - Los genes que incitan a un comportamiento altruista entre especimenes relacionados tienen una ventaja evolutiva, debido a la alta probabilidad de que ese gen tambien este presente en los familiares cercanos
+- **Altruismo recíproco** - La cooperación entre individuos a lo largo del tiempo es más efectiva que la competición por una ganancia a corto plazo
+- **Teoría de juegos evolutiva** - Determina la efectividad de un comportamiento, mientras toma en cuenta el comportamiento de otros individuos
+
+### Controversia
+La sociobiologia humana fue acusada por las ciencias sociales de propagar prejuicios y de ser determinista y reducccionista. Dawkins y Wilson aclararon que los genes solo determinan la capacidad de desarrollar un comportamiento, y que la historia evolutiva no determina irremediablemente el desarrollo de nuestra sociedad.
 ___
 

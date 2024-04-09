@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Biomecanica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Biomecanica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Biomecanica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Biomecanica.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md"
               }
             }
           },
@@ -318,8 +318,8 @@
   },
   "active": "d6472dd68551b710",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Biomecanica.md",
+    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
     "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
