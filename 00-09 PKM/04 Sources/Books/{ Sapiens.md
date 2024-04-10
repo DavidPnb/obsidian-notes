@@ -84,6 +84,10 @@ Los imperios han sido la forma de gobierno más utilizada en la historia de la h
 
 Cuando un imperio subyuga exitosamente a un territorio, sus culturas comienzan a  mezclarse, luego el territorio conquistado incorpora la cultura predominante y demanda ciudadania; al final de este proceso se termina formando una cultura homogénea o se lleva a cabo un proceso de separación interna. La mayoría de culturas actuales se derivan de este proceso de incorporación.
 
+### La Ley de la Religión
+Las religiones universales y misioneras tienen la capacidad de justificar el orden social con leyes sobrenaturales y expandirse a través de las poblaciones humanas. Las religiones predominantes pueden incorporar aspectos de los distintos tipos de religiones a cambio de su coherencia interna.
+
+
 ## Puntos Clave
 
 ## Contexto
