@@ -16,8 +16,8 @@ started:: 2024-04-03 20:06
 
 finished::
 
-## Filosofia Antigua
-### Filosofia Presocratica
+## Filosofía Antigua
+### Filosofía Presocrática
 [[Filosofia Presocratica]]
 ___
 

@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md"
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md"
               }
             }
           },
@@ -329,8 +329,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "184a3d2ec3748a78",
+  "active": "30ba533d0db243ad",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
     "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
     "00-09 PKM/04 Sources/Books/{ The Evolving Self.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
@@ -339,7 +340,6 @@
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
-    "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md",
-    "00-09 PKM/04 Sources/Books/{ Infinite Powers.md"
+    "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md"
   ]
 }
