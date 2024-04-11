@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md"
               }
             }
           },
@@ -331,8 +331,8 @@
   },
   "active": "30ba533d0db243ad",
   "lastOpenFiles": [
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
     "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
     "00-09 PKM/04 Sources/Books/{ The Evolving Self.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
