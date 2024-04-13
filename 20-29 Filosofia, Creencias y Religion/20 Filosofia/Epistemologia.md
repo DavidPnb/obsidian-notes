@@ -22,6 +22,9 @@ A lo largo de la historia, el conocimiento fue analizado como una **creencia ver
 
 Desde ese entonces, todos los intentos por encontrar las condiciones suficientes del conocimiento han sido en vano.
 
+### Creencia y Conocimiento
+Timothy Williamson considera que el conocimiento no es analizable, ya que este no puede definirse de manera no circular. Además, argumenta que las creencias hacen referencia al mundo externo, y el conocimiento surge cuando esta correspondencia es adecuada; por lo tanto, las creencias se deben analizar en base al conocimiento.
+
 ## Conocimiento sobre el Mundo
 ### Descartes-Locke
 Ellos distinguen entre cualidades primarias y secundarias de los objetos.
