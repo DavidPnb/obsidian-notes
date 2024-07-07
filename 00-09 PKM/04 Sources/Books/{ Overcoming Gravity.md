@@ -226,7 +226,6 @@ finished:: 2023-7-19 20:52
 3. **Intermedio** - Entrenamiento específico para fuerza, hipertrofia o resistencia
 	1. Progresiones Simples -> Acumulación/Intensificación, Light/Heavy,DUP
 	2. Rutinas Split
-### Recursos de Prehabilitación, Lesiones y Ejercicios
 
 ## Puntos Clave
 

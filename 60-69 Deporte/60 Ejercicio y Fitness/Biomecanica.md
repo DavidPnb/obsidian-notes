@@ -15,4 +15,7 @@ Una inserción que se encuentra más alejada del centro tiene más capacidad par
 
 ### Palanca
 La mayoría de los movimientos del cuerpo se ejecutan por palanca, usando a las articulaciones como pivotes. La mayoría de los musculos del cuerpo presentan una desventaja mecánica, lo que aumenta las fuerzas internas y el riesgo de lesiones.
+
+## Planos Anatómicos
+El cuerpo humano esta compuesto por tres planos anatómicos: el **plano sagital** divide al cuerpo en parte izquierda y derecha, el **plano frontal** divide al cuerpo en parte delantera y trasera, y el **plano transversal** divide al cuerpo en parte superior e inferior.
 ___

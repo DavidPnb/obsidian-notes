@@ -50,13 +50,8 @@
             "id": "184a3d2ec3748a78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -88,7 +83,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -217,7 +211,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,9 +245,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md"
-              }
+              "state": {}
             }
           },
           {
@@ -331,15 +322,15 @@
   },
   "active": "184a3d2ec3748a78",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
     "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md",
     "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
     "00-09 PKM/04 Sources/Books/{ The Evolving Self.md",
     "00-09 PKM/04 Sources/Books/{ Sapiens.md",
     "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
     "60-69 Deporte y Recreacion/60 Ejercicio y Fitness/Biomecanica.md",
-    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "00-09 PKM/04 Sources/Books/{ Civilization and its Discontents.md"
   ]
 }
