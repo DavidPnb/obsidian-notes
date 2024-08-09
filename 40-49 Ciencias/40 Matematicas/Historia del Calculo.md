@@ -47,4 +47,11 @@ La notación $dy/dx$ es bastante sugerente y en varios sentidos puede tratarse c
 Otra notación para la derivada tiene como ventaja su brevedad, si $y = f(x)$, su derivada es $f´(x)$ . Si la función es de dos variables independientes se debe especificar que variable se va a diferenciar, para esto se usa $\partial$ en lugar de la $d$ romana. En esta notación todas las variables excepto las indicadas se mantienen constantes.
 
 Una notación aun más breve es el uso del operador $D$ para indicar la derivada. Este uso operacional fue usado por el ingeniero electrico ingles Olivier Heaviside para resolver numerosos problemas de aplicación, tratandolo como una cantidad algebraica, pese al disgusto de matematicos profesionales. Eventualmente, las ideas de Heaviside encontraron justificación formal con el más avanzado metodo de la transformada de Laplace.
+
+## Cálculo Diferencial
+El cálculo diferencial es la rama más simple del cálculo, que nació tras las innovaciones en el algebra y la geometría que se dieron a lo largo miles de años. 
+
+En el siglo XV despues de ser llevada a Europa desde el oriente, el álgebra es abstraida en simbolos que pueden ser manipulados para resolver problemas de forma más eficiente.
+
+Pierre de Fermat y René Descartes desarrollaron la geometría analítica de forma independiente como medio para la representación algebraica de curvas geometricas. Los métodos de la geometría analítica simplifican los problemas geométricos y permiten la representación gráfica de las entidades matemáticas.
 ___
