@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
+                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
+                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
+                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/40 Matematicas/Historia del Calculo.md"
+                "file": "40-49 Ciencias/42 Fisica/42.00 Fisica.md"
               }
             }
           },
@@ -318,6 +318,7 @@
   },
   "active": "30ba533d0db243ad",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
     "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
     "Untitled.md",
@@ -326,7 +327,6 @@
     "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md",
     "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
     "00-09 PKM/04 Sources/Books/{ The Evolving Self.md",
-    "00-09 PKM/04 Sources/Books/{ Sapiens.md",
-    "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md"
+    "00-09 PKM/04 Sources/Books/{ Sapiens.md"
   ]
 }
