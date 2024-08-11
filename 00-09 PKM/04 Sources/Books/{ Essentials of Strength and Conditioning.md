@@ -31,10 +31,7 @@ finished::
 
 ### Biomécanica del Ejercicio de Resistencia
 [[Biomecanica]]
-- Movimientos Anatómicos
-- Poder y Trabajo
-	- Lineal
-	- Rotacional
+[[Fuerza y Poder Humano]]
 - Factores contribuyentes a la fuerza y poder humano
 - Biomécanica de las articulaciones
 
