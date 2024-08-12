@@ -35,5 +35,17 @@ La fuerza que puede ejercer un músculo depende de su area en lugar de su volume
 Esto se refiere al ángulo entre el tendón y la fibra muscular. Un mayor ángulo aumenta la capacidad para producir una fuerza pero reduce la velocidad de contracción.
 
 ### Ángulo de la Articulación
-Debido a que los movimientos del cuerpo se realizan mediante palanca, el angulo de las a
+Debido a que los movimientos del cuerpo se realizan mediante palanca, el angulo de las articulaciones es importante para el cálculo del torque.
+
+### Largo del Músculo
+Los musculos son más fuertes en su posición de descanso. Por lo tanto, al flexionarlos o extenderlos se aplica más tensión sobre estos.
+
+### Velocidad Angular de la Articulación
+En los movimientos concéntricos, la fuerza decrece a medida que aumenta la velocidad angular; en los eccéntricos esta relación se invierte, por lo tanto los ejercicios eccéntricos son más faciles.
+
+### Razón Fuerza-Masa
+Esta indica la capacidad para realizar movimientos que involucran al propio cuerpo
+
+### Dimensiones Corporales
+La masa corporal aumenta a mayor ritmo que la fuerza muscular, por lo que los atletas medianos tienden a tener mayor fuerza proporcional.
 ___
