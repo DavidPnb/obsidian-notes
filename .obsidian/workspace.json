@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -217,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md"
               }
             }
           },
@@ -329,17 +328,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1c7f3fcf0cac9cc4",
+  "active": "359cde9fd4c23dd9",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
+    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
+    "00-09 PKM/04 Sources/Books/{ Story.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Genero Narrativo.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Trama Narrativa.md",
-    "00-09 PKM/04 Sources/Books/{ Story.md",
     "00-09 PKM/04 Sources/Books/{ The Story Grid.md",
-    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "60-69 Deporte/60 Ejercicio y Fitness/Fuerza y Poder Humano.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "60-69 Deporte/60 Ejercicio y Fitness/Biomecanica.md",
-    "00-09 PKM/04 Sources/Books/{ Sapiens.md",
-    "40-49 Ciencias/42 Fisica/Mecanica Clasica.md"
+    "00-09 PKM/04 Sources/Books/{ Sapiens.md"
   ]
 }

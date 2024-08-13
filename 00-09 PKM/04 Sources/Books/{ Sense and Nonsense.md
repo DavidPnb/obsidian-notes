@@ -26,7 +26,7 @@ A pesar de sus similitudes, cada teoría presenta un enfoque o una ideología di
 ## Historia de la Evolución y el Comportamiento Humano
 Desde que Charles Darwin publicó la teoría de la evolución por selección natural, han surgido numerosas hipótesis que pretenden explicar el comportamiento humano por medio de la evolución biológica. 
 
-Las ideas derivadas de Darwin le dan más importancia a la variación dentro de las poblaciones genéticas que a la variación entre estas y resaltan la influencia de la aleatoriedad en la selección rasgos biológicos. Las ideas Lamarckianas conciben a una evolución progresiva y lineal con especios superiores a otras, y a partir de esto justifican toda clase de prejuicios sociales y raciales.
+Las ideas derivadas de Darwin le dan más importancia a la variación dentro de las poblaciones genéticas que a la variación entre estas y resaltan la influencia de la aleatoriedad en la selección rasgos biológicos. Las ideas Lamarckianas conciben a una evolución progresiva y lineal con especies superiores a otras, y a partir de esto justifican toda clase de prejuicios sociales y raciales.
 
 ## Sociobiología Humana
 La sociobiologia humana, popularizada por E. O. Wilson en 1975, trata de explicar la función de un comportamiento a través de una perspectiva evolutiva.
@@ -39,5 +39,12 @@ La sociobiologia humana, popularizada por E. O. Wilson en 1975, trata de explica
 
 ### Controversia
 La sociobiologia humana fue acusada por las ciencias sociales de propagar prejuicios y de ser determinista y reducccionista. Dawkins y Wilson aclararon que los genes solo determinan la capacidad de desarrollar un comportamiento, y que la historia evolutiva no determina irremediablemente el desarrollo de nuestra sociedad.
+
+## Ecología del Comportamiento Humano
+Esta teoría surge de la adopción de la teoría evolutiva por ciertos antropológos contemporaneos al auge sociobiológico. Busca estudiar como los factores ambientales afectan el comportamiento de los individuos.
+
+### Conceptos Clave
+
+### 
 ___
 
