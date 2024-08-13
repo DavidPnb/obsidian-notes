@@ -44,7 +44,10 @@ La sociobiologia humana fue acusada por las ciencias sociales de propagar prejui
 Esta teoría surge de la adopción de la teoría evolutiva por ciertos antropológos contemporaneos al auge sociobiológico. Busca estudiar como los factores ambientales afectan el comportamiento de los individuos.
 
 ### Conceptos Clave
+- **Flexibilidad Adaptativa** - La teoría sostiene que la adaptatividad es un rasgo evolutivo de la especie humana, y que los comportamientos individuales estarán optimizados respecto a los factores ecológicos y sociales
+- **Modelos Formales** - La metodología de este sistema se basa en crear modelos matemáticos acerca de los comportamientos y compararlos con la evidencia antropológica para sacar conclusiones acerca de la adaptatividad del comportamiento
+- **Sacrificios Adaptativos** - Reconociendo que un individuo no tiene los recursos suficientes para optimizar multiples variables, se modela la distribución de comportamientos que optimice la capacidad de reproducción
 
-### 
+### Crítica
 ___
 
