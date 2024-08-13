@@ -42,13 +42,7 @@ finished:: 2023-07-29 20:01
 	- **Historia**
 		- Serie de actos que acaba con un climax que trae consigo un cambio irreversible
 
-La **trama** es la forma en la que se elige estructurar la historia.
-
-(***Triangulo de la trama***)
-
-![[Plot.png]]
-
-La **minitrama** y la **antitrama** son suversiones de una trama tradicional, y por esto requieren el dominio del diseño clásico.
+[[Trama Narrativa]]
 
 #### Estructura y Ambientación
 La **Ambientación** esta compuesta de cuatro dimensiones.
@@ -63,38 +57,7 @@ Las **decisiones creativas** son las elecciones de inclusión y exclusión relac
 Un falta de dominio de la ambientación nos hace propensos a cometer agujeros de guión, y en la mayoría de los casos nos obliga a buscar ideas en historias con ambientación similar. Por esta razón, tener una buena ambientación evita que caigamos en clichés.
 
 #### Estructura y Género
-Las historias que son similares pertenecen a un mismo **género**. La audiencia espera familiaridad de un género, pero tambien espera que superen sus espectativas. Los géneros pueden mezclarse y tambien pueden evolucionar con el paso del tiempo debido a cambios en la sociedad.
-
-- **Categorias Prácticas**
-	- **Géneros**
-		- **Romance-Bromance**
-		- **Horror**
-		- **Épica Moderna**
-		- **Western**
-		- **Guerra**
-		- **Madurez**
-		- **Redención**
-		- **Punitivo**
-		- **Perseverancia**
-		- **Reflexión**
-		- **Desilusión**
-	- **Mega-géneros**
-		- **Comedia**
-		- **Crimen**
-		- **Drama Social**
-		- **Acción/Aventura**
-	- **Supra-géneros**
-		- **Drama Historico**
-		- **Biografía**
-		- **Docu-drama**
-		- **Falso Documental**
-		- **Musical**
-		- **Ciencia Ficción**
-		- **Deportes**
-		- **Fantasía**
-		- **Art**
-
-Las **convenciones de género** son ambientaciones, valores, roles y eventos que definen a un género determinado. Las convenciones son las que definen las limitaciones creativas de un género, y su estudio lleva al dominio de ese género particular.
+[[Genero Narrativo]]
 
 #### Estructura y Personaje
 [[Personajes de una Historia]]
