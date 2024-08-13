@@ -48,6 +48,9 @@ Esta teoría surge de la adopción de la teoría evolutiva por ciertos antropol�
 - **Modelos Formales** - La metodología de este sistema se basa en crear modelos matemáticos acerca de los comportamientos y compararlos con la evidencia antropológica para sacar conclusiones acerca de la adaptatividad del comportamiento
 - **Sacrificios Adaptativos** - Reconociendo que un individuo no tiene los recursos suficientes para optimizar multiples variables, se modela la distribución de comportamientos que optimice la capacidad de reproducción
 
-### Crítica
+### Críticas
+- **Adaptatividad** - Los partidarios de la psicología evolutiva critican que la ecología del comportamiento se enfoca los comportamientos adaptativos en lugar de las adaptaciones evolutivas. Esto se basa en la creencía de que el cambio drastico en las condiciones ecológicas ha vuelto obsoletas a las adaptaciones que nos ayudaron a sobrevivir en otros tiempos
+- **Optimización** - La metodología de la ecología del comportamiento no puede determinar con certeza si un conjunto de individuos se comportan de manera óptima
+- **Reduccionismo** - Los antropologos tradicionales acusan a la ecología del comportamiento de ser reducciones, ignorando que los modelos formales requieren de un proceso de abstracción y simplificación para tener capacidad predictivas
 ___
 
