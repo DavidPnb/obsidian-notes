@@ -32,5 +32,18 @@ Determina si que tanto la audiencia debe suspender su incredulidad. Se divide pr
 [[Trama Narrativa]]
 
 ### Contenido
-
+- **Externo**
+	- **Acción** - El heroe se enfrenta directamente contra un villano palpable
+	- **Horror** - El protagonista se enfrenta contra un mounstro o ser malicioso
+	- **Crimen** - Se comete un crimen y se debe llevar al culpable ante la justicia
+	- **Thriller** Una combinación de los tres géneros anteriores. El heroe cae victima de un villano en una historia que involucra intriga, acción y terror. Suele estar acompañada de un conflicto interno como subtrama
+	- **Western** - Se examina la relación del individuo con la sociedad, que termina con un enfrentamiento entre el heroe y el villano
+	- **Guerra** - Presenta una narrativa a favor o en contra de la guerra y sus consecuencias
+	- **Sociedad** - Presenta conflictos sociales y pretende validar una postura o idea particular
+	- **Amor**
+	- **Desempeño-/Deportes**
+- **Interno**
+	- **Perspectiva** - Culmina con un cambio en la perspectiva del protagonista
+	- **Moralidad** - Culmina con un cambio en el caracter
+	- **Status** - Culmina con un cambio en el status social
 ___
