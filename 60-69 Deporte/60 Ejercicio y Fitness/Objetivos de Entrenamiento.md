@@ -7,8 +7,8 @@ up:: [[60.00 Fitness]]
 
 ## Ejercicio
 - Knee Raises 3x30->30
-- Kneeling PU 2x30>30
-- Supported Squats 3x30->30
+- Half PU 1x9>25
+- Half Squats 1x9->50
 - Jackknife Pulls - 3x20>20
 
 ___

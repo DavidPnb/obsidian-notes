@@ -30,7 +30,4 @@ Links:
 
 ## Recursos
 ### Libros
-- Richard M. Felder - Teaching and Learning STEM
-- Jade Bowler - The Only Study Guide You Will Ever Need
-- Peter Brown - Make it Stick
 ___

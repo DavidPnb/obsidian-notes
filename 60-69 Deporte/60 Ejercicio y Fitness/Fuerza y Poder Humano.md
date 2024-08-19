@@ -48,4 +48,20 @@ Esta indica la capacidad para realizar movimientos que involucran al propio cuer
 
 ### Dimensiones Corporales
 La masa corporal aumenta a mayor ritmo que la fuerza muscular, por lo que los atletas medianos tienden a tener mayor fuerza proporcional.
+
+## Resistencia a la Fuerza Muscular
+### Gravedad
+La fuerza de gravedad actua en la dirección del centro de la Tierra y es proporcional a la masa del objeto.
+
+### Inercia
+La inercia indica la resistencia de un objeto a los cambios de dirección, y es igual a la masa por la velocidad del objeto. En un movimiento de alta velocidad, la fuerza de resistencia aumenta al comienzo del movimiento y se reduce al final del movimiento.
+
+### Fricción
+La fricción es una fuerza entre dos objetos que hacen contacto. Esta fuerza se opone al movimiento y es igual a la fuerza normal entre los objetos por la constante de fricción, que depende de las superficies en contacto. La fuerza de fricción es mayor al comienzo del movimiento, y una vez que el objeto empieza a moverse, se mantiene constante a lo largo del movimiento.
+
+### Resistencia de Fluidos
+Es provocada por el contacto entre un objeto y las particulas de un fluido y aumenta con la velocidad del objeto.
+
+### Elasticidad
+La fuerza ejercida por un objeto elástico depende de las propiedades del objeto y la distancia que este es estirado o comprimido.
 ___
