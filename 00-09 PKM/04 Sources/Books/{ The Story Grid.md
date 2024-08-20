@@ -18,5 +18,14 @@ finished::
 
 ## Género
 [[Genero Narrativo]]
+
+## Foolscap Method
+Hay 6 elementos que un escritor debe tener en cuenta al empezar una obra:
+1. **Género**
+2. **Convenciones de Género**
+3. **Punto de Vista**
+4. **Objetivos del Protagonista**
+5. **Tematica**
+6. **Inicio, Desarrollo y Cierre**
 ___
 
