@@ -6,9 +6,9 @@ up:: [[60.00 Fitness]]
 # Objetivos de Entrenamiento
 
 ## Ejercicio
-- Knee Raises 3x30->30
+- Knee Raises 1x9->25
 - Half PU 1x9>25
 - Half Squats 1x9->50
-- Jackknife Pulls - 3x20>20
+- Half Pull-ups - 1x9>15
 
 ___
