@@ -20,5 +20,10 @@ Se busca establecer la existencia de la mente de otras personas a través de la 
 - Sabemos que un **B** siempre esta acompañado de algún **A**
 - Si observamos un comportamiento **B** en otro individuo, podemos inferir que es causado por un pensamiento **A**
 
-Este argumento es defendido por Bertrand Russell en *Human Knowledge*, y es usado para demostrar la experiencia subjetiva general en lugar de experiencias particulares.
+Este argumento es defendido por Bertrand Russell en *Human Knowledge*, y es usado para demostrar la experiencia subjetiva general en lugar de experiencias particulares
+
+### Wittgenstein y Otras Mentes
+Saul Kripke atribuye a Wittgenstein el argumento de que la formulación tradicional del problema de las otras mentes carece de sentido, ya que somos incapaces de percibir nuestra propia mente y abstraer sus propiedades.
+
+
 ___
