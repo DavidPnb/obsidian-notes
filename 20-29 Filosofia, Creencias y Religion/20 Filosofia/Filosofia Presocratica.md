@@ -10,7 +10,11 @@ La Antigua Grecia estaba compuesta por un conjunto de ciudades separadas por cad
 La filosofía de la época era marcada por una dicotomía entre las corrientes racionalistas, con enfoque científico; y las corrientes dionisias, con enfoque religioso.
 
 ## Escuela Milesiana
-Esta surge del intercambio cultural entre Egipto, Babilonia y Mileto; una región oriental de la Grecia Antigua. Es representada por Tales, Anaximandro y Anaximenes, y es caracterizada por un enfoque que busca descubrir la naturaleza del mundo y es libre de prejuicios morales o religiosos. Cada uno tenía una opinión diferente sobre la materia y la sustancia fundamental que conforma al mundo.
+Esta surge del intercambio cultural entre Egipto, Babilonia y Mileto; una región oriental de la Grecia Antigua. Es representada por Tales, Anaximandro y Anaximenes, y se caracteriza por un enfoque que busca descubrir la naturaleza del mundo y es libre de prejuicios morales o religiosos.
 
+## Pitagoras
+Pitagoras fue una figura mística e intelectual cuyas ideas han influido enormemente en el pensamiento matemático y la filosofía occidental. 
+
+Su doctrina propone la transfiguración de las almas, y al mismo tiempo combina el misticismo con el razonamiento lógico; promoviendo los ideales matemáticos por encima de experiencia empírica.
 
 ___
