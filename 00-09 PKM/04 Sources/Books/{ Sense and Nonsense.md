@@ -52,5 +52,19 @@ Esta teoría surge de la adopción de la teoría evolutiva por ciertos antropol�
 - **Adaptatividad** - Los partidarios de la psicología evolutiva critican que la ecología del comportamiento se enfoca los comportamientos adaptativos en lugar de las adaptaciones evolutivas. Esto se basa en la creencía de que el cambio drastico en las condiciones ecológicas ha vuelto obsoletas a las adaptaciones que nos ayudaron a sobrevivir en otros tiempos
 - **Optimización** - La metodología de la ecología del comportamiento no puede determinar con certeza si un conjunto de individuos se comportan de manera óptima
 - **Reduccionismo** - Los antropologos tradicionales acusan a la ecología del comportamiento de ser reducciones, ignorando que los modelos formales requieren de un proceso de abstracción y simplificación para tener capacidad predictivas
+
+
+## Psicología Evolutiva
+Asume que nuestra psicología esta adaptada a un entorno primitivo que difiere en muchos aspectos con el actual, lo que causa un desfase entre nuestro comportamiento y su función adaptativa. Utiliza un modelo computacional de la mente humana para determinar que procesos psicológicos deben desarrollarse para conseguir un resutado esperado en base a la información disponible.
+
+### Conceptos Clave
+- **Procesos Psicológicos** - Los comportamientos no pueden desarrollarse con las presiones evolutivas, y son los procesos psicologicos los que se adaptan para producir estos comportamientos
+- **Ambiente de Adaptación Evolutiva** - Es el ambiente para el que esta adaptado nuestro comportamiento, y usualmente se le ubica en el Pleistoceno (hace            1 000 000 - 10 000 años)
+- **Especificidad** - Los procesos psicológicos evolucionaron para resolver problemas en contextos especificos y de manera eficiente
+
+### Crítica
+La psicología evolutiva ignora los procesos evolutivos complejos que pueden presentarse en nuestra adaptación, convirtiendola en un proceso en desarrollo que no puede ser ubicado en ningun lugar o época.
+
+La existencia de procesos psicologicos generales como el aprendizaje da indicios de que ciertas unidades de pensamiento comparten heurísticas universales.
 ___
 
