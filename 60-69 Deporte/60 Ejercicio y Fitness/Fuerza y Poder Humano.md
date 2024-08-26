@@ -64,4 +64,14 @@ Es provocada por el contacto entre un objeto y las particulas de un fluido y aum
 
 ### Elasticidad
 La fuerza ejercida por un objeto elástico depende de las propiedades del objeto y la distancia que este es estirado o comprimido.
+
+## Biomécanica de las Articulaciones
+### Espalda
+Las vertebras estan sometidas a fuerzas compresivas debido a nuestra postura. Realizar ejercicios de resistencia con un mala postura aumenta el riesgo de lesiones de espalda. La contracción de los músculos abdominales estabiliza el torso, reduciendo las fuerzas que soporta la espalda y reduciendo el riesgo de lesiones
+
+### Hombros
+Los hombros son vulnerables a lesiones por su estructura y rango de movimiento, así que deben ser entrenados de manera progresiva.
+
+### Rodilla
+La rodilla es una articulación que se encuentra entre dos palancas, por lo que sus componentes son sometidos constantemente a fuerzas resistivas.
 ___

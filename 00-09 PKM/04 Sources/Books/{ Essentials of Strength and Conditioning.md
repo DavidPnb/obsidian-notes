@@ -32,8 +32,6 @@ finished::
 ### Biomécanica del Ejercicio de Resistencia
 [[Biomecanica]]
 [[Fuerza y Poder Humano]]
-- Factores contribuyentes a la fuerza y poder humano
-- Biomécanica de las articulaciones
 
 ### Bioenergética de Ejercicio y Entrenamiento
 - Sistemas de energía
