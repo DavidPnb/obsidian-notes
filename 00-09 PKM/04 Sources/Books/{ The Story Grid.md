@@ -27,5 +27,8 @@ Hay 6 elementos que un escritor debe tener en cuenta al empezar una obra:
 4. **Objetivos del Protagonista**
 5. **Tematica**
 6. **Inicio, Desarrollo y Cierre**
+
+## Cinco Mandamientos de la Historia
+[[Diseño de una Historia]]
 ___
 
