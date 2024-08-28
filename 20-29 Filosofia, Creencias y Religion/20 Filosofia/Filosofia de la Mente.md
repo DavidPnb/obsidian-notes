@@ -25,5 +25,6 @@ Este argumento es defendido por Bertrand Russell en *Human Knowledge*, y es usad
 ### Wittgenstein y Otras Mentes
 Saul Kripke atribuye a Wittgenstein el argumento de que la formulación tradicional del problema de las otras mentes carece de sentido, ya que somos incapaces de percibir nuestra propia mente y abstraer sus propiedades.
 
-
+### El Hombre Visto Desde Afuera
+Merleau-Ponty crítica el dualismo cartesiano y afirma que una persona adquiere su concepto de sí misma a través de la interaccón con otras personas desde la infancia temprana.
 ___

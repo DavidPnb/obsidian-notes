@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Story.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia de la Mente.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/80 Escritura/Diseño de una Historia.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/80 Escritura/Diseño de una Historia.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80-89 Literatura, Escritura y Ficcion/80 Escritura/Diseño de una Historia.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md"
               }
             }
           },
@@ -329,8 +329,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8998ac5c9061ff67",
+  "active": "314e0a759c413dec",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia de la Mente.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Diseño de una Historia.md",
     "00-09 PKM/04 Sources/Books/{ The Story Grid.md",
@@ -339,7 +340,6 @@
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
-    "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia de la Mente.md"
+    "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md"
   ]
 }
