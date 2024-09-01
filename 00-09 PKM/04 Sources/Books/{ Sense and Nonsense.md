@@ -66,5 +66,14 @@ Asume que nuestra psicología esta adaptada a un entorno primitivo que difiere e
 La psicología evolutiva ignora los procesos evolutivos complejos que pueden presentarse en nuestra adaptación, convirtiendola en un proceso en desarrollo que no puede ser ubicado en ningun lugar o época.
 
 La existencia de procesos psicologicos generales como el aprendizaje da indicios de que ciertas unidades de pensamiento comparten heurísticas universales.
+
+## Memética
+La idea central de la memética es que las unidades culturales estan sujetas a procesos evolutivos.
+
+### Conceptos Clave
+- **Meme** - Existe espacio limitado para el almacenamiento y transmisión de la cultura. Por lo tanto, las unidades culturales (conocidas como **memes**) compiten entre ellas y su supervivencia depende las características que les ayuden a transmitirse
+
+### Crítica
+El marco teorico de la memética no tiene la capacidad de comprobar hipótesis de manera empirica, así que no tienela capacidad para ser usada en el ambito científico
 ___
 
