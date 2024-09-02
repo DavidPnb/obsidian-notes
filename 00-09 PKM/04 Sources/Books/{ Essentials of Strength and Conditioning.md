@@ -34,9 +34,7 @@ finished::
 [[Fuerza y Poder Humano]]
 
 ### Bioenergética de Ejercicio y Entrenamiento
-- Sistemas de energía
-- Fatiga
-- Factores bioenergéticos de desempeño
+[[Bioenergetica]]
 
 ### Respuestas Endocrinas al Entrenamiento de Resistencia
 - Endocrinología

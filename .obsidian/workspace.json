@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-69 Deporte/60 Ejercicio y Fitness/Fuerza y Poder Humano.md",
+                "file": "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
+                "file": "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -217,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
+                "file": "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md"
+                "file": "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md"
               }
             }
           },
@@ -329,17 +328,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "314e0a759c413dec",
+  "active": "359cde9fd4c23dd9",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
+    "60-69 Deporte/60 Ejercicio y Fitness/Fuerza y Poder Humano.md",
+    "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia de la Mente.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Diseño de una Historia.md",
     "00-09 PKM/04 Sources/Books/{ The Story Grid.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Sustancia de una Historia.md",
-    "60-69 Deporte/60 Ejercicio y Fitness/Fuerza y Poder Humano.md",
-    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
-    "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
     "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md"
   ]
 }
