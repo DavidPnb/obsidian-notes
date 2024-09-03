@@ -30,5 +30,7 @@ Hay 6 elementos que un escritor debe tener en cuenta al empezar una obra:
 
 ## Cinco Mandamientos de la Historia
 [[Diseño de una Historia]]
+
+## Unidades de la Historia
 ___
 

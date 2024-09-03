@@ -25,22 +25,7 @@ finished:: 2023-07-29 20:01
 [[Introduccion a la Escritura]]
 
 ### Elementos de la Historia
-#### Espectro de la Estructura
-- **Terminología**
-	- **Estructura**
-		- Conjunto de eventos ordenados en una secuencia determinada para evocar emociones en el espectador
-	- **Eventos**
-		- Suceso que involucra un *cambio* en la historia a través de los *personajes*, se expresa a traves de *valores* (dualidad) e involucran conflicto
-	- **Escenas**
-		- Narraciones en tiempo continuo que, idealmente, relatan un *evento* y revelan *exposición*.
-	- **Beats**
-		- Son las acciones y reacciones que determinan el resultado de una escena
-	- **Secuencia**
-		- Serie de eventos (2-5) que culmina con un mayor impacto
-	- **Acto**
-		- Serie de secuencias que culmina con un cambio significativo en la historia
-	- **Historia**
-		- Serie de actos que acaba con un climax que trae consigo un cambio irreversible
+[[Unidades de una Historia]]
 
 [[Trama Narrativa]]
 

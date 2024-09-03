@@ -15,8 +15,6 @@ Para tener una idea concreta de una historia deben haber al menos 5 elementos:
 ## Diseño de Actos
 La cantidad de actos presentes en una historia suele ser proporcional a su extensión. El estándar es una historia compuesta de primer y tercer acto, en los que se divide la mitad de la obra; y un segundo acto que ocupa el resto de su extensión. 
 
-Para llenar el espacio del segundo acto, es común el uso de subtramas y tramas múltiples, que cuentan con su propia estructura. La mayor parte de las subtramas deben estar resueltas para el final de la historia.
-
 El penúltimo acto de una historia debe generar contraste con el último. Por esto, ambos no pueden terminar positiva o negativamente.
 
 ## Composición
@@ -27,7 +25,7 @@ El incidente incitante debe estar conectado lógicamente con el climax; al mismo
 Existe gran variedad de técnicas respecto al colocamiento de escenas. El **pacing** es el balance entre tensión y relajación que hay en estas, el **ritmo** es la variación en la duración de escenas y el **tempo** es la variación en su actividad. Las escenas de poca actividad/tensión son las más indicadas para introducir exposición y para presentar eventos triviales.
 
 ## Estructura
-Estos cinco elementos le dan forma a cada nivel de la trama de una obra narrativa.
+Estos cinco elementos le dan forma a cada nivel de la trama de una obra narrativa; [[Unidades de una Historia]].
 
 ### Incidente Incitante
 El primero de los eventos es el **incidente incitante**, que cambia radicalmente el balance en la vida del protagonista. El protagonista reacciona a este evento, y por esto desarrolla un objetivo (conciente/inconciente) para restaurar el balance. El deseo del protagonista da lugar al resto de la historia y se convierte en el esqueleto de la progresión narrativa.
