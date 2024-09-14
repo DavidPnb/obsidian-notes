@@ -17,7 +17,9 @@ Pitagoras fue una figura mística e intelectual cuyas ideas han influido enormem
 
 Su doctrina propone la transfiguración de las almas, y al mismo tiempo combina el misticismo con el razonamiento lógico; promoviendo los ideales matemáticos por encima de experiencia empírica.
 
-
 ## Heraclito
-Heraclito fue un filosófo de caracter móstico que genra la concepción de que todo esta en constante cambio. Toda la materia esta formada por el fuego, que cambia constantemente y que a la vez produce armonía a través de la lucha entre opuestos.
+Heraclito fue un filosófo de caracter místico que propone la concepción de que todo esta en constante cambio. Toda la materia esta formada por el fuego, que cambia constantemente y que a la vez produce armonía a través de la lucha entre opuestos.
+
+## Parménides
+Parménides es uno de los primeros filósofos en en hacer aseveraciones metafísicas. Este asegura que si el lenguaje tiene validez proposicional, entonces esta debe mantenerse a lo largo del tiempo, y por lo tanto, no puede existir el concepto de cambio
 ___

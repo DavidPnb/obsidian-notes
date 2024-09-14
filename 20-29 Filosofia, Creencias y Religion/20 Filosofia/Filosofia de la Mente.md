@@ -27,4 +27,11 @@ Saul Kripke atribuye a Wittgenstein el argumento de que la formulación tradicio
 
 ### El Hombre Visto Desde Afuera
 Merleau-Ponty crítica el dualismo cartesiano y afirma que una persona adquiere su concepto de sí misma a través de la interaccón con otras personas desde la infancia temprana.
+
+### Teoría Materialista de la Mente
+Los mecanismos de introspección son analogos a la percepción por su naturaleza subjetiva y su proposito de recolectar información y formar creencias acerca del mundo externo e interno. 
+
+Un **estado mental** es un proceso mental que tiene la capacidad de cambiar nuestro comportamiento, la instrospección es por si misma un estado mental con la capacidad de cambiar nuestra disposición respecto a otros estados mentales.
+
+La **mente** es una sustancia teorica que engloba todos los estados mentales y percepciones asociados a un individuo.
 ___
