@@ -12,4 +12,14 @@ El **catabolismo** es la descomposición de moléculas grandes para su uso como 
 Las **reacciones exergonicas** resultan en la producción de energía y estan relacionadas con el catabolismo. Las **reacciones endergonicas** consumen energía y se relacionan con el anabolismo y la contracción muscular. El conjunto de estas reacciones se conoce como **metabolismo**.
 
 El **ATP** es una molécula intermedia que se usa en los procesos metabólicos para almacenar energía.
+
+## Sistemas Biológicos de Energía
+### Sistema de Fosfágeno
+Se ocupa de la producción de ATP en actividades de alta intensidad por medio del fosfato de creatina.
+
+### Glicolisis
+Descompone los carbohidratos y los convierte en ATP.
+
+### SIstema Oxidante
+Convierte acidos grasos y carbohidratos en energía utilizando oxígeno.
 ___
