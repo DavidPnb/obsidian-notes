@@ -22,4 +22,12 @@ Descompone los carbohidratos y los convierte en ATP.
 
 ### SIstema Oxidante
 Convierte acidos grasos y carbohidratos en energía utilizando oxígeno.
+
+## Consumo de Sustratos
+### Fosfagenos
+El consumo de fosfagenos (ATP y creatina) es la causa principal de fatiga en ejercicios de alta intensidad. El ATP puede reponerse en 3-5 minutos de descanso, mientras que la creatina se repone en 8 minutos.
+
+### Glucogeno
+Es el principal factor limitante en el ejercicio de media intensidad. El glucogeno se repone completamente unas 24 horas despues del ejercicio con un consumo adecuado de carbohidratos
+
 ___
