@@ -34,4 +34,7 @@ Los mecanismos de introspección son analogos a la percepción por su naturaleza
 Un **estado mental** es un proceso mental que tiene la capacidad de cambiar nuestro comportamiento, la instrospección es por si misma un estado mental con la capacidad de cambiar nuestra disposición respecto a otros estados mentales.
 
 La **mente** es una sustancia teorica que engloba todos los estados mentales y percepciones asociados a un individuo.
+
+### Teoría de la Mente
+Sarah Paul critica la perspectiva convencional acerca de la introspección, que es caracterizada por su transparencia al momento de recolectar información. En su lugar, propone que inferimos información de nuestra propia mente de la misma forma que hacemos con las demás personas
 ___
