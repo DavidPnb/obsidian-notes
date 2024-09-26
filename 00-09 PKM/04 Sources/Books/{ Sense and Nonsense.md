@@ -74,6 +74,16 @@ La idea central de la memética es que las unidades culturales estan sujetas a p
 - **Meme** - Existe espacio limitado para el almacenamiento y transmisión de la cultura. Por lo tanto, las unidades culturales (conocidas como **memes**) compiten entre ellas y su supervivencia depende las características que les ayuden a transmitirse
 
 ### Crítica
-El marco teorico de la memética no tiene la capacidad de comprobar hipótesis de manera empirica, así que no tienela capacidad para ser usada en el ambito científico
+El marco teorico de la memética no tiene la capacidad de comprobar hipótesis de manera empirica, así que no puede ser usada en el ambito científico
+
+## Coevolución de Gen-Cultura
+Conjunto de modelos teoricos y matemáticos que analizan la interacción entre los procesos genéticos y culturales y la forma en la que afecta nuestro comportamiento
+
+### Conceptos Clave
+- **Herencia Cultural** - La cultura se transmite socialmente y permite una capacidad de adaptación más rapida a nuestro ambiente
+- **Transmisión Cultural** - A diferencia de los genes, las unidades culturales pueden transmitirse en multiples direcciones en base a nuestro ambiente y composición genética
+
+### Crítica
+Al igual que la memética, la coevolución de gen-cultura carece de metodología practica inherente
 ___
 

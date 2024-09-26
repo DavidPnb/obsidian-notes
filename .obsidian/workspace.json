@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md"
               }
             }
           },
@@ -330,6 +330,7 @@
   },
   "active": "359cde9fd4c23dd9",
   "lastOpenFiles": [
+    "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
     "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia de la Mente.md",
@@ -338,7 +339,6 @@
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Sustancia de una Historia.md",
     "00-09 PKM/04 Sources/Books/{ The Story Grid.md",
-    "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md"
   ]
 }
