@@ -22,4 +22,7 @@ Heraclito fue un filosófo de caracter místico que propone la concepción de qu
 
 ## Parménides
 Parménides es uno de los primeros filósofos en en hacer aseveraciones metafísicas. Este asegura que si el lenguaje tiene validez proposicional, entonces esta debe mantenerse a lo largo del tiempo, y por lo tanto, no puede existir el concepto de cambio
+
+## Empedocles
+Empedocles fue un cientifico, filosofo y profeta contemporaneo con Parmenides. Filosoficamente se le atribuye la concepción moderna de los elementos, cuya distribución se mantiene cambiante debido a una lucha entre el amor y el conflicto.
 ___
