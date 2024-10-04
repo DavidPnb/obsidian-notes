@@ -32,4 +32,8 @@ Es el principal factor limitante en el ejercicio de media intensidad. El glucoge
 
 ## Consumo de Oxígeno
 Este depende de la cantidad de oxígeno que puede ser ingerido por el sistema respiratorio y consumido durante el ejercicio. El consumo de oxígeno aumenta con la duración de un ejercicio, y se mantiene alto hasta que el cuerpo se recupera al estado anterior a la actividad física.
+
+## Especificidad de Entrenamiento
+Con un conocimiento de los sistemas metabólicos, la duración y los descansos de una rutina pueden modificarse para mejorar la recuperación y así producir un mayor trabajo total que una rutina de ejercicio continuo. A esto se le conoce como **entrenamiento de intervalo**.
+
 ___
