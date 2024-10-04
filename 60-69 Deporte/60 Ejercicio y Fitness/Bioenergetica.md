@@ -30,4 +30,6 @@ El consumo de fosfagenos (ATP y creatina) es la causa principal de fatiga en eje
 ### Glucogeno
 Es el principal factor limitante en el ejercicio de media intensidad. El glucogeno se repone completamente unas 24 horas despues del ejercicio con un consumo adecuado de carbohidratos
 
+## Consumo de Oxígeno
+Este depende de la cantidad de oxígeno que puede ser ingerido por el sistema respiratorio y consumido durante el ejercicio. El consumo de oxígeno aumenta con la duración de un ejercicio, y se mantiene alto hasta que el cuerpo se recupera al estado anterior a la actividad física.
 ___
