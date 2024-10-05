@@ -36,5 +36,10 @@ Un **estado mental** es un proceso mental que tiene la capacidad de cambiar nues
 La **mente** es una sustancia teorica que engloba todos los estados mentales y percepciones asociados a un individuo.
 
 ### Teoría de la Mente
-Sarah Paul critica la perspectiva convencional acerca de la introspección, que es caracterizada por su transparencia al momento de recolectar información. En su lugar, propone que inferimos información de nuestra propia mente de la misma forma que hacemos con las demás personas
+Sarah Paul critica la perspectiva convencional acerca de la introspección, que es caracterizada por su transparencia al momento de recolectar información. En su lugar, propone que inferimos información de nuestra propia mente de la misma forma que hacemos con las demás personas.
+
+### Escepticismo sobre el Mundo Interno
+Alex Byrne argumenta que el escepticismo con respecto a nuestra propia mente es una postura más defendible que el escepticismo acerca de nuestro entorno. Este comienza por criticar el escepticismo cartesiano, que clama que no tenemos la capacidad de distinguir entre una percepción de nuestro entorno y un sueño vivido usando nuestra evidencia sensorial. Byrne señala que nosotros no solemos inferir nuestro estado de conciencia a través de nuestra experiencia sensorial, por lo que la anterior premisa no es relevante. En cambio, si podemos decir que no podemos separar nuestros estados mentales de la relación que estos tienen con el mundo externo. Este argumento no busca probar que no tenemos conocimiento sobre nuestros estados mentales, sino que pretende mostrar que no conocemos de forma cierta como adquirimos este conocimiento.
+
+
 ___
