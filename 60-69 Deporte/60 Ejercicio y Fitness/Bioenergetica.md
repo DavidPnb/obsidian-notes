@@ -27,13 +27,12 @@ Convierte acidos grasos y carbohidratos en energía utilizando oxígeno.
 ### Fosfagenos
 El consumo de fosfagenos (ATP y creatina) es la causa principal de fatiga en ejercicios de alta intensidad. El ATP puede reponerse en 3-5 minutos de descanso, mientras que la creatina se repone en 8 minutos.
 
-### Glucogeno
-Es el principal factor limitante en el ejercicio de media intensidad. El glucogeno se repone completamente unas 24 horas despues del ejercicio con un consumo adecuado de carbohidratos
+### Glucógeno
+Es el principal factor limitante en el ejercicio de media intensidad. El glucógeno se repone completamente unas 24 horas despues del ejercicio con un consumo adecuado de carbohidratos.
 
 ## Consumo de Oxígeno
 Este depende de la cantidad de oxígeno que puede ser ingerido por el sistema respiratorio y consumido durante el ejercicio. El consumo de oxígeno aumenta con la duración de un ejercicio, y se mantiene alto hasta que el cuerpo se recupera al estado anterior a la actividad física.
 
 ## Especificidad de Entrenamiento
-Con un conocimiento de los sistemas metabólicos, la duración y los descansos de una rutina pueden modificarse para mejorar la recuperación y así producir un mayor trabajo total que una rutina de ejercicio continuo. A esto se le conoce como **entrenamiento de intervalo**.
-
+Con un conocimiento de los sistemas metabólicos, la duración y los descansos de una rutina pueden modificarse para mejorar la recuperación y así producir un mayor trabajo total que una rutina de ejercicio continuo. A esto se le conoce como **entrenamiento de intervalo**. Un ejemplo de esto es el **entrenamiento de intervalo de alta intensidad (HIIT)**, que consiste en periodos alternos de alta y baja intensidad. La intensidad y la duración de estos periodos puede modificarse para realizar un esfuerzo aeróbico o anaeróbico. El propósito de este sistema es acumular un volumen casi máximo que estimule el sistema neuromuscular y cardiovascular.
 ___
