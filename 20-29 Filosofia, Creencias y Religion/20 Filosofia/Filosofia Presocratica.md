@@ -4,7 +4,7 @@ created: 2024-04-10 19:22
 tags:: #on/philosophy 
 up:: [[Historia de la Filosofia]]
 # Filosofía Presocrática
-## El Surgimiento de la CIvilización Griega
+## El Nacimiento de la CIvilización Griega
 La Antigua Grecia estaba compuesta por un conjunto de ciudades separadas por cadenas montañosas; que por lo tanto, dependian del comercio y la explotación maritima. A través de la piratería, los griegos adaptaron el sistema de escritura de los fenicios, impulsando el desarrollo de su civilización.
 
 La filosofía de la época era marcada por una dicotomía entre las corrientes racionalistas, con enfoque científico; y las corrientes dionisias, con enfoque religioso.
@@ -25,4 +25,7 @@ Parménides es uno de los primeros filósofos en en hacer aseveraciones metafís
 
 ## Empedocles
 Empedocles fue un cientifico, filosofo y profeta contemporaneo con Parmenides. Filosoficamente se le atribuye la concepción moderna de los elementos, cuya distribución se mantiene cambiante debido a una lucha entre el amor y el conflicto.
+
+## Anaxágoras
+Anaxágoras fué un filósofo de tradición racionalista y fue el primer filósofo en llegar a Atenas despues de que esta experimento un desarrollo económico y cultural. Creía en que la materia esta compuesta por elementos indivisibles. Las sustancias están compuestas de multiples elementos y toman las características del que se encuentra en mayor proporción. Aún así, sostiene que en las sustancias un elemento siempre esta acompañado de su opuesto. La mente es una sustancia especial que esta presente en todos los seres vivos y algunos objetos. Esta no se mezcla con otros elementos y es la causa del movimiento en el mundo. Anaxágoras también predijo la naturaleza de los astros y de los eclipses.
 ___
