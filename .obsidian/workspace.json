@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -217,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md"
               }
             }
           },
@@ -329,11 +328,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "314e0a759c413dec",
+  "active": "359cde9fd4c23dd9",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia de la Mente.md",
     "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
     "00-09 PKM/04 Sources/Books/{ Sense and Nonsense.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Unidades de una Historia.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Diseño de una Historia.md",

@@ -84,6 +84,11 @@ Conjunto de modelos teoricos y matemáticos que analizan la interacción entre l
 - **Transmisión Cultural** - A diferencia de los genes, las unidades culturales pueden transmitirse en multiples direcciones en base a nuestro ambiente y composición genética
 
 ### Crítica
-Al igual que la memética, la coevolución de gen-cultura carece de una metodología practica propia
+Al igual que la memética, la coevolución de gen-cultura carece de una metodología práctica propia.
+
+## Comparativa
+![[Tabla_Evolutiva.png|600]]
+![[Tabla_Evolutiva_2.png|600]]
+![[Tabla_Evolutiva_3.png|600]]
 ___
 
