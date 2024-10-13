@@ -35,5 +35,10 @@ Pese a la narrativa económica que contrasta a la Gran Bretaña del libre mercad
 
 ### Suecia
 Suecia aplico protección de tarifas durante su periodo de mayor desarrrollo económico, que junto con sus politícas de cooperación con el sector privado llevaron a la industrialización del país.
+
+## Estrategias de Adelantamiento
+Una vez que un país adquiere una considerable ventaja económica, este buscara aplicar políticas que le permitan ampliar esta ventaja. El más claro ejemplo de esto es Gran Bretaña entre el siglo XVIII y el siglo XX. El Imperio Británico impuso una serie de restricciones con el propósito de evitar que las colonias desarrollaran su industria de manufactura. Estas medidas consistian en imponer subsidios a la materia prima para desalentar el desarrollo industrial, prohibir la producción o exportación de ciertos productos clave y prohibir completamente los aranceles. También se establecieron tratados unilaterales con paises menos desarrollados que restringían el uso de aranceles. Para separarse de la competencia, Gran Bretaña optó por tratar de mantener su ventaja economica. A comienzos de la Revolución Industrial esto se logro prohibiendo la emigración de los trabajadores capacitados. Con el posterior aumento en complejidad del proceso de manufactura, el Gobierno prohibió la exportación de maquinaria y promovió leyes de propiedad intelectual,
+
+
 ___
 
