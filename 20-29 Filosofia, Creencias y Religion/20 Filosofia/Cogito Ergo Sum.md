@@ -8,17 +8,13 @@ tags:: #on/philosophy
 up:: [[Racionalismo Cartesiano]]
 # Cogito Ergo Sum
 ## Contexto Historico
-Descartes vivio durante la época de las primeras revoluciones científicas de la mano de Galileo y Copernicus, y siendo este un católico devoto, busca reconciliar estas ideas con conceptos metafísicos como Dios y el alma. Para esto, Descartes reflexiona acerca de la naturaleza de nuestro conocimiento sobre el mundo exterior.
+Descartes vivio durante la época de las primeras revoluciones científicas de la mano de Galileo y Copérnico, y siendo este un católico devoto, busca reconciliar estas ideas con conceptos metafísicos como Dios y el alma. Para esto, Descartes reflexiona acerca de la naturaleza de nuestro conocimiento sobre el mundo exterior.
 
 ## El Demonio Malvado
-Descartes piensa que la unica manera de determinar un conocimiento científico estable y duradero era empezar por los principios más fundamentales. Para esto, en la primera de las seis *Meditaciones* Descartes introduce el método de la duda.
-
-- **Argumento a favor del método de la duda**
-	- Nuestras perpepciones pueden engañarnos
-	- No podemos conocer si una percepción nos engaña cuando esta pasando
-	- Por lo tanto, no podemos descartar la idea de que nuestras percepciones nos estan engañando, ya que estas pueden seguir engañandonos en este momento
-
-Descartes continua al suponer que un ser maligno esta tratando de engañarlo, y por esto, no puede confiar en ninguna de sus percepciones del mundo externo.
+Descartes piensa que la unica manera de determinar un conocimiento científico estable y duradero era empezar por los principios más fundamentales. Para esto, en la primera de las seis *Meditaciones* Descartes introduce el método de la duda. Descartes continua al suponer que un ser maligno esta tratando de engañarlo, y por esto, no puede confiar en ninguna de sus creencias. Este argumento es una forma de **escepticismo global** con la siguiente estructura:
+1. No se puede saber si la hipótesis del demonio malvado es falsa
+2. Si sabemos que nuestras creencias son verdaderas, entonces sabemos que la hipótesis del demonio malvado es falsa
+3. Por lo tanto, no podemos saber que nuestras creencias son verdaderas
 
 ## Pienso, Luego Existo
 En la segunda de las *Meditaciones*, Descartes argumenta lo siguiente
