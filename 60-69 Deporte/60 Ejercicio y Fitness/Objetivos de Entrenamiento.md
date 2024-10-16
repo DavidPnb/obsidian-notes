@@ -7,8 +7,8 @@ up:: [[60.00 Fitness]]
 
 ## Ejercicio
 - Knee Raises 1x14->25
-- Half PU 2x13>25
-- Half Squats 1x13->50
+- Half PU 2x14>25
+- Half Squats 1x14->50
 - Half Pull-ups - 2x11>15
 
 ___

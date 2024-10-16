@@ -37,9 +37,7 @@ finished::
 [[Bioenergetica]]
 
 ### Respuestas Endocrinas al Entrenamiento de Resistencia
-- Endocrinología
-- Hormonas Anabólicas
-- Respuesta hormonal al entrenamiento de resistencia
+[[Endocrinologia]]
 
 ### Adaptaciones al Entrenamiento Anaeróbico
 
