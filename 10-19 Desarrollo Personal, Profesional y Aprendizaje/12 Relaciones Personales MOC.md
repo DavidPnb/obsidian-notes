@@ -13,7 +13,6 @@ Links:
 - Harville Hendrix & Helen LaKelly Hunt - Getting the Love You Want
 - John Gottman - What Makes Love Last
 - Mark Manson - Models
-- The Manual - W. Anton
 - Mate - Tucker Max
 - Minimal Game - Aaron Sleazy
 ___
