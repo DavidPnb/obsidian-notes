@@ -16,7 +16,7 @@ started:: 2024-03-28 13:17
 
 finished::
 
-Los paises ahora desarrollados insisten en que los paises en desarrollo adopten las políticas de libre mercado como su método principal de crecimienot. Sin embargo, todos los paises desarrollados usaron en algún momento medidas proteccionistas para alcanzar el desarrollo economico que poseen actualmente.
+Los paises ahora desarrollados insisten en que los paises en desarrollo adopten las políticas de libre mercado como su método principal de crecimiento. Sin embargo, todos los paises desarrollados usaron en algún momento medidas proteccionistas para alcanzar el desarrollo economico que poseen actualmente. Además, considerando la brecha de productividad entre los paises desarrollados y los paises en desarrollo, se puede argumentar que estos últimos han tenido una intervención mucho menor.
 
 ## Políticas de Desarrollo Económico
 ### Gran Bretaña
@@ -25,7 +25,7 @@ Durante el siglo XV, el rey Henry VII controlo las importaciones y exportaciones
 Las reformas mercantiles de Robert Walpole fueron un paso adelante, incrementando las restricciones en la importación de bienes manufacturados y reduciendo las restricciones en su exportacion; estas políticas se mantuvieron en vigencia hasta finales del siglo XIX.
 
 ### Estados Unidos
-Los Estados Unidos aplicaron políticas estrictas de control de tarifas desde su periodo postcolonial hasta finales de la Segunda Guerra Mundial. Esto convierte a los Estados Unidos en el país que historicamente ha hecho mayor uso de las medidas proteccionistas.
+Los Estados Unidos aplicaron políticas estrictas de control de tarifas desde su periodo postcolonial hasta finales de la Segunda Guerra Mundial. Esto convierte a los Estados Unidos en el país que historicamente ha hecho mayor uso sistematico de las medidas proteccionistas.
 
 ### Alemania
 Durante el siglo XIX, el Estado Prusiano-Alemán aplicó una protección de tarifas minima si lo comparamos con otros paises economicamente importantes de la época; optando en su lugar por una intervencion directa del Estado en las industrias clave.
