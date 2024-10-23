@@ -29,6 +29,9 @@ Timothy Williamson considera que el conocimiento no es analizable, ya que este n
 ### Descartes
 [[Cogito Ergo Sum]]
 
+### Hume
+Hume cree que nuestra percepción de un mundo externo no proviene de los sentidos o de la razón, sino de la imaginación. Le atribuimos una existencia continua a las percepciones que son coherentes con nuestra visión del mundo, pero no podemos inferirlo usando nuestros sentidos. Nuestras percepciones son dependientes de nuestros organos sensoriales, y no pueden tener una existencia separada de quien la percibe. Por esto, la postura filosófica de que existen objetos más allá de nuestros sentidos busca reconciliar ideas que Hume considera contradictorias.
+
 ### Kant
 Kant asevera que no podemos conocer de manera absoluta a los objetos. Solo podemos percibirlos de forma relativa a través de sus fuerzas e interacciones con otros objetos. Los **principios de organización** son conceptos innatos que funcionan como leyes y modelos y le dan cohenrencia a las percepciones de los sentidos.
 
