@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md"
               }
             }
           },
@@ -342,13 +342,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a1962a171f8f5d1c",
+  "active": "314e0a759c413dec",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cogito Ergo Sum.md",
     "00-09 PKM/04 Sources/Books/Endocrinologia.md",
     "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Conocimiento.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia de la Mente.md",

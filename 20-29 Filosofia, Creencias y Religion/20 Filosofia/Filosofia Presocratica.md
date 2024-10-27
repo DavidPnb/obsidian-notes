@@ -29,4 +29,7 @@ Anaxágoras fué un filósofo de tradición racionalista y fue el primer filóso
 
 ## Atomismo
 Así se le conoce a la tradición filosófica fundada por Leucipo y posteriormente por Demócrito alrededor del año 420 BCE. Propone la presencia de atomos, sustancias físicamente indivisibles que interactuan en un vacío. Esta busca reconciliar las ideas de Parmenides con las de Heráclito. Está caracterizada por ser mecanista y determinista, lo que contrasta con las otras posturas de la época, que atribuían las circunstancias del mundo a la suerte y al destino. Explica el alma y la mente a través de los átomos, lo que la vuelve una de las primeras teorías materialistas.
+
+## Protágoras
+Protagoras fue ciudadano de Atenas y vidio durante el mismo periodo que Socrates y Demócrito. Es la figura más prominente del movimiento sofista que prospero durante este periodo. Esta doctrina niega la existencia de verdades absolutas, y juzga las opiniones en base a su utilidad práctica; un aspecto que comparte con la Teoría del Conocimiento pragmática. Los sofistas trabajan como tutores para la aristocracia que gobernaba en la Atenas demócrata, enseñandoles retórica y argumentación. A diferencia de otras corrientes filosóficas de la época, el sofismo no defiende una ideología particular o emite juicios morales; en su lugar, esta estrictamente ligado al jurismo y al sistema legal.
 ___
