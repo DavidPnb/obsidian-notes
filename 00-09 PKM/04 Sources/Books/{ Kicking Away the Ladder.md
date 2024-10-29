@@ -39,6 +39,13 @@ Suecia aplico protección de tarifas durante su periodo de mayor desarrrollo eco
 ## Estrategias de Adelantamiento
 Una vez que un país adquiere una considerable ventaja económica, este buscara aplicar políticas que le permitan ampliar esta ventaja. El más claro ejemplo de esto es Gran Bretaña entre el siglo XVIII y el siglo XX. El Imperio Británico impuso una serie de restricciones con el propósito de evitar que las colonias desarrollaran su industria de manufactura. Estas medidas consistian en imponer subsidios a la materia prima para desalentar el desarrollo industrial, prohibir la producción o exportación de ciertos productos clave y prohibir completamente los aranceles. También se establecieron tratados unilaterales con paises menos desarrollados que restringían el uso de aranceles. Para separarse de la competencia, Gran Bretaña optó por tratar de mantener su ventaja economica. A comienzos de la Revolución Industrial esto se logro prohibiendo la emigración de los trabajadores capacitados. Con el posterior aumento en complejidad del proceso de manufactura, el Gobierno prohibió la exportación de maquinaria y promovió leyes de propiedad intelectual,
 
+## Buen Gobierno y Desarrollo Económico
+Los miembros del Banco Mundial sostienen que ciertas instituciones son necesarias para el desarrollo económico. Historicamente, este estandar institucional no se vio en los países desarrollados hasta mediados del siglo XX.
 
+### Instituciones Gubernamentales
+- **Democracia** - Incluye voto universal y secreto
+- **Instituciones Públicas** - Incluye una burocracia basada en méritos y competencias individuales
+- **Leyes de Propiedad** - Incluye leyes de patentes, propiedad de tierras, propiedad intelectual y marcas registradas
+- **Instituciones Financieras**
 ___
 
