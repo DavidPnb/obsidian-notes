@@ -46,6 +46,8 @@ Los miembros del Banco Mundial sostienen que ciertas instituciones son necesaria
 - **Democracia** - Incluye voto universal y secreto
 - **Instituciones Públicas** - Incluye una burocracia basada en méritos y competencias individuales
 - **Leyes de Propiedad** - Incluye leyes de patentes, propiedad de tierras, propiedad intelectual y marcas registradas
-- **Instituciones Financieras**
+- **Instituciones Financieras** - Incluye Sociedades Anonimas, leyes de bancarrota, leyes antimonopolio, recolección de impuestos
+- **Sistema Bancario** - Incluye centralización y regulación de los bancos, mercado de valores, auditoria externa
+- **Bienestar Social** - Incluye leyes del trabajo, planes sociales, servicio médico
 ___
 
