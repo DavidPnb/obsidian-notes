@@ -8,7 +8,7 @@ La epistemologia es la rama de la [[20.00 Filosofia MOC]] que estudia el conocim
 
 ## Conocimiento
 ### Platón
-En los dialogos de Platón, Socrates sañala que las opiniones verdaderas son tan efectivas como el conocimiento en motivarnos a tomar decisiones y a alcanzar ciertos objetivos. Sin embargo, Socrates argumenta que el conocimiento es más valioso que una opinion verdadera; porque las opiniones tienden a *fugarse* mientras que el conocimiento se mantiene anclado (El conocimiento es más estable y más facil de recordar).
+En los dialogos de Platón, Socrates señala que las opiniones verdaderas son tan efectivas como el conocimiento en motivarnos a tomar decisiones y a alcanzar ciertos objetivos. Sin embargo, Socrates argumenta que el conocimiento es más valioso que una opinion verdadera; porque las opiniones tienden a *fugarse* mientras que el conocimiento se mantiene anclado (El conocimiento es más estable y más facil de recordar).
 
 ### Casos de Gettier
 A lo largo de la historia, el conocimiento fue analizado como una **creencia verdadera justificada**; en su ensayo *Is Justified True Belief Knowledge?*, Edmund Gettier propone una serie de contraejemplos a esa concepción de conocimiento. Los **casos de Gettier** tienen esta estructura:

@@ -19,5 +19,8 @@ finished::
 ## Filosofía Antigua
 ### Filosofía Presocrática
 [[Filosofia Presocratica]]
+
+## Socráticos
+[[Socrates]]
 ___
 

@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Socrates.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Socrates.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "dee71d77b205e31d",
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Socrates.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Socrates.md"
               }
             }
           },
@@ -342,17 +342,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a1962a171f8f5d1c",
+  "active": "314e0a759c413dec",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
+    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
     "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md",
     "00-09 PKM/04 Sources/Books/Endocrinologia.md",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cogito Ergo Sum.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Conocimiento.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia de la Mente.md",
-    "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md"
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Conocimiento.md"
   ]
 }
