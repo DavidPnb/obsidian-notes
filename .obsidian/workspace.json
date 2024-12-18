@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Socrates.md",
+                "file": "00-09 PKM/04 Sources/Books/Endocrinologia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Socrates.md",
+                "file": "00-09 PKM/04 Sources/Books/Endocrinologia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Socrates.md"
+                "file": "00-09 PKM/04 Sources/Books/Endocrinologia.md"
               }
             }
           },
@@ -342,8 +342,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "314e0a759c413dec",
+  "active": "2928220e1e7a4cf4",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Socrates.md",
     "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
@@ -352,7 +353,6 @@
     "00-09 PKM/04 Sources/Books/Endocrinologia.md",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Cogito Ergo Sum.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Conocimiento.md"
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md"
   ]
 }
