@@ -20,7 +20,8 @@ finished::
 ### Filosofía Presocrática
 [[Filosofia Presocratica]]
 
-## Socráticos
+### Socráticos
 [[Socrates]]
+
 ___
 
