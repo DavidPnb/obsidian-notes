@@ -35,6 +35,14 @@ Hume cree que nuestra percepción de un mundo externo no proviene de los sentido
 ### Moore
 En *Proof of an External World*, G. E. Moore responde a las posturas epistemológicas de Hume y Kant. Él señala que nuestra percepción del mundo es suficiente para hacer aserciones epistemológicas sobre el presente (aspecto en el que concuerda con Hume). Al saber esto, se puede establecer una relación causal entre el conocimiento del presente y el pasado. Moore no cree que se pueda demostrar que la hipótesis de escepticismo general es falsa; y por lo tanto, que se pueda demostrar que nuestras percepciones son correctas. La filosofía de Moore no considera que para conocer una aseveración *P* se necesita demostrar que *P* es verdadero. Por eso Moore puede decir que las afirmaciones sobre sus percepciones son verdaderas en base a evidencia que la respalde.
 
+### Vogel
+Argumento Escéptico:
+1. Nuestras percepciones sobre el mundo pueden ser correctas o incorrectas
+2. No tenemos razones para favorecer una hipótesis sobre la otra
+3. Por lo tanto, no podemos concluir que nuestras percepciones sobre el mundo son correctas
+Jonathan Vogel rechaza la premisa 2, argumentando que podemos respaldar nuestro conocimiento sobre el mundo en base a la **inferencia a la mejor explicación**. Una hipótesis proveé una explicación insuficiente si esta aporta poca información o más información de la necesaria respecto a otras teorías. El clasifica a los argumentos escépticos en esta segunda categoría, 
+
+
 ### Kant
 Kant asevera que no podemos conocer de manera absoluta a los objetos. Solo podemos percibirlos de forma relativa a través de sus fuerzas e interacciones con otros objetos. Los **principios de organización** son conceptos innatos que funcionan como leyes y modelos y le dan cohenrencia a las percepciones de los sentidos.
 

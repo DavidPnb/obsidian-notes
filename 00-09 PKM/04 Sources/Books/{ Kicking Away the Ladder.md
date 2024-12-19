@@ -37,7 +37,7 @@ Pese a la narrativa económica que contrasta a la Gran Bretaña del libre mercad
 Suecia aplico protección de tarifas durante su periodo de mayor desarrrollo económico, que junto con sus politícas de cooperación con el sector privado llevaron a la industrialización del país.
 
 ## Estrategias de Adelantamiento
-Una vez que un país adquiere una considerable ventaja económica, este buscara aplicar políticas que le permitan ampliar esta ventaja. El más claro ejemplo de esto es Gran Bretaña entre el siglo XVIII y el siglo XX. El Imperio Británico impuso una serie de restricciones con el propósito de evitar que las colonias desarrollaran su industria de manufactura. Estas medidas consistian en imponer subsidios a la materia prima para desalentar el desarrollo industrial, prohibir la producción o exportación de ciertos productos clave y prohibir completamente los aranceles. También se establecieron tratados unilaterales con paises menos desarrollados que restringían el uso de aranceles. Para separarse de la competencia, Gran Bretaña optó por tratar de mantener su ventaja economica. A comienzos de la Revolución Industrial esto se logro prohibiendo la emigración de los trabajadores capacitados. Con el posterior aumento en complejidad del proceso de manufactura, el Gobierno prohibió la exportación de maquinaria y promovió leyes de propiedad intelectual,
+Una vez que un país adquiere una considerable ventaja económica, este buscara aplicar políticas que le permitan ampliar esta ventaja. El más claro ejemplo de esto es Gran Bretaña entre el siglo XVIII y el siglo XX. El Imperio Británico impuso una serie de restricciones con el propósito de evitar que las colonias desarrollaran su industria de manufactura. Estas medidas consistian en imponer subsidios a la materia prima para desalentar el desarrollo industrial, prohibir la producción o exportación de ciertos productos clave y prohibir completamente los aranceles. También se establecieron tratados unilaterales con paises menos desarrollados que restringían el uso de aranceles. Para separarse de la competencia, Gran Bretaña optó por tratar de mantener su ventaja economica. A comienzos de la Revolución Industrial esto se logro prohibiendo la emigración de los trabajadores capacitados. Con el posterior aumento en complejidad del proceso de manufactura, el Gobierno prohibió la exportación de maquinaria y promovió leyes de propiedad intelectual.
 
 ## Buen Gobierno y Desarrollo Económico
 Los miembros del Banco Mundial sostienen que ciertas instituciones son necesarias para el desarrollo económico. Historicamente, este estandar institucional no se vio en los países desarrollados hasta mediados del siglo XX.
@@ -46,8 +46,11 @@ Los miembros del Banco Mundial sostienen que ciertas instituciones son necesaria
 - **Democracia** - Incluye voto universal y secreto
 - **Instituciones Públicas** - Incluye una burocracia basada en méritos y competencias individuales
 - **Leyes de Propiedad** - Incluye leyes de patentes, propiedad de tierras, propiedad intelectual y marcas registradas
-- **Instituciones Financieras** - Incluye Sociedades Anonimas, leyes de bancarrota, leyes antimonopolio, recolección de impuestos
-- **Sistema Bancario** - Incluye centralización y regulación de los bancos, mercado de valores, auditoria externa
+- **Instituciones Financieras** - Incluye Sociedades Anonimas, leyes de bancarrota, leyes antimonopolio, recolección de impuestos, auditoría externa
+- **Sistema Bancario** - Incluye centralización y regulación de los bancos, mercado de valores
 - **Bienestar Social** - Incluye leyes del trabajo, planes sociales, servicio médico
+
+![[Instituciones_Gubernamentales_en_Paises_Desarrollados.png]]
+
 ___
 
