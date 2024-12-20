@@ -23,5 +23,6 @@ finished::
 ### Socráticos
 [[Socrates]]
 
+[[Platon]]
 ___
 
