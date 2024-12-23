@@ -18,4 +18,19 @@ A pesar de que la mayor parte de estas adaptaciones ocurren en músculos y tejid
 - Cantidad de receptores
 - Magnitud de la señal en la célula
 - Interacción con el núcleo celular
+
+## Hormonas Anabólicas Primarias
+### Testosterona
+Es el principal andrógeno anabólico y la respuesta más importante del sistema endocrino al ejercicio. La testosterona estimula la producción de músculo esquelético y la efectividad de los neurotransmisores. La concentración de testosterona en sangre es 15-20 veces mayor en hombre.
+
+### Hormona de Crecimiento
+Esta promueve el crecimiento en niños y el desarrollo múscular en adultos. Sus efectos en el organismo incluyen:
+- Incremento de la masa muscular
+- Mejor procesamiento de las grasas
+- Mejor absorción de la glúcosa
+- Aumento de la función renal
+- Promueve la reparación del cartílago
+
+### Factores de Crecimiento de Insulina
+Regula la función de la hormona de crecimiento y mejora la absorción de proteínas.
 ___
