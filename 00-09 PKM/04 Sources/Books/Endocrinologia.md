@@ -33,4 +33,18 @@ Esta promueve el crecimiento en niños y el desarrollo múscular en adultos. Sus
 
 ### Factores de Crecimiento de Insulina
 Regula la función de la hormona de crecimiento y mejora la absorción de proteínas.
+
+## Hormonas Adrenales
+Son producidas en la corteza adrenal y forman la primera respuesta del sistema endocrino al estres.
+
+### Cortisol
+Esta involucrada en los procesos catabólicos fundamentales para la reconstrucción muscular y aumenta la disponibilidad de la glucosa en sangre.
+
+### Catecolaminas
+Desencadenan a respuesta de lucha o huida en el cuerpo y se liberan como respuesta inmediata antes y durante el estres. Sus efectos incluyen:
+- Aumento de la fuerza máxima
+- Aumento de la tasa de contracción muscular
+- Aumento del flujo sanguineo hacia el músculo
+- Aumento de la presión sanguinea
+- Incita la producción de otras hormonas
 ___
