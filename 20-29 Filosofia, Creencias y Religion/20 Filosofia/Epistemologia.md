@@ -44,7 +44,7 @@ Vogel rechaza la premisa 2, argumentando que podemos respaldar nuestro conocimie
 
 
 ### Kant
-Kant asevera que no podemos conocer de manera absoluta a los objetos. Solo podemos percibirlos de forma relativa a través de sus fuerzas e interacciones con otros objetos. Los **principios de organización** son conceptos innatos que funcionan como leyes y modelos y le dan cohenrencia a las percepciones de los sentidos.
+En la *Crítica de la Razón Pura*, Kant asevera que no podemos conocer de manera absoluta a los objetos en sí mismo. Kant distingue entre las **propiedas extrínsecas** de un objeto, que dependen de su relación con otros objetos; y las propiedades intrínsecas, que describen al objeto de forma independiente. El conocimiento solo puede ser adquirido en relación a un objeto. Por lo tanto, solo se pueden conocer las propiedas extrínsecas de un objeto a través de sus fuerzas e interacciones con otros objetos. Rae Langton propone una versión menos radical, donde somos incapaces de conocer las propiedades más fundamentales de un objeto, porque estas tienen un grado de contingencia.
 
 ## Máximas
 ### Realismo

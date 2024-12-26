@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/Endocrinologia.md",
+                "file": "00-09 PKM/04 Sources/Books/Platon.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -216,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/Endocrinologia.md",
+                "file": "00-09 PKM/04 Sources/Books/Platon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/Endocrinologia.md"
+                "file": "00-09 PKM/04 Sources/Books/Platon.md"
               }
             }
           },
@@ -328,12 +329,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2928220e1e7a4cf4",
+  "active": "318a5906af1e2b22",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
+    "00-09 PKM/04 Sources/Books/Endocrinologia.md",
     "40-49 Ciencias/40 Matematicas/Historia del Calculo.md",
     "00-09 PKM/04 Sources/Books/{ Infinite Powers.md",
-    "00-09 PKM/04 Sources/Books/Endocrinologia.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
     "00-09 PKM/04 Sources/Books/Platon.md",
     "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
     "00-09 PKM/04 Sources/Books/{ Kicking Away the Ladder.md",
