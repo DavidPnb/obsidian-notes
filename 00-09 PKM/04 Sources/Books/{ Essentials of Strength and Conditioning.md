@@ -40,6 +40,7 @@ finished::
 [[Endocrinologia]]
 
 ### Adaptaciones al Entrenamiento Anaeróbico
+[[Entrenamiento Anaerobico]]
 
 ### Adaptaciones al Entrenamiento Aeróbico
 

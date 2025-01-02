@@ -35,4 +35,6 @@ Este depende de la cantidad de oxígeno que puede ser ingerido por el sistema re
 
 ## Especificidad de Entrenamiento
 Con un conocimiento de los sistemas metabólicos, la duración y los descansos de una rutina pueden modificarse para mejorar la recuperación y así producir un mayor trabajo total que una rutina de ejercicio continuo. A esto se le conoce como **entrenamiento de intervalo**. Un ejemplo de esto es el **entrenamiento de intervalo de alta intensidad (HIIT)**, que consiste en periodos alternos de alta y baja intensidad. La intensidad y la duración de estos periodos puede modificarse para realizar un esfuerzo aeróbico o anaeróbico. El propósito de este sistema es acumular un volumen casi máximo que estimule el sistema neuromuscular y cardiovascular.
+
+![[Demanda_Metabolica_Deportes.png]]
 ___
