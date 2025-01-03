@@ -5,20 +5,15 @@ tags:: #on/philosophy
 up:: [[20.06 Metafisica|Metafisica]]
 Links: 
 # Libre Albedrío
-El libre albedrío es la creencia en que tenemos control sobre las acciones que tomamos.
+El libre albedrío es la creencia de que somos moralmente responsables por las acciones que tomamos. El **dilema del libre albedrio** señala que no somos moralmente responsables independientemente de si el determinismo es verdadero; porque nuestras acciones son determinadas por eventos del pasado o por el azar.
 
-## Determinismo
-Afirma que nuestras acciones estan causadas por eventos del pasado que no podemos controlar, y por esto, tampoco podemos controlar los eventos futuros.
+## Galen Strawson
+Strawson defiende una versión del dilema del libre albedrio, llamado **argumento básico**:
+1. Para ser considerados moralmente responsables, debemos ser responsables por nuestras acciones
+2. Nuestras acciones son provocadas por nuestros estados mentales
+3. Nuestros estados mentales son formados por eventos causales o indeterministas
+4. Por lo tanto, no somos responsabes por nuestras acciones
 
-### Incompatibilismo
-Si los pensamientos en nuestra mente estan ligados a procesos que ocurren en nuestro cerebro, entonces estos tambien pertenecen al mundo físico y estan determinados enteramente por la causa y efecto.
-
-### Compatibilismo
-Afirma que pese a vivir en un mundo determinista, tenemos un libre albedrío que esta determinado por la cantidad de control que tenemos sobre las decisiones que tomamos.
-
-Esto significa que tenemos responsabilidad sobre nuestras acciones cuando nuestras acciones son afectadas por nuestras decisiones, y podemos tomar otras decisiones basandonos en consideraciones verdaderas que debimos haber tomado en cuenta racionalmente.
-
-### Intervencionismo
-Afirma la existencia del libre albedrío al rechazar el determinismo. El intervencionismo involucra a un ser capaz de ignorar la causa y efecto que influencia las acciones de nuestro cuerpo y mente. Para esto, el intervencionismo debe sostener el sustancialismo, lo que le transfiere los mismos defectos.[[Problema Mente-Cuerpo]]
+Este argumento determina que cualquier recompensa o castigo debe tener una base pragmática. Strawson detalla tres tipos de respuestas a este argumento. Los **compatibilistas** aceptan el determinismo pero rechazan la asunción de que la responsibilidad moral proviene de nuestras acciones. Los **libertarianistas** defienden la formación de nuestro caracter a través de eventos deterministas. Los **intervencionistas** describen a un ser independiente de nuestros estados mentales capaz de tomar decisiones y causarse a sí mismo.
 
 ___
