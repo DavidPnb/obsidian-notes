@@ -11,4 +11,7 @@ El libro de la República busca definir lo que es un Estado justo, concluyendo q
 
 ## Teoría de las Ideas
 A partír del quinto libro de La República, Platón intenta definir lo que es un filósofo. Según Platón, las opiniones lidian con las apariencias, mientras que el conocimiento refleja la realidad. Los objetos cotidianos son instancias imperfectas de sus conceptos; y por esto, no son completamente reales. Por lo tanto, un filósofo busca conocimiento en el mundo de las ideas, que son prototipos únicos y perfectos creados por Dios. Platón ve a la filosofía como un tipo de iluminación divina, lo que le da al filósofo el deber de guiar a otros. Por eso considera que el Estado debe ser gobernado por un filósofo para que este sea próspero.
+
+## Teoría de la Inmortalidad
+El Socrates platónico describe a la muerte como la separación de cuerpo y alma. Ya que el alma se encuentra recluida por el cuerpo, la muerte permite al alma contactar con los dioses en el mundo real de las ideas. Un filósofo no debe verse atraido por placeres terrenales; porque hacen al alma impura y limitada por el cuerpo, separandola de la busqueda del conocimiento. Por eso solo un filósofo es capaz de ir al cielo, mientras que el resto de almas vagan el mundo como espíritus o como animales. Este visión de la vida eterna influenció a los primeros filósofos cristianos.
 ___
