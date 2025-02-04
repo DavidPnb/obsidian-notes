@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Platon.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Platon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Platon.md"
               }
             }
           },
@@ -329,11 +329,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a1962a171f8f5d1c",
+  "active": "318a5906af1e2b22",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
     "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Platon.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
     "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
     "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md",

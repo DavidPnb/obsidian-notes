@@ -12,6 +12,5 @@ Debra Fine - The Fine Art of Small Talk
 Dan Roam - The Back of the Napkin
 Joe Navarro - What Every Body is Saying
 Mark Goulston - Just Listen
-Olivia Cabane - The Charisma Myth
 Robin Dreeke - It's not All About Me
 ___
