@@ -1,0 +1,357 @@
+{
+  "main": {
+    "id": "24179bf605f49df8",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f8de2c5add926e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e5dd3d2934e09ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1962a171f8f5d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "314e0a759c413dec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad8ea7c00d551225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "318a5906af1e2b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Platon.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea68c6950afaf8ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "991c49be9bb34c5d",
+        "type": "tabs",
+        "dimension": 33.45111896348646,
+        "children": [
+          {
+            "id": "a861731d36be91ac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e65dfbe364e03466",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "-path:\"00-09 PKM/01 Calendar\"",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:\"10-19 Desarrollo Personal, Profesional y Aprendizaje\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:\"20-29 Filosofia, Creencias y Religion\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7921746
+                      }
+                    },
+                    {
+                      "query": "path:\"30-39 Lenguajes\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2167773
+                      }
+                    },
+                    {
+                      "query": "path:\"40-49 Ciencias\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5417696
+                      }
+                    },
+                    {
+                      "query": "path:\"50-59 Ingenieria\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.50547730829421,
+                  "repelStrength": 19.1267605633803,
+                  "linkStrength": 0.595618153364632,
+                  "linkDistance": 428,
+                  "scale": 0.05932616575757585,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "54457f2f6e2b1475",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "dee71d77b205e31d",
+        "type": "tabs",
+        "dimension": 66.54888103651355,
+        "children": [
+          {
+            "id": "935d609eb82f250d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "531551c40669c77c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.5146293640137
+  },
+  "right": {
+    "id": "6a3a32269de26270",
+    "type": "split",
+    "children": [
+      {
+        "id": "552706a7b18555fd",
+        "type": "tabs",
+        "dimension": 49.15693904020752,
+        "children": [
+          {
+            "id": "a8116fcfea678d42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b9a8c2ccfcc4c97a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "795cd65b4d968601",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f346fdd0e208ee80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md"
+              }
+            }
+          },
+          {
+            "id": "490c2482e3b190ee",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb2478eed876f532",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "493ce94f9546bdf5",
+            "type": "leaf",
+            "state": {
+              "type": "metatable-sidebar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9441551fe807630",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c5227808322a596e",
+        "type": "tabs",
+        "dimension": 50.843060959792474,
+        "children": [
+          {
+            "id": "859d13792563dfdf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "86a1149f2b0ee593",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/00 Atlas/00.01 Scopes/Tasks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 507.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ad8ea7c00d551225",
+  "lastOpenFiles": [
+    "40-49 Ciencias/41 CS/Lenguajes de Programacion.md",
+    "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+    "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Platon.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
+    "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Epistemologia.md",
+    "00-09 PKM/04 Sources/Books/{ Overcoming Gravity.md",
+    "60-69 Deporte/60 Ejercicio y Fitness/Bioenergetica.md",
+    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md"
+  ]
+}
