@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2df8b7602f3ad9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Pura.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Pura.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Pura.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Pura.md"
               }
             }
           },
@@ -303,8 +316,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d18e2e2049861313",
+  "active": "2df8b7602f3ad9c1",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
     "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
     "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
     "40-49 Ciencias/41 CS/Memoria de Almacenamiento.md",
@@ -313,7 +327,6 @@
     "40-49 Ciencias/41 CS/Procesadores Avanzados.md",
     "00-09 PKM/04 Sources/Books/{ The Pragmatic Programmer.md",
     "40-49 Ciencias/41 CS/41.00 Ciencias de la Computacion MOC.md",
-    "40-49 Ciencias/41 CS/Computadoras.md",
-    "00-09 PKM/04 Sources/Books/{ The Story Grid.md"
+    "40-49 Ciencias/41 CS/Computadoras.md"
   ]
 }
