@@ -19,4 +19,6 @@ Son las unidades neuromusculares más básicas. Un aumento en la **tasa de activ
 ### Hipertrofia
 La hipertrofia es el aumento del area longitudinal del músculo. Se produce por un aumento en la acreción del músculo en respuesta a estres. Es directamente proporcional a la fuerza muscular.
 
+## Adaptaciones del Tejido Conectivo
+Cuando la cantidad de estrés aplicada al hueso supera un umbral mínimo, el hueso se deforma, y se empieza a formar tejido oseo en el área que sufre mayor deformación. El aumento en la fuerza muscular provoca un aumento en el estrés aplicado al hueso, y este estrés causa adaptaciones en los huesos adyacente. Los músculos tambien provocan estrés en los tendones, lo que genera un aumento en la cantidad de colágeno presentes en ellos. El cartílago no recibe flujo de sangre directo. Por eso la actividad física estimula el flujo de líquido sinovial y mantiene la salud del tejido.
 ___

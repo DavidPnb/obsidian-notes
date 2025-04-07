@@ -17,6 +17,6 @@ finished::
 
 ## Ley y Naturaleza
 ### Teoría Pura
-La teoría pura es una teoría general que trata sobre las **leyes positivas**. La teoría es de carácter descriptivo y pretende separar su metodología de la influencia de otras ciencias sociales. Esto tiene como propósito evitar el amalgamiento de áreas de estudio que son metodológicamente incompatibles.
+La teoría pura es una teoría general que trata sobre las **leyes positivas** (leyes no fundamentadas en la moral). La teoría es de carácter descriptivo y pretende separar su metodología de la influencia de otras ciencias sociales. Esto tiene como propósito evitar el amalgamiento de áreas de estudio que son metodológicamente incompatibles.
 ___
 
