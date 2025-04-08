@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -202,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md"
+                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md"
               }
             }
           },
@@ -314,8 +315,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ad8ea7c00d551225",
+  "active": "d18e2e2049861313",
   "lastOpenFiles": [
+    "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
     "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
     "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
@@ -324,7 +326,6 @@
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Origenes de la Filosofia.md",
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
     "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
-    "100-109 Historia y Relacionados/100 Historia/100.01 Gran Historia.md",
-    "00-09 PKM/04 Sources/Books/{ Six Blind Elephants.md"
+    "100-109 Historia y Relacionados/100 Historia/100.01 Gran Historia.md"
   ]
 }
