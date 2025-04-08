@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
+                "file": "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
+                "file": "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -203,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
+                "file": "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md"
+                "file": "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md"
               }
             }
           },
@@ -315,17 +314,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2df8b7602f3ad9c1",
+  "active": "ad8ea7c00d551225",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
+    "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+    "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Pura.md",
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Origenes de la Filosofia.md",
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
     "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md",
     "100-109 Historia y Relacionados/100 Historia/100.01 Gran Historia.md",
-    "00-09 PKM/04 Sources/Books/{ Six Blind Elephants.md",
-    "00-09 PKM/02 Theory/02.01 Ciencias de la Informacion.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/16 Negocios y Administracion MOC.md",
-    "10-19 Desarrollo Personal, Profesional y Aprendizaje/15 Finanzas Personales MOC.md"
+    "00-09 PKM/04 Sources/Books/{ Six Blind Elephants.md"
   ]
 }
