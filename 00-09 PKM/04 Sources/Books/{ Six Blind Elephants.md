@@ -18,11 +18,12 @@ finished::
 ## Enfoque Perceptual
 Nuestra percepción del mundo depende de las abstracciones con las que interpretamos la experiencia sensorial pura proveniente de nuestros sentidos. En algunos casos estas abstracciones estan ligadas a nuestros organos sensoriales y anteceden a la interpretación de la información sensorial. Debido a la capacidad limitada de nuestra memoria a corto plazo, nuestro **enfoque** determina que sensaciones reciben nuestra atención.
 
-### Enfoque Temporal
-Nuestra percepción del tiempo funciona de manera continua. Esta percepción puede ser conceptualizada en elementos discretos conocidos como eventos. Un enfoque temporal depende de nuestra memoria, nuestra percepción o nuestra capacidad imaginativa; y conceptualiza un conjunto de eventos como un único rango de tiempo. La relaciones entre dos enfoques temporales puede ser:
+Nuestra percepción del tiempo funciona de manera continua. Esta percepción puede ser conceptualizada en elementos discretos conocidos como eventos. Un enfoque temporal depende de nuestra memoria, nuestra percepción o nuestra capacidad imaginativa; y conceptualiza un conjunto de eventos como un único rango de tiempo. Nuestra percepción del espacio tambien es un continuo, que puede ser delimitada por segmentos discretos. La relaciones entre dos enfoques puede ser:
 
 - **Enfoques Anidados** - Un enfoque es subconjunto de otro
 - **Enfoques Entrelazados** - Hay intersección parcial entre ellos
 - **Enfoques Diferentes** - No hay intersección entre ellos
+
+En la práctica, los enfoques temporales y espaciales se combinan en uno solo.
 ___
 
