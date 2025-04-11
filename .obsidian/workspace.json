@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "d18e2e2049861313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Six Blind Elephants.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2df8b7602f3ad9c1",
             "type": "leaf",
             "state": {
@@ -75,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Six Blind Elephants.md",
+                "file": "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -203,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Six Blind Elephants.md",
+                "file": "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Six Blind Elephants.md"
+                "file": "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md"
               }
             }
           },
@@ -315,17 +302,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d18e2e2049861313",
+  "active": "2df8b7602f3ad9c1",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
     "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
+    "00-09 PKM/04 Sources/Books/{ Six Blind Elephants.md",
+    "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
     "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
     "00-09 PKM/09 Workflow/Metadatos PKM.md",
     "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
     "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
-    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Origenes de la Filosofia.md",
-    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md"
+    "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Origenes de la Filosofia.md"
   ]
 }
