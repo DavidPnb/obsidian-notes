@@ -24,4 +24,6 @@ Cuando la cantidad de estrés aplicada al hueso supera un umbral mínimo, el hue
 
 ## Adaptaciones Endocrinas
 El estrés del ejercicio provoca una respuesta endocrina inmediata. El entrenamiento progresivo aumenta la intensidad de esta respuesta con el ejercicio.
+
+## 
 ___
