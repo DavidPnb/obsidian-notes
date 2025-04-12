@@ -9,6 +9,6 @@ up:: [[60.00 Fitness]]
 - Knee Raises 3x25->25
 - Half PU 2x15>25
 - Half Squats 2x37->50
-- Jumping Pull-ups - 2x10>20
+- Jumping Pull-ups - 2x11>20
 
 ___
