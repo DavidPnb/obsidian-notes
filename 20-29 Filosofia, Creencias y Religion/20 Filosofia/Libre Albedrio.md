@@ -21,4 +21,7 @@ Crisholm acepta la conclusión del dilema del libre albedrío. El define que un 
 
 ## A. J. Ayer
 Ayer rechaza la idea de que el determinismo y el libre albedrio son lógicamente excluyentes. El intervencionista cree que una acción es libre si esta no es causada por eventos previos; pero a priori, no se puede suponer que el determinismo es falso. Suponiendo que en ciertas circunstancias un individuo puede evitar esta relación causal, este evento inexplicable debe ser considerado un evento del azar. Si consideramos que una acción libre es una que esta determinada por nuestro carácter, entonces es imposible demostrar que este carácter no es determinado por experiencias previas; y si no lo es, este carácter tambien es un producto del azar. Ayer propone que en una acción libre, el individuo actua acorde a su voluntad, de modo que habría actuado diferente de haber tomado otra decisión.
+
+## P. F. Strawson
+Las **actitudes reactivas** son respuestas emocionales a las acciones y voluntad de otras personas. Según Strawson, una persona es moralmete responsable por sus acciones si estas ameritan una reacción positiva o negativa. Las acciones en donde una reacción emocional es justificada son acciones voluntarias producidas por agentes con facultades mentales desarrolladas y funcionales. El determinismo es compatible con este criterio de responsabilidad moral y cambiarlo seria practicamente imposible. Por esto, el determinismo no supone un problema para la responsabilidad moral.
 ___

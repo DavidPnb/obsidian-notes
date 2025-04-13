@@ -24,5 +24,7 @@ finished::
 [[Socrates]]
 
 [[Platon]]
+
+[[Aristoteles]]
 ___
 
