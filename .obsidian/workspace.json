@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +61,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -135,8 +133,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "dee71d77b205e31d",
@@ -190,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,9 +221,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md"
-              }
+              "state": {}
             }
           },
           {
@@ -302,17 +296,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2df8b7602f3ad9c1",
+  "active": "a861731d36be91ac",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
     "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Platon.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
     "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
     "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "00-09 PKM/04 Sources/Books/{ Six Blind Elephants.md",
     "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
-    "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
-    "00-09 PKM/09 Workflow/Metadatos PKM.md"
+    "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md"
   ]
 }
