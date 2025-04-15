@@ -28,5 +28,8 @@ Boris Yeltsin, primer presidente de Rusia, lidero al país durante la transició
 
 ### Globalización
 El concepto actual de la globalización proviene del consenso de Washington, donde organizaciones como el FMI y el Banco Mundial formulan una serie de políticas de liberalización económica para los paises no desarrollados, argumentando que estas estimularán el crecimiento. Al momento de evaluar las consecuencias de la globalización, la ambiguedad de los resultados estadísticos lleva a los economistas a tomar decisiones por razones políticas. Tambien entran en consideración las métricas con las que se miden los datos y los criterios para evaluar los argumentos a favor de una postura. Además, evaluar el impacto de estas consecuencias en la sociedad es una actividad puramente normativa, donde cualquier conclusión dependera de convicciones ideológicas
+
+### Dinero y Finanzas
+La liberalización del mercado financiero en 1986 permitió el liibre intercambio de recursos finacieros a nivel internaliz. Este cambio fué provocado por los avanes teco y desarrllos en la teoría financiera. Los **derivados** son recursos financieros cuyo valor depende del valor de otros. Las **opciones** son permiten comprar o vender activos a un precio fijo dentro de un periodo de tiempo.El teorema de Black-Scholes establece una manera de valorar opciones, ydetermina que en un mercado ideal el valor de una acción es compensado por el valor de la opcción asociada.
 ___
 

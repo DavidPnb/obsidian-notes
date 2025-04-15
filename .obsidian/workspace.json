@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,6 +61,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -188,6 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +223,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md"
+              }
             }
           },
           {
@@ -297,11 +300,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a861731d36be91ac",
+  "active": "ad8ea7c00d551225",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
-    "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
     "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Platon.md",
