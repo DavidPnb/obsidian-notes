@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
+                "file": "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,15 +299,15 @@
   },
   "active": "a861731d36be91ac",
   "lastOpenFiles": [
+    "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
     "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
     "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Platon.md",
     "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
     "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "00-09 PKM/04 Sources/Books/{ Six Blind Elephants.md",
-    "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
-    "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md"
+    "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md"
   ]
 }

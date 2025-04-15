@@ -167,7 +167,7 @@ finished:: 2023-7-19 20:52
 		1. **Linear** - Aumento linear en peso
 		2. **Repeticiones Lineares** - Aumento linear en el número de repeticiones
 		3. **Adición de Repeticiones** - Aumento linear de repeticiones set por set. Progreso Lento
-		4. **Fallo en el Último Set** - Un aumento linear en el número de repeticiones en el último set con respecto al primero (2+) lleva a un aumento linear proporcional en el número de repeticiones
+		4. **Fallo en el Último Set** - +2 reps en último set = +1 repetición en cada set
 		5. **Set Adicional** - Efectivo en ejercicios pull
 		6. **Pausa de Descanso** - Descanso breve luego de llegar al fallo muscular, lo que permite llegar al objetivo de repeticiones de un set
 		7. **Densidad** - Disminución progresiva del tiempo de descanso
@@ -195,7 +195,7 @@ finished:: 2023-7-19 20:52
 	4. La **mobilidad** es actividad física en el rango de movimiento existente
 6. **Planeación de Mesociclo**
 	1. **Intra-mesociclo**
-		1. **Principiantes** - 15-20 reps - Repeticiones Lineares, Progresiones Lineares ->Progresiones Simples - Una semana sin progresión, Dolor en las articulaciones
+		1. **Principiantes** - 15-20 reps - Repeticiones Lineares, Progresiones Lineares ->Progresiones Simples - Una semana sin progresión, Dolor en las articulaciones, 4-8 semanas
 		2. **Intermedio** - Extra Workout - Acumulación e Intensificación, Light/Heavy - 4 semanas sin progresión, Dolor en las articulaciones
 		3. **Avanzado** - Extra Workout - DUP, Set híbridos, Aumentar dificultad cada dos semanas - 4 semanas sin progresión, Dolor en las articulaciones
 	2. **Inter-mesociclo**

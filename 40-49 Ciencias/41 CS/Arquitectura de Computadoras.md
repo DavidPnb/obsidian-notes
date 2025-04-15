@@ -44,5 +44,5 @@ Son usadas para controlar la forma en que la corriente fluye por los circuitos p
 Los **circuitos integrados** juntan varios componentes discretos (Transistores) en un solo componente, reduciendo los costos y aumentando la capacidad de los aparatos electrónicos. Las PCB o **placas madre** tienen un objetivo similar, agrupando grandes circuitos en un espacio más reducido.
 
 ### Ley de Moore
-Es un enunciado que predice que cada dos años se duplica la cantidad de transistores en un circuito integrado, abaratando los precios y aumentando la potencia de los dispositivos. Expertos predicen que esto quedara obsoleto en el futuro reciente, debido a ciertas limitaciones que no nos dejaran reduciendo el tamaño de los circuitos.
+Es un enunciado que predice que cada dos años se duplica la cantidad de transistores en un circuito integrado, abaratando los costo y aumentando la potencia de los dispositivos. Expertos predicen que esto quedara obsoleto en el futuro reciente, debido a ciertas limitaciones que no nos dejaran reducir el tamaño de los circuitos.
 ___
