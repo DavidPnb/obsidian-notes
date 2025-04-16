@@ -8,8 +8,8 @@ up:: [[60.00 Fitness]]
 ## Ejercicio
 1
 - Knee Raises 3x25->25
-- Jumping Pull-ups - 2x11>20 *
-- Half Squats 2x38->50
-- Half PU 2x16>25
+- Jumping Pull-ups - 2x11>20 **
+- Half Squats 2x39->50
+- Half PU 2x16>25 *
 
 ___
