@@ -27,4 +27,5 @@ El estrés del ejercicio provoca una respuesta endocrina inmediata. El entrenami
 
 ## Adaptaciones Cardiovasculares
 El ejercicio anaerobico provoca una aumento inmediato del ritmo cardiaco y la presión arterial (170 bpm y 320/250 mmHg). En un individuo entrenado se reduce la intensidad de la respuesta cardiovascular y el consumo de oxígeno.
+
 ___
