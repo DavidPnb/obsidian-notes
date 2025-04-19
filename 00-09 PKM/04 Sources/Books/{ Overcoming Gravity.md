@@ -202,7 +202,6 @@ finished:: 2023-7-19 20:52
 		1. **Deload** - Reducir frecuencia, volumen, intensidad
 			1. 1 o 2 días de entrenamiento, un ejercicio por grupo muscular, 3 sets, fallo en el último set
 		2. **Prueba de Fuerza Máxima** - 2 días antes del siguiente ciclo: Calentamiento con progresiones inferiores del ejercicio -> Calentamiento con bajas repeticiones del ejercicio -> 3-5 min descanso -> Prueba máxima
-		3. 
 ### Factores que Influencian el Entrenamiento
 1. **Cardio y Resistencia**
 	1. La **resistencia** es un término que engloba los ejercicios realizados en altas repeticiones. Puede usarse para mejorar la eficiencia con la que el cuerpo provee a los músculos de energía

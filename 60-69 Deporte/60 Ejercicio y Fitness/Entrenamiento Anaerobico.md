@@ -28,4 +28,6 @@ El estrés del ejercicio provoca una respuesta endocrina inmediata. El entrenami
 ## Adaptaciones Cardiovasculares
 El ejercicio anaerobico provoca una aumento inmediato del ritmo cardiaco y la presión arterial (170 bpm y 320/250 mmHg). En un individuo entrenado se reduce la intensidad de la respuesta cardiovascular y el consumo de oxígeno.
 
+## Sobreentrenamiento
+Es causado por el estres físico prolongado, y se caracteriza por una disminución del desempeño de entrenamiento. Sin el correcto descanso y nutrición, el cuerpo se vuelve incapaz de adaptarse a la rutina. Esta disminución se produce luego de meses de sobrecarga. Es acompañada por el fallo generalizado de los sistemas del cuerpo y desordenes psicológicos. Los principales factores son alta intensidad, frecuencia o volumen de entrenamiento; o mucha rapidez de progresión.
 ___
