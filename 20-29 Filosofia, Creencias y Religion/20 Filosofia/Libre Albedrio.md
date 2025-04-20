@@ -24,4 +24,9 @@ Ayer rechaza la idea de que el determinismo y el libre albedrio son lógicamente
 
 ## P. F. Strawson
 Las **actitudes reactivas** son respuestas emocionales a las acciones y voluntad de otras personas. Según Strawson, una persona es moralmete responsable por sus acciones si estas ameritan una reacción positiva o negativa. Las acciones en donde una reacción emocional es justificada son acciones voluntarias producidas por agentes con facultades mentales desarrolladas y funcionales. El determinismo es compatible con este criterio de responsabilidad moral y cambiarlo seria practicamente imposible. Por esto, el determinismo no supone un problema para la responsabilidad moral.
+
+## Harry Frankfurt
+Las **voluntades de orden superior** tienen como objeto la discriminación de los deseos de nuestra psique. Estas determinan los deseos en base a los cuales queremos actuar. Frankfurt establece que poder formar voluntades de orden superior es el carácter esencial de una persona. El libre albedrio viene con la capacidad de cambiar nuestros deseos de acuerdo a nuestras voluntades; este proviene de voluntades libres y no de acciones libres. Frankfurt critica la postura de Roderick Crisholm, ya que bajo su sistema una acción que es libre no tiene una ventaja práctica sobre una que no lo es. Frankfurt tambien rechaza que la responsabilidad moral es consecuencia del libre albedrio.
+
+
 ___
