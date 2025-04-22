@@ -31,5 +31,9 @@ El concepto actual de la globalización proviene del consenso de Washington, don
 
 ### Dinero y Finanzas
 La liberalización del mercado financiero en 1986 permitió el intercambio de activos financieros a nivel internacional. Los **derivados** activos financieros cuyo valor depende del valor de otros. Las **opciones** son derivados que permiten comprar o vender activos a un precio fijo dentro de un periodo de tiempo limitado. El teorema de Black-Scholes establece una manera de valorar opciones, y determina que en un mercado ideal el valor de una acción es compensado por el valor de la opcción asociada. La caída del 2008 se produce cuando los derivados del mercado de bienes raíces fallan sistematicamente por la complejidad los derivados, ignorancia de las implicaciones sociales de las políticas financieras y la avaricia de los administradores de los bancos de inversión.
+
+## Perspectiva Historica
+### Creando una Economía Científica
+Durante la Segunda Guerra Mundial se produce un cambio en el enfoque de la metodología económica. El trabajo científico pasa de los modelos empíricos a modelos matemáticos abstractos. Esta teoría se basa en el **equilibrio general**, donde los mercados son competitivos y todas las variables se relacionan entre ellas. Arrow y Samuelson abogaban por una economía mixta, ya que estos mercados eran incapaces de decidir conflictos sociales o éticos. En los años sesenta, el estadista Milton Friedman adopta un modelo económico basado en la simplificación de variables económicas y la separación entre el modelo y la evidencia empírica. Los avances posteriores incluyen el análisis económico de los actores políticos, la teoría de juegos, la econométrica computacional, la economia experimental y la economía del comportamiento.
 ___
 

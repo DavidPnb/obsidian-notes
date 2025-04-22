@@ -11,3 +11,7 @@
 	- Thriller
 
 - Premisas
+	- Joven intenta luchar contra la corrupción
+	- Hombre busca venganza por la muerte de su familia
+	- Policía se enfrenta al crimen en un mundo sobrenatural
+	- Entrenador gana titulo con equipo infravalorado
