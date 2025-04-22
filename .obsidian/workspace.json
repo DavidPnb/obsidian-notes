@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Anatomy of Story.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -228,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Anatomy of Story.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Anatomy of Story.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md"
               }
             }
           },
@@ -340,17 +339,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "897dfb53f8926e48",
+  "active": "ad8ea7c00d551225",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
+    "00-09 PKM/04 Sources/Books/{ The Anatomy of Story.md",
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Diseño de una Historia.md",
-    "00-09 PKM/04 Sources/Books/{ The Anatomy of Story.md",
     "30-39 Lenguajes/32 English/Descriptive English Grammar.md",
     "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "30-39 Lenguajes/30 Linguistica/English Grammar.md",
     "30-39 Lenguajes/30 Linguistica/Pragmatica P B.md",
     "30-39 Lenguajes/30 Linguistica/Pragmatica P A.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica de la Virtud.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md"
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Etica de la Virtud.md"
   ]
 }

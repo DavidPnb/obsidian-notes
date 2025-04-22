@@ -1,0 +1,13 @@
+- Elementos
+	- High Concept
+	- Filosofía
+	- Acción
+	- Drama
+	- Dark
+	- Combates
+	- Simbolismo
+	- Worldbuilding
+	- Política / Social
+	- Thriller
+
+- Premisas
