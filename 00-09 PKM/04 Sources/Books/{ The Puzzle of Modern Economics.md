@@ -35,5 +35,8 @@ La liberalización del mercado financiero en 1986 permitió el intercambio de ac
 ## Perspectiva Historica
 ### Creando una Economía Científica
 Durante la Segunda Guerra Mundial se produce un cambio en el enfoque de la metodología económica. El trabajo científico pasa de los modelos empíricos a modelos matemáticos abstractos. Esta teoría se basa en el **equilibrio general**, donde los mercados son competitivos y todas las variables se relacionan entre ellas. Arrow y Samuelson abogaban por una economía mixta, ya que estos mercados eran incapaces de decidir conflictos sociales o éticos. En los años sesenta, el estadista Milton Friedman adopta un modelo económico basado en la simplificación de variables económicas y la separación entre el modelo y la evidencia empírica. Los avances posteriores incluyen el análisis económico de los actores políticos, la teoría de juegos, la econométrica computacional, la economia experimental y la economía del comportamiento.
+
+## La Busqueda de Macroeconomía Rigurosa
+La teoría general de John Maynard Keynes sentó las bases para el estudio la macroeconomía a partir de 1930. Pese a ser matemático, su teoría estaba basada principalmente en observaciones empíricas. Esta fué modificada con axiomas que describen las decisiones de los individuos y modelos que las expresan de manera cumulativa; con ecuaciones que toman en cuenta los aspectos dinámicos de la economía y cuyos coeficientes son respaldados por datos empíricos. A principios de los 70, este enfoque se descartó para dar paso a la **teoría de espectativas racionales**. Esta modela a la economía como un conjunto homogéneo de entes racionales en equilibrio general; esta asunción dudosa simplifica las ecuaciones pero reduce la capacidad predictiva.
 ___
 
