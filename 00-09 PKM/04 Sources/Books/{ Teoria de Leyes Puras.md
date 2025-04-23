@@ -27,5 +27,8 @@ La validez de una norma es el carácter de una norma que debe ser obedecida. La 
 La norma que concierne a actos dirigidos, directa o indirectamente, a otro ser humano se llama **orden social**. Bajo el principio de retribución, una orden social puede admitir una recompensa al ser cumplida o un castigo de ser incumplida. Estas reacciones se conocen en conjunto como **sanciones**. Si el no administrar una sanción amerita una sanción, entonces la sanción esta demandada; de lo contrario, la sanción esta autorizada.
 
 Una **orden legal** es un sistema de normas sociales que pertenecen a una misma norma básica. La orden legal es de naturaleza coercitiva; es decir, aplica sanciones negativas a acciones consideradas **delitos**. Todas las demás normas del sistema legal son dependientes de estas normas coercitivas. Un sistema legal moderno monopoliza la aplicación de fuerza, limitandola a sanciones demandadas o autorizadas por la ley. La validez de un sistema legal depende de que este aplique actos coercitivos de manera más efectiva que cualquier otro sistema.
+
+## Ley y Moral
+
 ___
 

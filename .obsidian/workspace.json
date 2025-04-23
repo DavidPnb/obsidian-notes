@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-39 Lenguajes/30 Linguistica/English Grammar.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md"
               }
             }
           },
@@ -340,8 +340,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "70376ad0dfb4a014",
+  "active": "1f81ea08b258dfe7",
   "lastOpenFiles": [
+    "30-39 Lenguajes/30 Linguistica/English Grammar.md",
+    "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
     "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
@@ -349,8 +351,6 @@
     "00-09 PKM/04 Sources/Books/{ Story.md",
     "80-89 Literatura, Escritura y Ficcion/80 Escritura/Diseño de una Historia.md",
     "30-39 Lenguajes/32 English/Descriptive English Grammar.md",
-    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
-    "30-39 Lenguajes/30 Linguistica/English Grammar.md",
-    "30-39 Lenguajes/30 Linguistica/Pragmatica P B.md"
+    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md"
   ]
 }
