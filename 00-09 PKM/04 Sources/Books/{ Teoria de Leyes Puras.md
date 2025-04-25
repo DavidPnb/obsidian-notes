@@ -29,6 +29,6 @@ La norma que concierne a actos dirigidos, directa o indirectamente, a otro ser h
 Una **orden legal** es un sistema de normas sociales que pertenecen a una misma norma básica. La orden legal es de naturaleza coercitiva; es decir, aplica sanciones negativas a acciones consideradas **delitos**. Todas las demás normas del sistema legal son dependientes de estas normas coercitivas. Un sistema legal moderno monopoliza la aplicación de fuerza, limitandola a sanciones demandadas o autorizadas por la ley. La validez de un sistema legal depende de que este aplique actos coercitivos de manera más efectiva que cualquier otro sistema.
 
 ## Ley y Moral
-
+La falta de diferenciación entre la ley y la moral es un obstáculo para el estudio de las leyes. La ley es objeto de la ciencia legal mientras que la moral es objeto de la ética. La diferencia entre ley y moral yace en que la moral no es de naturaleza coercitiva.
 ___
 
