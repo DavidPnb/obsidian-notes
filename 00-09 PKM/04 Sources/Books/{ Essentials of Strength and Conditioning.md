@@ -43,6 +43,7 @@ finished::
 [[Entrenamiento Anaerobico]]
 
 ### Adaptaciones al Entrenamiento Aeróbico
+[[Entrenamiento Aerobico]]
 
 ### Diferencias de Edad y Sexo
 
