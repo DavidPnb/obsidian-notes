@@ -76,4 +76,7 @@ $$
 $$
 v_{P/A}=v_{P/B}+v_{B/A}
 $$
+
+## Energía
+La energía es una cantidad abstracta que se mantiene constante a lo largo de las interacciones de un sistema y se presenta en diferentes tipos. Esto significa que un tipo de energía solo puede salir de un sistema, entrar en este, o transformarse en otro tipo de energía.
 ___

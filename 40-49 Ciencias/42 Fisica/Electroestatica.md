@@ -1,0 +1,12 @@
+---
+created: 2025-04-27 12:56
+---
+tags:: 
+up:: [[42.00 Fisica]]
+# Electroéstatica
+Describe las interacciones entre cargas eléctricas que no estan en movimiento respecto al sistema de referencia.
+
+## Carga Eléctrica y Campo Eléctrico
+### Carga Eléctrica
+Un cuerpo puede tener dos tipos de carga eléctrica: carga positiva y carga negativa. Los objetos con cargas opuestas experimentan fuerzas de atracción y los objetos con cargas similares experimentan fuerzas de repulsión. Estos efectos son provocados por la [[Atomos#Estructura del Átomo|estructura del átomo]]. El valor de la carga negativa del electrón es cuantitativamente igual al valor de la carga positiva del protón. Esto significa que un cuerpo con carga negativa ha ganado electrones y un cuerpo con carga negativa ha perdido electrones. La carga eléctrica de un cuerpo esta cuantizada, y la suma de las cargas eléctricas se conserva en un sistema cerrado.
+___
