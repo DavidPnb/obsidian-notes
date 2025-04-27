@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ The Anatomy of Story.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md"
               }
             }
           },
@@ -327,17 +327,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1f81ea08b258dfe7",
+  "active": "897dfb53f8926e48",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ The Anatomy of Story.md",
+    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Aerobico.md",
     "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
     "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md",
     "30-39 Lenguajes/32 English/Descriptive English Grammar.md",
-    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "30-39 Lenguajes/30 Linguistica/English Grammar.md",
     "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
-    "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md"
+    "00-09 PKM/04 Sources/Books/{ Composing Programs.md"
   ]
 }
