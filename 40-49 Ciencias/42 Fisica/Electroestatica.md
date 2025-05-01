@@ -9,4 +9,7 @@ Describe las interacciones entre cargas eléctricas que no estan en movimiento r
 ## Carga Eléctrica y Campo Eléctrico
 ### Carga Eléctrica
 Un cuerpo puede tener dos tipos de carga eléctrica: carga positiva y carga negativa. Los objetos con cargas opuestas experimentan fuerzas de atracción y los objetos con cargas similares experimentan fuerzas de repulsión. Estos efectos son provocados por la [[Atomos#Estructura del Átomo|estructura del átomo]]. El valor de la carga negativa del electrón es cuantitativamente igual al valor de la carga positiva del protón. Esto significa que un cuerpo con carga negativa ha ganado electrones y un cuerpo con carga negativa ha perdido electrones. La carga eléctrica de un cuerpo esta cuantizada, y la suma de las cargas eléctricas se conserva en un sistema cerrado.
+
+### Conducción Eléctrica
+Un material puede clasificarse por su capacidad para conducir la carga eléctrica. Un **conductor** tiene electrones libres que pueden moverse por el material, distribuyendo uniformemente la carga eléctrica. Un **aislante** no contiene electrones libres, y la carga eléctrica se mantiene en un sector aislado. Un **semiconductor** puede cambiar sus propiedades si se le agrega cierta cantidad de átomos. La **conducción** es el proceso en el cual dos objetos con carga neutra adquieren carga eléctrica al frotarse entre ellos. En la **inducción** se acerca un objeto cargado a uno neutro, alterando la distribución de electrones del último.
 ___

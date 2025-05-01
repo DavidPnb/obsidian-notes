@@ -43,5 +43,33 @@ cabezera:
 	cuerpo
 ```
 donde la **cabezera** determina la forma en que se ejecuta el código en el **cuerpo**. Los **condicionales** evaluan una expresión y ejecutan el código en su cuerpo si esta expresión es equivalente a verdadero. Los **bucles** ejecutan el código en su cuerpo cierto número de veces dependiendo del resultado de su expresión. Estas expresiones son evaluadas en base a la lógica booleana. Una función también es una declaración compuesta.
+
+### Funciones de Orden Superior
+Permiten abstraer los procesos de computación que se utilizan en un programa. Una función puede ser usada como argumento de otra función, de esa forma se puede abstraer un proceso que manipula diferentes datos. Una función puede ser definida dentro de otra función; la función tiene acceso al entorno de la función en la que esta definida y la función solo forma parte del entorno mientras se llama a la función superior. Una función puede ser retornada por otra función. A partir de esto se pueden componer funciones. 
+
+El **currying** es un proceso mediante el cual una función que toma varios argumentos se transforma en una función compuesta que toma un solo argumento. Los **lambdas** son funciones que no tienen un nombre y solo estan compuestas por una expresión de retorno
+
+``` python
+(x1,x2,...,x3): expresión
+```
+
+Los **decoradores** simplifican el  llamado de una función compuesta en una declaración.
+
+``` python
+def funcion1
+
+@funcion1
+def funcion2
+```
+
+es equivalente a
+
+``` python
+def funcion1
+
+def funcion2
+
+funcion1 = funcion2(funcion1)
+```
 ___
 
