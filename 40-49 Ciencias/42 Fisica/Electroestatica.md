@@ -14,9 +14,9 @@ Un cuerpo puede tener dos tipos de carga eléctrica: carga positiva y carga nega
 Un material puede clasificarse por su capacidad para conducir la carga eléctrica. Un **conductor** tiene electrones libres que pueden moverse por el material, distribuyendo uniformemente la carga eléctrica. Un **aislante** no contiene electrones libres, y la carga eléctrica se mantiene en un sector aislado. Un **semiconductor** puede cambiar sus propiedades si se le agrega cierta cantidad de átomos. La **conducción** es el proceso en el cual dos objetos con carga neutra adquieren carga eléctrica al frotarse entre ellos. En la **inducción** se acerca un objeto cargado a uno neutro, alterando la distribución de electrones del último.
 
 ### Ley de Coulomb
-Una **carga puntual** representa un objeto con una carga eléctrica como un punto en el espacio. La ley de Coulomb establece que la fuerza eléctrica entre cargas puntuales es proporcional a la magitud de cada carga e inversamente proporcional al cuadrado de las distancias.
+Una **carga puntual** representa un objeto con una carga eléctrica como un punto en el espacio. La ley de Coulomb establece que la fuerza eléctrica entre cargas puntuales es proporcional a la magnitud de cada carga e inversamente proporcional al cuadrado de las distancias. La fuerza eléctrica es conservativa y obedece las leyes de Newton.
 
-$$Q = \frac{k_{e}|q_{1}||q_{2}|}{r^{ 2 }}$$
+$$F = \frac{k_{e}|q_{1}||q_{2}|}{r^{ 2 }}$$
 
 $k_{e}= 9\times10^{ 9 }$
 ___
