@@ -71,5 +71,8 @@ def funcion2
 
 funcion1 = funcion2(funcion1)
 ```
+
+### Recursión
+Una **función recursiva** es una función que se llama a sí misma en su propio cuerpo. Una funcion recursiva divide un problema en problemas más simples para encontrar una solución. Suele tener una **base** que describe la solución del caso más simple, y un elemento recursivo que aplica la función a una versión más simple del problema. Dos funciones son **mutuamente recursivas** si cada una llama a la otra dentro de su cuerpo. Estas pueden usarse para abstraer una lógica de recursión compleja. Un **árbol de recursión** es una función que tiene más de un elemento recursivo; cada uno explorando distintas posibilidades de un problema.
 ___
 

@@ -14,9 +14,23 @@ Un cuerpo puede tener dos tipos de carga eléctrica: carga positiva y carga nega
 Un material puede clasificarse por su capacidad para conducir la carga eléctrica. Un **conductor** tiene electrones libres que pueden moverse por el material, distribuyendo uniformemente la carga eléctrica. Un **aislante** no contiene electrones libres, y la carga eléctrica se mantiene en un sector aislado. Un **semiconductor** puede cambiar sus propiedades si se le agrega cierta cantidad de átomos. La **conducción** es el proceso en el cual dos objetos con carga neutra adquieren carga eléctrica al frotarse entre ellos. En la **inducción** se acerca un objeto cargado a uno neutro, alterando la distribución de electrones del último.
 
 ### Ley de Coulomb
-Una **carga puntual** representa un objeto con una carga eléctrica como un punto en el espacio. La ley de Coulomb establece que la fuerza eléctrica entre cargas puntuales es proporcional a la magnitud de cada carga e inversamente proporcional al cuadrado de las distancias. La fuerza eléctrica es conservativa y obedece las leyes de Newton.
+Una **carga puntual** representa un objeto con una carga eléctrica como un punto en el espacio. La ley de Coulomb establece que la fuerza eléctrica entre cargas puntuales es proporcional a la magnitud de cada carga e inversamente proporcional al cuadrado de las distancias. La fuerza eléctrica es conservativa y obedece las leyes de Newton. 
 
 $$F = \frac{k_{e}|q_{1}||q_{2}|}{r^{ 2 }}$$
 
-$k_{e}= 9\times10^{ 9 }$
+$$k_{e}= 9\times10^{ 9 }N \frac{m^{2}}{C^{2}}$$
+
+La **fuerza eléctrica total** ejercida sobre una carga puntual equivale a la suma de las fuerzas ejercida por cada carga.
+
+### Campo Eléctrico
+El **campo eléctrico** es producido por una **fuente eléctrica**, y ejerce una fuerza sobre cualquier partícula cargada que este dentro de él. El **vector de campo eléctrico** en un punto determinado se define como la fuerza eléctrica que experimenta una **carga de prueba** positiva en el punto, dividida entre la carga de prueba. La carga de prueba debe ser una carga puntual. El **campo eléctrico neto** en un punto es igual a la suma de los campos generados por cada fuente. Una carga positiva experimenta una fuerza en el mismo sentido que el campo eléctrico, una carga negativa experimenta una fuerza en sentido opuesto al campo eléctrico.
+
+$$\mathbf{F_{e}} = q \mathbf{E}$$
+es una definición alternativa de fuerza eléctrica.
+
+$$\mathbf{E}=\frac{k_{e}q}{r^{3}} \mathbf{r}$$
+
+$$ \mathbf{E}=k_{e} \Sigma\frac{q_{i}}{r_{i}^{3}} \mathbf{r_{i}}$$
+
+
 ___

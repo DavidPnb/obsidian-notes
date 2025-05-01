@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/Electroestatica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -215,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/Electroestatica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/Electroestatica.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md"
               }
             }
           },
@@ -327,10 +326,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "897dfb53f8926e48",
+  "active": "ad8ea7c00d551225",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "40-49 Ciencias/42 Fisica/Electroestatica.md",
+    "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
     "40-49 Ciencias/42 Fisica/Mecanica Clasica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
