@@ -32,5 +32,17 @@ $$\mathbf{E}=\frac{k_{e}q}{r^{3}} \mathbf{r}$$
 
 $$ \mathbf{E}=k_{e} \Sigma\frac{q_{i}}{r_{i}^{3}} \mathbf{r_{i}}$$
 
+### Distribución de Carga Continua
+Cuando la distancia entre un conjunto de cargas es considerablemente menor a la distancia a un punto, estas cargas pueden modelarse como una carga distribuida en una región continua.
 
+$$ \mathbf{E}=k_{e}\lim_{ \Delta q_{i} \to 0 }  \Sigma\frac{\Delta q_{i}}{r_{i}^{3}} \mathbf{r_{i}}= k_{e}\int  \, \frac{dq}{r^{3}}\mathbf{r} $$
+$$\sigma=\frac{Q}{A}$$
+
+$$
+\rho = \frac{Q}{V}
+$$
+
+$$
+\lambda = \frac{Q}{l}
+$$
 ___
