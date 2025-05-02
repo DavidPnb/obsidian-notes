@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad8ea7c00d551225",
+            "id": "615b5bb06b455fba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+                "file": "40-49 Ciencias/40 Matematicas/Ecuaciones Diferenciales Ordinarias.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+                "file": "40-49 Ciencias/40 Matematicas/Ecuaciones Diferenciales Ordinarias.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+                "file": "40-49 Ciencias/40 Matematicas/Ecuaciones Diferenciales Ordinarias.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md"
+                "file": "40-49 Ciencias/40 Matematicas/Ecuaciones Diferenciales Ordinarias.md"
               }
             }
           },
@@ -326,17 +326,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ad8ea7c00d551225",
+  "active": "615b5bb06b455fba",
   "lastOpenFiles": [
-    "40-49 Ciencias/42 Fisica/Electroestatica.md",
+    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
+    "40-49 Ciencias/40 Matematicas/40.03 Calculo.md",
+    "40-49 Ciencias/40 Matematicas/40.02 Algebra.md",
     "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+    "40-49 Ciencias/42 Fisica/Electroestatica.md",
     "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
     "40-49 Ciencias/42 Fisica/Mecanica Clasica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
     "00-09 PKM/04 Sources/Books/{ The Anatomy of Story.md",
-    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
-    "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Aerobico.md",
-    "60-69 Deporte/60 Ejercicio y Fitness/Entrenamiento Anaerobico.md",
-    "00-09 PKM/04 Sources/Books/{ Essentials of Strength and Conditioning.md"
+    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md"
   ]
 }
