@@ -45,4 +45,15 @@ $$
 $$
 \lambda = \frac{Q}{l}
 $$
+
+### Líneas de Carga Eléctrica
+Son una forma gráfca de representar los vectores de un campo eléctrico. Las líneas tiene la dirección y sentido del campo eléctrico en el punto. La cantidad de lineas en un área representa la magnitud del campo eléctrico. La cantidad de líneas que salen de una carga positiva es $Nq_{1}$, la cantidad de líneas que entran a una carga negativa es $N|q_{2}|$. Las líneas de campo eléctrico no pueden intersectarse.
+
+![[Campo de carga puntual.png]]
+
+![[Campo de un dipolo.png]]
+
+![[Campo 3.png]]
+
+![[Campo 4.png]]
 ___
