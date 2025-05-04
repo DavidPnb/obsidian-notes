@@ -80,5 +80,18 @@ Una **función recursiva** es una función que se llama a sí misma en su propio
 ## Abstracciones con Datos
 Los **tipos de datos nativos** evaluan a un valor literal, este valor literal puede ser procesado por el lenguaje. Python reconoce tres tipos de datos numéricos: *int* (enteros), *float* (reales) y *complex* (complejos). Los floats solo son capaces de representar números de forma aproximada, por lo que no deben ser usados en comparaciones que requieran de precisión. La **abstracción de datos** se usa para manipular datos sin la necesidad de conocer como estos datos estan implementados. Siempre y cuando el comportamiento general no cambie, estas abstracciones ayudan a mantener la longevidad del programa.
 
+## Secuencias
+Las secuencias son datos que tienen una longitud `n` y contienen elementos que van desde una posición `0` hasta `n-1`. Se puede determinar si un elemento pertenece a una secuencia y se puede dividir una secuencia en secuencias más pequeñas. Las **listas** son las secuencias arquetipicas. Las listas admiten una operación de suma, que resulta en una lista con los elementos de otras dos. Multiplicar una lista por un entero positivo `n` crea una lista con cada elemento de la lista original repetido `n` veces. El bucle `for` permite iterar por cada elemento dentro de una secuencia. 
+```python
+for elemento in secuencia:
+	proceso
+```
+
+Los **rangos** son secuencias que incluyen cada entero que se encuentra entre dos enteros positivos, incluyendo al primero. Los **strings** son secuencias de caracteres. Cada caracter es representado como un string de longitud 1; por esto, la operación de membresía verifica si un string se encuentra dentro de otro. La comprensión de listas permite crear una lista a partir de una secuencia. 
+```python
+[operación for elemento in secuencia if filtro]
+```
+La agregación de listas en un proceso donde se combinan los elementos de una lista en un solo valor. Los procesos de comprensión y agregación pueden ser replicados por funciones de orden superior.
+
 ___
 
