@@ -78,6 +78,7 @@ funcion1 = funcion2(funcion1)
 Una **función recursiva** es una función que se llama a sí misma en su propio cuerpo. Una funcion recursiva divide un problema en problemas más simples para encontrar una solución. Suele tener una **base** que describe la solución del caso más simple, y un elemento recursivo que aplica la función a una versión más simple del problema. Dos funciones son **mutuamente recursivas** si cada una llama a la otra dentro de su cuerpo. Estas pueden usarse para abstraer una lógica de recursión compleja. Un **árbol de recursión** es una función que tiene más de un elemento recursivo; cada uno explorando distintas posibilidades de un problema.
 
 ## Abstracciones con Datos
-Los **tipos de datos nativos** evaluan a un valor literal, este valor literal puede ser procesado por el lenguaje. Python reconoce tres tipos de datos numéricos: *int* (enteros), *float* (reales) y *complex* (complejos). Los floats solo son capaces de representar números de forma aproximada, por lo que no deben ser usados en comparaciones que requieran de precisión.
+Los **tipos de datos nativos** evaluan a un valor literal, este valor literal puede ser procesado por el lenguaje. Python reconoce tres tipos de datos numéricos: *int* (enteros), *float* (reales) y *complex* (complejos). Los floats solo son capaces de representar números de forma aproximada, por lo que no deben ser usados en comparaciones que requieran de precisión. La **abstracción de datos** se usa para manipular datos sin la necesidad de conocer como estos datos estan implementados. Siempre y cuando el comportamiento general no cambie, estas abstracciones ayudan a mantener la longevidad del programa.
+
 ___
 
