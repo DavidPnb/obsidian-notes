@@ -56,4 +56,7 @@ Son una forma gráfca de representar los vectores de un campo eléctrico. Las l�
 ![[Campo 3.png]]
 
 ![[Campo 4.png]]
+
+## Potencial Eléctrico
+La fuerza eléctrica es una fuerza conservativa, por lo tanto, el trabajo 
 ___
