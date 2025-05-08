@@ -58,5 +58,17 @@ Son una forma gráfca de representar los vectores de un campo eléctrico. Las l�
 ![[Campo 4.png]]
 
 ## Potencial Eléctrico
-La fuerza eléctrica es una fuerza conservativa, por lo tanto, el trabajo 
+La fuerza eléctrica es una fuerza conservativa, por lo tanto, el trabajo aplicado por la fuerza eléctrica proviene de una reducción en la energía potencial eléctrica. El **potencial eléctrico** es una propiedad del campo eléctrico y se define como la diferencia de energía potencial eléctrica de una carga de prueba en dos puntos entre la carga de prueba. El potencial eléctrico se mide en voltios ($V=\frac{J}{C}$). El campo eléctrico es la tasa de cambio del potencial eléctrico respecto a la posición. Este también puede medirse en voltios por metro ($\frac{V}{m}$).
+
+$$
+\Delta U_{e}=-q_{0} \int_{B}^{A} \mathbf{E} \, d\mathbf{r} 
+$$
+$$
+V=\frac{U}{q_{0}}
+$$
+
+$$
+\Delta V = -\int_{B}^{A} \mathbf{E} \, d\mathbf{r} 
+$$
+
 ___
