@@ -6,10 +6,10 @@ up:: [[60.00 Fitness]]
 # Objetivos de Entrenamiento
 
 ## Ejercicio
-3
+4
 - Knee Raises 3x25->25
 - Jumping Pull-ups - 11+11>20
-- Half Squats 2x44->50
+- Half Squats 2x46->50
 - Half PU 16+15>25 ***
 
 ___

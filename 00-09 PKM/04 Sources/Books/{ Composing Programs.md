@@ -1,6 +1,7 @@
  ---
 alias: 
 created: 2025-04-03 12:53
+
 ---
 [[41.00 Ciencias de la Computacion MOC|Ciencias de la Computacion]]
 
