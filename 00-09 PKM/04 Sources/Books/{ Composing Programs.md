@@ -94,5 +94,9 @@ Los **rangos** son secuencias que incluyen cada entero que se encuentra entre do
 ```
 La agregación de listas en un proceso donde se combinan los elementos de una lista en un solo valor. Los procesos de comprensión y agregación pueden ser replicados por funciones de orden superior.
 
+## Objetos
+Son representaciones de datos que tienen un comportamiento que cambia con el tiempo, y es almacenado en un **estado**. Los objetos contienen **atributos** con los datos que almacena el objeto y **métodos**, funciones que realizan operaciones en el objeto. Todos los datos en Python son objetos. Los objetos **inmutables** no cambian de valor; los **mutables** tienen un estado que puede cambiar durante la ejecución de un programa. La declaración `nonlocal` permite a una función almacenar un estado. Con esta, una asignación ccambia el valor de una variable en el entorno que es definida por primera vez. Los objetos modelan entidades modulares que pueden interactuar entre ellas.
+
+La **comparación de identidad** `is` compara igualdad de dos objetos independientemente de su contenido. Si dos variables se refieren al mismo objeto mutable, cambiar el valor de una automaticamente cambia el valor de la otra (las comprensiones de lista crean una lista nueva). Los **diccionarios** son conjuntos no ordenados que almacenan valores usando **llaves** en lugar de índices. Una llave puede ser cualquier valor inmutable. Una llave solo debe tener un valor asignado. Un **tuple** es un conjunto ordenado inmutable.
 ___
 
