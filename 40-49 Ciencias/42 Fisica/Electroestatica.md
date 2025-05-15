@@ -64,11 +64,21 @@ $$
 \Delta U_{e}=-q_{0} \int_{B}^{A} \mathbf{E} \, d\mathbf{r} 
 $$
 $$
-V=\frac{U}{q_{0}}
+V=\frac{U_{e}}{q_{0}}
 $$
 
 $$
 \Delta V = -\int_{B}^{A} \mathbf{E} \, d\mathbf{r} 
 $$
 
+### Potencial Eléctrico en Campo uniforme
+En un campo eléctrico uniforme, las expresiones matemáticas del potencial eléctrico se simplifican. El potencial eléctrico se reduce en la dirección del campo eléctrico. Una carga positiva provoca una disminución de la energía potencial eléctrica del sistema al moverse en la dirección del campo eléctrico; lo que significa que la fuerza eléctrica realiza trabajo positivo. Si una carga negativa se mueve en dirección del campo eléctrico, aumenta la energía potencial eléctrica. Para que una carga negativa se mueva en dirección del campo eléctrico, una fuerza externa debe realizar trabajo positivo. Una **superficie equipotencial** es una superficie continua donde todos los puntos tienen el mismo potencial eléctrico. La superficie equipotencial de un campo uniforme es un plano perpendicular al campo eléctrico.
+
+$$
+\Delta V = - \mathbf{E} \, \mathbf{r} 
+$$
+
+$$
+\Delta U_{e} = -q_{0} \mathbf{E} \mathbf{r}
+$$
 ___

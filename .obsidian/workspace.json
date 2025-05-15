@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+                "file": "40-49 Ciencias/42 Fisica/Electroestatica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+                "file": "40-49 Ciencias/42 Fisica/Electroestatica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md"
+                "file": "40-49 Ciencias/42 Fisica/Electroestatica.md"
               }
             }
           },
@@ -327,11 +327,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "70376ad0dfb4a014",
+  "active": "897dfb53f8926e48",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "40-49 Ciencias/42 Fisica/Electroestatica.md",
     "40-49 Ciencias/40 Matematicas/Ecuaciones Diferenciales Ordinarias.md",
-    "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
     "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",

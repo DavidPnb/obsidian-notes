@@ -53,7 +53,7 @@ Permiten abstraer los procesos de computación que se utilizan en un programa. U
 El **currying** es un proceso mediante el cual una función que toma varios argumentos se transforma en una función compuesta que toma un solo argumento. Los **lambdas** son funciones que no tienen un nombre y solo estan compuestas por una expresión de retorno
 
 ``` python
-(x1,x2,...,x3): expresión
+lambda (x1,x2,...,x3): expresión
 ```
 
 Los **decoradores** simplifican el  llamado de una función compuesta en una declaración.
