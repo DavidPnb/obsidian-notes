@@ -61,17 +61,17 @@ Son una forma gráfca de representar los vectores de un campo eléctrico. Las l�
 La fuerza eléctrica es una fuerza conservativa, por lo tanto, el trabajo aplicado por la fuerza eléctrica proviene de una reducción en la energía potencial eléctrica. El **potencial eléctrico** es una propiedad del campo eléctrico y se define como la diferencia de energía potencial eléctrica de una carga de prueba en dos puntos entre la carga de prueba. El potencial eléctrico se mide en voltios ($V=\frac{J}{C}$). El campo eléctrico es la tasa de cambio del potencial eléctrico respecto a la posición. Este también puede medirse en voltios por metro ($\frac{V}{m}$).
 
 $$
-\Delta U_{e}=-q_{0} \int_{B}^{A} \mathbf{E} \, d\mathbf{r} 
+\Delta U_{e}=-q_{0} \int_{A}^{B} \mathbf{E} \, d\mathbf{r} 
 $$
 $$
 V=\frac{U_{e}}{q_{0}}
 $$
 
 $$
-\Delta V = -\int_{B}^{A} \mathbf{E} \, d\mathbf{r} 
+\Delta V = -\int_{A}^{B} \mathbf{E} \, d\mathbf{r} 
 $$
 
-### Potencial Eléctrico en Campo uniforme
+### Potencial Eléctrico en Campo Uniforme
 En un campo eléctrico uniforme, las expresiones matemáticas del potencial eléctrico se simplifican. El potencial eléctrico se reduce en la dirección del campo eléctrico. Una carga positiva provoca una disminución de la energía potencial eléctrica del sistema al moverse en la dirección del campo eléctrico; lo que significa que la fuerza eléctrica realiza trabajo positivo. Si una carga negativa se mueve en dirección del campo eléctrico, aumenta la energía potencial eléctrica. Para que una carga negativa se mueva en dirección del campo eléctrico, una fuerza externa debe realizar trabajo positivo. Una **superficie equipotencial** es una superficie continua donde todos los puntos tienen el mismo potencial eléctrico. La superficie equipotencial de un campo uniforme es un plano perpendicular al campo eléctrico.
 
 $$
@@ -80,5 +80,19 @@ $$
 
 $$
 \Delta U_{e} = -q_{0} \mathbf{E} \mathbf{r}
+$$
+
+### Potencial por una Carga Discreta
+El potencial eléctrico por una carga discreta depende únicamente de la distancia. En caso de haber varias cargas se usa el principio de superposición. El campo eléctrico es considerado un **campo conservativo** por estar asociado a una fuerza conservativa. La distancia para la cual $V= 0$ se toma como $r= \infty$. La energía potencial eléctrica de un par de cargas es equivalente al trabajo necesario para mover una carga desde infinito hasta su posición actual. En caso de haber más, se suma la energía potencial por cada par de cargas.
+
+$$
+\Delta V=- k_{e}\int_{A}^{B} \frac{Q}{r^{2}}\mathbf{r_{P/Q}} \, d\mathbf{r} = \frac{k_{e}Q}{r_{A}} - \frac{k_{e}Q}{r_{B}}
+$$
+$$
+V= k_{e} \Sigma\frac{q_{i}}{r_{i}}
+$$
+
+$$
+U_{e}=\frac{k_{e}q_{1}q_{2}}{r}
 $$
 ___
