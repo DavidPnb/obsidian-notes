@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,8 +160,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "dee71d77b205e31d",
@@ -328,11 +326,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e65dfbe364e03466",
+  "active": "615b5bb06b455fba",
   "lastOpenFiles": [
     "40-49 Ciencias/42 Fisica/Electroestatica.md",
-    "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "40-49 Ciencias/40 Matematicas/Ecuaciones Diferenciales Ordinarias.md",
+    "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
     "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",

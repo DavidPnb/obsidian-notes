@@ -14,4 +14,14 @@ Dos familias de curvas son trayectorias si estas se intersectan en ángulos igua
 
 ## Ecuaciones Lineales de Primer Orden
 Tienen la forma $y'+P(x)y=Q(x)$ y se resuelve por el factor integrante $e^{\int P(x) \, dx}$ multiplicando a ambos miembros. Esto resulta en la expresión $ye^{\int P(x) \, dx}=\int e^{\int P(x) \, dx} \, Q(x)dx$.
+
+## Otros Métodos
+### EDO Exacta
+Tiene la forma $P(x,y)dx+Q(x,y)dy=0$ donde $\frac{ \partial P }{ \partial y }=\frac{ \partial Q }{ \partial x }$. Esta expresión es un diferencial exacto. La ecuación se resuelve encontrando una función $U(x,y)$ tal que  $\frac{ \partial U }{ \partial x }=P$ y $\frac{ \partial U }{ \partial y }=Q$. La solución general es $U(x,y)=C$.
+
+### Bernoulli
+Tiene la forma $y'+P(x)y=Q(x)y^{n}$ y se reduce a una ecuación lineal con el cambio de variable $z=y^{1-n}$.
+
+### EDO Homogenea
+Una función $f(x,y)$ es **homogenea** si $f(tx,ty)=t^{n}f(x,y)$. Una EDO homogenea tiene la forma $f(x,y)dx +g(x,y)dy=0$, siendo $f$ y $g$ funciones homogeneas del mismo grado. Se resuelve con el cambio de variable $v=\frac{x}{y}$.
 ___

@@ -95,4 +95,17 @@ $$
 $$
 U_{e}=\frac{k_{e}q_{1}q_{2}}{r}
 $$
+
+## Campo Eléctrico a partir de Potencial Eléctrico
+El valor del campo eléctrico es igual a la derivada del potencial eléctrico respecto al desplazamiento. El campo eléctrico es cero en lugares donde el potencial eléctrico es constante. A partir de este resultado se puede deducir que las líneas de campo son perpendiculares a una superficie equipotencial. Las superficies equipotenciales de una carga puntual son superficies esféricas concéntricas.
+
+![[Superficies Equipotenciales.png]]
+
+$$
+E_{x_{i}}= -\frac{dV}{dx_{i}}
+$$
+$$
+\mathbf{E} = -\frac{ \partial V }{ \partial x }\mathbf{i} -\frac{ \partial V }{ \partial y }\mathbf{j} - \frac{ \partial V }{ \partial z }\mathbf{k} 
+$$
+
 ___
