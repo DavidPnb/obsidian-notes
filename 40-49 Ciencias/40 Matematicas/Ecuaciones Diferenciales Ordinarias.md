@@ -17,11 +17,11 @@ Tienen la forma $y'+P(x)y=Q(x)$ y se resuelve por el factor integrante $e^{\int 
 
 ## Otros Métodos
 ### EDO Exacta
-Tiene la forma $P(x,y)dx+Q(x,y)dy=0$ donde $\frac{ \partial P }{ \partial y }=\frac{ \partial Q }{ \partial x }$. Esta expresión es un diferencial exacto. La ecuación se resuelve encontrando una función $U(x,y)$ tal que  $\frac{ \partial U }{ \partial x }=P$ y $\frac{ \partial U }{ \partial y }=Q$. La solución general es $U(x,y)=C$.
+Tiene la forma $P(x,y)dx+Q(x,y)dy=0$ donde $\frac{ \partial P }{ \partial y }=\frac{ \partial Q }{ \partial x }$. Esta expresión es un diferencial exacto. La ecuación se resuelve encontrando una función $U(x,y)$ tal que  $\frac{ \partial U }{ \partial x }=P$ y $\frac{ \partial U }{ \partial y }=Q$. La solución general es $U(x,y)=C$. Una EDO **reducible a exacta** acepta un factor integrante $u(x,y)$ tal que $\frac{ \partial uP }{ \partial y }=\frac{ \partial uQ }{ \partial x }$.
 
 ### Bernoulli
 Tiene la forma $y'+P(x)y=Q(x)y^{n}$ y se reduce a una ecuación lineal con el cambio de variable $z=y^{1-n}$.
 
 ### EDO Homogenea
-Una función $f(x,y)$ es **homogenea** si $f(tx,ty)=t^{n}f(x,y)$. Una EDO homogenea tiene la forma $f(x,y)dx +g(x,y)dy=0$, siendo $f$ y $g$ funciones homogeneas del mismo grado. Se resuelve con el cambio de variable $v=\frac{x}{y}$.
+Una función $f(x,y)$ es **homogenea de grado $n$** si $f(tx,ty)=t^{n}f(x,y)$. Una función homogenea de grado $n$ puede expresarse como $f(x,y)=x^{n}f(1,y/x)$. Una EDO homogenea tiene la forma $f(x,y)dx +g(x,y)dy=0$, siendo $f$ y $g$ funciones homogeneas del mismo grado. Se resuelve con el cambio de variable $v=\frac{x}{y}$. Una EDO **reducible a homogenea** tiene la forma $y'= \frac{l_{1}}{l_{2}}=\frac{Ax+BY+C}{\alpha x+\beta y+\gamma}$. En caso de que las rectas se intersecten, se usa el cambio de variable $\overline{x}=x+x_{i}\: , \: \overline{y}=y+y_{i}$. De lo contrario una recta puede ser expresada como multiplo de la otra.
 ___
