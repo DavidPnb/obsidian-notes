@@ -81,7 +81,7 @@ Una **función recursiva** es una función que se llama a sí misma en su propio
 ## Abstracciones con Datos
 Los **tipos de datos nativos** evaluan a un valor literal, este valor literal puede ser procesado por el lenguaje. Python reconoce tres tipos de datos numéricos: *int* (enteros), *float* (reales) y *complex* (complejos). Los floats solo son capaces de representar números de forma aproximada, por lo que no deben ser usados en comparaciones que requieran de precisión. La **abstracción de datos** se usa para manipular datos sin la necesidad de conocer como estos datos estan implementados. Siempre y cuando el comportamiento general no cambie, estas abstracciones ayudan a mantener la longevidad del programa.
 
-## Secuencias
+### Secuencias
 Las secuencias son datos que tienen una longitud `n` y contienen elementos que van desde una posición `0` hasta `n-1`. Se puede determinar si un elemento pertenece a una secuencia y se puede dividir una secuencia en secuencias más pequeñas. Las **listas** son las secuencias arquetipicas. Las listas admiten una operación de suma, que resulta en una lista con los elementos de otras dos. Multiplicar una lista por un entero positivo `n` crea una lista con cada elemento de la lista original repetido `n` veces. El bucle `for` permite iterar por cada elemento dentro de una secuencia. 
 ```python
 for elemento in secuencia:
@@ -94,14 +94,17 @@ Los **rangos** son secuencias que incluyen cada entero que se encuentra entre do
 ```
 La agregación de listas en un proceso donde se combinan los elementos de una lista en un solo valor. Los procesos de comprensión y agregación pueden ser replicados por funciones de orden superior.
 
-## Objetos
+### Objetos
 Son representaciones de datos que tienen un comportamiento que cambia con el tiempo, y es almacenado en un **estado**. Los objetos contienen **atributos** con los datos que almacena el objeto y **métodos**, funciones que realizan operaciones en el objeto. Todos los datos en Python son objetos. Los objetos **inmutables** no cambian de valor; los **mutables** tienen un estado que puede cambiar durante la ejecución de un programa. La declaración `nonlocal` permite a una función almacenar un estado. Con esta, una asignación ccambia el valor de una variable en el entorno que es definida por primera vez. Los objetos modelan entidades modulares que pueden interactuar entre ellas.
 
 La **comparación de identidad** `is` compara igualdad de dos objetos independientemente de su contenido. Si dos variables se refieren al mismo objeto mutable, cambiar el valor de una automaticamente cambia el valor de la otra (las comprensiones de lista crean una lista nueva). Los **diccionarios** son conjuntos no ordenados que almacenan valores usando **llaves** en lugar de índices. Una llave puede ser cualquier valor inmutable. Una llave solo debe tener un valor asignado. Un **tuple** es un conjunto ordenado inmutable.
 
-## Programación Orientada a Objetos
+### Programación Orientada a Objetos
 La **programación orientada a objetos** es una implementación formal que permite crear abstracciones. Las **clases** son prototipos de las instancias que se generan a partir de estas. Cada instancia contiene **propiedades**, atributos propios de la instancia, y **métodos** que operan en base a esa instancia. Un **atributo de clase** es compartido por todas las instancias, y cambiarlo cambia automaticamente las propiedades correspondientes en las instancias. La **herencia** permite generar subclases en base a clases más generales. El valor de los nombres de atributos se resuelven desde la instancia hasta las clases de las que hereda.
 
 Los métodos de una instancia reciben como primer parametro la variable `self` que hace referencia a la instancia desde la que son llamados. Esto diferencia a los métodos de las funciones. Cada clase contiene el método constructor `__init__` que se encarga de instanciarla. Los atributos y métodos de una instancia pueden ser accedidos usando notación de punto. Cada instancia de una clase crea un objeto diferente. 
+
+### Abstracciones de Objetos
+Crear funciones generales que aceptan parámetros de diferentes tipos aumenta la flexibilidad de un programa. Existen tres formas diferentes de implementar esto. Las **interfaces** son clases que comparten ciertas propiedades y comportamientos, de modo que puede existir equivalencia entre las dos. La **coerción** consiste en convertir un objeto de un tipo a otro para realizar un proceso. El **type dispatching** consiste en definir operaciones entre objetos de dos tipos diferentes. Algunas funciones y operaciones llaman a los métodos en sus parámetros, y estos determinan que operación se debe realizar.
 ___
 
