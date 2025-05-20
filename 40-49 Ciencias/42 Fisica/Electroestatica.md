@@ -57,6 +57,24 @@ Son una forma gráfca de representar los vectores de un campo eléctrico. Las l�
 
 ![[Campo 4.png]]
 
+## Ley de Gauss
+### Flujo Eléctrico
+El **flujo eléctrico** es una medida cuantitativa del campo eléctrico en una región del espacio. El flujo eléctrico es proporcional a la cantidad de líneas de campo eléctrico y define como la magnitud del campo eléctrico por el área. Cuando el campo eléctrico no es uniforme, el flujo eléctrico debe ser expresado por medio de una integral de superficie. Una **superficie cerrada** es una que divide el espacio en una región interior y una región exterior. El flujo eléctrico neto a través de una superficie cerrada es igual al número de líneas que entran menos el número de líneas que salen.
+
+$$
+\Phi_{E}=EA
+$$
+
+$$
+\Phi_{E}=\int \mathbf{E} \cdot d \mathbf{A} 
+$$
+
+$$
+\Phi _{E} = \oint \mathbf{E} \cdot d\mathbf{A} = \oint EnA
+$$
+
+
+
 ## Potencial Eléctrico
 La fuerza eléctrica es una fuerza conservativa, por lo tanto, el trabajo aplicado por la fuerza eléctrica proviene de una reducción en la energía potencial eléctrica. El **potencial eléctrico** es una propiedad del campo eléctrico y se define como la diferencia de energía potencial eléctrica de una carga de prueba en dos puntos entre la carga de prueba. El potencial eléctrico se mide en voltios ($V=\frac{J}{C}$). El campo eléctrico es la tasa de cambio del potencial eléctrico respecto a la posición. Este también puede medirse en voltios por metro ($\frac{V}{m}$).
 
