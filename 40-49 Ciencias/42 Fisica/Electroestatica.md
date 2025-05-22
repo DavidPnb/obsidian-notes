@@ -6,6 +6,9 @@ up:: [[42.00 Fisica]]
 # Electroéstatica
 Describe las interacciones entre cargas eléctricas que no estan en movimiento respecto al sistema de referencia.
 
+```toc
+```
+
 ## Carga Eléctrica y Campo Eléctrico
 ### Carga Eléctrica
 Un cuerpo puede tener dos tipos de carga eléctrica: carga positiva y carga negativa. Los objetos con cargas opuestas experimentan fuerzas de atracción y los objetos con cargas similares experimentan fuerzas de repulsión. Estos efectos son provocados por la [[Atomos#Estructura del Átomo|estructura del átomo]]. El valor de la carga negativa del electrón es cuantitativamente igual al valor de la carga positiva del protón. Esto significa que un cuerpo con carga negativa ha ganado electrones y un cuerpo con carga negativa ha perdido electrones. La carga eléctrica de un cuerpo esta cuantizada, y la suma de las cargas eléctricas se conserva en un sistema cerrado.
@@ -74,6 +77,12 @@ $$
 $$
 
 
+### Ley de Gauss
+El flujo eléctrico producido por una carga en el interior de una superficie cerrada es igual para cualquier forma y dimensión. Cuando hay multiples cargas en el interior de la superficie, el flujo eléctrico dependera únicamente de la carga eléctrica neta. El signo del flujo eléctrico dependera del signo de la carga.El flujo eléctrico en una superficie cerrada sin cargas en su interior siempre es igual a cero.
+
+$$
+\Phi _{E} = \oint \mathbf{E} \cdot d\mathbf{A} = \frac{ \sum q_{in}}{\epsilon_{0}}
+$$
 
 ## Potencial Eléctrico
 La fuerza eléctrica es una fuerza conservativa, por lo tanto, el trabajo aplicado por la fuerza eléctrica proviene de una reducción en la energía potencial eléctrica. El **potencial eléctrico** es una propiedad del campo eléctrico y se define como la diferencia de energía potencial eléctrica de una carga de prueba en dos puntos entre la carga de prueba. El potencial eléctrico se mide en voltios ($V=\frac{J}{C}$). El campo eléctrico es la tasa de cambio del potencial eléctrico respecto a la posición. Este también puede medirse en voltios por metro ($\frac{V}{m}$).
@@ -93,11 +102,11 @@ $$
 En un campo eléctrico uniforme, las expresiones matemáticas del potencial eléctrico se simplifican. El potencial eléctrico se reduce en la dirección del campo eléctrico. Una carga positiva provoca una disminución de la energía potencial eléctrica del sistema al moverse en la dirección del campo eléctrico; lo que significa que la fuerza eléctrica realiza trabajo positivo. Si una carga negativa se mueve en dirección del campo eléctrico, aumenta la energía potencial eléctrica. Para que una carga negativa se mueva en dirección del campo eléctrico, una fuerza externa debe realizar trabajo positivo. Una **superficie equipotencial** es una superficie continua donde todos los puntos tienen el mismo potencial eléctrico. La superficie equipotencial de un campo uniforme es un plano perpendicular al campo eléctrico.
 
 $$
-\Delta V = - \mathbf{E} \, \mathbf{r} 
+\Delta V = - \mathbf{E} \cdot \, \mathbf{r} 
 $$
 
 $$
-\Delta U_{e} = -q_{0} \mathbf{E} \mathbf{r}
+\Delta U_{e} = -q_{0} \mathbf{E} \cdot \mathbf{r}
 $$
 
 ### Potencial por una Carga Discreta
