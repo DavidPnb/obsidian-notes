@@ -78,7 +78,9 @@ $$
 
 
 ### Ley de Gauss
-El flujo eléctrico producido por una carga en el interior de una superficie cerrada es igual para cualquier forma y dimensión. Cuando hay multiples cargas en el interior de la superficie, el flujo eléctrico dependera únicamente de la carga eléctrica neta. El signo del flujo eléctrico dependera del signo de la carga.El flujo eléctrico en una superficie cerrada sin cargas en su interior siempre es igual a cero.
+El flujo eléctrico producido por una carga en el interior de una superficie cerrada es igual para cualquier forma y dimensión. Cuando hay multiples cargas en el interior de la superficie, el flujo eléctrico dependera únicamente de la carga eléctrica neta. El signo del flujo eléctrico dependera del signo de la carga. El flujo eléctrico en una superficie cerrada sin cargas en su interior siempre es igual a cero. La ley de Gauss puede usarse para determinar la magnitud del campo eléctrico usando una superficie imaginaria. La superficie debe cumplir una o más de las siguientes condiciones:
+1. El ángulo entre el campo eléctrico y la superficie es constante
+2. El campo eléctrico es constante en la superficie
 
 $$
 \Phi _{E} = \oint \mathbf{E} \cdot d\mathbf{A} = \frac{ \sum q_{in}}{\epsilon_{0}}
