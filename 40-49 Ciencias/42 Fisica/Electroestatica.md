@@ -86,6 +86,14 @@ $$
 \Phi _{E} = \oint \mathbf{E} \cdot d\mathbf{A} = \frac{ \sum q_{in}}{\epsilon_{0}}
 $$
 
+### Conductores en Equilibrio Electrostático
+El **equilibrio electrostático** es una situación donde no existe movimiento de electrones. Un conductor en equilibrio electrostático presenta las siguientes propiedades:
+1. El campo en el interior de la superficie es cero (el potencial es constante)
+2. La carga se mantiene en el exterior de la superficie
+3. El campo electrico justo en el exterior es $\frac{\sigma}{\epsilon_{0}}$
+4. En una superficie irregular, $\sigma$ es menor en los lugares donde el radio de curvatura es mayor
+La primera propiedad se da porque se mantiene una distribución de cargas que garantiza el equilibrio electrostático. La segunda y tercera son el resultado de la ley de Gauss. La cuarta es producto del potencial eléctrico
+
 ## Potencial Eléctrico
 La fuerza eléctrica es una fuerza conservativa, por lo tanto, el trabajo aplicado por la fuerza eléctrica proviene de una reducción en la energía potencial eléctrica. El **potencial eléctrico** es una propiedad del campo eléctrico y se define como la diferencia de energía potencial eléctrica de una carga de prueba en dos puntos entre la carga de prueba. El potencial eléctrico se mide en voltios ($V=\frac{J}{C}$). El campo eléctrico es la tasa de cambio del potencial eléctrico respecto a la posición. Este también puede medirse en voltios por metro ($\frac{V}{m}$).
 
