@@ -107,8 +107,12 @@ Los métodos de una instancia reciben como primer parametro la variable `self` q
 ### Abstracciones de Objetos
 Crear funciones generales que aceptan parámetros de diferentes tipos aumenta la flexibilidad de un programa. Existen tres formas diferentes de implementar esto. Las **interfaces** son clases que comparten ciertas propiedades y comportamientos, de modo que puede existir equivalencia entre las dos. La **coerción** consiste en convertir un objeto de un tipo a otro para realizar un proceso. El **type dispatching** consiste en definir operaciones entre objetos de dos tipos diferentes. Algunas funciones y operaciones llaman a los métodos en sus parámetros, y estos determinan que operación se debe realizar.
 
-## Eficiencia
+### Eficiencia
 La cantidad de recursos computacionales que requiere un programa depende del equipo en el que se ejecuta. Dos maneras de medir la eficiencia de un algoritmo de 
 forma independiente a la arquitectura son el **espacio**, la cantidad de veces que se ejecuta una función; y los **pasos**, la cantidad de veces que se ejecuta una declaración básica. El crecimiento de los pasos y el espacio puede expresarse en función de los argumentos que recibe. La **notación theta** expresa el crecimiento de un algoritmo en términos de funciones elementales. Esta excluye términos constantes y en una suma solo se toma en cuenta el término de orden superior.
+
+## Procesamiento de Datos
+### Secuencias Implicitas
+Una secuencia puede ser representada sin almacenar cada valor en memoria. Un **iterador** va computando el siguiente valor de una secuencia, y produce un error luego del último elemento. Un **iterable** es cualquier elemento que puede ser argumento de un iterador. Una **función generadora** es una función que retorna un iterador usando del comando `yield` en lugar de retornar valores.
 ___
 
