@@ -150,4 +150,7 @@ El potencial eléctrico por una carga continua es obtenido integrando el potenci
 $$
 V = k_{e}\int  \, \frac{dq}{r} 
 $$
+
+### Potencial en Conductores Eléctricos
+Ya que la carga eléctrica de un conductor se acumula en su superficie, la superficie de un conductor en equilibrio electrostático es una superficie equipotencial. El potencial eléctrico en el interior del conductor es constante y su valor es igual al de la superficie. Por lo tanto, dos conductores conectados comparten el mismo potencial eléctrico. El campo eléctrico cercano a una superficie conductora es inversamente proporcional al radio de curvatura. En una superficie conductura con una cavidad, el campo dentro de la cavidad debe ser igual a cero siempre que no existan cargas en la cavidad.
 ___

@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "1f81ea08b258dfe7",
+            "id": "93d67e76c96195f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
+                "file": "40-49 Ciencias/40 Matematicas/Funciones Vectoriales.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+                "file": "40-49 Ciencias/40 Matematicas/Funciones Vectoriales.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
+                "file": "40-49 Ciencias/40 Matematicas/Funciones Vectoriales.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md"
+                "file": "40-49 Ciencias/40 Matematicas/Funciones Vectoriales.md"
               }
             }
           },
@@ -327,15 +327,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "70376ad0dfb4a014",
+  "active": "93d67e76c96195f2",
   "lastOpenFiles": [
+    "40-49 Ciencias/40 Matematicas/40.03 Calculo.md",
+    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "40-49 Ciencias/42 Fisica/Electroestatica.md",
     "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
     "40-49 Ciencias/40 Matematicas/Ecuaciones Diferenciales Ordinarias.md",
-    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
     "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
-    "40-49 Ciencias/40 Matematicas/40.03 Calculo.md",
     "40-49 Ciencias/40 Matematicas/40.02 Algebra.md",
     "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
     "40-49 Ciencias/42 Fisica/Mecanica Clasica.md"
