@@ -65,7 +65,7 @@ Son una forma gráfca de representar los vectores de un campo eléctrico. Las l�
 El **flujo eléctrico** es una medida cuantitativa del campo eléctrico en una región del espacio. El flujo eléctrico es proporcional a la cantidad de líneas de campo eléctrico y define como la magnitud del campo eléctrico por el área. Cuando el campo eléctrico no es uniforme, el flujo eléctrico debe ser expresado por medio de una integral de superficie. Una **superficie cerrada** es una que divide el espacio en una región interior y una región exterior. El flujo eléctrico neto a través de una superficie cerrada es igual al número de líneas que entran menos el número de líneas que salen.
 
 $$
-\Phi_{E}=EA
+\Phi_{E}=EA \cos \theta
 $$
 
 $$
@@ -73,7 +73,7 @@ $$
 $$
 
 $$
-\Phi _{E} = \oint \mathbf{E} \cdot d\mathbf{A} = \oint EnA
+\Phi _{E} = \oint \mathbf{E} \cdot d\mathbf{A} = \oint E_{N}  dA
 $$
 
 
@@ -106,6 +106,9 @@ $$
 
 $$
 \Delta V = -\int_{A}^{B} \mathbf{E} \, d\mathbf{r} 
+$$
+$$
+\mathrm{V} = \frac{J}{C}
 $$
 
 ### Potencial Eléctrico en Campo Uniforme
