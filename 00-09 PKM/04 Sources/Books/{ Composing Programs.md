@@ -113,6 +113,14 @@ forma independiente a la arquitectura son el **espacio**, la cantidad de veces q
 
 ## Procesamiento de Datos
 ### Secuencias Implicitas
-Una secuencia puede ser representada sin almacenar cada valor en memoria. Un **iterador** va computando el siguiente valor de una secuencia, y produce un error luego del último elemento. Un **iterable** es cualquier elemento que puede ser argumento de un iterador. Una **función generadora** es una función que retorna un iterador usando del comando `yield` en lugar de retornar valores.
+Una secuencia puede ser representada sin almacenar cada valor en memoria. Un **iterador** va computando el siguiente valor de una secuencia, y produce un error luego del último elemento. Un **iterable** es cualquier elemento que puede ser argumento de un iterador. Una **función generadora** es una función que retorna un iterador usando el comando `yield` en lugar de retornar valores.
+
+### Programación Declarativa
+El lenguaje de base de datos SQL es un ejemplo de programación declarativa. Las declaraciones de este lenguaje expresan la forma de un resultado, y el procedimiento depende de cada implementación. El lenguaje SQL contiene sus propias funciones y operadores nativos. Una base de datos secuencial contiene tablas con un número fijo de columnas. Las columnas pueden seleccionarse con
+
+```sql
+select [columnas] from [tablas] where [condición] order by [orden]
+```
+donde `from` permite usar una tabla preexistente, `where` funciona como filtro y `order by` ordena por columnas. El simbolo especial `*` se usa para seleccionar todas las columnas. Un **join** combina dos tablas en una tercera a traves de un producto cartesiano; en SQL, esto se consigue ingresando multiples tablas separadas por comas en la clausula `from`.
 ___
 

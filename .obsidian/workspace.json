@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/Electrodinamica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/Electrodinamica.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/42 Fisica/Electrodinamica.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Composing Programs.md"
               }
             }
           },
@@ -340,8 +340,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "36d525f95e45aa6a",
+  "active": "70376ad0dfb4a014",
   "lastOpenFiles": [
+    "40-49 Ciencias/42 Fisica/Electrodinamica.md",
     "40-49 Ciencias/42 Fisica/42.00 Fisica.md",
     "40-49 Ciencias/42 Fisica/Electroestatica.md",
     "00-09 PKM/04 Sources/Books/{ Composing Programs.md",
@@ -350,7 +351,6 @@
     "40-49 Ciencias/40 Matematicas/40.03 Calculo.md",
     "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "00-09 PKM/04 Sources/Books/{ The Puzzle of Modern Economics.md",
-    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md",
-    "40-49 Ciencias/40 Matematicas/40.02 Algebra.md"
+    "40-49 Ciencias/40 Matematicas/40.00 Matematicas MOC.md"
   ]
 }
