@@ -29,7 +29,7 @@ I =\frac{dQ}{dt}=nqv_{d}A_{t}
 $$
 
 ### Resistencia
-La **densidad de corriente eléctrica** es igual a la corriente eléctrica por área transversal. La **ley de Ohm** establece que para algunos materiales la densidad de corriente eléctrica es proporcional al campo eléctrico. Esta constante de proporcionalidad se conoce como **conductividad** y su inversa se conoce como **resistividad**. La **resistencia eléctrica** de un objeto se define como la diferencia de voltaje entre la corriente. En un circuito, los **resistores** se usan para regular la corriente eléctrica.
+La **densidad de corriente eléctrica** es igual a la corriente eléctrica por área transversal. La **ley de Ohm** establece que para algunos materiales la densidad de corriente eléctrica es proporcional al campo eléctrico. Esta constante de proporcionalidad se conoce como **conductividad** y su inversa se conoce como **resistividad**. La **resistencia eléctrica** de un objeto se define como la diferencia de voltaje entre la corriente. En un circuito, los **resistores** se usan para regular la corriente eléctrica. La resistividad de un material varia respecto a la temperatura. Un material **semiconductor** pierde resistividad a medida que disminuye la temperatura.
 
 $$
 \mathbf{J}=\frac{I}{A_{t}}=nq\mathbf{v_{d}}
@@ -42,6 +42,13 @@ R \equiv \frac{\Delta V}{I}=\frac{l}{\sigma A_{t}}=\rho \frac{ l}{A_{t}}
 $$
 $$
 \Omega=\frac{\mathrm{V}}{\mathrm{A}}
+$$
+$$
+\rho=\rho_{0}(1+\alpha \Delta T)
+$$
+
+$$
+R=R_{0}(1+\alpha \Delta T)
 $$
 
 ![[Resistividad.png]]
