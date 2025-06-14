@@ -54,4 +54,7 @@ $$
 ![[Resistividad.png]]
 
 ![[Resistores.png]]
+
+## Superconductores
+Un **superconductor** es un material cuya resistividad se aproxima a cero cuando su temperatura es menor a una **temperatura crítica**. Una vez que hay corriente eléctrica dentro de un superconductor, esta se mantiene sin la necesidad de mantener una diferencia de potencial. Los superconductores son los materiales con mejor capacidad  magnética.
 ___

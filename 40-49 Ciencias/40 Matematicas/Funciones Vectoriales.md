@@ -48,4 +48,10 @@ $$
 $$
 \lim_{ \mathrm{X} \to \mathrm{X_{0}} } F(\mathrm{X})^{k}=L^{k},k\in \mathrm{N}
 $$
+
+## Derivadas Parciales
+Si $F:\mathrm{R^{n}}\to\mathrm{R^{m}}$ es una función vectorial, su **derivada parcial con respecto a $x_{k}$** en un punto $P(a_{1},a_{2},\dots,a_{n})$ es $$
+F_{x_{k}}=\frac{ \partial F }{ \partial x_{k} }=\lim_{ h \to 0}  \frac{F(x_{1},x_{2},\dots,x_{k}+h,\dots,x_{n})-F(a_{1},a_{2},\dots,a_{n})}{h}
+$$
+La derivada parcial es la tasa de cambio de una función respecto a una variable si se toman las demás como constantes. En $\mathrm{R^{2}}$, la derivada parcial de una función $z=f(x,y)$ es la pendiente de la recta tangente a la intersección de $z$ con el plano transversal a $x$ o $y$. Las **derivadas parciales de orden superior** son derivadas parciales evaluadas de forma sucesiva. El **teorema de las derivadas cruzadas** concluye que $f_{xy}(x_{0},y_{0})=f_{yx}(x_{0},y_{0})$ si $f$ es continua en el entorno de $(x_{0},y_{0})$
 ___
