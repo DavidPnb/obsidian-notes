@@ -57,4 +57,15 @@ $$
 
 ## Superconductores
 Un **superconductor** es un material cuya resistividad se aproxima a cero cuando su temperatura es menor a una **temperatura crítica**. Una vez que hay corriente eléctrica dentro de un superconductor, esta se mantiene sin la necesidad de mantener una diferencia de potencial. Los superconductores son los materiales con mejor capacidad  magnética.
+
+## Potencia Eléctrica
+En un cricuito con diferencia de potencial definida, la tasa de energía que se transmite a un aparato es proporcional a la corriente que pasa por este. En un resistor, esta energía depende de la resistencia. Esta energía se recupera al final del circuito a costa de la energía química de la fuente. 
+
+$$
+P=I\Delta V
+$$
+
+$$
+P=I^{2}R=\frac{(\Delta V)^{2}}{R}
+$$
 ___
