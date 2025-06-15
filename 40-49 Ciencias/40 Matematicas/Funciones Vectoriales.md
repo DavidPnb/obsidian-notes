@@ -53,5 +53,23 @@ $$
 Si $F:\mathrm{R^{n}}\to\mathrm{R^{m}}$ es una función vectorial, su **derivada parcial con respecto a $x_{k}$** en un punto $P(a_{1},a_{2},\dots,a_{n})$ es $$
 F_{x_{k}}=\frac{ \partial F }{ \partial x_{k} }=\lim_{ h \to 0}  \frac{F(x_{1},x_{2},\dots,x_{k}+h,\dots,x_{n})-F(a_{1},a_{2},\dots,a_{n})}{h}
 $$
-La derivada parcial es la tasa de cambio de una función respecto a una variable si se toman las demás como constantes. En $\mathrm{R^{2}}$, la derivada parcial de una función $z=f(x,y)$ es la pendiente de la recta tangente a la intersección de $z$ con el plano transversal a $x$ o $y$. Las **derivadas parciales de orden superior** son derivadas parciales evaluadas de forma sucesiva. El **teorema de las derivadas cruzadas** concluye que $f_{xy}(x_{0},y_{0})=f_{yx}(x_{0},y_{0})$ si $f$ es continua en el entorno de $(x_{0},y_{0})$
+La derivada parcial es la tasa de cambio de una función respecto a una variable si se toman las demás como constantes. En $\mathrm{R^{2}}$, la derivada parcial de una función $z=f(x,y)$ es la pendiente de la recta tangente a la intersección de $z$ con el plano transversal a $x$ o $y$. Las **derivadas parciales de orden superior** son derivadas parciales evaluadas de forma sucesiva. El **teorema de las derivadas cruzadas** concluye que $f_{xy}(x_{0},y_{0})=f_{yx}(x_{0},y_{0})$ si $f$ es continua en el entorno de $(x_{0},y_{0})$.
+
+## Transformación Afín
+La **matriz jacobiana** $J_{F}$ de una función $F:\mathbb{R^{n}\to\mathbb{R^{m}}}$ en $\mathbf{X_{0}}$ se define como
+$$
+\left.  {\begin{pmatrix}
+\frac{ \partial f_{1} }{ \partial x_{1} }  & \frac{ \partial f_{1} }{ \partial x_{2} } & \cdots & \frac{ \partial f_{1} }{ \partial x_{n} }  \\
+\frac{ \partial f_{2} }{ \partial x_{1} } & \frac{ \partial f_{2} }{ \partial x_{2} } & \cdots & \frac{ \partial f_{2} }{ \partial x_{n} }  \\
+\vdots & \vdots &  & \vdots \\
+\frac{ \partial f_{m} }{ \partial x_{1} }  & \frac{ \partial f_{m} }{ \partial x_{2} }  & \cdots & \frac{ \partial f_{m} }{ \partial x_{n} } 
+\end{pmatrix}} \right |_{\mathbf{X_{0}}}
+$$
+La **transformación afín** de $F$ se define como $$
+A(\mathbf{X_{0}})=F(\mathbf{X_{0}})+J_{F}(\mathbf{X}-\mathbf{X_{0}})
+$$
+$F$ es **diferenciable** si $$
+\lim_{ \mathbf{X} \to \mathbf{X_{0}} } \frac{\|F(\mathbf{X})-A(\mathbf{X})\|}{\|\mathbf{X}-\mathbf{X_{0}}\|}=0
+$$
+En este caso, se dice que $J_{F}$ es **transformación afín aproximante** y es buena aproximación de $F$ en puntos cercanos a $\mathbf{X_{0}}$. Si $F:R^{2}\to R$, $A(\mathbf{X_{0}})$ es el **plano tangente** a $F$ en el punto. Si las derivadas parciales de $F$ son continuas en $\mathbf{X_{0}}$ entonces la función es diferenciable en $\mathbf{X_{0}}$. El **diferencial** de $F$ se define como $F_{x_{1}}dx_{1}+Fx_{2}dx_{2}+\dots+F_{x_{n}}dx_{n}$.
 ___
