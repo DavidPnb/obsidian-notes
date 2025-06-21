@@ -8,7 +8,7 @@ Describe interacciones por cargas en movimiento.
 
 ## Capacitancia y Dieléctricos
 ### Capacitancia
-Un **capacitor** es un arreglo de dos cargas de misma magnitud y signos opuestos con  una distancia de separación. La relación entre la magnitud de la carga y la diferencia de voltaje es una relación lineal. A la constante de proporcionalidad se le llama **capacitancia** y define cuanta carga puede almacenar un capacitor en relación a la diferencia de potencia inducida. La capacitancia siempre es positiva y depende de la geometría del capacitor.
+Un **capacitor** es un arreglo de dos cargas de misma magnitud y signos opuestos con  una distancia de separación. La relación entre la magnitud de la carga y la diferencia de voltaje es una relación lineal. A la constante de proporcionalidad se le llama **capacitancia** y define cuanta carga puede almacenar un capacitor en relación a la diferencia de potencia inducida. La capacitancia siempre es positiva y depende de la geometría del capacitor. Los capacitores conectados en serie comparten la misma carga, mientras que los capacitores conectados en paralelo comparten voltaje.
 
 $$
 C=\frac{Q}{\Delta V}
@@ -16,6 +16,14 @@ $$
 $$
 \mathrm{F}=\frac{\mathrm{C}}{\mathrm{V}}
 $$
+$$
+C_{eq}=C_{1}+C_{2}+\dots+C_{n} \text{ (Circuitos en Paralelo)}
+$$
+$$
+C_{eq}^{-1}=C_{1}^{-1}+C_{2}^{-1}+\dots+C_{n}^{-1} \text{ (Circuitos en Serie)}
+$$
+
+
 
 ## Corriente y Resistencia
 ### Corriente
