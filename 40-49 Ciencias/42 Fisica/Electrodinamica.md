@@ -25,7 +25,18 @@ $$
 $$
 U=\frac{Q^{2}}{2C}=\frac{1}{2}Q\Delta V=C(\Delta V)^{2}
 $$
+$$
+u_{E}=\frac{1}{2}\epsilon_{0}E^{2}
+$$
 
+### Dieléctricos
+Un **dieléctrico** es un material aislante que se inserta entre las placas de un capacitor. Este aumenta la capacitancia del capacitor por un factor $k$. La fuerza dieléctrica es la capacidad de un dieléctrico de evitar la descarga entre las placas de un capacitor, y depende de la distancia y la diferencia de voltaje entre las placas. Un dielectrico aumenta la carga, el voltaje máximo y la cercanía a la que pueden estar las placas de un capacitor.
+
+$$
+C=\frac{k\epsilon_{0}A}{d}
+$$
+
+![[Dielectricos.png]]
 
 ## Corriente y Resistencia
 ### Corriente
