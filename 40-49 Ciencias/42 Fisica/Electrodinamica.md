@@ -76,10 +76,10 @@ $$
 
 ![[Resistores.png]]
 
-## Superconductores
+### Superconductores
 Un **superconductor** es un material cuya resistividad se aproxima a cero cuando su temperatura es menor a una **temperatura crítica**. Una vez que hay corriente eléctrica dentro de un superconductor, esta se mantiene sin la necesidad de mantener una diferencia de potencial. Los superconductores son los materiales con mejor capacidad  magnética.
 
-## Potencia Eléctrica
+### Potencia Eléctrica
 En un cricuito con diferencia de potencial definida, la tasa de energía que se transmite a un aparato es proporcional a la corriente que pasa por este. En un resistor, esta energía depende de la resistencia. Esta energía se recupera al final del circuito a costa de la energía química de la fuente. 
 
 $$
@@ -89,4 +89,16 @@ $$
 $$
 P=I^{2}R=\frac{(\Delta V)^{2}}{R}
 $$
+
+## Circuitos Eléctricos
+### Fuerza Electromotiva
+La fuerza electromotiva es la máxima diferencia de voltaje que puede producirse en una batería. El voltaje de las terminales se ve reducida por la resistencia interna de la batería. Cuando la batería suministra potencia a un dispositivo, esta potencia se divide entre la resistencia interna y el dispositivo. La potencia del dispositivo es máxima cuando su resistencia es igual a la resistencia interna.
+
+$$
+\Delta V= \mathcal{E}-Ir
+$$
+$$
+\mathcal{E}=I(R+r)
+$$
+
 ___
