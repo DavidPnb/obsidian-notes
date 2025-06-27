@@ -72,4 +72,13 @@ $F$ es **diferenciable** si $$
 \lim_{ \mathbf{X} \to \mathbf{X_{0}} } \frac{\|F(\mathbf{X})-A(\mathbf{X})\|}{\|\mathbf{X}-\mathbf{X_{0}}\|}=0
 $$
 En este caso, se dice que $J_{F}$ es **transformación afín aproximante** y es buena aproximación de $F$ en puntos cercanos a $\mathbf{X_{0}}$. Si $F:R^{2}\to R$, $A(\mathbf{X_{0}})$ es el **plano tangente** a $F$ en el punto. Si las derivadas parciales de $F$ son continuas en $\mathbf{X_{0}}$ entonces la función es diferenciable en $\mathbf{X_{0}}$. El **diferencial** de $F$ se define como $F_{x_{1}}dx_{1}+Fx_{2}dx_{2}+\dots+F_{x_{n}}dx_{n}$.
+
+## Derivadas Direccionales
+La **derivada direccional** de una función $F$ en $\mathbf{x_{0}}$ es la tasa de cambio de $F$ en la dirección de un vector $\mathbf{u}$. Se define como $$
+F_{\mathbf{u}}=\lim_{ h \to 0 } \frac{F(\mathbf{x_{0}}+\mathbf{u}h)-F(\mathbf{x_{0}})}{h}
+$$
+Si la función es diferenciable en $\mathbf{x_{0}}$, entonces $$
+F_{\mathbf{u}}= \nabla F\cdot \mathbf{u}
+$$
+$\nabla F$ es el vector de las derivadas parciales de $F$, y se conoce como **vector gradiente**. El vector gradiente indica la dirección de mayor cambio de la función.
 ___
