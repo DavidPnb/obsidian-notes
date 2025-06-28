@@ -101,4 +101,13 @@ $$
 \mathcal{E}=I(R+r)
 $$
 
+### Circuitos Resistivos
+Las resistencias conectadas en serie comparten corriente y se dividen el voltaje. En una conexión en serie, el fallo de un elemento provoca un circuito abierto que deshabilita los demás. En las conexiones en paralelo, la corriente pasa por **nodos** que dividen la corriente en varios caminos; el voltaje es el mismo paracada elemento.
+
+$$
+R_{eq}=R_{1}+R_{2}+\dots+R_{n} \text{ (Circuitos en Serie)}
+$$
+$$
+R_{eq}^{-1}=R_{1}^{-1}+R_{2}^{-1}+\dots+R_{n}^{-1} \text{ (Circuitos en Paralelo)}
+$$
 ___
