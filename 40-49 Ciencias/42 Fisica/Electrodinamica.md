@@ -110,4 +110,17 @@ $$
 $$
 R_{eq}^{-1}=R_{1}^{-1}+R_{2}^{-1}+\dots+R_{n}^{-1} \text{ (Circuitos en Paralelo)}
 $$
+
+### Leyes de Kirchoff
+Se usan para resolver circuitos complejos de corriente directa. La primera ley establece que la corriente que entra por un nodo debe ser igual a la corriente que sale de este. La segunda ley establece que la sumatoria de voltajes en un circuito cerrado es igual a cero. Para utilizar la segunda ley se usan las siguientes convenciones de signos:
+1. El sentido positivo del voltaje de un resistor es opuesto al sentido de la corriente
+2. El sentido positivo del voltaje de una batería es hacia donde apunta su terminal positiva
+3. Un circuito debe ser recorrido en un sentido consistente
+
+$$
+\Sigma I_{1}=\Sigma I_{2}
+$$
+$$
+\Sigma \Delta V=0
+$$
 ___
