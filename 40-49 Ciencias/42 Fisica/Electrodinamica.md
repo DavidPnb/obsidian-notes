@@ -80,7 +80,7 @@ $$
 Un **superconductor** es un material cuya resistividad se aproxima a cero cuando su temperatura es menor a una **temperatura crítica**. Una vez que hay corriente eléctrica dentro de un superconductor, esta se mantiene sin la necesidad de mantener una diferencia de potencial. Los superconductores son los materiales con mejor capacidad  magnética.
 
 ### Potencia Eléctrica
-En un cricuito con diferencia de potencial definida, la tasa de energía que se transmite a un aparato es proporcional a la corriente que pasa por este. En un resistor, esta energía depende de la resistencia. Esta energía se recupera al final del circuito a costa de la energía química de la fuente. 
+En un circuito con diferencia de potencial definida, la tasa de energía que se transmite a un aparato es proporcional a la corriente que pasa por este. En un resistor, esta energía depende de la resistencia. Esta energía se recupera al final del circuito a costa de la energía química de la fuente. 
 
 $$
 P=I\Delta V
@@ -123,4 +123,19 @@ $$
 $$
 \Sigma \Delta V=0
 $$
+
+### Circuitos RC
+Son circuitos donde una resistencia se conecta en serie con un capacitor. La potencia, la corriente y el voltaje varían con el tiempo. Cuando el capacitor se carga con una batería, la carga se aproxima a un valor final $C\mathcal{E}$ y la corriente tiende a cero. Despues de un tiempo $\mathcal{T}=RC$, la carga pasa a ser $\frac{1}{e}$ de su valor final. Esta es conocida como **constante de tiempo**. Cuando el capacitor se descarga, esta constante de tiempo se mantiene igual.
+
+$$
+q=Q_{f}(1-e^{-t/RC})\text{ (Carga)}
+$$
+$$
+q=Q_{0}e^{-t/RC}\text{ (Descarga)}
+$$
+$$
+i=I_{0}e^{-t/RC}
+$$
+
+
 ___
