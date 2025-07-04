@@ -137,5 +137,6 @@ $$
 i=I_{0}e^{-t/RC}
 $$
 
-
+### Medidores Electricos
+Un **galvanómetro** es un aparato usado para medir corrientes eléctricas y voltajes. Un **galvanometro de D'Ansorval** consiste de una bovina de cable junto a un imán permanente y un resorte. El campo magnético ejerce torque proporcional a la corriente que pasa por el cable, lo que hace rotar a una aguja. Un **voltimetro** mide voltajes y debe conectarse en paralelo. El voltimetro ideal debe tener resistencia infinita. Un **amperimetro** mide corriente y se conecta en serie. El amperimetro ideal tiene resistencia nula
 ___
