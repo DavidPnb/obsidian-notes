@@ -81,4 +81,17 @@ Si la función es diferenciable en $\mathbf{x_{0}}$, entonces $$
 F_{\mathbf{u}}= \nabla F\cdot \mathbf{u}
 $$
 $\nabla F$ es el vector de las derivadas parciales de $F$, y se conoce como **vector gradiente**. El vector gradiente indica la dirección de mayor cambio de la función.
+
+## Regla de la Cadena
+Si una función $F$ depende de $m$ variables, y estas a su vez dependen de $n$ variables, entonces
+$$
+\frac{ \partial F }{ \partial t_{i} }=\frac{ \partial F }{ \partial x_{1} } \frac{ \partial x_{1} }{ \partial t_{i} } +\frac{ \partial F }{ \partial x_{2} }\frac{ \partial x_{2} }{ \partial t_{i} }  + \dots+\frac{ \partial F }{ \partial x_{m} }\frac{ \partial x_{m} }{ \partial t_{i} }  
+$$
+para $i=1,2,\dots ,n$
+
+Si $z$ esta definida implicitamente respecto a $n$ variables, entonces
+$$
+\frac{ \partial z }{ \partial x_{i} } =-\frac{ \partial F }{ \partial x_{i} } \left( \frac{ \partial F }{ \partial z }  \right)^{-1}
+$$
+para $i=1,2,\dots ,n$
 ___
