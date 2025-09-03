@@ -41,5 +41,8 @@ La teoría general de John Maynard Keynes sentó las bases para el estudio la ma
 
 ###  Ciencía e Ideología
 El cambio en el pensamiento económico dominante, que transicionó de la economía mixta a la economía de libre mercado; es influenciado por factores externos a la investigación académica. El fin de la Segunda Guerra Mundial y el comienzo de la Guerra fría produce un rechazo hacia la intervención estatal. Durante este periodo se fundan cientos de institutos asociados al libertarianismo, los cuales fueron respaldados por entes corporativos y políticos conservadores. Las teorías económicas llegan a conclusiones  que provienen de una metodologia rigurosa pero son influenciadas por asunciones cargadas ideologicamente. Además, Lls módelos de libre mercado y expectativas racionales proveen modelos más simples que facilitan la implementacion de políticas estatales. 
+
+### Heterodoxia
+La heterodoxia en la economía se diferencia de la que se presenta en las ciencias sociales y naturales, porque se mantiene una misma visión general pero existen varios paradigmas en conflicto. Las teorías económicas heterodoxas se caracterizan por tener una mayor afiliación politica; y su metodología se basa en aseveraciones cualitativas que no encajan con el rigor matemático de la economía ortodoxa. Los ejemplos más representativos son el marxismo en la izquierda y la escuela austriaca en la derecha. Dentro de la economía no existe un ente centralizado que regule el conocimiento económico; por lo tanto, existen teorías no ortodoxas que subsisten en el pensamiento economico tradicional.
 ___
 
