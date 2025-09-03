@@ -30,4 +30,7 @@ Las **voluntades de orden superior** tienen como objeto la discriminación de lo
 
 ## Susan Wolf
 Wolf crítica a la postura de Frankfurt y la de Watson, a las que engloba como **teoría del sér profundo**. Esta teoría afirma que un ser libre no solo es capaz de actuar respecto a sus deseos, estos deseos reflejan el aspecto fundamental del carácter de la persona. Esta teoría no puede dar un analisis completo de la responsabilidad moral, porque no explica las condiciones en la que se forma este sér profundo. Susan Wolf añade el concepto de sanidad mental. Para que una persona sea **cuerda**, esta debe ser capaz de ajustar su sér profundo; que debe tener una concepción objetiva y normativamente correcta de la realidad. Wolf admite que este aspecto normativa ha ido cambiando gradualmente con la sociedad de forma intersubjetiva. También admite problemas metafísicos respecto a la capacidad de cambiar nuestro carácter, pero afirma que estos problemas tienen un alcance más limitado.
+
+## Nomy Apaly
+Apaly distingue entre la ignorancia moral y la ignorancia factual. La **ignorancia factual** se refiere al conocimento de ciertas proposiciones; la **ignorancia moral** se refiere a valores y juicios normativos. La ignorancia moral no absuelve de culpabilidad o reconocimiento. En este sentido, la moralidad depende del carácter de una persona en lugar de sus creencias. Si la ignorancia factual puede producirse por creencias irracionales, entonces esta no implica una absolución moral. Esta visión de la responsabilidad moral es compatible con el determinismo.
 ___
