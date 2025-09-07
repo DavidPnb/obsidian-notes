@@ -11,4 +11,7 @@ Aristóteles crítica la teoría de las ideas de Platón. Él distingue entre la
 
 ## Ética
 Aristóteles cree que la ética consiste en la busqueda de la felicidad, y que la **virtud** es la manera de alcanzarla. Divide la virtud en virtud práctica y virtud intelectual. La virtud práctica se alcanza a través del hábito, y la virtud intelectual a través del aprendizaje. Cada virtud práctica es la media de dos extremos, los cuales se consideran vicios. La virtud intelectual es la virtud más importante, que sale de la parte del alma que esta conectada con lo divino. Por lo tanto, los filósofos son los que poseen más virtud y mayor felicidad.
+
+## Política
+El Estado es la forma más avanzada de una sociedad y se conforma por un conjunto de familias. Crítica la republica de Platón por la separación de la familia y el establecimiento de una sociedad comunal. Aristoteles declara que existen esclavos naturales que no tienen uso de la razón y no tienen un proposito propio. El Estado tiene como proposito crear ciudadanos virtuosos. La guerra solo esta justificada para la subyugación de esclavos. El comercio y la usureria se consideran formas antinaturales de hacer dinero, un ciudadano debe enriqucerse solo mediante la propiedad de tierras.
 ___
