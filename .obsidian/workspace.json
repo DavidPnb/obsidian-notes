@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffe8aec9976b2fcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "130138e73ad879ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -176,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md"
               }
             }
           },
@@ -288,17 +315,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "615b5bb06b455fba",
+  "active": "130138e73ad879ba",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Razonamiento Deductivo.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.06 Metafisica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
     "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
-    "50-59 Ingenieria/50 Telecomunicaciones/Codificacion Binaria.md",
-    "50-59 Ingenieria/50 Telecomunicaciones/Mensajes y Señales en Telecomunicaciones.md",
-    "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md"
+    "50-59 Ingenieria/50 Telecomunicaciones/Codificacion Binaria.md"
   ]
 }

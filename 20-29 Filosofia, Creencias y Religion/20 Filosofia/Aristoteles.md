@@ -14,4 +14,7 @@ Aristóteles cree que la ética consiste en la busqueda de la felicidad, y que l
 
 ## Política
 El Estado es la forma más avanzada de una sociedad y se conforma por un conjunto de familias. Crítica la republica de Platón por la separación de la familia y el establecimiento de una sociedad comunal. Aristoteles declara que existen esclavos naturales que no tienen uso de la razón y no tienen un proposito propio. El Estado tiene como proposito crear ciudadanos virtuosos. La guerra solo esta justificada para la subyugación de esclavos. El comercio y la usureria se consideran formas antinaturales de hacer dinero, un ciudadano debe enriqucerse solo mediante la propiedad de tierras.
+
+## Lógica
+La lógica de Aristóteles es mucho más avanzada que la de sus predecesores, pero sigue siendo un sistema muy rudimentario. *La Analítica Anterior* cubre sus sistema de lógica formal y *La Analítica Posterior* se basa en la obtención de premisas. Este es un sistema de lógica proposicional basado plenamente en el silogismo como forma válida de argumentación. Aristóteles no hace uso del concepto de cuantificadores o conjuntos. La inducción en Aristotéles se basa en la aprehensión de la **esencia** de una sustancia, que considera como la propiedad que no puede ser extraída de un objeto sin que este pierda su identidad.
 ___
