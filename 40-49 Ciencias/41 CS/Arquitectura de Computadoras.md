@@ -45,4 +45,8 @@ Los **circuitos integrados** juntan varios componentes discretos (Transistores) 
 
 ### Ley de Moore
 Es un enunciado que predice que cada dos años se duplica la cantidad de transistores en un circuito integrado, abaratando los costo y aumentando la potencia de los dispositivos. Expertos predicen que esto quedara obsoleto en el futuro reciente, debido a ciertas limitaciones que no nos dejaran reducir el tamaño de los circuitos.
+
+## Información
+Las computadoras representan la información por medio del sistema binario, ya que almacenan los dos estados que puede tener un componente elctrónico. La información de la vida real se convierte de señales analógicas a información discreta que la computadora puede interpretar.
+
 ___
