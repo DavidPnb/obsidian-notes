@@ -11,8 +11,10 @@ El libre albedrío es la creencia de que somos moralmente responsables por las a
 Strawson defiende una versión del dilema del libre albedrio, llamado **argumento básico**:
 1. Para ser considerados moralmente responsables, debemos ser responsables por nuestras acciones
 2. Nuestras acciones son provocadas por nuestros estados mentales
-3. Nuestros estados mentales son formados por eventos causales o indeterministas
-4. Por lo tanto, no somos responsabes por nuestras acciones
+3. Nuestros estados mentales son formados por eventos causales o indeterministas que son externos a nosotros
+4. No podemos ser responsables por eventos externos
+5. Poresto, no somos responsables por nuestros estados mentales
+6. Por lo tanto, no somos responsabes por nuestras acciones
 
 Este argumento determina que cualquier recompensa o castigo debe tener una base pragmática. 
 
@@ -29,7 +31,9 @@ Las **actitudes reactivas** son respuestas emocionales a las acciones y voluntad
 Las **voluntades de orden superior** tienen como objeto la discriminación de los deseos de nuestra psique. Estas determinan los deseos en base a los cuales queremos actuar. Frankfurt establece que poder formar voluntades de orden superior es el carácter esencial de una persona. El libre albedrio viene con la capacidad de cambiar nuestros deseos de acuerdo a nuestras voluntades; este proviene de voluntades libres y no de acciones libres. Frankfurt critica la postura de Roderick Crisholm, ya que bajo su sistema una acción que es libre no tiene una ventaja práctica sobre una que no lo es. Frankfurt también rechaza que el libre albedrío es causa suficiente para la responsabilidad moral.
 
 ## Susan Wolf
-Wolf crítica a la postura de Frankfurt y la de Watson, a las que engloba como **teoría del sér profundo**. Esta teoría afirma que un ser libre no solo es capaz de actuar respecto a sus deseos, estos deseos reflejan el aspecto fundamental del carácter de la persona. Esta teoría no puede dar un analisis completo de la responsabilidad moral, porque no explica las condiciones en la que se forma este sér profundo. Susan Wolf añade el concepto de sanidad mental. Para que una persona sea **cuerda**, esta debe ser capaz de ajustar su sér profundo; que debe tener una concepción objetiva y normativamente correcta de la realidad. Wolf admite que este aspecto normativa ha ido cambiando gradualmente con la sociedad de forma intersubjetiva. También admite problemas metafísicos respecto a la capacidad de cambiar nuestro carácter, pero afirma que estos problemas tienen un alcance más limitado.
+Wolf crítica a la postura de Frankfurt y la de *Gary Watson*, a las que engloba como **teoría del sér profundo**. Esta teoría afirma que un ser libre no solo es capaz de actuar respecto a sus deseos, estos deseos reflejan el aspecto fundamental del carácter de la persona. Esta teoría no puede dar un analisis completo de la responsabilidad moral, porque no explica las condiciones en la que se forma este sér profundo. Susan Wolf añade el concepto de sanidad mental. Para que una persona sea **cuerda**, esta debe ser capaz de ajustar su sér profundo; que debe tener una concepción objetiva y normativamente correcta de la realidad. Wolf admite que este aspecto normativa ha ido cambiando gradualmente con la sociedad de forma intersubjetiva. También admite problemas metafísicos respecto a la capacidad de cambiar nuestro carácter, pero afirma que estos problemas tienen un alcance más limitado.
+
+(Gary Watson señala que los deseos de una persona se distinguen de sus valores fundamentales, y en est caso un ser libre actua acorde a sus valores)
 
 ## Nomy Apaly
 Apaly distingue entre la ignorancia moral y la ignorancia factual. La **ignorancia factual** se refiere al conocimento de ciertas proposiciones; la **ignorancia moral** se refiere a valores y juicios normativos. La ignorancia moral no absuelve de culpabilidad o reconocimiento. En este sentido, la moralidad depende del carácter de una persona en lugar de sus creencias. Si la ignorancia factual puede producirse por creencias irracionales, entonces esta no implica una absolución moral. Esta visión de la responsabilidad moral es compatible con el determinismo.

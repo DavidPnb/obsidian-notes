@@ -11,12 +11,7 @@ Tambien estudia los tipos de argumentos y falacias o paralogismos.
 
 ## Lógica Clásica
 ### Terminología
-- Un **argumento** esta formado por **premisas**, que son aseveraciones que anteceden a una conclusion.
-- Las **aseveraciones** son actos lingüisticos que pueden ser verdaderos, falsos o indeterminados
-- Un **contraargumento** es un argumento presentado para oponerse o refutar otro argumento
-- Los **interlocutores** son las personas participando en un dialogo, debate o conversacion
-- Una **proposición** es el contenido de una aseveración, es decir, el significado o semantica de lo que se expresa
-- Una **actitud proposicional** es el estado mental que el hablante tiene acerca de su proposicion, puede ser de creencia, o incredulidad
+Una **aseveración** es una oración que puede ser verdadera o falsa. Un argumento esta formado por varias aseveraciones llamadas **premisas** y una aseveración llamada **conclusión**. Un argumento es **válido** si la conclusión es verdadera siempre que las premisas sean todas verdaderas; un argumento convincente es válido y sus premisas son verdaderas. A partir de un conjunto de premisas se pueden deducir validamente una cantidad infinita de conclusiones. En la argumentación informal, un argumento puede tener premisas implicitas que se infieren a partir del contexto de la comunicación.
 
 ### Razonamiento Deductivo
 [[Razonamiento Deductivo]]
