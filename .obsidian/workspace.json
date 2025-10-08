@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -203,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md"
               }
             }
           },
@@ -315,10 +314,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "130138e73ad879ba",
+  "active": "615b5bb06b455fba",
   "lastOpenFiles": [
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Razonamiento Deductivo.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Razonamiento Deductivo.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
