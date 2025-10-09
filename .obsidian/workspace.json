@@ -39,14 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
+                "file": "30-39 Lenguajes/32 English/Descriptive English Grammar.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
+                "file": "30-39 Lenguajes/32 English/Descriptive English Grammar.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -202,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
+                "file": "30-39 Lenguajes/32 English/Descriptive English Grammar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md"
+                "file": "30-39 Lenguajes/32 English/Descriptive English Grammar.md"
               }
             }
           },
@@ -314,17 +315,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "615b5bb06b455fba",
+  "active": "130138e73ad879ba",
   "lastOpenFiles": [
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
+    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Razonamiento Deductivo.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.04 Etica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.00 Filosofia MOC.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/20.06 Metafisica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Libre Albedrio.md",
-    "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
-    "50-59 Ingenieria/50 Telecomunicaciones/Codificacion Binaria.md"
+    "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md"
   ]
 }
