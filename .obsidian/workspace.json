@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "8a26500ff96f9498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Economics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ffe8aec9976b2fcc",
             "type": "leaf",
             "state": {
@@ -46,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Economics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -202,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Economics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md"
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Economics.md"
               }
             }
           },
@@ -314,11 +328,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "615b5bb06b455fba",
+  "active": "8a26500ff96f9498",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "30-39 Lenguajes/32 English/Descriptive English Grammar.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
-    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Razonamiento Deductivo.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
