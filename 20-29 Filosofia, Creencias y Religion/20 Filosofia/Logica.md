@@ -14,10 +14,16 @@ Tambien estudia los tipos de argumentos y falacias o paralogismos.
 Una **aseveración** es una oración que puede ser verdadera o falsa. Un argumento esta formado por varias aseveraciones llamadas **premisas** y una aseveración llamada **conclusión**. Un argumento es **válido** si la conclusión es verdadera siempre que las premisas sean todas verdaderas; un argumento convincente es válido y sus premisas son verdaderas. A partir de un conjunto de premisas se pueden deducir validamente una cantidad infinita de conclusiones. En la argumentación informal, un argumento puede tener premisas implicitas que se infieren a partir del contexto de la comunicación.
 
 ### Formas Lógicas
-La lógica proposicional se basa en la traducción del lenguaje natural a un lenguaja simbólico. Contiene cuatro operadores: **conjunción**, **disjunción**, **negación** e **implicación**. Cualquier aseveración que carezca de estos operadores se considera una aseveración simple. Las aseveraciones simples que transmiten la misma idea se denotan con la misma letra.
+La lógica proposicional se basa en la traducción del lenguaje natural a un lenguaje simbólico. Contiene cuatro operadores: **conjunción**, **disjunción**, **negación** e **implicación**. Cualquier aseveración que carezca de estos operadores se considera una aseveración simple. Las aseveraciones simples que transmiten la misma idea se denotan con la misma letra.
 
 ### Tablas de la Verdad
-Determina los valores de verdad que tiene una aseveración con respecto a los valores de verdad de otra. Aplica para aseveraciones que pueden construirse usando operadores booleanos.
+Determina los valores de verdad que tiene una aseveración con respecto a los valores de verdad de otra. Aplica para aseveraciones que pueden construirse usando operadores booleanos
+
+### Conjunción
+Se dice que una aseveración compleja esta separada por conjunciones si la aseveración puede dividerse en varias aseveraciones simples, la aseveración compleja es verdadera si todas sus constituyentes son verdaderas y viceversa. En el lenguaje convencional, las conjunciones pueden implicar un significado de manera no deductiva. Este fenómeno es estudiado por la [[Pragmatica]].
+
+### Negación
+Una aseveración es la negación de otra si y solo si esta es verdadera cuando su aseveración complementaria es falsa. Se expresa cuando un negador niega la clausula completa explicita o implicitamente.
 
 ## Lógica Moderna
 Divide la aseveración en sujeto y predicado e implementa el uso de cuantificadores.

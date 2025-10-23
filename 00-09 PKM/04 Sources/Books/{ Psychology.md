@@ -1,0 +1,25 @@
+---
+alias: 
+created: 2025-10-15 18:24
+---
+# { Psychology
+## Información
+tags:: #source/book📚 
+
+writer:: [[Peter Gray]]
+
+status:: To Do
+
+subject::
+
+started:: 2025-10-15 18:24
+
+finished::
+
+La psicología es el estudio cientifico del comportamiento y de la mente humana.
+
+## Fundamentos
+### Ideas Principales
+Nuestro comportamiento y nuestra experiencia subjetiva pueden ser explicados por fenómenos físicos. Previo al desarrollo de la psicología, predominaba la concepción dualista; que diferencia el cuerpo del alma, y asigna a esta última una naturaleza incorporea y sobrenatural. Renè Descartes razona que los animales no tienen alma, y por lo tanto, todo comportamiento presente en los animales debe ser explicado a través del cuerpo. El alma es el elemento que regula el pensamiento, y se comunica con nuestros sentidos por medio de una parte especial de nuestro cerebro. El estudio de Sechenov y Pavlov llevaron a un mejor entendimiento de nuestros reflejos. En el siglo XVIII se descubrió que distintos areas del comportamiento estan reguladas por distintas areas de nuestro cerebro. Estos hallazgos ayudaron a desarrollar una visión mecanistica de la mente humana.
+___
+

@@ -25,4 +25,7 @@ A phrase works as a constituent of a sentence. The **head** provides the essenti
 
 ## Verb Phrases
 A verb acts as the head of a verb phrase, usually to form a predicate. The main property of a verb is the ability to take different forms, called **inflections**, that express grammatical accidents. The **preterite** is the main past tense of a verb and it usually alters its morphology.
+
+## Noun Phrases
+Nouns act as the heads of noun phrases. Nouns refer to physical objects and entities that grammatically behave like them. Determinatives alter the meaning of a noun and make it more specific.
 ___

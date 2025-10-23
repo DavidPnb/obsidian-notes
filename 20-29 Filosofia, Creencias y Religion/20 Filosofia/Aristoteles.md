@@ -17,4 +17,7 @@ El Estado es la forma más avanzada de una sociedad y se conforma por un conjunt
 
 ## Lógica
 La lógica de Aristóteles es mucho más avanzada que la de sus predecesores, pero sigue siendo un sistema muy rudimentario. *La Analítica Anterior* cubre sus sistema de lógica formal y *La Analítica Posterior* se basa en la obtención de premisas. Este es un sistema de lógica proposicional basado plenamente en el silogismo como forma válida de argumentación. Aristóteles no hace uso del concepto de cuantificadores o conjuntos. La inducción en Aristotéles se basa en la aprehensión de la **esencia** de una sustancia, que considera como la propiedad que no puede ser extraída de un objeto sin que este pierda su identidad.
+
+## Física
+La física de la Antigua Grecia estudia lo relacionado a la naturaleza. El movimiento es cuando la potencialidad de un objeto se transforma en actualidad. Los fenómenos naturales son explicados por medio de su estado teleológico. La Tierra es el centro del universo, con la luna y los planetas orbitando a su alrededor. Todo lo que se encuentra en la zona sublunar es imperfecto y esta sujeto a decaer. Los cuerpos celestiales son perfectos y estan formados por un quinto elemento. 
 ___

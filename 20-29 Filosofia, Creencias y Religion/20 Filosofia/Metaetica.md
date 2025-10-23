@@ -15,6 +15,9 @@ Mackie niega la existencia de valores morales objetivos, la postura ética más 
 ### R. Jay Wallace
 Wallace ofrece una crítica completa a las posturas subjetivistas. Define como subjetivismo a la postura de que los juicios morales son un reflejo de las actitudes de una persona. Esta concepción de la moral evade la crítica que ligada al objetivismo moral, pero falla en explicar como un individuo puede deliberar respecto a sus actitudes morales. El **disposicionalismo** afirma en cambio que una actitud moral es un reflejo de los deseos que quisieramos tener en caso de deliberar sobre estos. Wallace afirma que esta cualidad reflexiva es un estandar objetivo, lo que contradice la postura subjetivista. El **constructivismo** sostiene que estos principios son el reflejo de la busqueda racional de nuestros deseos, pero no explica como podemos tener posturas morales en primer lugar.
 
+### Thomas Nagel
+Nagel considera que la objetividad moral no requiere la existencia de hechos morales independientes, sino que se refiere a un método de razonamiento sistemático. Según Él, la postura subjetivista busca explicar los juicios morales a través de las circunstancias individuales de la persona, usualmente por medio de racionalizaciones psicológicas. Nagel afirma que el aspecto normativo de la moral no puede reducirse la descripción de nuestros procesos psicológicos. Esto es porque las personas tienen la capacidad de reflexionar sobre estos procesos psicológicos, de modo que estos factores no son los únicos que influyen en nuestro juicio.
+
 ## Teorías Éticas
 Son sistemas que intentan dar respuestas consistentes a las preguntas morales. Estan basados en asunciones que deben ser aceptadas para que se sostenga el resto de la teoría.
 1. [[Teoria del Mandamiento Divino]]
