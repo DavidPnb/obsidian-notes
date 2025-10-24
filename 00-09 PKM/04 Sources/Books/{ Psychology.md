@@ -25,5 +25,19 @@ Nuestro comportamiento y nuestra experiencia subjetiva pueden ser explicados por
 Nuestra mente y comportamiento se ajustan a nuestro entorno. El empirismo britanico expresa que todo conocimiento humano procede del entorno, y niega la existencia de una naturaleza humana. La **asociación por contigüidad** es un proceso por el cual se juntan y abstraen las percepciones que ocurren de manera contigua en espacio y tiempo. En contraste, el nativismo alemán proclama que para aprender, el cerebro humano debe tener ideas preconcebidas sobre la realidad. En su conjunto, la síntesis de estas teorías representan una parte importante de la psicología moderna.
 
 La mente y el comportamiento estan sujetos a la evolución por selección natural. Esto significa que los comportamientos cuya función es más apropiada para nuestra supervivencia y reproducción son más propensos a ser heredados a la siguiente generación. De esta manera se pueden explicar biológicamente las aptitudes y respuestas innatas, así como nuestra capacidad de aprendizaje.
+
+### El Campo de la Psicología
+La psicología busca explicar el comportamiento por medio de sus causas. Diferentes niveles de análisis pueden complementarse para dar una visión completa:
+- Biología
+	- **Neuronal** - La neurociencia del comportamiento estudia como los procesos de cerebro influyen en el comportamiento
+	- **Fisiológico** - La biopsicología estudia la influencia de hormonas y neurotransmisores en el cerebro
+	- **Genético** - La genética del comportamiento estudia comportamientos heredados
+	- **Evolutivo** - La psicología evolutiva estudia la función adaptativa del comportamiento
+- Entorno
+	- **Aprendizaje** - La psicología del comportamiento estudia nuestro comportamiento como resultado de nuestra experiencias pasadas
+	- **Cognitivo** - La psicología cognitiva estudia nuestros procesos mentales y como estos pueden afectar nuestro comportamiento
+	- **Social** - La psicología social estudia como nuestro comportamiento es afectado por influencia social percibida o implicada
+	- **Cultural** - La psicología cultural estudia como las costumbres y creencias culturales afectan nuestro comportamiento
+	- **Desarrollo** - La psicología del desarrollo estudia los cambios en el comportamiento producidos por el crecimiento y la edad
 ___
 

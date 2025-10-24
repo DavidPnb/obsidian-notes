@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Psychology.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Psychology.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ Psychology.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md"
               }
             }
           },
@@ -367,8 +367,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "803da2422c165b60",
+  "active": "31f493b8de9b14d0",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
+    "00-09 PKM/04 Sources/Books/{ Psychology.md",
     "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "90-99 Ciencias Sociales/94 Psicologia/94.00 Psicologia MOC.md",
     "00-09 PKM/04 Sources/Books/{ A History of Economics.md",
@@ -376,8 +378,6 @@
     "40-49 Ciencias/41 CS/Procesadores Avanzados.md",
     "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
     "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
-    "00-09 PKM/04 Sources/Books/{ The Selfish Gene.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md"
+    "00-09 PKM/04 Sources/Books/{ The Selfish Gene.md"
   ]
 }

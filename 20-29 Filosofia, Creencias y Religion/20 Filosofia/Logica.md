@@ -17,7 +17,7 @@ Una **aseveración** es una oración que puede ser verdadera o falsa. Un argumen
 La lógica proposicional se basa en la traducción del lenguaje natural a un lenguaje simbólico. Contiene cuatro operadores: **conjunción**, **disjunción**, **negación** e **implicación**. Cualquier aseveración que carezca de estos operadores se considera una aseveración simple. Las aseveraciones simples que transmiten la misma idea se denotan con la misma letra.
 
 ### Tablas de la Verdad
-Determina los valores de verdad que tiene una aseveración con respecto a los valores de verdad de otra. Aplica para aseveraciones que pueden construirse usando operadores booleanos
+Determina los valores de verdad que tiene una aseveración con respecto a los valores de verdad de otra. Aplica para aseveraciones que pueden construirse usando operadores booleanos.
 
 ### Conjunción
 Se dice que una aseveración compleja esta separada por conjunciones si la aseveración puede dividerse en varias aseveraciones simples, la aseveración compleja es verdadera si todas sus constituyentes son verdaderas y viceversa. En el lenguaje convencional, las conjunciones pueden implicar un significado de manera no deductiva. Este fenómeno es estudiado por la [[Pragmatica]].
