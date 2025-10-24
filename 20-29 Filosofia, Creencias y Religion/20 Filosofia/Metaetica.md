@@ -18,6 +18,13 @@ Wallace ofrece una crítica completa a las posturas subjetivistas. Define como s
 ### Thomas Nagel
 Nagel considera que la objetividad moral no requiere la existencia de hechos morales independientes, sino que se refiere a un método de razonamiento sistemático. Según Él, la postura subjetivista busca explicar los juicios morales a través de las circunstancias individuales de la persona, usualmente por medio de racionalizaciones psicológicas. Nagel afirma que el aspecto normativo de la moral no puede reducirse la descripción de nuestros procesos psicológicos. Esto es porque las personas tienen la capacidad de reflexionar sobre estos procesos psicológicos, de modo que estos factores no son los únicos que influyen en nuestro juicio.
 
+### Phillip Quin
+Phillip Quin defiende una versión de la teoría del mandamiento divino. La voluntad antecedente de Dios es la disposición que este tiene respecto a una acción en un momento especifico. Una acción moral esta comandada, permitida o prohibida en base a su relación con la voluntad antecedente de Dios. Quin responde de esta manera a las posibles objeciones a la teoría:
+- Epistemología - La teoría implica que el conocimiento moral depende únicamente del conocimiento religioso. Quin responde que se puede conocer la voluntad de Dios a través del conocimiento moral y viceversa
+- Utilidad - Jeremy Bentham señala que si la voluntad de Dios se conoce a través del conocimiento moral, entonces la teoria del mandamiento divino no permite llegar a conclusiones sobre la moralidad. Quin admite que la teoría del mandamiento divino es solo una base metafísica de la moral
+- Divisividad - La teoría del mandamiento divino trae consigo los desacuerdos del conocimiento religioso a la moral. Quin argumenta que se puede llegar a los mismos principios morales a través de una ética secular
+- Necesidad - Si Dios es la base metafísica de la moral, entonces no existe acción que no pueda ser moralmente aceptada de ser comandada por Dios. Quin señala que la naturaleza de Dios como un ser justo restringe la naturaleza de las acciones que puede comandar, permitir o prohibir
+
 ## Teorías Éticas
 Son sistemas que intentan dar respuestas consistentes a las preguntas morales. Estan basados en asunciones que deben ser aceptadas para que se sostenga el resto de la teoría.
 1. [[Teoria del Mandamiento Divino]]
