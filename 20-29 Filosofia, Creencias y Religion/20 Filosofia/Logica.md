@@ -25,6 +25,9 @@ Se dice que una aseveración compleja esta separada por conjunciones si la aseve
 ### Negación
 Una aseveración es la negación de otra si y solo si esta es verdadera cuando su aseveración complementaria es falsa. Se expresa cuando un negador niega la clausula completa explicita o implicitamente.
 
+### Disjunción
+Una aseveración es una disjunción si es verdadera siempre que sus constituyentes sean verdaderos.
+
 ## Lógica Moderna
 Divide la aseveración en sujeto y predicado e implementa el uso de cuantificadores.
 
