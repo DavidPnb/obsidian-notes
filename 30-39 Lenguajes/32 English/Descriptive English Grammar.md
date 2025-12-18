@@ -8,10 +8,10 @@ up:: [[30.00 Linguistica MOC]]
 A lexeme is a word free of grammatical accidents, and serves as a root to derive other words. 
 
 ### Categories
-- **Noun**
-- **Verb**
-- **Adjective**
-- **Adverb**
+- **Noun** - Used to represent an entity
+- **Verb** - Used to represent an action or state
+- **Adjective** - Modifies a noun
+- **Adverb** - Modifies a verb, adjective or clause
 - **Determinative**
 - **Prepposition**
 - **Coordinator**
