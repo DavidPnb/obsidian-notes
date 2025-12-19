@@ -10,12 +10,12 @@ A lexeme is a word free of grammatical accidents, and serves as a root to derive
 ### Categories
 - **Noun** - Used to represent an entity
 - **Verb** - Used to represent an action or state
-- **Adjective** - Modifies a noun
+- **Adjective** - Modifies or describes a noun
 - **Adverb** - Modifies a verb, adjective or clause
-- **Determinative**
-- **Prepposition**
-- **Coordinator**
-- **Subordinator**
+- **Determinative** - Restricts the meaning of a noun
+- **Prepposition** - Describes a relation between two or more words
+- **Coordinator** - Join two or more clauses, or words
+- **Subordinator** - 
 - **Interjection**
 
 A single word form can have different lexemes corresponding to different categories.
