@@ -25,6 +25,9 @@ Phillip Quin defiende una versión de la teoría del mandamiento divino. La volu
 - Divisividad - La teoría del mandamiento divino trae consigo los desacuerdos del conocimiento religioso a la moral. Quin argumenta que se puede llegar a los mismos principios morales a través de una ética secular
 - Necesidad - Si Dios es la base metafísica de la moral, entonces no existe acción que no pueda ser moralmente aceptada de ser comandada por Dios. Quin señala que la naturaleza de Dios como un ser justo restringe la naturaleza de las acciones que puede comandar, permitir o prohibir
 
+### Elizabeth Harman
+Harman argumenta a favor del uso de casos específicos para soportar conclusiones éticas. Un argumento de este estilo no dependería de la calidad intuitiva de los casos, sino de su uso como premisas aceptadas para llegar a una conclusión. De esta forma, el desacuerdo acerca de estos casos, y la incapacidad de ciertas audiencias de interesarse por estos casos no son motivo suficiente para desestimar su utilidad lógica.
+
 ## Teorías Éticas
 Son sistemas que intentan dar respuestas consistentes a las preguntas morales. Estan basados en asunciones que deben ser aceptadas para que se sostenga el resto de la teoría.
 1. [[Teoria del Mandamiento Divino]]
