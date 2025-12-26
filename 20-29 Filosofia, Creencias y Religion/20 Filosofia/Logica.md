@@ -11,7 +11,7 @@ Tambien estudia los tipos de argumentos y falacias o paralogismos.
 
 ## Lógica Proposicional
 ### Terminología
-Una **aseveración** es una oración que puede ser verdadera o falsa. Un argumento esta formado por varias aseveraciones llamadas **premisas** y una aseveración llamada **conclusión**. Un argumento es **válido** si la conclusión es verdadera siempre que las premisas sean todas verdaderas; un argumento convincente es válido y sus premisas son verdaderas. A partir de un conjunto de premisas se pueden deducir validamente una cantidad infinita de conclusiones. En la argumentación informal, un argumento puede tener premisas implicitas que se infieren a partir del contexto de la comunicación.
+Una **aseveración** es una oración que puede ser verdadera o falsa. Un argumento esta formado por varias aseveraciones llamadas **premisas** y una aseveración llamada **conclusión**. Un argumento es **válido** si la conclusión es verdadera siempre que las premisas sean todas verdaderas; un argumento convincente es válido y sus premisas son verdaderas. A partir de un conjunto de premisas se pueden deducir validamente una cantidad infinita de conclusiones. En la argumentación informal, un argumento puede tener premisas implicitas que se infieren a partir del contexto de la comunicación. Una **tautología** es una aseveración que siempre es verdadera, una **contradicción** es una aseveración que siempre es falsa. Se dice que un argumento es **consistente** si sus premisas pueden ser verdaderas al mismo tiempo.
 
 ### Formas Lógicas
 La lógica proposicional se basa en la traducción del lenguaje natural a un lenguaje simbólico. Contiene cuatro operadores: **conjunción**, **disjunción**, **negación** e **implicación**. Cualquier aseveración que carezca de estos operadores se considera una aseveración simple. Las aseveraciones simples que transmiten la misma idea se denotan con la misma letra.
@@ -27,6 +27,11 @@ Una aseveración es la negación de otra si y solo si esta es verdadera cuando s
 
 ### Disjunción
 Una aseveración es una disjunción si es verdadera siempre que sus constituyentes sean verdaderos.
+
+### Condicionales
+Una aseveración es un condicional si es verdadera cuando la verdad de un elemento **antecedente** garantiza la verdad de un elemento **consecuente**. Se dice que el antecedente es **condición suficiente** del consecuente y el consecuente es **condición necesaria** del antecedente.
+
+### 
 
 ## Lógica Moderna
 Divide la aseveración en sujeto y predicado e implementa el uso de cuantificadores.
