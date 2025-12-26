@@ -13,7 +13,7 @@ Tambien estudia los tipos de argumentos y falacias o paralogismos.
 [[Logica Proposicional]]
 
 ## Lógica Moderna
-Divide la aseveración en sujeto y predicado e implementa el uso de cuantificadores.
+[[Logica de Predicados]]
 
 ## Lógica Informal
 - [[Induccion]]
