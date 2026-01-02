@@ -25,5 +25,8 @@ Este periodo se da desde principios del siglo XV hasta el comienzo de la revoluc
 
 ## Fisiocratas
 Este fué un movimiento económico y social que buscaba reformar el sistema agricultural de la Francia del siglo XVIII, y preservarlo de la influencia mercantilista. Sostenía que la economía y la política deben estar basadas en la ley natural, y la intervención estatal debe ser mínima en asuntos económicos y sociales. La agricultura es vista como la fuente de toda actividad productiva, y el comercio como una forma antinatural de hacer dinero.
+
+## Adam Smith
+Adam Smith es el economista más importante de la historia y la figura que concebió la justificación intelectual de la Revolución Industrial. La idea central en la filosofía de Adam Smith es que la persecución del interes propio es la fuerza que mueve el mercado a producir un bien común. El precio de un producto depende de la cantidad de trabajo que costo producirlo, el salario de un trabajador es lo mínimo que le permita subsistir y trabajar, la compensación del capitalista es la plusvalía resultante. Smith fué muy crítico del sistema mercantilista, advocando por un sistema de libre mercado que permita la especialización y la eficiencia competitiva.
 ___
 

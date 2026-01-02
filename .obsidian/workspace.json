@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Procesadores Avanzados.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Economics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Procesadores Avanzados.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Economics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Procesadores Avanzados.md",
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Economics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Procesadores Avanzados.md"
+                "file": "00-09 PKM/04 Sources/Books/{ A History of Economics.md"
               }
             }
           },
@@ -369,6 +369,7 @@
   },
   "active": "a38af5e15cde81ca",
   "lastOpenFiles": [
+    "40-49 Ciencias/41 CS/Procesadores Avanzados.md",
     "40-49 Ciencias/41 CS/Procesadores.md",
     "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
     "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
@@ -377,7 +378,6 @@
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica.md",
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Filosofia Helenistica.md",
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Historia de la Filosofia.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md",
-    "100-109 Historia y Relacionados/100 Historia/100.00 Historia MOC.md"
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Presocratica.md"
   ]
 }
