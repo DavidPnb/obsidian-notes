@@ -28,6 +28,9 @@ Phillip Quin defiende una versión de la teoría del mandamiento divino. La volu
 ### Elizabeth Harman
 Harman argumenta a favor del uso de casos específicos para soportar conclusiones éticas. Un argumento de este estilo no dependería de la calidad intuitiva de los casos, sino de su uso como premisas aceptadas para llegar a una conclusión. De esta forma, el desacuerdo acerca de estos casos, y la incapacidad de ciertas audiencias de interesarse por estos casos no son motivo suficiente para desestimar su utilidad lógica.
 
+### Sharon Street
+Sharon Street arguumento que el conocimiento de que nuestras creencias evaluativas tienen origen en la evolución por selección natural no debe debilitar nuestra postura de que nuestras creencias evaluativas son confiables. Para que una postura 
+
 ## Teorías Éticas
 Son sistemas que intentan dar respuestas consistentes a las preguntas morales. Estan basados en asunciones que deben ser aceptadas para que se sostenga el resto de la teoría.
 1. [[Teoria del Mandamiento Divino]]
