@@ -31,6 +31,9 @@ Harman argumenta a favor del uso de casos específicos para soportar conclusione
 ### Sharon Street
 Sharon Street argumenta que el conocimiento de que nuestras creencias evaluativas tienen origen en la evolución por selección natural no debe debilitar nuestra postura de que nuestras creencias evaluativas son confiables. Para que una postura se vea debilitada por su genealogía, se debe determinar que este origen causal es justificación epistemológica suficiente para mantener esta creencia. Si consideramos a la moral objetiva, entonces no es justificable pensar que la evolución puede generar   creencias evaluativas verdaderas. Por lo tanto, el realismo moral debe implicar escepticismo global respecto a las creencias evaluativas. Street concluye que la implausibilidad de esta conclusión invita a rechazar el realismo moral, ya que esta es la postura menos sustentada.
 
+### Sarah Mcgrath
+Sarah Mcgrath sostiene que los problemas relacionados con la deferencia moral; la capacidad de aceptar juicios morales de personas que consideramos autoridades morales, son compatibles con el realismo moral. El valor moral de una acción no solo depende de la acción misma, también dependen de las intenciones del agente moral en cuestión. Además, no tenemos manera de determinar la validez de una postura moral sin ejercer un juicio moral, por esto tendemos a juzgar como correctas las posturas que concuerdan con la nuestra. Por esto la capacidad de practicar deferencia moral no es necesaria para la existencia de una moral objetiva.
+
 ## Teorías Éticas
 Son sistemas que intentan dar respuestas consistentes a las preguntas morales. Estan basados en asunciones que deben ser aceptadas para que se sostenga el resto de la teoría.
 1. [[Teoria del Mandamiento Divino]]
