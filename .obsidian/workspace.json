@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ A History of Economics.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ A History of Economics.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ A History of Economics.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 PKM/04 Sources/Books/{ A History of Economics.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md"
               }
             }
           },
@@ -368,15 +368,15 @@
   },
   "active": "615b5bb06b455fba",
   "lastOpenFiles": [
+    "00-09 PKM/04 Sources/Books/{ A History of Economics.md",
+    "30-39 Lenguajes/32 English/Descriptive English Grammar.md",
     "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Filosofia Helenistica.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica de Predicados.md",
-    "00-09 PKM/04 Sources/Books/{ A History of Economics.md",
     "40-49 Ciencias/41 CS/Procesadores Avanzados.md",
     "40-49 Ciencias/41 CS/Procesadores.md",
     "40-49 Ciencias/41 CS/Arquitectura de Computadoras.md",
-    "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
-    "00-09 PKM/04 Sources/Books/{ Composing Programs.md"
+    "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md"
   ]
 }

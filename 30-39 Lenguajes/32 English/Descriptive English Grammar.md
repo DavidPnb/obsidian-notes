@@ -38,6 +38,9 @@ The set of inflections a verb can take is called **paradigm**. A verb can take t
 
 **Regular verbs** have inflections with shapes that conform to grammatical rules; the preterite and past participle have the same shape. Irregular verbs may have different past shapes or share the same shape for many different inflections .
 
+### Auxiliary Verbs
+Auxiliary verbs are verbs that acompany other verbs to act as grammatical markers. Auxiliary verbs in English show **verb-subject inversion** in interrogative and negative clauses. **Modal auxiliary verbs** don't have secundary forms and don't agree with subject in 3rd person singular. Some verbs have both lexical and auxiliary forms.
+
 ## Noun Phrases
 Nouns act as the heads of noun phrases. Nouns refer to physical objects, and entities that grammatically behave like them. Determinatives alter the meaning of a noun and make it more specific, while adjectives modify their meaning. Personal pronouns, interrogative pronouns, and relative pronouns can also function as nouns in a noun phrase.
 ___
