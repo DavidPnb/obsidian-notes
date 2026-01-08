@@ -39,5 +39,20 @@ La psicología busca explicar el comportamiento por medio de sus causas. Diferen
 	- **Social** - La psicología social estudia como nuestro comportamiento es afectado por influencia social percibida o implicada
 	- **Cultural** - La psicología cultural estudia como las costumbres y creencias culturales afectan nuestro comportamiento
 	- **Desarrollo** - La psicología del desarrollo estudia los cambios en el comportamiento producidos por el crecimiento y la edad
-___
 
+## Métodos de la Psicología
+La investigación científica depende del uso de observaciones objetivas en condiciones controladas, a partir de las cuales se construyen modelos conceptuales que predicen eventos futuros. Verificar la veracidad de las predicciones permite determinar la validez de una teoría. El escepticismo es parte fundamental del método científico, ya que permite la verificación desapegada de las teorías. Una teoría se considera buena si es capaz de resistir intentos genuinos por refutarla.
+
+### Métodos de Investigación
+La investigación psicológica puede clasificarse de acuerdo a tres métricas independientes: diseño, condiciones y recolección de datos.
+
+Un **experimento** se usa para determinar el efecto que una o más variables independientes tienen sobre una variable dependiente, asumiendo que las demás variables se mantienen constantes. Un experimento puede realizarse modificando la variable independiente para un grupo o estudiando un grupo para cada valor de la variable independiente. Un **estudio correlacional** determina la correlación entre dos o más variables sin determinar si existe una causalidad. Un **estudio descriptivo** presenta datos correspondientes a una población, que no se relacionan con alguna variable.
+
+Un **laboratorio** se refiere a un entorno controlado por el investigador. Una **investigación de campo** es una que se hace fuera de un laboratorio. Un laboratorio puede resultar en un comportamiento artificial por parte de los sujetos
+
+Los **informes personales** dan a conocer la experiencia subjetiva, las opiniones y las percepciones de un individuo. Las **observaciones** son factores externos a un sujeto que son medidos por un investigador.
+
+## Métodos Estadísticos
+La **estadística descriptiva** se encarga de describir y resumir conjuntos de datos experimentales. La **media** es el valor promedio de un conjunto de datos. La **mediana** es el valor intermedio de un conjunto de datos, en caso de que estos se ordenen de
+acuerdo a su valor. La **desviación estandar** es una medida de la distancia que hay entre los valores medidos y el valor medio. La **estadística inferencial** determina si un resultado estadístico puede ser considerado significativo. El **coeficiente de correlación** es un número entre -1 y 1 que mide el grado y el sentido de la correlación entre dos variables. El valor *p* es una medida de la probabilidad de que se den los mismos resultados si las variables no estuvieran relacionadas. Un resultado se considera significativo si *p* es menor que 0.5. *p* es inversamente proporcional a la variabilidad y es directamente proporcional a la magnitud del resultado y el número de muestras.
+ 
