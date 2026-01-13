@@ -15,6 +15,8 @@ Tambien estudia los tipos de argumentos y falacias o paralogismos.
 ## Lógica Moderna
 [[Logica de Predicados]]
 
+[[Logica Relacional]]
+
 ## Lógica Informal
 - [[Induccion]]
 
