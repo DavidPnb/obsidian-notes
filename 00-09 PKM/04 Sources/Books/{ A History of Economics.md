@@ -34,5 +34,10 @@ Jean Baptiste Say, Thomas Robert Malthus y David Ricardo son figuras economicas 
 
 ## Crítica a la Economía Clásica
 Despues del establecimiento de la economía política como profesión formal, llega un periodo de ralentización en el desarrollo económico. Durante este periodo se produce fuera de Gran Bretaña un conjunto de críticas hacia el sistema clásico. Friedrich List fué un economista alemán que vivió en Estados Unidos y fué el primero en afirmar que el libre mercado solo beneficia a paises ya desarrollados, y el uso de aranceles es necesario para proteger a las nuevas industrias. En Francia, la crítica se produce hacia las bases sociales y morales del sistema capitalista; reconociendo que los ricos y los pobres pertenecen a dos clases sociales diferentes, y que la pobreza es un producto directo de la explotación capitalista. El estadounidense George Carey también observa que las predicciones de la teoría clásica no se cumplen en los Estados Unidos debido a la abundancia de recursos y oportunidades laborales despues de la Guerra Civil.
+
+## Economía Ortodoxa
+La teoría de utilidad marginal de Alfred Marshall permite explicar de manera más satisfactoria los precios, salarios y ganancias. La utilidad marginal es la utilidad proveniente del último producto en el mercado. De este modo se puede explicar el valor de mercado de los productos escasos. Además, al aumentar un precio aumenta la utilidad marginal de la oferta y baja la utilidad marginal de la demanda. El precio de mercado resulta ser la intersección de la oferta y demanda. Los salarios dependen de la utilidad marginal del trabajador. Un monopolio se produce cuando un único agente tiene la capacidad de influir en los precios de mercado.
+
+
 ___
 

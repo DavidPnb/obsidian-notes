@@ -41,6 +41,9 @@ The set of inflections a verb can take is called **paradigm**. A verb can take t
 ### Auxiliary Verbs
 Auxiliary verbs are verbs that acompany other verbs to act as grammatical markers. Auxiliary verbs in English show **verb-subject inversion** in interrogative and negative clauses. **Modal auxiliary verbs** don't have secundary forms and don't agree with subject in 3rd person singular. Some verbs have both lexical and auxiliary forms.
 
+### Perfective Interpretation
+A situation described by a clause is said to be **perfective** if the situation is semantically interpreted as complete. 
+
 ## Noun Phrases
 Nouns act as the heads of noun phrases. Nouns refer to physical objects, and entities that grammatically behave like them. Determinatives alter the meaning of a noun and make it more specific, while adjectives modify their meaning. Personal pronouns, interrogative pronouns, and relative pronouns can also function as nouns in a noun phrase.
 ___
