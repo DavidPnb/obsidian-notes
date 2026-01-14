@@ -44,6 +44,11 @@ Auxiliary verbs are verbs that acompany other verbs to act as grammatical marker
 ### Perfective Interpretation
 A situation described by a clause is said to be **perfective** if the situation is semantically interpreted as complete. 
 
+### Primary Form
+The **present tense** is used to denote present at the time of utterance; in this case, the perfective interpretation only applies if the situation is completed in the timespan of the utterance. The present tense can also be used to express the future at a specific time, this is called a **futurate**; it also expresses future time in certain subordinate clauses. The present tense can express past time in the context of a narrative.
+
+The **preterite** is a grammatical inflection that expresses the past at the time of utterance; it is imperfective if it describes regular action in the past. The preterite represents future time when is used in conjunction with some modal verbs. If a main clause has a preterite, then its subordinate clause can also have a preterite.
+
 ## Noun Phrases
 Nouns act as the heads of noun phrases. Nouns refer to physical objects, and entities that grammatically behave like them. Determinatives alter the meaning of a noun and make it more specific, while adjectives modify their meaning. Personal pronouns, interrogative pronouns, and relative pronouns can also function as nouns in a noun phrase.
 ___
