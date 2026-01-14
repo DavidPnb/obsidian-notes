@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30-39 Lenguajes/32 English/Descriptive English Grammar.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -229,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-39 Lenguajes/32 English/Descriptive English Grammar.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-39 Lenguajes/32 English/Descriptive English Grammar.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md"
               }
             }
           },
@@ -341,10 +340,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f6448b318b382ab4",
+  "active": "615b5bb06b455fba",
   "lastOpenFiles": [
-    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "30-39 Lenguajes/32 English/Descriptive English Grammar.md",
+    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md",
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Filosofia Helenistica.md",
     "90-99 Ciencias Sociales/92 Economia/92.00 Economia MOC.md",
     "00-09 PKM/04 Sources/Books/{ A History of Economics.md",

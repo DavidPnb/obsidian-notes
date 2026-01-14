@@ -49,6 +49,11 @@ The **present tense** is used to denote present at the time of utterance; in thi
 
 The **preterite** is a grammatical inflection that expresses the past at the time of utterance; it is imperfective if it describes regular action in the past. The preterite represents future time when is used in conjunction with some modal verbs. If a main clause has a preterite, then its subordinate clause can also have a preterite.
 
+### Perfect Tense
+The **perfect tense** is a special form that expresses past time and is usually perfective. It is formed used the auxiliary *have* and a past participle complement, where *have* can be inflected for primary tense; in such cases, the verb has a **compound tense**. The **present tense** is used to express past time that is relevant to the present, therefore it can have present time adjuncts. The **preterite perfect** is used to refer to a situation that occurs before a past action. It can also refer to past time with a modal verb, or past time within a subordinate clause. The **perfect tense** can be used to express past time in clauses without primary tense, and can be used to express continuity in verbs that do not have a progressive aspect.
+
+
+
 ## Noun Phrases
 Nouns act as the heads of noun phrases. Nouns refer to physical objects, and entities that grammatically behave like them. Determinatives alter the meaning of a noun and make it more specific, while adjectives modify their meaning. Personal pronouns, interrogative pronouns, and relative pronouns can also function as nouns in a noun phrase.
 ___
