@@ -52,7 +52,24 @@ Un **laboratorio** se refiere a un entorno controlado por el investigador. Una *
 
 Los **informes personales** dan a conocer la experiencia subjetiva, las opiniones y las percepciones de un individuo. Las **observaciones** son factores externos a un sujeto que son medidos por un investigador.
 
-## Métodos Estadísticos
+### Métodos Estadísticos
 La **estadística descriptiva** se encarga de describir y resumir conjuntos de datos experimentales. La **media** es el valor promedio de un conjunto de datos. La **mediana** es el valor intermedio de un conjunto de datos, en caso de que estos se ordenen de
 acuerdo a su valor. La **desviación estandar** es una medida de la distancia que hay entre los valores medidos y el valor medio. La **estadística inferencial** determina si un resultado estadístico puede ser considerado significativo. El **coeficiente de correlación** es un número entre -1 y 1 que mide el grado y el sentido de la correlación entre dos variables. El valor *p* es una medida de la probabilidad de que se den los mismos resultados si las variables no estuvieran relacionadas. Un resultado se considera significativo si *p* es menor que 0.5. *p* es inversamente proporcional a la variabilidad y es directamente proporcional a la magnitud del resultado y el número de muestras.
+
+### Sesgos
+Los **sesgos** son variaciones no aleatorias en una medida que no estan relacionadas con las variables de la hipótesis. Los sesgos deben ser evitados ya que un error no aleatorio no puede ser corregido por métodos estadísticos. 
+
+Una **muestra sesgada** puede ser una muestra que no representa a la población que se quiere estudiar, o una diferencia entre los grupos de muestra que no este relacionada con la hipótesis. 
+
+Un **error de medición** es de precisión si las mediciones varían bajo las mismas condiciones; es de validez si la medición no es adecuada para comprobar la hipótesis. Para determinar la validez de una medición, se deben definir y observar estrictamente las variables estipuladas; y se debe establecer un criterio para evaluar los resultados. 
+
+El **efecto de expectativa** se da cuando el conocimiento de las condiciones del experimento hace que el observador o el sujeto reaccionen de manera diferente. Para mitigarlo, se realizan experimentos donde el observador y el sujeto no poseen esta clase de información.
+
+La **replicabilidad** de un estudio mide la capacidad de replicar sus resultados si se realiza un estudio bajo las mismas condiciones. Esta es una manera de demostrar sus resultados ante los ojos de la comunidad científica.
+
+### Ética
+Los estudios en humanos y otros animales debe cumplir con criterios éticos antes de ser publicados academicamente. El consentimiento, la privacidad y la prevención de daños son las preocupaciones fundamentales en la experimentación con humanos. En otros animales, se tiene en cuenta la minimización del sufrimiento y la contribución que el estudio puede traer al bienestar de otros animales.
+
+## Principios Genéticos y Evolutivos del Comportamiento
+[[Genetica del Comportamiento]]
  

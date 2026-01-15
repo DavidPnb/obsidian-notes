@@ -52,6 +52,9 @@ The **preterite** is a grammatical inflection that expresses the past at the tim
 ### Perfect Tense
 The **perfect tense** is a special form that expresses past time and is usually perfective. It is formed used the auxiliary *have* and a past participle complement, where *have* can be inflected for primary tense; in such cases, the verb has a **compound tense**. The **present tense** is used to express past time that is relevant to the present, therefore it can have present time adjuncts. The **preterite perfect** is used to refer to a situation that occurs before a past action. It can also refer to past time with a modal verb, or past time within a subordinate clause. The **perfect tense** can be used to express past time in clauses without primary tense, and can be used to express continuity in verbs that do not have a progressive aspect.
 
+### Progessive Aspect
+An **aspect** indicates the temporal properties of a verb, in contrast with location in time. The **progressive aspect** is formed using the verb *be* and the gerund participle. It indicates continous action; that means the action is dynamic and has duration. In its main use, the progressive aspect has imperfective interpretation. The progressive aspect can be used as a futurate with perfective interpretation.
+
 
 
 ## Noun Phrases
