@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/Herencia.md",
+                "file": "40-49 Ciencias/44 Biologia/Genetica del Comportamiento.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/Herencia.md",
+                "file": "40-49 Ciencias/44 Biologia/Genetica del Comportamiento.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/Herencia.md"
+                "file": "40-49 Ciencias/44 Biologia/Genetica del Comportamiento.md"
               }
             }
           },
@@ -341,11 +341,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "38e002a4d08227af",
+  "active": "dc90f1d6e113f1dd",
   "lastOpenFiles": [
+    "40-49 Ciencias/44 Biologia/Herencia.md",
     "40-49 Ciencias/44 Biologia/Genetica.md",
     "40-49 Ciencias/44 Biologia/Genetica del Comportamiento.md",
-    "40-49 Ciencias/44 Biologia/Herencia.md",
     "40-49 Ciencias/44 Biologia/Transcripcion y Translacion del ADN.md",
     "40-49 Ciencias/44 Biologia/Meiosis.md",
     "40-49 Ciencias/44 Biologia/ADN.md",
