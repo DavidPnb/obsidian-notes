@@ -26,5 +26,8 @@ finished::
 [[Platon]]
 
 [[Aristoteles]]
+
+### Filosofía Helenistica
+[[Filosofia Helenistica]]
 ___
 
