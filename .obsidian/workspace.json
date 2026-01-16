@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Politica de Aristoteles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/Genetica del Comportamiento.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Politica de Aristoteles.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/Genetica del Comportamiento.md",
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Politica de Aristoteles.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/Genetica del Comportamiento.md"
+                "file": "20-29 Filosofia, Creencias y Religion/20 Filosofia/Politica de Aristoteles.md"
               }
             }
           },
@@ -341,17 +341,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dc90f1d6e113f1dd",
+  "active": "31f493b8de9b14d0",
   "lastOpenFiles": [
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Aristoteles.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Politica.md",
+    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Metaetica.md",
+    "40-49 Ciencias/44 Biologia/Genetica del Comportamiento.md",
     "40-49 Ciencias/44 Biologia/Herencia.md",
     "40-49 Ciencias/44 Biologia/Genetica.md",
-    "40-49 Ciencias/44 Biologia/Genetica del Comportamiento.md",
     "40-49 Ciencias/44 Biologia/Transcripcion y Translacion del ADN.md",
     "40-49 Ciencias/44 Biologia/Meiosis.md",
     "40-49 Ciencias/44 Biologia/ADN.md",
-    "00-09 PKM/04 Sources/Books/{ Psychology.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica Relacional.md",
-    "30-39 Lenguajes/32 English/Descriptive English Grammar.md",
-    "00-09 PKM/04 Sources/Books/{ Teoria de Leyes Puras.md"
+    "00-09 PKM/04 Sources/Books/{ Psychology.md"
   ]
 }
