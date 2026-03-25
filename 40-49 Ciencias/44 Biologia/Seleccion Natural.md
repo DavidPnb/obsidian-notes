@@ -4,13 +4,10 @@ created: 2022-09-16 20:50
 tags:: #biology 
 up:: [[Herencia]]
 # Seleccion Natural
-Es la forma en que las especies se adaptan a su entorno a través de lo que conocemos como la supervivencia del más apto.
-
 ## Principíos
-1. Los organismos de una especie pueden tener características ligeramente diferentes
-2. Estas características pueden ser heredtarias
-3. Las presiones del ambiente pueden hacer que los miembros de una especie tengan que luchar por la supervivencia
-4. Ciertos rasgos o **fenotipos** pueden aumentar las posibilidades de un organismo para reproducirse, y por lo tanto transmitir esos rasgos a su descendencia
+No todos los miembros de una generación son capaces de sobrevivir lo suficiente para reproducirse. Entre los miembros de una misma generación hay variación genética que puede ser heredable. Si esta variación aumenta la capacidad inmediata de sobrevivir y reproducirse, entonces es más probable que esta se herede a la siguiente generación.
+
+Los mecanismos de variación son provocados por cambios en los genes, ya sea por los mecanismos de reproducción o por [[Mutaciones]] heredables. La tasa de evolución por selección esta regulada por los presiones ambientales.
 
 ## Modos de Selección
 ### Selección Direccional
