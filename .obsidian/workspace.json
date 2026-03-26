@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/Seleccion Natural.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Ley Pura.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/Seleccion Natural.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Ley Pura.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/Seleccion Natural.md",
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Ley Pura.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/44 Biologia/Seleccion Natural.md"
+                "file": "00-09 PKM/04 Sources/Books/{ Teoria de Ley Pura.md"
               }
             }
           },
@@ -304,6 +304,7 @@
   },
   "active": "dc90f1d6e113f1dd",
   "lastOpenFiles": [
+    "40-49 Ciencias/44 Biologia/Seleccion Natural.md",
     "40-49 Ciencias/44 Biologia/Genetica.md",
     "00-09 PKM/04 Sources/Books/{ Psychology.md",
     "40-49 Ciencias/44 Biologia/Genetica del Comportamiento.md",
@@ -312,7 +313,6 @@
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Logica Relacional.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Filosofia Politica.md",
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Filosofia Helenistica.md",
-    "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md",
-    "20-29 Filosofia, Creencias y Religion/20 Filosofia/Politica de Aristoteles.md"
+    "00-09 PKM/04 Sources/Books/{ A History of Western Philosophy.md"
   ]
 }

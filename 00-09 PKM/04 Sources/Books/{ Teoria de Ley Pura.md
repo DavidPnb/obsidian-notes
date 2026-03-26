@@ -2,7 +2,7 @@
 alias: 
 created: 2025-04-04 17:23
 ---
-# Teoria de Leyes Puras
+# Teoria de Ley Pura
 tags:: #source/book📚 
 
 writer:: [[Hans Kelsen]]
@@ -33,5 +33,7 @@ La falta de diferenciación entre la ley y la moral es un obstáculo para el est
 
 ## Ley y Ciencia
 La teoría legal tiene un aspecto estático y un aspecto dinámico. El primero estudia el comportamiento humano en relación a normas válidas; el segundo estudia el proceso de creación de normas, que a su vez esta regulado por las leyes vigentes. En las ciencias naturales, la causalidad describe la relación entre dos eventos que ocurren juntos. En la ciencia legal, la imputación describe la relación normativa entre un comportamiento y una sanción impuesta por una norma legal válida. A diferencia de la cadena de imputación, la cadena causal puede extenderse infinitamente. Una persona es considerada responsable si esta puede ser objetivo de una imputación. Las normas generales no pueden tener carácter categórico, ya que el comportamiento asociado siempre esta ligado a ciertas condiciones que lo hacen posible.
+
+El delito es todo comportamiento al que el orden legal le aplica una sanción. Debido a que los ordenamientos de la ley internacional no aplican sanciones, no es apropiado considerar a la ley internacional como un orden legal. El delito no es considerado una contradicción de la norma, sino como una condición de esta. Una obligación legal es el contrario de un comportamiento al que se le imputa una sanción, y esta sanción se imputa solo si la obligación puede ser cumplida
 ___
 
