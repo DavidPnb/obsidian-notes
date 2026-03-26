@@ -11,4 +11,7 @@ El Cinismo es una doctrina ascética popularizada por Diogenes, que rechaza el v
 
 ## Epicureanismo
 Epicuro vivió en Atenas en el periodo posterior a la muerte de Alejandro Magno. La doctrina epicurianista determina que el placer es necesario para vivir una buena vida. Este placer proviene de la prudencia y de evitar el dolor. Epicuro reconoce el placer mental como más estable que el placer físico. La física de Epicuro es similar a la de Demócrito, pero Epicuro rechaza el determinismo. Epicuro mantiene que los dioses no intervienen en la vida de los mortales, y que no hay vida despues de la muerte. El epicureanismo es una doctrina dogmatica que se mantuvo constante a lo largo de la historia.
+
+## Estoicismo
+[[Estoicismo]]
 ___
