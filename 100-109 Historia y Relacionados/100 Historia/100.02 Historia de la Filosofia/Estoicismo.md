@@ -11,5 +11,6 @@ Posteriormente, los estoicos romanos se enfocaron en como alcanzar la **tranquil
 ## Estoicismo Romano
 Los cuatro representantes mas importantes del estoicismo romano fueron [[Marco Aurelio]], [[Seneca]], Epicteto y Musonio Rufo. Entre ellos, Seneca era el mejor escritor, Musonio era más directo y práctico, Epicteto era más analítico y Marco Aurelio tenía los escritos más personales.
 
-
+## Crítica
+El estoicismo posee un conjunto de contradicciones que estan arraigadas dentro de la propia filosofía. El estoicismo cree en el determinismo causal y a la vez profesa el libre  albedrío. Además, el estoicismo el bien y la virtud estan determinados por el caracter de una persona, y por lo tanto no admite el concepto de benevolencia.
 ___
