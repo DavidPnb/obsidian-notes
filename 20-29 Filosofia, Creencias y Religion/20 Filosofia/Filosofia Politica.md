@@ -18,4 +18,7 @@ Rousseau argumenta que el contrato social necesario para la creación de un Esta
 
 ### A. John Simmons
 Simmons argumenta que una justificación basada en los derechos es la mejor justificación para el Estado. Esta es una justificación moral en la que los ciudadanos consienten con la autoridad del Estado y sus derechos son defendidos de mejor manera que en un estado de anarquía. Los derechos morales o derechos humanos no son creados por el orden social y son normas que nos permiten estados o comportamientos que reafirman nuestro valor moral como individuos autonomos. La postura de John Locke es el contrato social que más se asemeja a esta postura.
+
+### Charles Mills
+Mills afirma que el orden político del mundo moderno esta basado en el uso de la supremacía blanca como un fundamento del pensamiento político. Mills representa este racismo sistemático como un contrato racial que crea una concepción de una raza blanca que fundamenta el contrato y una raza no blanca e inferior que es el objeto de esta. El contrato caracteriza a los no blancos como incivilizados y define al Estado y la sociedad como una invención de los blancos y un producto de la colonización. El contrato racial exige confirmidad y una distorsión de la realidad epistémica a sus ciudadanos, a cambio estos reciben un mejor estatus economico producto de la explotación de los no blancos
 ___
