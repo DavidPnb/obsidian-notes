@@ -19,6 +19,7 @@ finished::
 [[Arquitectura de Computadoras]]
 
 ## Software
+[[Algoritmos]]
 
 ## Conecciones
 
