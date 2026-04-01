@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "df5373e382ff5b71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-09 PKM/04 Sources/Books/{ The Selfish Gene.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f321d1c957a04858",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Algoritmos.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Selfish Gene.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"00-09 PKM/01 Calendar\"",
@@ -216,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Algoritmos.md",
+                "file": "00-09 PKM/04 Sources/Books/{ The Selfish Gene.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-49 Ciencias/41 CS/Algoritmos.md"
+                "file": "00-09 PKM/04 Sources/Books/{ The Selfish Gene.md"
               }
             }
           },
@@ -328,8 +341,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dc90f1d6e113f1dd",
+  "active": "df5373e382ff5b71",
   "lastOpenFiles": [
+    "40-49 Ciencias/41 CS/Algoritmos.md",
     "00-09 PKM/04 Sources/Books/{ Understanding the Digital World.md",
     "20-29 Filosofia, Creencias y Religion/20 Filosofia/Paranormal.md",
     "00-09 PKM/04 Sources/Books/{ The Selfish Gene.md",
@@ -338,7 +352,6 @@
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Estoicismo.md",
     "100-109 Historia y Relacionados/100 Historia/100.02 Historia de la Filosofia/Filosofia Helenistica.md",
     "00-09 PKM/04 Sources/Books/{ Teoria de Ley Pura.md",
-    "40-49 Ciencias/44 Biologia/Seleccion Natural.md",
-    "40-49 Ciencias/44 Biologia/Genetica.md"
+    "40-49 Ciencias/44 Biologia/Seleccion Natural.md"
   ]
 }
